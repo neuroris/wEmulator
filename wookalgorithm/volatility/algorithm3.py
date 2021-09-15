@@ -1,7 +1,7 @@
 from datetime import datetime
 from wookitem import Order, AlgorithmItem
 from wookutil import wmath
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 from wookalgorithm.algorithmbase import AlgorithmBase
 
 '''

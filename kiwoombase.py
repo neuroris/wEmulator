@@ -1,11 +1,10 @@
 from PyQt5.QAxContainer import QAxWidget
-from PyQt5.QtCore import QEventLoop, QThread, QTimer
-import pandas
+from PyQt5.QtCore import QEventLoop
 from queue import Queue
 import time
 from wookitem import Order
-from wookutil import WookCipher, WookLog, WookTimer, WookUtil, ChartDrawer
-from wookdata import *
+from wookutil import WookCipher, WookLog, WookTimer, WookUtil
+from deprecated.wookdata_deprecated import *
 
 class KiwoomBase(QAxWidget, WookLog, WookUtil):
     def __init__(self, trader, log, key):

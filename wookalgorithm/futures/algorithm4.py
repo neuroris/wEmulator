@@ -4,11 +4,10 @@ from matplotlib import ticker
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 from datetime import datetime
-from wookitem import Order, Episode, AlgorithmItem, FuturesAlgorithmItem
+from wookitem import Episode, FuturesAlgorithmItem
 from wookutil import wmath
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 from wookalgorithm.futuresalgorithmbase import FuturesAlgorithmBase
-import pandas
 import math, copy
 
 '''

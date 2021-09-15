@@ -1,33 +1,17 @@
 from PyQt5.QtWidgets import QFileDialog, QTableWidgetSelectionRange
-from PyQt5.QtCore import Qt, QTimer
+from PyQt5.QtCore import Qt
 import numpy as np
 import pandas
-from matplotlib import ticker, pyplot
+from matplotlib import ticker
 from mplfinance.original_flavor import candlestick2_ohlc
 from datetime import datetime
 from traderbase import TraderBase
 from kiwoom import Kiwoom
-from wookalgorithm.quantumjump.algorithm1 import QAlgorithm1
-from wookalgorithm.quantumjump.algorithm2 import QAlgorithm2
-from wookalgorithm.quantumjump.algorithm4 import QAlgorithm4
-from wookalgorithm.quantumjump.algorithm5 import QAlgorithm5
-from wookalgorithm.volatility.algorithm3 import VAlgorithm3
-from wookalgorithm.volatility.algorithm4 import VAlgorithm4
-from wookalgorithm.volatility.algorithm5 import VAlgorithm5
-from wookalgorithm.volatility.algorithm6 import VAlgorithm6
-from wookalgorithm.movingaverage.algorithm1 import MAlgorithm1
-from wookalgorithm.movingaverage.algorithm2 import MAlgorithm2
-from wookalgorithm.movingaverage.algorithm3 import MAlgorithm3
-from wookalgorithm.futures.algorithm1 import FMAlgorithm1
-from wookalgorithm.futures.algorithm2 import FMAlgorithm2
-from wookalgorithm.futures.algorithm3 import FMAlgorithm3
-from wookalgorithm.futures.algorithm4 import FMAlgorithm4
-from wookalgorithm.futures.algorithm5 import FMAlgorithm5
 from wookalgorithm.futures.algorithm6 import FMAlgorithm6
-from wookutil import ChartDrawer
-from wookitem import Item, FuturesItem, Order
-from wookdata import *
-import math, copy, time
+from wookitem import Item, FuturesItem
+from deprecated.wookdata_deprecated import *
+import math
+
 
 class Trader(TraderBase):
     def __init__(self, log, key):

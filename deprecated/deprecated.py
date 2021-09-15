@@ -1,9 +1,7 @@
-import copy
 from datetime import datetime
-from PyQt5.QtCore import QEventLoop
 from wookutil import WookUtil, WookLog, wmath
-from wookitem import Item, BalanceItem, Order, AlgorithmItem
-from wookdata import *
+from wookitem import BalanceItem, AlgorithmItem
+from deprecated.wookdata_deprecated import *
 
 
 class Algorithm1(WookUtil, WookLog):

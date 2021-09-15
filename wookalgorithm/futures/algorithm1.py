@@ -2,11 +2,9 @@ import numpy
 from mplfinance.original_flavor import candlestick2_ohlc
 from matplotlib import ticker
 from datetime import datetime
-from wookitem import Order, Episode, AlgorithmItem, FuturesAlgorithmItem
-from wookutil import wmath
-from wookdata import *
+from wookitem import Episode, FuturesAlgorithmItem
+from deprecated.wookdata_deprecated import *
 from wookalgorithm.futuresalgorithmbase import FuturesAlgorithmBase
-import pandas
 import math, copy
 
 '''

@@ -1,14 +1,10 @@
-import copy
 import pandas
 from PyQt5.QtCore import QTimer
-from matplotlib import ticker
-from mplfinance.original_flavor import candlestick2_ohlc
 from datetime import datetime
-from PyQt5.QtCore import QEventLoop
 from wookutil import WookUtil, WookLog, ChartDrawer, wmath
-from wookitem import Item, BalanceItem, Order, Episode, AlgorithmItem
-from wookdata import *
-import math
+from wookitem import Episode
+from deprecated.wookdata_deprecated import *
+
 
 class FuturesAlgorithmBase(WookUtil, WookLog):
     def __init__(self, trader, log):

@@ -1,18 +1,16 @@
 from PyQt5.QtWidgets import QMainWindow, QLabel, QPushButton, QLineEdit, \
-    QTextEdit, QVBoxLayout, QHBoxLayout, QWidget, QRadioButton, QGridLayout, \
-    QCheckBox, QComboBox, QGroupBox, QDateTimeEdit, QAction, QFileDialog, QTableWidget, \
-    QTableWidgetItem, QSpinBox, QDoubleSpinBox, QGraphicsView, QGraphicsScene, QSystemTrayIcon
-from PyQt5.QtCore import Qt, QDateTime, QPoint, QRect, QTimer
-from PyQt5.QtGui import QIcon, QBrush
-from matplotlib import ticker
+    QTextEdit, QVBoxLayout, QHBoxLayout, QWidget, QGridLayout, \
+    QComboBox, QGroupBox, QAction, QTableWidget, \
+    QSpinBox, QDoubleSpinBox
+from PyQt5.QtCore import Qt, QPoint, QRect, QTimer
+from PyQt5.QtGui import QIcon
 import pandas
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
-import datetime, os, math
 import ctypes
 import json
 from wookutil import WookLog, WookUtil, ChartDrawer
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 
 class TraderBase(QMainWindow, WookLog, WookUtil):
     def __init__(self, log):

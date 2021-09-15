@@ -1,12 +1,9 @@
-from PyQt5.QtWidgets import QTableWidgetItem
-from PyQt5.QtCore import QObject, QThread
-import pandas
 from datetime import datetime
 import time, math
 from bankisbase import BankisBase
 from wookauto import LoginPasswordThread, AccountPasswordThread
 from wookitem import Item, BalanceItem, Order
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 
 class Bankis(BankisBase):
     def __init__(self, log, key):

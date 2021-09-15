@@ -2,7 +2,7 @@ import copy
 import numpy as np
 import pandas
 from wookutil import WookLog
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 
 class Item:
     def __init__(self):

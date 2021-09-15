@@ -3,7 +3,7 @@ from PyQt5.QtCore import QEventLoop, QThread, QTimer
 from queue import Queue
 import time
 from wookutil import WookCipher, WookLog, WookTimer, WookUtil, ChartDrawer
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 
 class BankisBase(QAxWidget, WookLog, WookUtil):
     def __init__(self, log, key):

@@ -1,13 +1,11 @@
-from PyQt5.QtWidgets import QTableWidgetItem
-from PyQt5.QtCore import QObject, QThread
 import pandas
 import numpy as np
-from datetime import datetime, timedelta
+from datetime import datetime
 import time, math, copy
 from kiwoombase import KiwoomBase
 from wookauto import LoginPasswordThread, AccountPasswordThread
 from wookitem import Item, BalanceItem, FuturesItem, Order
-from wookdata import *
+from deprecated.wookdata_deprecated import *
 
 class Kiwoom(KiwoomBase):
     def __init__(self, trader, log, key):
@@ -460,7 +458,7 @@ class Kiwoom(KiwoomBase):
     def update_monitoring_items(self, item_code):
         item = self.monitoring_items[item_code]
 
-        item.transaction_time = self.prices
+        # item.transaction_time = self.prices.time
         item.current_price = abs(get_comm_real_data(FID.CURRENT_PRICE))
         item.price_increase_amount = get_comm_real_data(FID.PRICE_INCREASE_AMOUNT)
         item.ask_price = get_comm_real_data(FID.ASK_PRICE)
@@ -774,6 +772,8 @@ class Kiwoom(KiwoomBase):
     def get_stock_prices(self):
         file_name = './20210813.csv'
         self.prices = pandas.read_csv(file_name)
+
+        print(self.prices)
 
     def init_screen(self, sScrNo):
         self.dynamic_call('DisconnectRealData', sScrNo)
