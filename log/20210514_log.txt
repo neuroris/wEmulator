@@ -1,0 +1,535 @@
+2021-05-14 09:47:03,205 Kiwoom initializing...
+2021-05-14 09:47:41,396 Kiwoom log in success
+2021-05-14 09:47:41,397 Account information
+2021-05-14 09:47:42,429 Deposit information
+2021-05-14 09:47:42,486 Order history information
+2021-05-14 09:47:43,139 Portfolio information
+2021-05-14 09:49:18,019 [93mALGORITHM STARTED [97m
+2021-05-14 09:49:20,867 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:20,867 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:24,050 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:24,050 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,345 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,346 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,347 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,347 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,441 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,442 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,443 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,443 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,445 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:27,445 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:29,245 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:29,245 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:29,288 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:29,290 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:29,335 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:29,336 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,636 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,636 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,746 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,746 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.06000000000001137, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,840 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,840 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,948 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,948 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,950 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:30,950 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:32,037 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:32,037 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:32,147 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:32,147 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:38,142 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:38,143 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:38,144 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:38,145 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:38,936 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:38,937 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,446 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,446 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,448 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,448 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.04999999999996362, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,837 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,837 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,946 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,947 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,949 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,950 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,951 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:40,952 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,038 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,039 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,040 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,041 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,147 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,148 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.03999999999997272, DiffDiff10[-1]: 0.01999999999998181, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,336 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,336 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,449 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,449 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,452 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,452 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,456 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,458 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,644 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,645 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,941 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:41,942 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:44,040 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:44,040 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:45,237 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:45,238 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:46,844 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:46,845 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:47,737 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:47,737 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:48,848 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:48,848 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:51,036 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:51,036 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:51,449 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:51,449 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:52,749 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:52,749 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:53,541 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:53,542 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:53,543 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:53,543 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:53,636 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:53,636 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.040000000000020464, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,748 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,748 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,774 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,775 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,792 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,793 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,829 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:54,832 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:56,938 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:56,939 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.029999999999981812, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.04
+2021-05-14 09:49:57,730 [93mALGORITHM STOPPED [97m
+2021-05-14 09:49:57,741 Go Charting F 202106
+2021-05-14 09:50:32,052 [95mSend order failed. Please check order variables[0m
+2021-05-14 09:50:32,052 [95m Order Variables 0 1 SELL MARKET  [0m
+2021-05-14 09:51:06,817 Kiwoom initializing...
+2021-05-14 09:51:14,588 Kiwoom log in success
+2021-05-14 09:51:14,589 Account information
+2021-05-14 09:51:15,623 Deposit information
+2021-05-14 09:51:15,654 Order history information
+2021-05-14 09:51:17,490 Portfolio information
+2021-05-14 09:54:20,645 [95mSend order failed. Please check order variables[0m
+2021-05-14 09:57:26,300 Kiwoom initializing...
+2021-05-14 09:57:36,704 Kiwoom log in success
+2021-05-14 09:57:36,705 Account information
+2021-05-14 09:57:37,719 Deposit information
+2021-05-14 09:57:37,744 Order history information
+2021-05-14 09:57:39,009 Portfolio information
+2021-05-14 09:57:41,324 [95mSend order failed. Please check order variables[0m
+2021-05-14 09:57:41,324 [95m Order Variables 0 10 SELL LIMIT  [0m
+2021-05-14 09:57:59,430 Kiwoom initializing...
+2021-05-14 09:58:07,576 Kiwoom log in success
+2021-05-14 09:58:07,577 Account information
+2021-05-14 09:58:08,592 Deposit information
+2021-05-14 09:58:08,640 Order history information
+2021-05-14 09:58:09,599 Portfolio information
+2021-05-14 09:58:22,073 [95mSend order failed. Please check order variables[0m
+2021-05-14 09:59:33,528 Kiwoom initializing...
+2021-05-14 09:59:40,175 Kiwoom log in success
+2021-05-14 09:59:40,175 Account information
+2021-05-14 09:59:40,690 Deposit information
+2021-05-14 09:59:41,232 Order history information
+2021-05-14 09:59:42,266 Portfolio information
+2021-05-14 09:59:51,306 [95mSend order failed. Please check order variables[0m
+2021-05-14 09:59:51,306 [95m Order Variables 0 10 SELL MARKET  [0m
+2021-05-14 10:00:07,367 Kiwoom initializing...
+2021-05-14 10:00:14,421 Kiwoom log in success
+2021-05-14 10:00:14,422 Account information
+2021-05-14 10:00:15,460 Deposit information
+2021-05-14 10:00:15,490 Order history information
+2021-05-14 10:00:16,549 Portfolio information
+2021-05-14 10:30:22,977 Kiwoom initializing...
+2021-05-14 10:30:33,187 Kiwoom log in success
+2021-05-14 10:30:33,187 Account information
+2021-05-14 10:30:33,695 Deposit information
+2021-05-14 10:30:34,236 Order history information
+2021-05-14 10:30:35,260 Portfolio information
+2021-05-14 10:31:31,931 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:31:31,931 [95m Order Variables 0 10 BUY MARKET  [0m
+2021-05-14 10:31:37,474 F 202106 trading information begins to be monitored
+2021-05-14 10:31:39,891 Go Charting F 202106
+2021-05-14 10:31:50,270 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:31:50,270 [95m Order Variables 0 10 BUY MARKET  [0m
+2021-05-14 10:32:15,357 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:32:15,358 [95m Order Variables 400 10 BUY LIMIT  [0m
+2021-05-14 10:33:49,685 Kiwoom initializing...
+2021-05-14 10:33:55,149 Kiwoom log in success
+2021-05-14 10:33:55,150 Account information
+2021-05-14 10:33:55,660 Deposit information
+2021-05-14 10:33:56,194 Order history information
+2021-05-14 10:33:57,180 Portfolio information
+2021-05-14 10:34:08,159 F 202106 trading information begins to be monitored
+2021-05-14 10:34:56,330 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:35:13,538 Kiwoom initializing...
+2021-05-14 10:35:18,697 Kiwoom log in success
+2021-05-14 10:35:18,697 Account information
+2021-05-14 10:35:19,210 Deposit information
+2021-05-14 10:35:19,747 Order history information
+2021-05-14 10:35:20,518 Portfolio information
+2021-05-14 10:35:41,864 F 202106 trading information begins to be monitored
+2021-05-14 10:35:54,370 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:35:54,370 [95m Order Variables 428 1 BUY LIMIT  [0m
+2021-05-14 10:42:38,636 Kiwoom initializing...
+2021-05-14 10:43:27,182 Kiwoom initializing...
+2021-05-14 10:44:25,918 Kiwoom initializing...
+2021-05-14 10:44:49,319 Kiwoom initializing...
+2021-05-14 10:46:17,404 Kiwoom initializing...
+2021-05-14 10:46:22,788 Kiwoom log in success
+2021-05-14 10:46:22,788 Account information
+2021-05-14 10:46:23,299 Deposit information
+2021-05-14 10:46:23,838 Order history information
+2021-05-14 10:46:24,718 Portfolio information
+2021-05-14 10:46:36,176 F 202106 trading information begins to be monitored
+2021-05-14 10:46:47,070 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:46:47,070 [95m Order Variables 0 1 SELL MARKET  [0m
+2021-05-14 10:47:02,728 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:47:02,728 [95m Order Variables 0 1 BUY MARKET  [0m
+2021-05-14 10:47:16,594 [95mSend order failed. Please check order variables[0m
+2021-05-14 10:47:16,594 [95m Order Variables 420 1 BUY LIMIT  [0m
+2021-05-14 10:47:48,481 Kiwoom initializing...
+2021-05-14 10:48:01,738 Kiwoom log in success
+2021-05-14 10:48:01,738 Account information
+2021-05-14 10:49:56,210 Kiwoom initializing...
+2021-05-14 10:50:02,444 Kiwoom log in success
+2021-05-14 10:50:02,445 Account information
+2021-05-14 10:50:03,474 Deposit information
+2021-05-14 10:50:03,503 Order history information
+2021-05-14 10:50:05,287 Portfolio information
+2021-05-14 10:53:51,074 Kiwoom initializing...
+2021-05-14 10:53:58,274 Kiwoom log in success
+2021-05-14 10:53:58,274 Account information
+2021-05-14 10:53:58,789 Deposit information
+2021-05-14 10:53:59,345 Order history information
+2021-05-14 10:54:00,630 Portfolio information
+2021-05-14 11:17:17,010 Kiwoom initializing...
+2021-05-14 11:17:33,662 Kiwoom log in success
+2021-05-14 11:17:33,662 Account information
+2021-05-14 11:17:34,171 Deposit information
+2021-05-14 11:17:34,887 Order history information
+2021-05-14 11:17:35,311 Portfolio information
+2021-05-14 11:18:11,301 Kiwoom initializing...
+2021-05-14 11:18:17,412 Kiwoom log in success
+2021-05-14 11:18:17,412 Account information
+2021-05-14 11:18:17,923 Deposit information
+2021-05-14 11:23:21,479 Kiwoom initializing...
+2021-05-14 11:23:27,596 Kiwoom log in success
+2021-05-14 11:23:27,596 Account information
+2021-05-14 11:23:28,111 Deposit information
+2021-05-14 11:23:28,657 Order history information
+2021-05-14 11:23:29,571 Portfolio information
+2021-05-14 11:24:31,627 Kiwoom initializing...
+2021-05-14 11:24:37,462 Kiwoom log in success
+2021-05-14 11:24:37,462 Account information
+2021-05-14 11:38:33,505 Kiwoom initializing...
+2021-05-14 11:38:43,308 Kiwoom log in success
+2021-05-14 11:38:43,308 Account information
+2021-05-14 11:41:59,762 Kiwoom initializing...
+2021-05-14 11:42:08,330 Kiwoom log in success
+2021-05-14 11:42:10,401 Account information
+2021-05-14 11:42:45,429 Kiwoom initializing...
+2021-05-14 11:42:54,297 Kiwoom log in success
+2021-05-14 11:42:56,186 Account information
+2021-05-14 11:43:41,612 Kiwoom initializing...
+2021-05-14 11:43:46,924 Kiwoom log in success
+2021-05-14 11:43:46,925 Account information
+2021-05-14 11:44:29,101 Kiwoom initializing...
+2021-05-14 11:44:34,679 Kiwoom log in success
+2021-05-14 11:44:34,679 Account information
+2021-05-14 11:47:54,182 Deposit information
+2021-05-14 11:53:45,363 Kiwoom initializing...
+2021-05-14 11:53:50,703 Kiwoom log in success
+2021-05-14 11:53:50,704 Account information
+2021-05-14 13:17:45,919 Kiwoom initializing...
+2021-05-14 13:17:56,425 Kiwoom log in success
+2021-05-14 13:17:56,426 Account information
+2021-05-14 13:18:21,620 Kiwoom initializing...
+2021-05-14 13:18:27,488 Kiwoom log in success
+2021-05-14 13:18:27,489 Account information
+2021-05-14 13:18:27,998 Deposit information
+2021-05-14 13:18:28,537 Order history information
+2021-05-14 13:18:29,165 Portfolio information
+2021-05-14 15:19:58,516 market operation state 2 152000 001000
+2021-05-14 15:20:58,508 market operation state 2 152100 000900
+2021-05-14 15:21:58,510 market operation state 2 152200 000800
+2021-05-14 15:22:58,513 market operation state 2 152300 000700
+2021-05-14 15:23:58,502 market operation state 2 152400 000600
+2021-05-14 15:24:58,507 market operation state 2 152500 000500
+2021-05-14 15:25:58,498 market operation state 2 152600 000400
+2021-05-14 15:26:58,502 market operation state 2 152700 000300
+2021-05-14 15:27:58,503 market operation state 2 152800 000200
+2021-05-14 15:28:58,508 market operation state 2 152900 000100
+2021-05-14 15:29:08,506 market operation state 2 152910 000050
+2021-05-14 15:29:18,502 market operation state 2 152920 000040
+2021-05-14 15:29:28,501 market operation state 2 152930 000030
+2021-05-14 15:29:38,502 market operation state 2 152940 000020
+2021-05-14 15:29:48,493 market operation state 2 152950 000010
+2021-05-14 15:29:58,503 market operation state 4 153000 000000
+2021-05-14 15:32:38,500 market operation state 8 888888 000000
+2021-05-14 15:34:58,585 market operation state s 153500 000000
+2021-05-14 15:34:58,586 market operation state s 153500 000000
+2021-05-14 15:34:58,586 market operation state s 153500 000000
+2021-05-14 15:34:58,693 market operation state s 153500 000000
+2021-05-14 15:34:58,693 market operation state s 153500 000000
+2021-05-14 15:34:58,694 market operation state s 153500 000000
+2021-05-14 15:34:58,694 market operation state s 153500 000000
+2021-05-14 15:34:58,694 market operation state s 153500 000000
+2021-05-14 15:34:58,695 market operation state s 153500 000000
+2021-05-14 15:34:58,695 market operation state s 153500 000000
+2021-05-14 15:34:58,695 market operation state s 153500 000000
+2021-05-14 15:34:58,695 market operation state s 153500 000000
+2021-05-14 15:34:58,696 market operation state s 153500 000000
+2021-05-14 15:34:58,784 market operation state s 153500 000000
+2021-05-14 15:34:58,785 market operation state s 153500 000000
+2021-05-14 15:34:58,785 market operation state s 153500 000000
+2021-05-14 15:34:58,785 market operation state s 153500 000000
+2021-05-14 15:39:58,984 market operation state a 154000 000000
+2021-05-14 15:44:58,780 market operation state e 154500 000000
+2021-05-14 15:44:58,872 market operation state e 154500 000000
+2021-05-14 15:44:58,872 market operation state e 154500 000000
+2021-05-14 15:44:58,966 market operation state e 154500 000000
+2021-05-14 15:44:58,967 market operation state e 154500 000000
+2021-05-14 15:44:59,075 market operation state e 154500 000000
+2021-05-14 15:44:59,076 market operation state e 154500 000000
+2021-05-14 15:44:59,170 market operation state e 154500 000000
+2021-05-14 15:44:59,279 market operation state e 154500 000000
+2021-05-14 15:44:59,280 market operation state e 154500 000000
+2021-05-14 15:44:59,373 market operation state e 154500 000000
+2021-05-14 15:44:59,479 market operation state e 154500 000000
+2021-05-14 15:44:59,667 market operation state e 154500 000000
+2021-05-14 15:44:59,974 market operation state e 154500 000000
+2021-05-14 15:45:00,068 market operation state e 154500 000000
+2021-05-14 15:45:00,371 market operation state e 154500 000000
+2021-05-14 15:45:00,371 market operation state e 154500 000000
+2021-05-14 15:59:58,953 market operation state b 160000 000000
+2021-05-14 15:59:58,953 market operation state c 160000 000000
+2021-05-14 16:15:37,858 Kiwoom initializing...
+2021-05-14 16:15:55,694 Kiwoom log in success
+2021-05-14 16:15:55,695 Account information
+2021-05-14 16:16:13,154 test1 button clicked
+2021-05-14 16:16:28,842 Deposit information
+2021-05-14 16:16:32,729 Order history information
+2021-05-14 16:16:51,816 Kiwoom initializing...
+2021-05-14 16:16:57,108 Kiwoom log in success
+2021-05-14 16:16:57,109 Account information
+2021-05-14 16:17:35,035 Kiwoom initializing...
+2021-05-14 16:17:40,233 Kiwoom log in success
+2021-05-14 16:17:40,233 Account information
+2021-05-14 16:17:50,400 test1 button clicked
+2021-05-14 16:17:50,427 Deposit information
+2021-05-14 16:18:17,415 Kiwoom initializing...
+2021-05-14 16:18:22,676 Kiwoom log in success
+2021-05-14 16:18:22,677 Account information
+2021-05-14 16:18:32,171 test1 button clicked
+2021-05-14 16:20:45,296 Kiwoom initializing...
+2021-05-14 16:20:50,683 Kiwoom log in success
+2021-05-14 16:20:50,683 Account information
+2021-05-14 16:21:05,655 test1 button clicked
+2021-05-14 16:24:28,174 Kiwoom initializing...
+2021-05-14 16:24:33,761 Kiwoom log in success
+2021-05-14 16:24:33,761 Account information
+2021-05-14 16:24:50,377 Deposit information
+2021-05-14 16:30:39,744 Kiwoom initializing...
+2021-05-14 16:30:49,076 Kiwoom log in success
+2021-05-14 16:30:49,077 Account information
+2021-05-14 16:31:10,750 test1 button clicked
+2021-05-14 16:31:10,750 1
+2021-05-14 16:31:16,809 test1 button clicked
+2021-05-14 16:31:16,809 0
+2021-05-14 16:36:00,837 Kiwoom initializing...
+2021-05-14 16:37:20,774 Kiwoom initializing...
+2021-05-14 16:37:26,151 Kiwoom log in success
+2021-05-14 16:37:26,152 Account information
+2021-05-14 16:43:36,504 Kiwoom initializing...
+2021-05-14 16:43:41,992 Kiwoom log in success
+2021-05-14 16:43:43,326 Account information
+2021-05-14 16:44:29,833 Kiwoom initializing...
+2021-05-14 16:44:35,158 Kiwoom log in success
+2021-05-14 16:44:35,158 Account information
+2021-05-14 16:49:58,362 Kiwoom initializing...
+2021-05-14 16:50:09,966 Kiwoom log in success
+2021-05-14 16:50:09,967 Account information
+2021-05-14 16:51:32,489 Kiwoom initializing...
+2021-05-14 16:51:37,672 Kiwoom log in success
+2021-05-14 16:51:37,672 Account information
+2021-05-14 16:51:38,186 Deposit information
+2021-05-14 16:51:38,712 Portfolio information
+2021-05-14 16:51:38,748 Order history information
+2021-05-14 16:55:29,556 Kiwoom initializing...
+2021-05-14 16:55:34,927 Kiwoom log in success
+2021-05-14 16:55:34,928 Account information
+2021-05-14 16:55:35,439 Deposit information
+2021-05-14 16:55:36,467 Portfolio information
+2021-05-14 16:55:36,971 Order history information
+2021-05-14 16:55:37,008 Deposit information
+2021-05-14 16:55:44,322 Deposit information
+2021-05-14 16:55:46,466 Deposit information
+2021-05-14 16:55:49,747 Deposit information
+2021-05-14 16:55:52,017 Deposit information
+2021-05-14 16:56:15,526 Kiwoom initializing...
+2021-05-14 16:56:20,602 Kiwoom log in success
+2021-05-14 16:56:20,602 Account information
+2021-05-14 16:56:21,109 Deposit information
+2021-05-14 16:56:21,626 Portfolio information
+2021-05-14 16:56:22,125 Order history information
+2021-05-14 16:56:22,164 Deposit information
+2021-05-14 16:57:21,506 Kiwoom initializing...
+2021-05-14 16:57:26,505 Kiwoom log in success
+2021-05-14 16:57:26,505 Account information
+2021-05-14 16:57:27,015 Deposit information
+2021-05-14 16:57:27,532 Portfolio information
+2021-05-14 16:57:27,569 Order history information
+2021-05-14 16:58:09,788 Deposit information
+2021-05-14 16:58:33,277 Kiwoom initializing...
+2021-05-14 16:58:49,881 Kiwoom log in success
+2021-05-14 16:58:58,194 Account information
+2021-05-14 16:58:58,228 Deposit information
+2021-05-14 17:02:35,558 Kiwoom initializing...
+2021-05-14 17:02:41,101 Kiwoom log in success
+2021-05-14 17:02:41,102 Account information
+2021-05-14 17:02:41,609 Deposit information
+2021-05-14 17:02:42,122 Portfolio information
+2021-05-14 17:02:42,161 Order history information
+2021-05-14 17:03:51,182 Kiwoom initializing...
+2021-05-14 17:03:57,073 Kiwoom log in success
+2021-05-14 17:03:57,073 Account information
+2021-05-14 17:03:57,580 Deposit information
+2021-05-14 17:03:58,090 Portfolio information
+2021-05-14 17:03:58,124 Order history information
+2021-05-14 17:04:23,887 Deposit information
+2021-05-14 17:06:44,513 Kiwoom initializing...
+2021-05-14 17:06:50,209 Kiwoom initializing...
+2021-05-14 17:06:55,388 Kiwoom log in success
+2021-05-14 17:06:55,389 Account information
+2021-05-14 17:06:55,907 Deposit information
+2021-05-14 17:06:56,424 Portfolio information
+2021-05-14 17:06:56,456 Order history information
+2021-05-14 17:07:46,905 Kiwoom initializing...
+2021-05-14 17:07:52,261 Kiwoom log in success
+2021-05-14 17:07:52,261 Account information
+2021-05-14 17:08:02,940 Deposit information
+2021-05-14 17:08:04,354 Portfolio information
+2021-05-14 17:08:06,753 Order history information
+2021-05-14 17:09:13,275 Kiwoom initializing...
+2021-05-14 17:09:18,401 Kiwoom log in success
+2021-05-14 17:09:18,401 Account information
+2021-05-14 17:09:29,638 Deposit information
+2021-05-14 17:09:31,589 Portfolio information
+2021-05-14 17:09:34,858 Order history information
+2021-05-14 17:11:20,381 Kiwoom initializing...
+2021-05-14 17:11:25,565 Kiwoom log in success
+2021-05-14 17:11:25,565 Account information
+2021-05-14 17:11:29,034 Deposit information
+2021-05-14 17:11:29,426 Portfolio information
+2021-05-14 17:11:33,926 Order history information
+2021-05-14 17:13:17,309 Kiwoom initializing...
+2021-05-14 17:13:22,806 Kiwoom log in success
+2021-05-14 17:13:22,807 Account information
+2021-05-14 17:22:02,556 Kiwoom initializing...
+2021-05-14 17:22:11,997 Kiwoom log in success
+2021-05-14 17:22:11,998 Account information
+2021-05-14 17:22:34,669 Kiwoom initializing...
+2021-05-14 17:22:39,672 Kiwoom log in success
+2021-05-14 17:22:39,672 Account information
+2021-05-14 17:22:52,538 Kiwoom initializing...
+2021-05-14 17:22:57,642 Kiwoom log in success
+2021-05-14 17:22:57,643 Account information
+2021-05-14 17:22:58,152 Deposit information
+2021-05-14 17:22:58,665 Portfolio information
+2021-05-14 17:22:58,703 Order history information
+2021-05-14 17:34:57,117 Kiwoom initializing...
+2021-05-14 17:35:07,002 Kiwoom log in success
+2021-05-14 17:35:07,003 Account information
+2021-05-14 17:35:28,320 Kiwoom initializing...
+2021-05-14 17:35:45,939 Kiwoom log in success
+2021-05-14 17:36:12,241 Account information
+2021-05-14 17:39:40,000 Kiwoom initializing...
+2021-05-14 17:40:00,535 Something is wrong during log-in
+2021-05-14 17:40:00,535 Login error -100
+2021-05-14 17:40:00,549 Something is wrong during log-in
+2021-05-14 17:40:00,549 Login error -106
+2021-05-14 17:40:00,574 Something is wrong during log-in
+2021-05-14 17:40:00,575 Login error -106
+2021-05-14 17:40:08,346 Kiwoom initializing...
+2021-05-14 17:40:26,296 Kiwoom log in success
+2021-05-14 17:40:34,164 Account information
+2021-05-14 17:40:50,493 Deposit information
+2021-05-14 17:41:07,283 Portfolio information
+2021-05-14 17:41:32,964 Kiwoom initializing...
+2021-05-14 17:41:39,514 Kiwoom log in success
+2021-05-14 17:41:39,515 Account information
+2021-05-14 17:41:45,309 Portfolio information
+2021-05-14 17:42:01,435 Kiwoom initializing...
+2021-05-14 17:42:07,053 Kiwoom log in success
+2021-05-14 17:42:07,054 Account information
+2021-05-14 17:42:22,000 Deposit information
+2021-05-14 17:42:23,684 Portfolio information
+2021-05-14 17:43:11,980 Deposit information
+2021-05-14 17:46:00,589 Kiwoom initializing...
+2021-05-14 17:46:06,227 Kiwoom log in success
+2021-05-14 17:46:06,227 Account information
+2021-05-14 17:46:06,739 Deposit information
+2021-05-14 17:46:06,819 Portfolio information
+2021-05-14 17:46:10,538 Deposit information
+2021-05-14 17:46:20,967 Deposit information
+2021-05-14 17:46:20,983 Portfolio information
+2021-05-14 17:46:30,113 Deposit information
+2021-05-14 17:46:37,096 Deposit information
+2021-05-14 17:46:37,111 Portfolio information
+2021-05-14 17:47:46,796 Kiwoom initializing...
+2021-05-14 17:47:52,369 Kiwoom log in success
+2021-05-14 17:47:52,369 Account information
+2021-05-14 17:47:52,883 Deposit information
+2021-05-14 17:47:52,917 Portfolio information
+2021-05-14 17:48:11,748 Deposit information
+2021-05-14 17:48:14,517 Deposit information
+2021-05-14 17:48:14,542 Portfolio information
+2021-05-14 17:48:18,877 Deposit information
+2021-05-14 17:48:21,345 Deposit information
+2021-05-14 17:48:21,361 Portfolio information
+2021-05-14 17:48:34,276 Deposit information
+2021-05-14 17:59:58,755 market operation state d 180000 000000
+2021-05-14 18:01:18,148 market operation state 9 999999 000000
+2021-05-14 18:56:04,769 Kiwoom initializing...
+2021-05-14 18:56:17,076 Kiwoom log in success
+2021-05-14 18:56:17,077 Account information
+2021-05-14 18:56:17,587 Deposit information
+2021-05-14 18:56:27,608 Kiwoom initializing...
+2021-05-14 18:56:32,920 Kiwoom log in success
+2021-05-14 18:56:32,920 Account information
+2021-05-14 18:56:33,434 Deposit information
+2021-05-14 18:57:03,059 Portfolio information
+2021-05-14 18:57:28,118 Kiwoom initializing...
+2021-05-14 18:57:33,475 Kiwoom log in success
+2021-05-14 18:57:33,475 Account information
+2021-05-14 18:57:33,995 Deposit information
+2021-05-14 18:57:34,496 Portfolio information
+2021-05-14 18:57:34,532 Deposit information
+2021-05-14 18:58:33,288 Kiwoom initializing...
+2021-05-14 18:58:38,775 Kiwoom log in success
+2021-05-14 18:58:38,775 Account information
+2021-05-14 18:58:39,292 Deposit information
+2021-05-14 18:59:58,203 Kiwoom initializing...
+2021-05-14 19:00:06,036 Kiwoom initializing...
+2021-05-14 19:00:11,415 Kiwoom log in success
+2021-05-14 19:00:11,415 Account information
+2021-05-14 19:00:11,923 Deposit information
+2021-05-14 19:00:12,427 Portfolio information
+2021-05-14 19:00:12,461 Deposit information
+2021-05-14 19:00:27,420 Deposit information
+2021-05-14 19:00:27,435 Portfolio information
+2021-05-14 19:00:32,627 Deposit information
+2021-05-14 19:01:31,580 Kiwoom initializing...
+2021-05-14 19:01:37,037 Kiwoom log in success
+2021-05-14 19:01:37,037 Account information
+2021-05-14 19:01:37,556 Deposit information
+2021-05-14 19:01:38,060 Portfolio information
+2021-05-14 19:01:38,566 Deposit information

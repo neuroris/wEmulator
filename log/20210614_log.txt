@@ -1,0 +1,69 @@
+2021-06-14 09:47:02,961 Kiwoom initializing...
+2021-06-14 09:47:44,196 Something is wrong during log-in
+2021-06-14 09:47:44,197 Login error -100
+2021-06-14 09:47:44,197 Account information
+2021-06-14 09:47:44,241 Something is wrong during log-in
+2021-06-14 09:47:44,242 Login error -106
+2021-06-14 09:47:44,265 Something is wrong during log-in
+2021-06-14 09:47:44,265 Login error -106
+2021-06-14 14:25:53,570 OUT
+2021-06-14 14:25:53,570 OUT
+2021-06-14 14:25:53,608 OUT
+2021-06-14 14:25:53,608 OUT
+2021-06-14 14:25:53,648 OUT
+2021-06-14 14:25:53,648 OUT
+2021-06-14 17:51:49,044 OUT
+2021-06-14 17:51:49,045 OUT
+2021-06-14 17:51:49,060 OUT
+2021-06-14 17:51:49,060 OUT
+2021-06-14 17:51:49,076 OUT
+2021-06-14 17:51:49,077 OUT
+2021-06-14 17:51:49,093 OUT
+2021-06-14 17:51:49,093 OUT
+2021-06-14 17:51:49,115 OUT
+2021-06-14 17:51:49,116 OUT
+2021-06-14 20:50:40,749 Kiwoom initializing...
+2021-06-14 20:51:02,257 Kiwoom log in success
+2021-06-14 20:51:02,258 Account information
+2021-06-14 20:51:21,863 Portfolio information (No item found)
+2021-06-14 20:51:22,371 Deposit information (Futures)
+2021-06-14 20:51:22,371 No deposit information
+2021-06-14 20:51:22,877 Portfolio information (Futures) (No item found)
+2021-06-14 20:51:23,385 Deposit information (Futures)
+2021-06-14 20:51:23,386 No deposit information
+2021-06-14 20:51:23,403 Portfolio information (Futures) (No item found)
+2021-06-14 20:51:27,487 Kiwoom initializing...
+2021-06-14 20:51:32,724 Kiwoom log in success
+2021-06-14 20:51:32,725 Account information
+2021-06-14 20:51:33,229 Deposit information
+2021-06-14 20:51:33,229 No deposit information
+2021-06-14 20:51:33,733 Portfolio information (No item found)
+2021-06-14 20:51:34,244 Deposit information (Futures)
+2021-06-14 20:51:34,244 No deposit information
+2021-06-14 20:51:34,752 Portfolio information (Futures) (No item found)
+2021-06-14 20:51:35,255 Deposit information (Futures)
+2021-06-14 20:51:35,255 No deposit information
+2021-06-14 20:51:35,273 Portfolio information (Futures) (No item found)
+2021-06-14 20:51:48,507 Deposit information (Futures)
+2021-06-14 20:51:48,507 No deposit information
+2021-06-14 20:51:53,065 Deposit information
+2021-06-14 20:51:53,065 No deposit information
+2021-06-14 20:51:53,522 Portfolio information (No item found)
+2021-06-14 20:51:55,411 Deposit information
+2021-06-14 20:51:55,411 No deposit information
+2021-06-14 20:52:10,504 Deposit information (Futures)
+2021-06-14 20:52:10,504 No deposit information
+2021-06-14 20:52:10,518 Portfolio information (Futures) (No item found)
+2021-06-14 20:52:16,938 Deposit information (Futures)
+2021-06-14 20:52:16,938 No deposit information
+2021-06-14 20:52:47,434 Kiwoom initializing...
+2021-06-14 20:52:52,371 Kiwoom log in success
+2021-06-14 20:52:52,371 Account information
+2021-06-14 20:52:52,889 Deposit information (Futures)
+2021-06-14 20:52:53,393 Portfolio information (Futures) (No item found)
+2021-06-14 20:52:53,901 Deposit information (Futures)
+2021-06-14 20:52:53,925 Portfolio information (Futures) (No item found)
+2021-06-14 20:53:03,505 Deposit information
+2021-06-14 20:53:03,519 Portfolio information (No item found)
+2021-06-14 20:53:19,439 Deposit information (Futures)
+2021-06-14 20:53:19,454 Portfolio information (Futures) (No item found)

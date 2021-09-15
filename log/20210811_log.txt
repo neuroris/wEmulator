@@ -1,0 +1,1431 @@
+2021-08-11 09:45:10,913 Kiwoom initializing...
+2021-08-11 09:45:53,573 Kiwoom log in success
+2021-08-11 09:45:53,573 Account information
+2021-08-11 09:45:54,086 Deposit information (Futures)
+2021-08-11 09:45:54,120 Portfolio information (Futures)
+2021-08-11 09:46:31,754 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:46:31,816 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:16774, original:0
+2021-08-11 09:46:31,818 Balance information
+2021-08-11 09:46:32,014 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:0.0, number:16774, original:0
+2021-08-11 09:46:32,019 Balance information
+2021-08-11 09:46:32,021 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:16774, original:0
+2021-08-11 09:46:32,023 Balance information
+2021-08-11 09:46:36,341 [93mALGORITHM STARTED [97m
+2021-08-11 09:46:36,610 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:46:36,610 [96mALGORITHM (BUY) holding:0 price:426.2 amount:2 [97m
+2021-08-11 09:46:36,626 [93mALGORITHM (ORDER) Sale order LOCKED [97m
+2021-08-11 09:46:36,640 [96mALGORITHM (SELL) holding:0 price:426.3 amount:2 [97m
+2021-08-11 09:46:36,885 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:37,101 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:46:37,113 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.2, number:16806, original:0
+2021-08-11 09:46:37,114 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:46:37,115 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:46:37,116 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:46:37,116 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:16806 purchase:0 executed:0 holding:0 [97m
+2021-08-11 09:46:37,117 [94mALGORITHM (DEBUG) 09:46:38 Purchases 1 Sales 0 [97m
+2021-08-11 09:46:37,119 Balance information
+2021-08-11 09:46:37,158 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:46:37,177 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.3, number:16807, original:0
+2021-08-11 09:46:37,177 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:46:37,177 [93mALGORITHM (ORDER) Sale order available [97m
+2021-08-11 09:46:37,178 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:46:37,178 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:16807 purchase:0 executed:0 holding:0 [97m
+2021-08-11 09:46:37,179 [94mALGORITHM (DEBUG) 09:46:39 Purchases 1 Sales 1 [97m
+2021-08-11 09:46:37,182 Balance information
+2021-08-11 09:46:37,516 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:426.3, number:16807, original:0
+2021-08-11 09:46:37,516 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:46:51,405 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:46:51,405 [96mALGORITHM (BUY) holding:-2 price:426.2 amount:2 [97m
+2021-08-11 09:46:51,407 [96mALGORITHM (EXECUTION2) holding -2 previous 0 virtual -2 [97m
+2021-08-11 09:46:51,408 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-2 open:0 number:16807 purchase:0 executed:426.6 holding:-2 [97m
+2021-08-11 09:46:51,408 [94mALGORITHM (DEBUG) 09:46:39 Purchases 1 Sales 0 [97m
+2021-08-11 09:46:55,232 Balance information
+2021-08-11 09:46:55,237 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,241 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,246 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,251 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,300 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,324 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,329 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,333 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,338 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,345 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,443 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,458 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,534 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,542 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,551 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,565 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,653 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,714 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,732 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,736 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,741 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,745 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,756 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,760 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,765 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,773 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,777 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,786 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,796 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,804 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,854 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,899 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,914 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,920 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,925 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,987 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:55,992 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,042 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,047 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,098 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,116 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,124 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,129 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,134 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,138 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,144 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,151 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,155 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,159 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,164 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,168 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,173 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,177 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,233 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,237 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,242 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,246 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,251 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,254 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,258 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,262 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,266 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,270 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,274 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,278 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,283 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,289 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,294 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,299 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,303 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,318 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,320 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:46:56,325 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,331 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,335 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:46:56,351 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.2, number:16890, original:0
+2021-08-11 09:46:56,352 [96mALGORITHM (EXECUTION1) holding -2 previous 0 virtual -2 [97m
+2021-08-11 09:46:56,352 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:46:56,353 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:46:56,353 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:16890 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:46:56,354 [94mALGORITHM (DEBUG) 09:46:53 Purchases 2 Sales 0 [97m
+2021-08-11 09:46:56,358 Balance information
+2021-08-11 09:47:00,067 [93mALGORITHM (CANCEL) Purchase Orders!! 2 [97m
+2021-08-11 09:47:00,408 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:47:00,410 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:47:00,415 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:47:00,421 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:47:00,423 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:16937, original:16806
+2021-08-11 09:47:00,423 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:00,423 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:00,424 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:16937 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:47:00,424 [94mALGORITHM (DEBUG) 09:47:02 Purchases 2 Sales 0 [97m
+2021-08-11 09:47:00,492 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:16937, original:16806
+2021-08-11 09:47:00,494 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:00,494 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:00,494 [93mALGORITHM (CANCEL) Purchase 1 [97m
+2021-08-11 09:47:00,494 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:16937 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:47:00,509 [94mALGORITHM (DEBUG) 09:47:02 Purchases 1 Sales 0 [97m
+2021-08-11 09:47:00,747 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.2, number:16806, original:0
+2021-08-11 09:47:00,817 Balance information
+2021-08-11 09:47:01,267 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:47:01,490 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:16940, original:16890
+2021-08-11 09:47:01,500 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:01,510 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:01,514 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:16940 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:47:01,514 [94mALGORITHM (DEBUG) 09:47:02 Purchases 1 Sales 0 [97m
+2021-08-11 09:47:01,556 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:16940, original:16890
+2021-08-11 09:47:01,557 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:01,557 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:01,558 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 09:47:01,558 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:47:01,558 [96mALGORITHM (BUY) holding:-2 price:426.25 amount:4 [97m
+2021-08-11 09:47:01,577 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:16940 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:47:01,578 [94mALGORITHM (DEBUG) 09:47:02 Purchases 0 Sales 0 [97m
+2021-08-11 09:47:01,583 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.2, number:16890, original:0
+2021-08-11 09:47:01,586 Balance information
+2021-08-11 09:47:01,629 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:47:01,635 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:47:01,638 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:426.25, number:16949, original:0
+2021-08-11 09:47:01,638 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:01,639 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:47:01,639 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:47:01,639 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:16949 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:47:01,639 [94mALGORITHM (DEBUG) 09:47:03 Purchases 1 Sales 0 [97m
+2021-08-11 09:47:01,644 Balance information
+2021-08-11 09:47:31,821 [93mALGORITHM STOPPED [97m
+2021-08-11 09:47:31,836 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:47:32,167 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:17107, original:16949
+2021-08-11 09:47:32,171 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:17107, original:16949
+2021-08-11 09:47:32,175 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:426.25, number:16949, original:0
+2021-08-11 09:47:32,178 Balance information
+2021-08-11 09:47:53,736 Kiwoom initializing...
+2021-08-11 09:47:58,838 Kiwoom log in success
+2021-08-11 09:47:58,839 Account information
+2021-08-11 09:47:59,350 Deposit information (Futures)
+2021-08-11 09:47:59,379 Portfolio information (Futures)
+2021-08-11 09:48:02,665 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:02,878 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:17263, original:0
+2021-08-11 09:48:02,880 Balance information
+2021-08-11 09:48:05,689 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:17263, original:0
+2021-08-11 09:48:05,691 Balance information
+2021-08-11 09:48:07,211 [93mALGORITHM STARTED [97m
+2021-08-11 09:48:08,579 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:48:08,579 [96mALGORITHM (BUY) holding:0 price:426.25 amount:2 [97m
+2021-08-11 09:48:08,582 [93mALGORITHM (ORDER) Sale order LOCKED [97m
+2021-08-11 09:48:08,582 [96mALGORITHM (SELL) holding:0 price:426.35 amount:2 [97m
+2021-08-11 09:48:08,883 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:48:08,886 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:08,890 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.25, number:17288, original:0
+2021-08-11 09:48:08,890 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:48:08,891 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:48:08,891 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:48:08,892 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:17288 purchase:0 executed:0 holding:0 [97m
+2021-08-11 09:48:08,892 [94mALGORITHM (DEBUG) 09:48:10 Purchases 1 Sales 0 [97m
+2021-08-11 09:48:08,939 [93mALGORITHM (BLOCK) sale ordered [97m
+2021-08-11 09:48:08,942 Balance information
+2021-08-11 09:48:08,943 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:08,991 [93mALGORITHM (BLOCK) sale ordered [97m
+2021-08-11 09:48:09,088 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.35, number:17289, original:0
+2021-08-11 09:48:09,089 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:48:09,089 [93mALGORITHM (ORDER) Sale order available [97m
+2021-08-11 09:48:09,089 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:48:09,090 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:17289 purchase:0 executed:0 holding:0 [97m
+2021-08-11 09:48:09,090 [94mALGORITHM (DEBUG) 09:48:10 Purchases 1 Sales 1 [97m
+2021-08-11 09:48:09,094 Balance information
+2021-08-11 09:48:09,096 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:426.35, number:17289, original:0
+2021-08-11 09:48:09,097 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:48:09,097 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:48:09,098 [96mALGORITHM (BUY) holding:-2 price:426.25 amount:2 [97m
+2021-08-11 09:48:09,099 [96mALGORITHM (EXECUTION2) holding -2 previous 0 virtual -2 [97m
+2021-08-11 09:48:09,100 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-2 open:0 number:17289 purchase:0 executed:426.4 holding:-2 [97m
+2021-08-11 09:48:09,100 [94mALGORITHM (DEBUG) 09:48:11 Purchases 1 Sales 0 [97m
+2021-08-11 09:48:09,106 Balance information
+2021-08-11 09:48:09,141 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:09,302 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.25, number:17291, original:0
+2021-08-11 09:48:09,302 [96mALGORITHM (EXECUTION1) holding -2 previous 0 virtual -2 [97m
+2021-08-11 09:48:09,302 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:48:09,303 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:09,303 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:17291 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:48:09,303 [94mALGORITHM (DEBUG) 09:48:11 Purchases 2 Sales 0 [97m
+2021-08-11 09:48:09,347 Balance information
+2021-08-11 09:48:13,226 [93mALGORITHM (CANCEL) Purchase Orders!! 2 [97m
+2021-08-11 09:48:13,709 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:48:13,775 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:13,805 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:48:13,809 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:17315, original:17288
+2021-08-11 09:48:13,809 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,810 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,810 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:17315 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:48:13,810 [94mALGORITHM (DEBUG) 09:48:15 Purchases 2 Sales 0 [97m
+2021-08-11 09:48:13,816 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:17315, original:17288
+2021-08-11 09:48:13,816 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,816 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,817 [93mALGORITHM (CANCEL) Purchase 1 [97m
+2021-08-11 09:48:13,817 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:17315 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:48:13,818 [94mALGORITHM (DEBUG) 09:48:15 Purchases 1 Sales 0 [97m
+2021-08-11 09:48:13,823 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.25, number:17288, original:0
+2021-08-11 09:48:13,827 Balance information
+2021-08-11 09:48:13,832 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:48:13,836 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:48:13,841 [93mALGORITHM (BLOCK) open cancel orders 0 [97m
+2021-08-11 09:48:13,876 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:13,881 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:17316, original:17291
+2021-08-11 09:48:13,881 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,881 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,882 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:17316 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:48:13,882 [94mALGORITHM (DEBUG) 09:48:15 Purchases 1 Sales 0 [97m
+2021-08-11 09:48:13,887 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:17316, original:17291
+2021-08-11 09:48:13,888 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,888 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:13,888 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 09:48:13,889 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:48:13,889 [96mALGORITHM (BUY) holding:-2 price:426.3 amount:4 [97m
+2021-08-11 09:48:13,891 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:17316 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:48:13,892 [94mALGORITHM (DEBUG) 09:48:15 Purchases 0 Sales 0 [97m
+2021-08-11 09:48:13,896 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.25, number:17291, original:0
+2021-08-11 09:48:13,900 Balance information
+2021-08-11 09:48:13,929 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:14,081 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:426.3, number:17319, original:0
+2021-08-11 09:48:14,081 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:14,081 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:48:14,082 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 09:48:14,083 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:17319 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 09:48:14,083 [94mALGORITHM (DEBUG) 09:48:16 Purchases 1 Sales 0 [97m
+2021-08-11 09:48:14,088 Balance information
+2021-08-11 09:48:19,408 [93mALGORITHM STOPPED [97m
+2021-08-11 09:48:19,424 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:19,778 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:17342, original:17319
+2021-08-11 09:48:19,782 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:17342, original:17319
+2021-08-11 09:48:19,787 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:426.3, number:17319, original:0
+2021-08-11 09:48:19,793 Balance information
+2021-08-11 09:48:34,176 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:48:34,283 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:17429, original:0
+2021-08-11 09:48:34,286 Balance information
+2021-08-11 09:48:34,679 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:0.0, number:17429, original:0
+2021-08-11 09:48:34,684 Balance information
+2021-08-11 09:48:35,092 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:17429, original:0
+2021-08-11 09:48:35,096 Balance information
+2021-08-11 09:54:44,237 Kiwoom initializing...
+2021-08-11 09:54:49,484 Kiwoom log in success
+2021-08-11 09:54:49,484 Account information
+2021-08-11 09:54:50,003 Deposit information (Futures)
+2021-08-11 09:54:50,028 Portfolio information (Futures) (No item found)
+2021-08-11 09:54:53,583 [93mALGORITHM STARTED [97m
+2021-08-11 09:54:54,797 [93mALGORITHM (ORDER) Purchase order LOCKED [97m
+2021-08-11 09:54:54,797 [96mALGORITHM (BUY) holding:0 price:426.85 amount:2 [97m
+2021-08-11 09:54:54,800 [93mALGORITHM (ORDER) Sale order LOCKED [97m
+2021-08-11 09:54:54,800 [96mALGORITHM (SELL) holding:0 price:426.95 amount:2 [97m
+2021-08-11 09:54:55,056 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:54:55,060 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 09:54:55,063 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:54:55,078 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.85, number:19427, original:0
+2021-08-11 09:54:55,079 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:54:55,079 [93mALGORITHM (ORDER) Purchase order available [97m
+2021-08-11 09:54:55,080 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:54:55,080 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:19427 purchase:0 executed:0 holding:0 [97m
+2021-08-11 09:54:55,081 [94mALGORITHM (DEBUG) 09:54:56 Purchases 1 Sales 0 [97m
+2021-08-11 09:54:55,086 Balance information
+2021-08-11 09:54:55,113 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:54:55,268 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.95, number:19429, original:0
+2021-08-11 09:54:55,268 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:54:55,268 [93mALGORITHM (ORDER) Sale order available [97m
+2021-08-11 09:54:55,269 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:54:55,269 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:19429 purchase:0 executed:0 holding:0 [97m
+2021-08-11 09:54:55,269 [94mALGORITHM (DEBUG) 09:54:57 Purchases 1 Sales 1 [97m
+2021-08-11 09:54:55,273 Balance information
+2021-08-11 09:54:55,492 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:426.85, number:19427, original:0
+2021-08-11 09:54:55,492 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 09:54:55,493 [93mALGORITHM (ORDER) Sale order LOCKED [97m
+2021-08-11 09:54:55,493 [96mALGORITHM (SELL) holding:2 price:426.95 amount:2 [97m
+2021-08-11 09:54:55,495 [96mALGORITHM (EXECUTION2) holding 2 previous 0 virtual 2 [97m
+2021-08-11 09:54:55,495 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Ã¼°á order:2 executed_each:2 open:0 number:19427 purchase:0 executed:426.45 holding:2 [97m
+2021-08-11 09:54:55,496 [94mALGORITHM (DEBUG) 09:54:57 Purchases 0 Sales 1 [97m
+2021-08-11 09:54:55,500 Balance information
+2021-08-11 09:54:55,822 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:54:55,826 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.95, number:19432, original:0
+2021-08-11 09:54:55,826 [96mALGORITHM (EXECUTION1) holding 2 previous 0 virtual 2 [97m
+2021-08-11 09:54:55,827 [93mALGORITHM (ORDER) Sale order available [97m
+2021-08-11 09:54:55,827 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:54:55,827 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:19432 purchase:0 executed:0 holding:2 [97m
+2021-08-11 09:54:55,827 [94mALGORITHM (DEBUG) 09:54:57 Purchases 0 Sales 2 [97m
+2021-08-11 09:54:55,927 Balance information
+2021-08-11 09:55:00,256 [93mALGORITHM (CANCEL) Sale Orders!! 2 [97m
+2021-08-11 09:55:00,535 [93mALGORITHM (BLOCK) open sale cancel orders 2 [97m
+2021-08-11 09:55:00,539 [93mALGORITHM (BLOCK) open sale cancel orders 2 [97m
+2021-08-11 09:55:00,543 [93mALGORITHM (BLOCK) open sale cancel orders 2 [97m
+2021-08-11 09:55:00,546 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:55:00,555 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:19460, original:19429
+2021-08-11 09:55:00,556 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,556 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,556 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:19460 purchase:0 executed:0 holding:2 [97m
+2021-08-11 09:55:00,557 [94mALGORITHM (DEBUG) 09:55:02 Purchases 0 Sales 2 [97m
+2021-08-11 09:55:00,561 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:19460, original:19429
+2021-08-11 09:55:00,562 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,562 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,563 [93mALGORITHM (CANCEL) Sale 1 [97m
+2021-08-11 09:55:00,563 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:19460 purchase:0 executed:0 holding:2 [97m
+2021-08-11 09:55:00,563 [94mALGORITHM (DEBUG) 09:55:02 Purchases 0 Sales 1 [97m
+2021-08-11 09:55:00,568 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.95, number:19429, original:0
+2021-08-11 09:55:00,572 Balance information
+2021-08-11 09:55:00,602 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:55:00,672 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:19463, original:19432
+2021-08-11 09:55:00,672 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,672 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,673 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:19463 purchase:0 executed:0 holding:2 [97m
+2021-08-11 09:55:00,673 [94mALGORITHM (DEBUG) 09:55:02 Purchases 0 Sales 1 [97m
+2021-08-11 09:55:00,677 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:19463, original:19432
+2021-08-11 09:55:00,678 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,678 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:00,678 [93mALGORITHM (CANCEL) Sale 0 [97m
+2021-08-11 09:55:00,679 [93mALGORITHM (ORDER) Sale order LOCKED [97m
+2021-08-11 09:55:00,679 [96mALGORITHM (SELL) holding:2 price:426.85 amount:4 [97m
+2021-08-11 09:55:00,858 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:19463 purchase:0 executed:0 holding:2 [97m
+2021-08-11 09:55:00,861 [94mALGORITHM (DEBUG) 09:55:02 Purchases 0 Sales 0 [97m
+2021-08-11 09:55:00,865 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.95, number:19432, original:0
+2021-08-11 09:55:00,868 Balance information
+2021-08-11 09:55:00,906 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:55:01,060 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:426.85, number:19468, original:0
+2021-08-11 09:55:01,060 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:01,060 [93mALGORITHM (ORDER) Sale order available [97m
+2021-08-11 09:55:01,060 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 09:55:01,061 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:4 executed_each:0 open:4 number:19468 purchase:0 executed:0 holding:2 [97m
+2021-08-11 09:55:01,061 [94mALGORITHM (DEBUG) 09:55:03 Purchases 0 Sales 1 [97m
+2021-08-11 09:55:01,065 Balance information
+2021-08-11 09:55:05,070 [93mALGORITHM STOPPED [97m
+2021-08-11 09:55:05,085 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:55:05,258 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:19496, original:19468
+2021-08-11 09:55:05,263 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:19496, original:19468
+2021-08-11 09:55:05,268 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:426.85, number:19468, original:0
+2021-08-11 09:55:05,272 Balance information
+2021-08-11 09:55:11,948 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 09:55:12,057 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:19543, original:0
+2021-08-11 09:55:12,061 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:19543, original:0
+2021-08-11 09:55:12,065 Balance information
+2021-08-11 09:55:12,066 Balance information
+2021-08-11 10:03:22,240 Kiwoom initializing...
+2021-08-11 10:03:27,391 Kiwoom log in success
+2021-08-11 10:03:27,392 Account information
+2021-08-11 10:03:27,901 Deposit information (Futures)
+2021-08-11 10:03:28,043 Portfolio information (Futures) (No item found)
+2021-08-11 10:03:38,279 [93mALGORITHM STARTED [97m
+2021-08-11 10:03:39,587 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 10:03:39,588 [96mALGORITHM (BUY) holding:0 price:425.85 amount:2 [97m
+2021-08-11 10:03:39,590 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 10:03:39,591 [96mALGORITHM (SELL) holding:0 price:425.95 amount:2 [97m
+2021-08-11 10:03:39,847 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:39,850 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:03:39,868 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.85, number:22240, original:0
+2021-08-11 10:03:39,868 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:03:39,868 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:03:39,869 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 10:03:39,869 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:22240 purchase:0 executed:0 holding:0 [97m
+2021-08-11 10:03:39,869 [94mALGORITHM (DEBUG) 10:03:41 Purchases 1 Sales 0 [97m
+2021-08-11 10:03:39,873 Balance information
+2021-08-11 10:03:39,875 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:03:40,014 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.95, number:22242, original:0
+2021-08-11 10:03:40,014 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:03:40,014 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:03:40,015 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 10:03:40,015 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:22242 purchase:0 executed:0 holding:0 [97m
+2021-08-11 10:03:40,015 [94mALGORITHM (DEBUG) 10:03:42 Purchases 1 Sales 1 [97m
+2021-08-11 10:03:40,019 Balance information
+2021-08-11 10:03:40,443 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:40,657 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:41,102 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:425.95, number:22242, original:0
+2021-08-11 10:03:41,117 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:03:41,129 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 10:03:41,133 [96mALGORITHM (BUY) holding:-1 price:425.85 amount:1 [97m
+2021-08-11 10:03:41,233 [96mALGORITHM (EXECUTION2) holding -1 previous 0 virtual -1 [97m
+2021-08-11 10:03:41,234 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:1 number:22242 purchase:0 executed:425.95 holding:-1 [97m
+2021-08-11 10:03:41,234 [94mALGORITHM (DEBUG) 10:03:42 Purchases 1 Sales 1 [97m
+2021-08-11 10:03:41,239 Balance information
+2021-08-11 10:03:41,244 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:41,247 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:425.95, number:22242, original:0
+2021-08-11 10:03:41,247 [96mALGORITHM (EXECUTION1) holding -1 previous 0 virtual -1 [97m
+2021-08-11 10:03:41,248 [93mALGORITHM (ORDER) Purchase order LOCKED 2 [97m
+2021-08-11 10:03:41,248 [96mALGORITHM (BUY) holding:-2 price:425.85 amount:1 [97m
+2021-08-11 10:03:41,410 [96mALGORITHM (EXECUTION2) holding -2 previous -1 virtual -2 [97m
+2021-08-11 10:03:41,411 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:0 number:22242 purchase:0 executed:425.95 holding:-2 [97m
+2021-08-11 10:03:41,411 [94mALGORITHM (DEBUG) 10:03:42 Purchases 1 Sales 0 [97m
+2021-08-11 10:03:41,416 Balance information
+2021-08-11 10:03:41,421 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:41,467 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:03:41,470 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.85, number:22248, original:0
+2021-08-11 10:03:41,471 [96mALGORITHM (EXECUTION1) holding -2 previous -1 virtual -2 [97m
+2021-08-11 10:03:41,471 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:03:41,471 [93mALGORITHM (ORDER) Open purchase orders 1 [97m
+2021-08-11 10:03:41,472 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:22248 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:03:41,472 [94mALGORITHM (DEBUG) 10:03:43 Purchases 2 Sales 0 [97m
+2021-08-11 10:03:41,476 Balance information
+2021-08-11 10:03:41,478 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:03:41,653 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.85, number:22250, original:0
+2021-08-11 10:03:41,653 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:03:41,653 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:03:41,653 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 10:03:41,654 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:22250 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:03:41,654 [94mALGORITHM (DEBUG) 10:03:43 Purchases 3 Sales 0 [97m
+2021-08-11 10:03:41,659 Balance information
+2021-08-11 10:03:41,705 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:41,711 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:41,927 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:45,914 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,003 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,007 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,011 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,015 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,019 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,022 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:46,512 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:47,615 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:47,707 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:49,111 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:50,413 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:50,417 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:50,420 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:50,608 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:51,205 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:51,816 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:51,820 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:54,605 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:54,609 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:55,602 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:56,648 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:57,822 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:58,003 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:58,112 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:03:58,116 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,058 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,510 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,513 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,551 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,590 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,702 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,706 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:00,746 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:01,813 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:01,818 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:01,823 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:01,827 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:02,151 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:02,902 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:03,545 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:03,712 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:03,762 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:03,953 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,001 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,040 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,183 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,213 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,409 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,813 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,817 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:04,823 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:05,211 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:05,215 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:05,506 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:05,616 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:05,705 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:05,904 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:09,234 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,207 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,335 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,360 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,515 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,519 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,604 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:10,807 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:11,939 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:12,739 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:12,744 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:12,845 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:12,881 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,003 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,007 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,011 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,114 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,128 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,322 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,413 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,425 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,743 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:14,831 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:15,056 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:15,174 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:15,442 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:15,600 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:15,709 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:15,746 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,124 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,183 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,738 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,912 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,917 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,921 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,925 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,929 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,934 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,937 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,942 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:16,946 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,036 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,097 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,118 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,131 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,135 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,138 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,153 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,325 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,612 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,704 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,813 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:17,816 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,014 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,017 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,050 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,587 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,622 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,697 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,702 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:18,737 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,048 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,212 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,329 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,553 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,707 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,743 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:19,788 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:20,655 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:20,902 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:20,928 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,153 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,286 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,313 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,340 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,345 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,349 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,353 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,358 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,362 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,380 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,416 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,452 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,501 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,736 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,740 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,813 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,816 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,820 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,823 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,826 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,830 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,834 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,837 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,840 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,844 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,920 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:21,931 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,049 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,055 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,130 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,141 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,203 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,316 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:22,409 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:23,016 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:23,035 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:23,205 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:23,299 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:23,409 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:23,607 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:24,113 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:24,205 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:24,500 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:25,201 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:26,109 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:26,113 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:26,116 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:26,405 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:27,005 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:27,009 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:27,142 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:27,660 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:27,764 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:28,002 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:28,112 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:28,205 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:28,306 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:33,011 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,409 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,412 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,415 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,418 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,421 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,425 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,502 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,641 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:35,686 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:36,210 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:36,352 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:36,370 [93mALGORITHM (BLOCK) purchase ordered [97m
+2021-08-11 10:04:37,198 [93mALGORITHM STOPPED [97m
+2021-08-11 10:04:37,460 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:04:37,724 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:22474, original:22240
+2021-08-11 10:04:37,728 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:22474, original:22240
+2021-08-11 10:04:37,732 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:425.85, number:22240, original:0
+2021-08-11 10:04:37,735 Balance information
+2021-08-11 10:04:37,737 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:04:37,741 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:22475, original:22248
+2021-08-11 10:04:37,746 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:22475, original:22248
+2021-08-11 10:04:37,750 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:425.85, number:22248, original:0
+2021-08-11 10:04:37,834 Balance information
+2021-08-11 10:04:37,918 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:04:38,076 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:22477, original:22250
+2021-08-11 10:04:38,080 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:22477, original:22250
+2021-08-11 10:04:38,084 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:425.85, number:22250, original:0
+2021-08-11 10:04:38,087 Balance information
+2021-08-11 10:04:40,607 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:04:40,802 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:22488, original:0
+2021-08-11 10:04:40,805 Balance information
+2021-08-11 10:04:40,807 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:0.0, number:22488, original:0
+2021-08-11 10:04:40,812 Balance information
+2021-08-11 10:04:44,305 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:22488, original:0
+2021-08-11 10:04:44,308 Balance information
+2021-08-11 10:08:32,487 Kiwoom initializing...
+2021-08-11 10:08:37,580 Kiwoom log in success
+2021-08-11 10:08:37,581 Account information
+2021-08-11 10:08:38,096 Deposit information (Futures)
+2021-08-11 10:08:38,123 Portfolio information (Futures) (No item found)
+2021-08-11 10:08:40,958 [93mALGORITHM STARTED [97m
+2021-08-11 10:08:41,725 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 10:08:41,726 [96mALGORITHM (BUY) holding:0 price:425.6 amount:2 [97m
+2021-08-11 10:08:41,727 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 10:08:41,727 [96mALGORITHM (SELL) holding:0 price:425.7 amount:2 [97m
+2021-08-11 10:08:42,005 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:08:42,022 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.6, number:23604, original:0
+2021-08-11 10:08:42,022 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:08:42,023 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:08:42,024 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 10:08:42,024 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:23604 purchase:0 executed:0 holding:0 [97m
+2021-08-11 10:08:42,024 [94mALGORITHM (DEBUG) 10:08:43 Purchases 1 Sales 0 [97m
+2021-08-11 10:08:42,028 Balance information
+2021-08-11 10:08:42,052 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:08:42,311 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.7, number:23606, original:0
+2021-08-11 10:08:42,312 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:08:42,313 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:08:42,320 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 10:08:42,330 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:23606 purchase:0 executed:0 holding:0 [97m
+2021-08-11 10:08:42,331 [94mALGORITHM (DEBUG) 10:08:44 Purchases 1 Sales 1 [97m
+2021-08-11 10:08:42,334 Balance information
+2021-08-11 10:08:42,630 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:425.7, number:23606, original:0
+2021-08-11 10:08:42,631 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 10:08:42,631 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 10:08:42,631 [96mALGORITHM (BUY) holding:-1 price:425.6 amount:1 [97m
+2021-08-11 10:08:42,633 [96mALGORITHM (EXECUTION2) holding -1 previous 0 virtual -1 [97m
+2021-08-11 10:08:42,634 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:1 number:23606 purchase:0 executed:425.8 holding:-1 [97m
+2021-08-11 10:08:42,634 [94mALGORITHM (DEBUG) 10:08:44 Purchases 1 Sales 1 [97m
+2021-08-11 10:08:42,638 Balance information
+2021-08-11 10:08:42,673 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:08:42,838 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.6, number:23611, original:0
+2021-08-11 10:08:42,838 [96mALGORITHM (EXECUTION1) holding -1 previous 0 virtual -1 [97m
+2021-08-11 10:08:42,838 [96mALGORITHM (EXECUTION2) holding -1 previous -1 virtual -1 [97m
+2021-08-11 10:08:42,839 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 10:08:42,839 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:23611 purchase:0 executed:0 holding:-1 [97m
+2021-08-11 10:08:42,839 [94mALGORITHM (DEBUG) 10:08:44 Purchases 2 Sales 1 [97m
+2021-08-11 10:08:42,844 Balance information
+2021-08-11 10:08:45,833 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:425.7, number:23606, original:0
+2021-08-11 10:08:45,833 [96mALGORITHM (EXECUTION1) holding -1 previous -1 virtual -1 [97m
+2021-08-11 10:08:45,834 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 10:08:45,834 [96mALGORITHM (BUY) holding:-2 price:425.6 amount:1 [97m
+2021-08-11 10:08:45,836 [96mALGORITHM (EXECUTION2) holding -2 previous -1 virtual -2 [97m
+2021-08-11 10:08:45,836 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:0 number:23606 purchase:0 executed:425.8 holding:-2 [97m
+2021-08-11 10:08:45,836 [94mALGORITHM (DEBUG) 10:08:47 Purchases 2 Sales 0 [97m
+2021-08-11 10:08:46,072 Balance information
+2021-08-11 10:08:46,209 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:08:46,325 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.6, number:23624, original:0
+2021-08-11 10:08:46,326 [96mALGORITHM (EXECUTION1) holding -2 previous -1 virtual -2 [97m
+2021-08-11 10:08:46,326 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:08:46,326 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 10:08:46,326 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:23624 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:08:46,326 [94mALGORITHM (DEBUG) 10:08:48 Purchases 3 Sales 0 [97m
+2021-08-11 10:08:46,330 Balance information
+2021-08-11 10:09:20,174 [93mALGORITHM (CANCEL) Purchase Orders!! 3 [97m
+2021-08-11 10:09:20,792 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 10:09:20,795 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:09:20,823 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:23729, original:23604
+2021-08-11 10:09:20,823 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,824 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,824 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:23729 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:20,824 [94mALGORITHM (DEBUG) 10:09:22 Purchases 3 Sales 0 [97m
+2021-08-11 10:09:20,830 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:23729, original:23604
+2021-08-11 10:09:20,830 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,830 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,831 [93mALGORITHM (CANCEL) Purchase 2 [97m
+2021-08-11 10:09:20,831 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:23729 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:20,831 [94mALGORITHM (DEBUG) 10:09:22 Purchases 2 Sales 0 [97m
+2021-08-11 10:09:20,836 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:425.6, number:23604, original:0
+2021-08-11 10:09:20,839 Balance information
+2021-08-11 10:09:20,841 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:09:20,874 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:23731, original:23611
+2021-08-11 10:09:20,874 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,875 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,875 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:1 executed_each:0 open:1 number:23731 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:20,876 [94mALGORITHM (DEBUG) 10:09:22 Purchases 2 Sales 0 [97m
+2021-08-11 10:09:20,881 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:23731, original:23611
+2021-08-11 10:09:20,882 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,882 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,883 [93mALGORITHM (CANCEL) Purchase 1 [97m
+2021-08-11 10:09:20,883 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:1 executed_each:0 open:0 number:23731 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:20,884 [94mALGORITHM (DEBUG) 10:09:22 Purchases 1 Sales 0 [97m
+2021-08-11 10:09:20,889 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:425.6, number:23611, original:0
+2021-08-11 10:09:20,893 Balance information
+2021-08-11 10:09:20,897 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 10:09:20,901 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 10:09:20,934 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 10:09:20,937 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:09:20,947 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:23732, original:23624
+2021-08-11 10:09:20,948 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,948 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,949 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:1 executed_each:0 open:1 number:23732 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:20,950 [94mALGORITHM (DEBUG) 10:09:22 Purchases 1 Sales 0 [97m
+2021-08-11 10:09:20,955 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:23732, original:23624
+2021-08-11 10:09:20,956 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,956 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:20,957 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 10:09:20,957 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 10:09:20,957 [96mALGORITHM (BUY) holding:-2 price:425.65 amount:4 [97m
+2021-08-11 10:09:20,998 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:1 executed_each:0 open:0 number:23732 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:20,998 [94mALGORITHM (DEBUG) 10:09:22 Purchases 0 Sales 0 [97m
+2021-08-11 10:09:21,004 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:425.6, number:23624, original:0
+2021-08-11 10:09:21,010 Balance information
+2021-08-11 10:09:21,042 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:09:21,251 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.65, number:23734, original:0
+2021-08-11 10:09:21,252 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:21,252 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 10:09:21,252 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 10:09:21,253 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:23734 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 10:09:21,253 [94mALGORITHM (DEBUG) 10:09:23 Purchases 1 Sales 0 [97m
+2021-08-11 10:09:21,257 Balance information
+2021-08-11 10:09:30,895 [93mALGORITHM STOPPED [97m
+2021-08-11 10:09:31,003 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:09:31,034 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:23761, original:23734
+2021-08-11 10:09:31,039 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:23761, original:23734
+2021-08-11 10:09:31,048 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:425.65, number:23734, original:0
+2021-08-11 10:09:31,052 Balance information
+2021-08-11 10:09:39,764 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 10:09:39,842 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:23787, original:0
+2021-08-11 10:09:39,845 Balance information
+2021-08-11 10:09:45,634 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:23787, original:0
+2021-08-11 10:09:45,638 Balance information
+2021-08-11 12:12:02,952 Kiwoom initializing...
+2021-08-11 12:12:12,948 Kiwoom log in success
+2021-08-11 12:12:12,949 Account information
+2021-08-11 12:12:13,455 Deposit information (Futures)
+2021-08-11 12:12:13,483 Portfolio information (Futures) (No item found)
+2021-08-11 12:12:15,365 [93mALGORITHM STARTED [97m
+2021-08-11 12:12:15,794 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 12:12:15,812 [96mALGORITHM (BUY) holding:0 price:426.35 amount:2 [97m
+2021-08-11 12:12:15,873 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 12:12:15,888 [96mALGORITHM (SELL) holding:0 price:426.45 amount:2 [97m
+2021-08-11 12:12:16,326 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:12:16,331 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.35, number:46409, original:0
+2021-08-11 12:12:16,332 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 12:12:16,332 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 12:12:16,332 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 12:12:16,333 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:46409 purchase:0 executed:0 holding:0 [97m
+2021-08-11 12:12:16,334 [94mALGORITHM (DEBUG) 12:12:18 Purchases 1 Sales 0 [97m
+2021-08-11 12:12:16,337 Balance information
+2021-08-11 12:12:16,373 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:12:16,377 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.45, number:46410, original:0
+2021-08-11 12:12:16,377 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 12:12:16,377 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 12:12:16,378 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 12:12:16,378 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:46410 purchase:0 executed:0 holding:0 [97m
+2021-08-11 12:12:16,378 [94mALGORITHM (DEBUG) 12:12:18 Purchases 1 Sales 1 [97m
+2021-08-11 12:12:16,476 Balance information
+2021-08-11 12:12:43,929 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:426.35, number:46409, original:0
+2021-08-11 12:12:43,961 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 12:12:43,961 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 12:12:44,036 [96mALGORITHM (SELL) holding:2 price:426.45 amount:2 [97m
+2021-08-11 12:12:44,073 [96mALGORITHM (EXECUTION2) holding 2 previous 0 virtual 2 [97m
+2021-08-11 12:12:44,074 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Ã¼°á order:2 executed_each:2 open:0 number:46409 purchase:0 executed:426.35 holding:2 [97m
+2021-08-11 12:12:44,101 [94mALGORITHM (DEBUG) 12:12:45 Purchases 0 Sales 1 [97m
+2021-08-11 12:12:44,257 Balance information
+2021-08-11 12:12:44,508 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:12:44,513 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:426.45, number:46445, original:0
+2021-08-11 12:12:44,514 [96mALGORITHM (EXECUTION1) holding 2 previous 0 virtual 2 [97m
+2021-08-11 12:12:44,515 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:44,515 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 12:12:44,516 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:46445 purchase:0 executed:0 holding:2 [97m
+2021-08-11 12:12:44,516 [94mALGORITHM (DEBUG) 12:12:46 Purchases 0 Sales 2 [97m
+2021-08-11 12:12:44,523 Balance information
+2021-08-11 12:12:51,425 [93mALGORITHM (CANCEL) Sale Orders!! 2 [97m
+2021-08-11 12:12:51,920 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:12:52,125 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:46454, original:46410
+2021-08-11 12:12:52,125 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,126 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,126 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:46454 purchase:0 executed:0 holding:2 [97m
+2021-08-11 12:12:52,126 [94mALGORITHM (DEBUG) 12:12:53 Purchases 0 Sales 2 [97m
+2021-08-11 12:12:52,131 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:46454, original:46410
+2021-08-11 12:12:52,131 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,131 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,132 [93mALGORITHM (CANCEL) Sale 1 [97m
+2021-08-11 12:12:52,132 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:46454 purchase:0 executed:0 holding:2 [97m
+2021-08-11 12:12:52,132 [94mALGORITHM (DEBUG) 12:12:53 Purchases 0 Sales 1 [97m
+2021-08-11 12:12:52,139 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.45, number:46410, original:0
+2021-08-11 12:12:52,145 Balance information
+2021-08-11 12:12:52,364 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:12:52,385 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:46455, original:46445
+2021-08-11 12:12:52,385 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,385 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,386 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:46455 purchase:0 executed:0 holding:2 [97m
+2021-08-11 12:12:52,386 [94mALGORITHM (DEBUG) 12:12:54 Purchases 0 Sales 1 [97m
+2021-08-11 12:12:52,391 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:46455, original:46445
+2021-08-11 12:12:52,391 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,392 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,393 [93mALGORITHM (CANCEL) Sale 0 [97m
+2021-08-11 12:12:52,393 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 12:12:52,394 [96mALGORITHM (SELL) holding:2 price:426.4 amount:4 [97m
+2021-08-11 12:12:52,396 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:46455 purchase:0 executed:0 holding:2 [97m
+2021-08-11 12:12:52,396 [94mALGORITHM (DEBUG) 12:12:54 Purchases 0 Sales 0 [97m
+2021-08-11 12:12:52,402 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:426.45, number:46445, original:0
+2021-08-11 12:12:52,405 Balance information
+2021-08-11 12:12:52,440 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:12:52,661 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:426.4, number:46457, original:0
+2021-08-11 12:12:52,661 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,661 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:12:52,662 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 12:12:52,662 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:4 executed_each:0 open:4 number:46457 purchase:0 executed:0 holding:2 [97m
+2021-08-11 12:12:52,662 [94mALGORITHM (DEBUG) 12:12:54 Purchases 0 Sales 1 [97m
+2021-08-11 12:12:52,697 Balance information
+2021-08-11 12:13:16,149 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:4, executed_sum:4, open:0, price:426.4, number:46457, original:0
+2021-08-11 12:13:16,149 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 12:13:16,150 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 12:13:16,150 [96mALGORITHM (BUY) holding:0 price:426.3 amount:4 [97m
+2021-08-11 12:13:16,153 [95mALGORITHM (SETTLE) Previous holding 2 Executed 4 [97m
+2021-08-11 12:13:16,153 [96mALGORITHM (EXECUTION2) holding 0 previous 2 virtual -2 [97m
+2021-08-11 12:13:16,153 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:4 executed_each:-4 open:0 number:46457 purchase:0 executed:426.45 holding:0 [97m
+2021-08-11 12:13:16,154 [94mALGORITHM (DEBUG) 12:13:18 Purchases 0 Sales 0 [97m
+2021-08-11 12:13:16,245 Balance information
+2021-08-11 12:13:16,396 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:13:16,401 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:426.3, number:46490, original:0
+2021-08-11 12:13:16,402 [96mALGORITHM (EXECUTION1) holding 0 previous 2 virtual -2 [97m
+2021-08-11 12:13:16,403 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual -2 [97m
+2021-08-11 12:13:16,404 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 12:13:16,404 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:46490 purchase:0 executed:0 holding:0 [97m
+2021-08-11 12:13:16,404 [94mALGORITHM (DEBUG) 12:13:18 Purchases 1 Sales 0 [97m
+2021-08-11 12:13:16,410 Balance information
+2021-08-11 12:13:40,836 [93mALGORITHM STOPPED [97m
+2021-08-11 12:13:40,852 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:13:41,024 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:46527, original:46490
+2021-08-11 12:13:41,027 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:46527, original:46490
+2021-08-11 12:13:41,031 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:426.3, number:46490, original:0
+2021-08-11 12:13:41,034 Balance information
+2021-08-11 12:31:58,942 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 12:31:59,189 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:49217, original:0
+2021-08-11 12:31:59,193 Balance information
+2021-08-11 12:31:59,994 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:49217, original:0
+2021-08-11 12:31:59,997 Balance information
+2021-08-11 13:15:36,514 Kiwoom initializing...
+2021-08-11 13:15:47,045 Kiwoom log in success
+2021-08-11 13:15:47,046 Account information
+2021-08-11 13:15:47,581 Deposit information (Futures)
+2021-08-11 13:15:47,698 Portfolio information (Futures) (No item found)
+2021-08-11 13:15:59,595 [93mALGORITHM STARTED [97m
+2021-08-11 13:16:01,169 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:16:01,175 [96mALGORITHM (BUY) holding:0 price:424.9 amount:2 [97m
+2021-08-11 13:16:01,195 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 13:16:01,196 [96mALGORITHM (SELL) holding:0 price:425.0 amount:2 [97m
+2021-08-11 13:16:01,590 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:01,611 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:424.9, number:55117, original:0
+2021-08-11 13:16:01,611 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 13:16:01,612 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 13:16:01,612 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:16:01,613 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:55117 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:16:01,613 [94mALGORITHM (DEBUG) 13:16:03 Purchases 1 Sales 0 [97m
+2021-08-11 13:16:01,616 Balance information
+2021-08-11 13:16:01,686 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:01,689 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.0, number:55119, original:0
+2021-08-11 13:16:01,689 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 13:16:01,689 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 13:16:01,690 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 13:16:01,690 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:55119 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:16:01,690 [94mALGORITHM (DEBUG) 13:16:03 Purchases 1 Sales 1 [97m
+2021-08-11 13:16:01,786 Balance information
+2021-08-11 13:16:02,746 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:425.0, number:55119, original:0
+2021-08-11 13:16:02,747 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 13:16:02,747 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:16:02,748 [96mALGORITHM (BUY) holding:-1 price:424.9 amount:1 [97m
+2021-08-11 13:16:02,750 [96mALGORITHM (EXECUTION2) holding -1 previous 0 virtual -1 [97m
+2021-08-11 13:16:02,750 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:1 number:55119 purchase:0 executed:425.1 holding:-1 [97m
+2021-08-11 13:16:02,750 [94mALGORITHM (DEBUG) 13:16:05 Purchases 1 Sales 1 [97m
+2021-08-11 13:16:02,755 Balance information
+2021-08-11 13:16:02,791 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:02,928 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:424.9, number:55125, original:0
+2021-08-11 13:16:02,928 [96mALGORITHM (EXECUTION1) holding -1 previous 0 virtual -1 [97m
+2021-08-11 13:16:02,929 [96mALGORITHM (EXECUTION2) holding -1 previous -1 virtual -1 [97m
+2021-08-11 13:16:02,930 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:16:02,930 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:55125 purchase:0 executed:0 holding:-1 [97m
+2021-08-11 13:16:02,930 [94mALGORITHM (DEBUG) 13:16:05 Purchases 2 Sales 1 [97m
+2021-08-11 13:16:02,935 Balance information
+2021-08-11 13:16:03,348 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:425.0, number:55119, original:0
+2021-08-11 13:16:03,349 [96mALGORITHM (EXECUTION1) holding -1 previous -1 virtual -1 [97m
+2021-08-11 13:16:03,355 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:16:03,366 [96mALGORITHM (BUY) holding:-2 price:424.9 amount:1 [97m
+2021-08-11 13:16:03,390 [96mALGORITHM (EXECUTION2) holding -2 previous -1 virtual -2 [97m
+2021-08-11 13:16:03,402 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:0 number:55119 purchase:0 executed:425.1 holding:-2 [97m
+2021-08-11 13:16:03,402 [94mALGORITHM (DEBUG) 13:16:05 Purchases 2 Sales 0 [97m
+2021-08-11 13:16:03,411 Balance information
+2021-08-11 13:16:03,454 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:03,530 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:424.9, number:55127, original:0
+2021-08-11 13:16:03,531 [96mALGORITHM (EXECUTION1) holding -2 previous -1 virtual -2 [97m
+2021-08-11 13:16:03,531 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:03,531 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:16:03,531 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:55127 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:03,532 [94mALGORITHM (DEBUG) 13:16:05 Purchases 3 Sales 0 [97m
+2021-08-11 13:16:03,762 Balance information
+2021-08-11 13:16:07,780 [93mALGORITHM (CANCEL) Purchase Orders!! 3 [97m
+2021-08-11 13:16:08,483 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,487 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,491 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,495 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,499 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,503 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,507 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,529 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,533 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,539 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,543 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,545 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:08,550 [93mALGORITHM (BLOCK) open purchase cancel orders 3 [97m
+2021-08-11 13:16:08,563 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:55162, original:55117
+2021-08-11 13:16:08,563 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,564 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,564 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:55162 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:08,564 [94mALGORITHM (DEBUG) 13:16:10 Purchases 3 Sales 0 [97m
+2021-08-11 13:16:08,570 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:55162, original:55117
+2021-08-11 13:16:08,570 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,570 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,570 [93mALGORITHM (CANCEL) Purchase 2 [97m
+2021-08-11 13:16:08,571 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:55162 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:08,571 [94mALGORITHM (DEBUG) 13:16:10 Purchases 2 Sales 0 [97m
+2021-08-11 13:16:08,576 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:424.9, number:55117, original:0
+2021-08-11 13:16:08,579 Balance information
+2021-08-11 13:16:08,624 [93mALGORITHM (BLOCK) open purchase cancel orders 2 [97m
+2021-08-11 13:16:08,629 [93mALGORITHM (BLOCK) open purchase cancel orders 2 [97m
+2021-08-11 13:16:08,634 [93mALGORITHM (BLOCK) open purchase cancel orders 2 [97m
+2021-08-11 13:16:08,680 [93mALGORITHM (BLOCK) open purchase cancel orders 2 [97m
+2021-08-11 13:16:08,685 [93mALGORITHM (BLOCK) open purchase cancel orders 2 [97m
+2021-08-11 13:16:08,729 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:08,734 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:55167, original:55125
+2021-08-11 13:16:08,735 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,735 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,735 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:1 executed_each:0 open:1 number:55167 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:08,736 [94mALGORITHM (DEBUG) 13:16:10 Purchases 2 Sales 0 [97m
+2021-08-11 13:16:08,741 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:55167, original:55125
+2021-08-11 13:16:08,742 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,742 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,742 [93mALGORITHM (CANCEL) Purchase 1 [97m
+2021-08-11 13:16:08,742 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:1 executed_each:0 open:0 number:55167 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:08,743 [94mALGORITHM (DEBUG) 13:16:10 Purchases 1 Sales 0 [97m
+2021-08-11 13:16:08,748 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:424.9, number:55125, original:0
+2021-08-11 13:16:08,751 Balance information
+2021-08-11 13:16:08,754 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:08,854 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:55168, original:55127
+2021-08-11 13:16:08,855 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,855 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,859 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:1 executed_each:0 open:1 number:55168 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:08,859 [94mALGORITHM (DEBUG) 13:16:10 Purchases 1 Sales 0 [97m
+2021-08-11 13:16:08,864 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:55168, original:55127
+2021-08-11 13:16:08,864 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,864 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:08,865 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 13:16:08,865 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:16:08,865 [96mALGORITHM (BUY) holding:-2 price:424.95 amount:4 [97m
+2021-08-11 13:16:08,867 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:1 executed_each:0 open:0 number:55168 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:08,867 [94mALGORITHM (DEBUG) 13:16:10 Purchases 0 Sales 0 [97m
+2021-08-11 13:16:08,872 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:424.9, number:55127, original:0
+2021-08-11 13:16:08,875 Balance information
+2021-08-11 13:16:09,105 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:16:09,108 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:424.95, number:55172, original:0
+2021-08-11 13:16:09,108 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:09,109 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:16:09,109 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:16:09,110 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:55172 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:16:09,110 [94mALGORITHM (DEBUG) 13:16:11 Purchases 1 Sales 0 [97m
+2021-08-11 13:16:09,115 Balance information
+2021-08-11 13:17:04,077 [93mALGORITHM (CANCEL) Purchase Orders!! 1 [97m
+2021-08-11 13:17:04,163 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:17:04,286 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:17:04,337 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:17:04,487 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:17:04,616 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:55395, original:55172
+2021-08-11 13:17:04,617 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:17:04,617 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:17:04,618 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:4 executed_each:0 open:4 number:55395 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:17:04,618 [94mALGORITHM (DEBUG) 13:17:06 Purchases 1 Sales 0 [97m
+2021-08-11 13:17:04,749 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:55395, original:55172
+2021-08-11 13:17:04,781 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:17:04,813 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:17:04,831 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 13:17:04,846 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:17:04,864 [96mALGORITHM (BUY) holding:-2 price:425.0 amount:4 [97m
+2021-08-11 13:17:04,898 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:4 executed_each:0 open:0 number:55395 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:17:04,905 [94mALGORITHM (DEBUG) 13:17:06 Purchases 0 Sales 0 [97m
+2021-08-11 13:17:04,954 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:424.95, number:55172, original:0
+2021-08-11 13:17:04,958 Balance information
+2021-08-11 13:17:05,092 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:17:05,134 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.0, number:55403, original:0
+2021-08-11 13:17:05,136 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:17:05,137 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:17:05,137 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:17:05,137 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:55403 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:17:05,137 [94mALGORITHM (DEBUG) 13:17:07 Purchases 1 Sales 0 [97m
+2021-08-11 13:17:05,169 Balance information
+2021-08-11 13:18:01,366 [93mALGORITHM (CANCEL) Purchase Orders!! 1 [97m
+2021-08-11 13:18:01,468 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:18:01,574 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:55561, original:55403
+2021-08-11 13:18:01,574 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:01,582 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:01,593 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:4 executed_each:0 open:4 number:55561 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:18:01,601 [94mALGORITHM (DEBUG) 13:18:03 Purchases 1 Sales 0 [97m
+2021-08-11 13:18:01,758 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:55561, original:55403
+2021-08-11 13:18:01,758 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:01,758 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:01,759 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 13:18:01,759 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:18:01,765 [96mALGORITHM (BUY) holding:-2 price:425.05 amount:4 [97m
+2021-08-11 13:18:01,789 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:4 executed_each:0 open:0 number:55561 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:18:01,789 [94mALGORITHM (DEBUG) 13:18:03 Purchases 0 Sales 0 [97m
+2021-08-11 13:18:01,796 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:425.0, number:55403, original:0
+2021-08-11 13:18:01,823 Balance information
+2021-08-11 13:18:02,229 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:18:02,235 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.05, number:55564, original:0
+2021-08-11 13:18:02,236 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:02,236 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:02,237 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:18:02,237 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:55564 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:18:02,237 [94mALGORITHM (DEBUG) 13:18:04 Purchases 1 Sales 0 [97m
+2021-08-11 13:18:02,268 Balance information
+2021-08-11 13:18:15,060 [93mALGORITHM (CANCEL) Purchase Orders!! 1 [97m
+2021-08-11 13:18:15,198 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:18:15,317 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:18:15,377 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:18:15,548 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:55592, original:55564
+2021-08-11 13:18:15,550 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:15,578 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:15,580 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:4 executed_each:0 open:4 number:55592 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:18:15,609 [94mALGORITHM (DEBUG) 13:18:17 Purchases 1 Sales 0 [97m
+2021-08-11 13:18:15,778 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:55592, original:55564
+2021-08-11 13:18:15,782 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:15,796 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:15,806 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 13:18:15,843 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:18:15,863 [96mALGORITHM (BUY) holding:-2 price:425.1 amount:4 [97m
+2021-08-11 13:18:15,875 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:4 executed_each:0 open:0 number:55592 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:18:15,882 [94mALGORITHM (DEBUG) 13:18:17 Purchases 0 Sales 0 [97m
+2021-08-11 13:18:15,909 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:425.05, number:55564, original:0
+2021-08-11 13:18:15,929 Balance information
+2021-08-11 13:18:16,366 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:18:16,391 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.1, number:55593, original:0
+2021-08-11 13:18:16,393 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:16,393 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:18:16,394 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:18:16,394 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:55593 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:18:16,394 [94mALGORITHM (DEBUG) 13:18:18 Purchases 1 Sales 0 [97m
+2021-08-11 13:18:16,400 Balance information
+2021-08-11 13:19:01,365 [93mALGORITHM (CANCEL) Purchase Orders!! 1 [97m
+2021-08-11 13:19:01,507 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:19:01,707 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:55792, original:55593
+2021-08-11 13:19:01,721 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:19:01,726 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:19:01,733 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:4 executed_each:0 open:4 number:55792 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:19:01,744 [94mALGORITHM (DEBUG) 13:19:03 Purchases 1 Sales 0 [97m
+2021-08-11 13:19:01,877 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:55792, original:55593
+2021-08-11 13:19:01,878 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:19:01,879 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:19:01,911 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 13:19:01,922 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:19:01,923 [96mALGORITHM (BUY) holding:-2 price:425.2 amount:4 [97m
+2021-08-11 13:19:01,926 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:4 executed_each:0 open:0 number:55792 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:19:01,926 [94mALGORITHM (DEBUG) 13:19:03 Purchases 0 Sales 0 [97m
+2021-08-11 13:19:02,113 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:425.1, number:55593, original:0
+2021-08-11 13:19:02,247 Balance information
+2021-08-11 13:19:02,515 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:19:02,522 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.2, number:55795, original:0
+2021-08-11 13:19:02,522 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:19:02,522 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:19:02,523 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:19:02,523 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:55795 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:19:02,523 [94mALGORITHM (DEBUG) 13:19:04 Purchases 1 Sales 0 [97m
+2021-08-11 13:19:02,530 Balance information
+2021-08-11 13:20:01,057 [93mALGORITHM (CANCEL) Purchase Orders!! 1 [97m
+2021-08-11 13:20:01,143 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:20:01,212 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 13:20:01,240 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:01,453 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:0.0, number:56031, original:55795
+2021-08-11 13:20:01,453 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:01,462 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:01,463 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:4 executed_each:0 open:4 number:56031 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:20:01,463 [94mALGORITHM (DEBUG) 13:20:03 Purchases 1 Sales 0 [97m
+2021-08-11 13:20:01,470 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:4, executed_sum:0, open:0, price:0.0, number:56031, original:55795
+2021-08-11 13:20:01,470 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:01,470 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:01,471 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 13:20:01,474 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:20:01,488 [96mALGORITHM (BUY) holding:-2 price:425.25 amount:4 [97m
+2021-08-11 13:20:01,521 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:4 executed_each:0 open:0 number:56031 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:20:01,534 [94mALGORITHM (DEBUG) 13:20:03 Purchases 0 Sales 0 [97m
+2021-08-11 13:20:01,627 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:0, price:425.2, number:55795, original:0
+2021-08-11 13:20:01,665 Balance information
+2021-08-11 13:20:02,078 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:02,210 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.25, number:56033, original:0
+2021-08-11 13:20:02,211 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:02,212 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:02,212 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:20:02,212 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:56033 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 13:20:02,213 [94mALGORITHM (DEBUG) 13:20:04 Purchases 1 Sales 0 [97m
+2021-08-11 13:20:02,222 Balance information
+2021-08-11 13:20:02,241 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:4, executed_sum:1, open:3, price:425.25, number:56033, original:0
+2021-08-11 13:20:02,242 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 13:20:02,243 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 13:20:02,245 [96mALGORITHM (SELL) holding:-1 price:425.35 amount:1 [97m
+2021-08-11 13:20:02,248 [95mALGORITHM (SETTLE) Previous holding 2 Executed 1 [97m
+2021-08-11 13:20:02,248 [96mALGORITHM (EXECUTION2) holding -1 previous -2 virtual -1 [97m
+2021-08-11 13:20:02,248 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Ã¼°á order:4 executed_each:1 open:3 number:56033 purchase:0 executed:425.25 holding:-1 [97m
+2021-08-11 13:20:02,249 [94mALGORITHM (DEBUG) 13:20:04 Purchases 1 Sales 0 [97m
+2021-08-11 13:20:02,257 Balance information
+2021-08-11 13:20:02,291 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:4, executed_sum:4, open:0, price:425.25, number:56033, original:0
+2021-08-11 13:20:02,291 [96mALGORITHM (EXECUTION1) holding -1 previous -2 virtual -1 [97m
+2021-08-11 13:20:02,292 [93mALGORITHM (ORDER) Sale order LOCKED 2 [97m
+2021-08-11 13:20:02,293 [96mALGORITHM (SELL) holding:0 price:425.35 amount:3 [97m
+2021-08-11 13:20:02,524 [95mALGORITHM (SETTLE) Previous holding 1 Executed 3 [97m
+2021-08-11 13:20:02,524 [96mALGORITHM (EXECUTION2) holding 0 previous -1 virtual 2 [97m
+2021-08-11 13:20:02,534 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Ã¼°á order:4 executed_each:3 open:0 number:56033 purchase:0 executed:425.25 holding:0 [97m
+2021-08-11 13:20:02,539 [94mALGORITHM (DEBUG) 13:20:04 Purchases 0 Sales 0 [97m
+2021-08-11 13:20:02,553 Balance information
+2021-08-11 13:20:02,922 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:02,958 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.35, number:56034, original:0
+2021-08-11 13:20:02,958 [96mALGORITHM (EXECUTION1) holding 0 previous -1 virtual 2 [97m
+2021-08-11 13:20:02,958 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:02,958 [93mALGORITHM (ORDER) Open sale orders 1 [97m
+2021-08-11 13:20:02,959 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:1 executed_each:0 open:1 number:56034 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:02,959 [94mALGORITHM (DEBUG) 13:20:04 Purchases 0 Sales 1 [97m
+2021-08-11 13:20:03,058 Balance information
+2021-08-11 13:20:03,095 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:03,297 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:3, executed_sum:0, open:3, price:425.35, number:56036, original:0
+2021-08-11 13:20:03,313 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:03,319 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:03,342 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 13:20:03,360 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:3 executed_each:0 open:3 number:56036 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:03,361 [94mALGORITHM (DEBUG) 13:20:05 Purchases 0 Sales 2 [97m
+2021-08-11 13:20:03,449 Balance information
+2021-08-11 13:20:54,453 [93mALGORITHM (CANCEL) Sale Orders!! 2 [97m
+2021-08-11 13:20:54,860 [93mALGORITHM (BLOCK) open sale cancel orders 2 [97m
+2021-08-11 13:20:54,920 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:55,369 [93mALGORITHM (BLOCK) open sale cancel orders 2 [97m
+2021-08-11 13:20:55,373 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:56171, original:56034
+2021-08-11 13:20:55,374 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,374 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,374 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:1 executed_each:0 open:1 number:56171 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:55,375 [94mALGORITHM (DEBUG) 13:20:57 Purchases 0 Sales 2 [97m
+2021-08-11 13:20:55,386 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:1, executed_sum:0, open:0, price:0.0, number:56171, original:56034
+2021-08-11 13:20:55,387 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,387 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,387 [93mALGORITHM (CANCEL) Sale 1 [97m
+2021-08-11 13:20:55,387 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:1 executed_each:0 open:0 number:56171 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:55,388 [94mALGORITHM (DEBUG) 13:20:57 Purchases 0 Sales 1 [97m
+2021-08-11 13:20:55,397 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:0, price:425.35, number:56034, original:0
+2021-08-11 13:20:55,403 Balance information
+2021-08-11 13:20:55,649 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:55,654 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:3, executed_sum:0, open:3, price:0.0, number:56172, original:56036
+2021-08-11 13:20:55,654 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,654 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,655 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:3 executed_each:0 open:3 number:56172 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:55,656 [94mALGORITHM (DEBUG) 13:20:57 Purchases 0 Sales 1 [97m
+2021-08-11 13:20:55,664 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:3, executed_sum:0, open:0, price:0.0, number:56172, original:56036
+2021-08-11 13:20:55,664 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,665 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,666 [93mALGORITHM (CANCEL) Sale 0 [97m
+2021-08-11 13:20:55,666 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 13:20:55,667 [96mALGORITHM (SELL) holding:0 price:425.3 amount:2 [97m
+2021-08-11 13:20:55,670 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:3 executed_each:0 open:0 number:56172 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:55,671 [94mALGORITHM (DEBUG) 13:20:57 Purchases 0 Sales 0 [97m
+2021-08-11 13:20:55,679 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:3, executed_sum:0, open:0, price:425.35, number:56036, original:0
+2021-08-11 13:20:55,685 Balance information
+2021-08-11 13:20:55,689 [93mALGORITHM (CANCEL) Sale Orders!! 0 [97m
+2021-08-11 13:20:55,694 [93mALGORITHM (CANCEL) Sale Orders!! 0 [97m
+2021-08-11 13:20:55,760 [93mALGORITHM (CANCEL) Sale Orders!! 0 [97m
+2021-08-11 13:20:55,798 [93mALGORITHM (CANCEL) Sale Orders!! 0 [97m
+2021-08-11 13:20:55,805 [93mALGORITHM (CANCEL) Sale Orders!! 0 [97m
+2021-08-11 13:20:55,811 [93mALGORITHM (CANCEL) Sale Orders!! 0 [97m
+2021-08-11 13:20:55,820 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:20:55,916 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.3, number:56175, original:0
+2021-08-11 13:20:55,917 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,917 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:20:55,917 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 13:20:55,918 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:56175 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:20:55,918 [94mALGORITHM (DEBUG) 13:20:58 Purchases 0 Sales 1 [97m
+2021-08-11 13:20:55,983 Balance information
+2021-08-11 13:21:00,342 [93mALGORITHM (CANCEL) Sale Orders!! 1 [97m
+2021-08-11 13:21:00,402 [93mALGORITHM (BLOCK) open sale cancel orders 1 [97m
+2021-08-11 13:21:00,450 [93mALGORITHM (BLOCK) open sale cancel orders 1 [97m
+2021-08-11 13:21:00,466 Send order (CANCEL SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:21:00,557 Order execution(¸ÅµµÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:56191, original:56175
+2021-08-11 13:21:00,558 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:21:00,560 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:21:00,561 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:56191 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:21:00,561 [94mALGORITHM (DEBUG) 13:21:02 Purchases 0 Sales 1 [97m
+2021-08-11 13:21:00,569 Order execution(¸ÅµµÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:56191, original:56175
+2021-08-11 13:21:00,570 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:21:00,570 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:21:00,570 [93mALGORITHM (CANCEL) Sale 0 [97m
+2021-08-11 13:21:00,571 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 13:21:00,571 [96mALGORITHM (SELL) holding:0 price:425.35 amount:2 [97m
+2021-08-11 13:21:00,682 [92mALGORITHM (EXECUTION) F 202109 ¸ÅµµÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:56191 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:21:00,682 [94mALGORITHM (DEBUG) 13:21:02 Purchases 0 Sales 0 [97m
+2021-08-11 13:21:00,723 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:425.3, number:56175, original:0
+2021-08-11 13:21:00,735 Balance information
+2021-08-11 13:21:00,790 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:21:00,926 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.35, number:56192, original:0
+2021-08-11 13:21:00,930 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:21:00,942 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:21:00,943 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 13:21:00,944 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:56192 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:21:00,961 [94mALGORITHM (DEBUG) 13:21:03 Purchases 0 Sales 1 [97m
+2021-08-11 13:21:01,012 Balance information
+2021-08-11 13:22:05,333 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:425.35, number:56192, original:0
+2021-08-11 13:22:05,336 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:22:05,348 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 13:22:05,366 [96mALGORITHM (BUY) holding:-1 price:425.25 amount:1 [97m
+2021-08-11 13:22:05,381 [95mALGORITHM (SETTLE) Previous holding 0 Executed 1 [97m
+2021-08-11 13:22:05,382 [96mALGORITHM (EXECUTION2) holding -1 previous 0 virtual 1 [97m
+2021-08-11 13:22:05,382 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-1 open:1 number:56192 purchase:0 executed:425.35 holding:-1 [97m
+2021-08-11 13:22:05,382 [94mALGORITHM (DEBUG) 13:22:07 Purchases 0 Sales 1 [97m
+2021-08-11 13:22:05,392 Balance information
+2021-08-11 13:22:05,858 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:22:05,861 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.25, number:56366, original:0
+2021-08-11 13:22:05,861 [96mALGORITHM (EXECUTION1) holding -1 previous 0 virtual 1 [97m
+2021-08-11 13:22:05,861 [96mALGORITHM (EXECUTION2) holding -1 previous -1 virtual 1 [97m
+2021-08-11 13:22:05,862 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 13:22:05,862 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:1 executed_each:0 open:1 number:56366 purchase:0 executed:0 holding:-1 [97m
+2021-08-11 13:22:05,862 [94mALGORITHM (DEBUG) 13:22:07 Purchases 1 Sales 1 [97m
+2021-08-11 13:22:05,922 Balance information
+2021-08-11 13:22:13,458 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:425.25, number:56366, original:0
+2021-08-11 13:22:13,468 [96mALGORITHM (EXECUTION1) holding -1 previous -1 virtual 1 [97m
+2021-08-11 13:22:13,471 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 13:22:13,476 [96mALGORITHM (SELL) holding:0 price:425.35 amount:1 [97m
+2021-08-11 13:22:13,496 [96mALGORITHM (EXECUTION2) holding 0 previous -1 virtual 2 [97m
+2021-08-11 13:22:13,501 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Ã¼°á order:1 executed_each:1 open:0 number:56366 purchase:0 executed:425.25 holding:0 [97m
+2021-08-11 13:22:13,523 [94mALGORITHM (DEBUG) 13:22:15 Purchases 0 Sales 1 [97m
+2021-08-11 13:22:13,607 Balance information
+2021-08-11 13:22:13,879 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 13:22:13,929 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:425.35, number:56395, original:0
+2021-08-11 13:22:13,929 [96mALGORITHM (EXECUTION1) holding 0 previous -1 virtual 2 [97m
+2021-08-11 13:22:13,930 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 2 [97m
+2021-08-11 13:22:13,930 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 13:22:13,930 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:1 executed_each:0 open:1 number:56395 purchase:0 executed:0 holding:0 [97m
+2021-08-11 13:22:13,930 [94mALGORITHM (DEBUG) 13:22:16 Purchases 0 Sales 2 [97m
+2021-08-11 13:22:13,939 Balance information
+2021-08-11 14:03:18,289 Kiwoom initializing...
+2021-08-11 14:03:23,573 Kiwoom log in success
+2021-08-11 14:03:23,573 Account information
+2021-08-11 14:03:24,087 Deposit information (Futures)
+2021-08-11 14:03:24,120 Portfolio information (Futures)
+2021-08-11 14:04:19,883 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:04:20,021 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:62692, original:0
+2021-08-11 14:04:20,023 Balance information
+2021-08-11 14:04:20,217 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:1, open:1, price:0.0, number:62692, original:0
+2021-08-11 14:04:20,221 Balance information
+2021-08-11 14:04:20,222 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:62692, original:0
+2021-08-11 14:04:20,224 Balance information
+2021-08-11 14:04:28,593 [93mALGORITHM STARTED [97m
+2021-08-11 14:04:29,526 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 14:04:29,541 [96mALGORITHM (BUY) holding:0 price:425.15 amount:2 [97m
+2021-08-11 14:04:29,552 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 14:04:29,588 [96mALGORITHM (SELL) holding:0 price:425.25 amount:2 [97m
+2021-08-11 14:04:29,869 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:04:29,897 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.15, number:62706, original:0
+2021-08-11 14:04:29,897 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:29,898 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:29,898 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 14:04:29,898 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:62706 purchase:0 executed:0 holding:0 [97m
+2021-08-11 14:04:29,898 [94mALGORITHM (DEBUG) 14:04:32 Purchases 1 Sales 0 [97m
+2021-08-11 14:04:29,902 Balance information
+2021-08-11 14:04:29,904 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:04:30,084 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.25, number:62707, original:0
+2021-08-11 14:04:30,084 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:30,084 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:30,085 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 14:04:30,085 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:62707 purchase:0 executed:0 holding:0 [97m
+2021-08-11 14:04:30,085 [94mALGORITHM (DEBUG) 14:04:32 Purchases 1 Sales 1 [97m
+2021-08-11 14:04:30,090 Balance information
+2021-08-11 14:04:32,021 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:425.15, number:62706, original:0
+2021-08-11 14:04:32,021 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:32,022 [93mALGORITHM (ORDER) Sale order LOCKED 1 [97m
+2021-08-11 14:04:32,022 [96mALGORITHM (SELL) holding:2 price:425.25 amount:2 [97m
+2021-08-11 14:04:32,024 [96mALGORITHM (EXECUTION2) holding 2 previous 0 virtual 2 [97m
+2021-08-11 14:04:32,024 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Ã¼°á order:2 executed_each:2 open:0 number:62706 purchase:0 executed:425.15 holding:2 [97m
+2021-08-11 14:04:32,025 [94mALGORITHM (DEBUG) 14:04:34 Purchases 0 Sales 1 [97m
+2021-08-11 14:04:32,189 Balance information
+2021-08-11 14:04:32,975 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:04:33,085 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.25, number:62711, original:0
+2021-08-11 14:04:33,095 [96mALGORITHM (EXECUTION1) holding 2 previous 0 virtual 2 [97m
+2021-08-11 14:04:33,096 [96mALGORITHM (EXECUTION2) holding 2 previous 2 virtual 2 [97m
+2021-08-11 14:04:33,100 [93mALGORITHM (ORDER) Open sale orders 0 [97m
+2021-08-11 14:04:33,117 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Á¢¼ö order:2 executed_each:0 open:2 number:62711 purchase:0 executed:0 holding:2 [97m
+2021-08-11 14:04:33,117 [94mALGORITHM (DEBUG) 14:04:34 Purchases 0 Sales 2 [97m
+2021-08-11 14:04:33,123 Balance information
+2021-08-11 14:04:54,311 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:425.25, number:62707, original:0
+2021-08-11 14:04:54,311 [96mALGORITHM (EXECUTION1) holding 2 previous 2 virtual 2 [97m
+2021-08-11 14:04:54,312 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 14:04:54,313 [96mALGORITHM (BUY) holding:0 price:425.15 amount:2 [97m
+2021-08-11 14:04:54,315 [95mALGORITHM (SETTLE) Previous holding 2 Executed 2 [97m
+2021-08-11 14:04:54,337 [96mALGORITHM (EXECUTION2) holding 0 previous 2 virtual 0 [97m
+2021-08-11 14:04:54,339 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-2 open:0 number:62707 purchase:0 executed:425.25 holding:0 [97m
+2021-08-11 14:04:54,394 [94mALGORITHM (DEBUG) 14:04:56 Purchases 0 Sales 1 [97m
+2021-08-11 14:04:54,514 Balance information
+2021-08-11 14:04:54,962 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:04:54,986 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.15, number:62748, original:0
+2021-08-11 14:04:54,987 [96mALGORITHM (EXECUTION1) holding 0 previous 2 virtual 0 [97m
+2021-08-11 14:04:54,987 [96mALGORITHM (EXECUTION2) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:54,987 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 14:04:54,987 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:62748 purchase:0 executed:0 holding:0 [97m
+2021-08-11 14:04:54,988 [94mALGORITHM (DEBUG) 14:04:56 Purchases 1 Sales 1 [97m
+2021-08-11 14:04:54,992 Balance information
+2021-08-11 14:04:55,207 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:425.25, number:62711, original:0
+2021-08-11 14:04:55,208 [96mALGORITHM (EXECUTION1) holding 0 previous 0 virtual 0 [97m
+2021-08-11 14:04:55,209 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 14:04:55,209 [96mALGORITHM (BUY) holding:-2 price:425.15 amount:2 [97m
+2021-08-11 14:04:55,211 [96mALGORITHM (EXECUTION2) holding -2 previous 0 virtual -2 [97m
+2021-08-11 14:04:55,211 [92mALGORITHM (EXECUTION) F 202109 -¸Åµµ Ã¼°á order:2 executed_each:-2 open:0 number:62711 purchase:0 executed:425.25 holding:-2 [97m
+2021-08-11 14:04:55,212 [94mALGORITHM (DEBUG) 14:04:57 Purchases 1 Sales 0 [97m
+2021-08-11 14:04:55,217 Balance information
+2021-08-11 14:04:55,538 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:04:55,546 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:425.15, number:62752, original:0
+2021-08-11 14:04:55,546 [96mALGORITHM (EXECUTION1) holding -2 previous 0 virtual -2 [97m
+2021-08-11 14:04:55,546 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:04:55,547 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 14:04:55,547 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:2 executed_each:0 open:2 number:62752 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 14:04:55,547 [94mALGORITHM (DEBUG) 14:04:57 Purchases 2 Sales 0 [97m
+2021-08-11 14:04:55,554 Balance information
+2021-08-11 14:05:00,777 [93mALGORITHM (CANCEL) Purchase Orders!! 2 [97m
+2021-08-11 14:05:01,117 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:05:01,121 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:62764, original:62748
+2021-08-11 14:05:01,127 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:01,127 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:01,127 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:62764 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 14:05:01,128 [94mALGORITHM (DEBUG) 14:05:03 Purchases 2 Sales 0 [97m
+2021-08-11 14:05:01,134 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:62764, original:62748
+2021-08-11 14:05:01,135 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:01,135 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:01,135 [93mALGORITHM (CANCEL) Purchase 1 [97m
+2021-08-11 14:05:01,136 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:62764 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 14:05:01,136 [94mALGORITHM (DEBUG) 14:05:03 Purchases 1 Sales 0 [97m
+2021-08-11 14:05:01,148 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:425.15, number:62748, original:0
+2021-08-11 14:05:01,151 Balance information
+2021-08-11 14:05:01,472 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:05:01,903 Order execution(¸Å¼öÃë¼Ò) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:62766, original:62752
+2021-08-11 14:05:01,925 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:01,941 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:01,957 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò Á¢¼ö order:2 executed_each:0 open:2 number:62766 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 14:05:01,960 [94mALGORITHM (DEBUG) 14:05:03 Purchases 1 Sales 0 [97m
+2021-08-11 14:05:02,058 Order execution(¸Å¼öÃë¼Ò) F 202109(È®ÀÎ), order:2, executed_sum:0, open:0, price:0.0, number:62766, original:62752
+2021-08-11 14:05:02,060 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:02,064 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:02,078 [93mALGORITHM (CANCEL) Purchase 0 [97m
+2021-08-11 14:05:02,081 [93mALGORITHM (ORDER) Purchase order LOCKED 1 [97m
+2021-08-11 14:05:02,097 [96mALGORITHM (BUY) holding:-2 price:425.2 amount:4 [97m
+2021-08-11 14:05:02,173 [92mALGORITHM (EXECUTION) F 202109 ¸Å¼öÃë¼Ò È®ÀÎ order:2 executed_each:0 open:0 number:62766 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 14:05:02,174 [94mALGORITHM (DEBUG) 14:05:03 Purchases 0 Sales 0 [97m
+2021-08-11 14:05:02,209 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:0, price:425.15, number:62752, original:0
+2021-08-11 14:05:02,266 Balance information
+2021-08-11 14:05:02,573 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-08-11 14:05:02,577 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:4, executed_sum:0, open:4, price:425.2, number:62770, original:0
+2021-08-11 14:05:02,578 [96mALGORITHM (EXECUTION1) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:02,578 [96mALGORITHM (EXECUTION2) holding -2 previous -2 virtual -2 [97m
+2021-08-11 14:05:02,578 [93mALGORITHM (ORDER) Open purchase orders 0 [97m
+2021-08-11 14:05:02,579 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:4 executed_each:0 open:4 number:62770 purchase:0 executed:0 holding:-2 [97m
+2021-08-11 14:05:02,579 [94mALGORITHM (DEBUG) 14:05:04 Purchases 1 Sales 0 [97m
+2021-08-11 14:05:02,584 Balance information
+2021-08-11 14:05:04,666 [93mALGORITHM (CANCEL) Purchase Orders!! 1 [97m
+2021-08-11 14:05:04,714 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 14:05:04,730 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 14:05:04,737 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 14:05:04,743 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 14:05:04,760 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 14:05:04,780 [93mALGORITHM (BLOCK) open purchase cancel orders 1 [97m
+2021-08-11 18:40:25,882 [95mSend order failed. Please check order variables[0m
+2021-08-11 18:40:34,312 [95mOrder Variables 425.2 4 CANCEL BUY LIMIT 62770 [0m

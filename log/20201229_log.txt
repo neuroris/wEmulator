@@ -1,0 +1,612 @@
+2020-12-29 09:57:46,158 Kiwoom initializing...
+2020-12-29 09:58:14,670 Kiwoom log in success
+2020-12-29 09:58:14,671 Account information
+2020-12-29 09:58:15,182 Deposit information
+2020-12-29 09:58:16,149 Portfolio information
+2020-12-29 10:13:20,931 Chart updated
+2020-12-29 10:17:59,762 Chart updated
+2020-12-29 10:18:09,869 Chart updated
+2020-12-29 10:18:16,031 Chart updated
+2020-12-29 10:18:19,346 Chart updated
+2020-12-29 10:18:22,457 Chart updated
+2020-12-29 10:18:35,553 Chart updated
+2020-12-29 10:18:44,771 Chart updated
+2020-12-29 10:18:49,661 Chart updated
+2020-12-29 10:18:57,041 Chart updated
+2020-12-29 10:19:09,327 Kiwoom initializing...
+2020-12-29 10:19:21,342 Kiwoom log in success
+2020-12-29 10:19:21,342 Account information
+2020-12-29 10:19:22,716 Deposit information
+2020-12-29 10:19:23,712 Portfolio information
+2020-12-29 10:19:29,134 Chart updated
+2020-12-29 10:19:39,325 Chart updated
+2020-12-29 10:38:39,967 Chart updated
+2020-12-29 11:11:34,675 Kiwoom initializing...
+2020-12-29 11:11:46,234 Kiwoom log in success
+2020-12-29 11:11:46,234 Account information
+2020-12-29 11:11:46,738 Deposit information
+2020-12-29 11:11:47,663 Portfolio information
+2020-12-29 11:14:47,549 오스템임플란트 trading information begins to be monitored
+2020-12-29 11:15:28,372 Kiwoom initializing...
+2020-12-29 11:15:33,818 Kiwoom log in success
+2020-12-29 11:15:33,819 Account information
+2020-12-29 11:15:35,215 Deposit information
+2020-12-29 11:15:35,880 Portfolio information
+2020-12-29 11:16:19,531 Chart updated
+2020-12-29 11:16:28,807 Kiwoom initializing...
+2020-12-29 11:16:34,628 Kiwoom log in success
+2020-12-29 11:16:34,632 Account information
+2020-12-29 11:16:35,143 Deposit information
+2020-12-29 11:16:36,905 Portfolio information
+2020-12-29 11:16:46,263 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 11:17:48,303 Kiwoom initializing...
+2020-12-29 11:18:00,045 Kiwoom log in success
+2020-12-29 11:18:00,046 Account information
+2020-12-29 11:18:00,561 Deposit information
+2020-12-29 11:18:01,476 Portfolio information
+2020-12-29 11:19:00,953 오스템임플란트 trading information begins to be monitored
+2020-12-29 11:19:46,198 Kiwoom initializing...
+2020-12-29 11:19:50,927 Kiwoom log in success
+2020-12-29 11:19:50,927 Account information
+2020-12-29 11:19:51,444 Deposit information
+2020-12-29 11:19:52,656 Portfolio information
+2020-12-29 11:19:53,764 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 11:20:52,313 Kiwoom initializing...
+2020-12-29 11:20:56,923 Kiwoom log in success
+2020-12-29 11:20:56,923 Account information
+2020-12-29 11:20:57,428 Deposit information
+2020-12-29 11:20:58,701 Portfolio information
+2020-12-29 11:21:01,484 오스템임플란트 trading information begins to be monitored
+2020-12-29 11:21:41,281 Kiwoom initializing...
+2020-12-29 11:21:46,483 Kiwoom log in success
+2020-12-29 11:21:46,483 Account information
+2020-12-29 11:21:46,998 Deposit information
+2020-12-29 11:21:48,543 Portfolio information
+2020-12-29 11:21:55,297 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 11:28:34,983 Kiwoom initializing...
+2020-12-29 11:28:43,372 Kiwoom log in success
+2020-12-29 11:28:43,372 Account information
+2020-12-29 11:28:44,754 Deposit information
+2020-12-29 11:30:32,308 Kiwoom initializing...
+2020-12-29 11:30:37,533 Kiwoom log in success
+2020-12-29 11:30:37,533 Account information
+2020-12-29 11:30:38,041 Deposit information
+2020-12-29 11:30:39,165 Portfolio information
+2020-12-29 11:30:42,802 Chart updated
+2020-12-29 11:30:45,773 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 11:31:51,417 Kiwoom initializing...
+2020-12-29 11:31:56,520 Kiwoom log in success
+2020-12-29 11:31:56,521 Account information
+2020-12-29 11:31:57,943 Deposit information
+2020-12-29 11:31:59,371 Portfolio information
+2020-12-29 11:32:02,876 Chart updated
+2020-12-29 11:32:07,097 오스템임플란트 trading information begins to be monitored
+2020-12-29 11:39:02,341 Kiwoom initializing...
+2020-12-29 11:39:06,912 Kiwoom log in success
+2020-12-29 11:39:06,913 Account information
+2020-12-29 11:39:07,430 Deposit information
+2020-12-29 11:39:08,729 Portfolio information
+2020-12-29 11:39:11,160 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 11:39:57,433 Chart updated
+2020-12-29 11:42:17,581 Kiwoom initializing...
+2020-12-29 11:42:25,364 Kiwoom log in success
+2020-12-29 11:42:25,365 Account information
+2020-12-29 11:42:26,812 Deposit information
+2020-12-29 11:42:28,447 Portfolio information
+2020-12-29 11:42:35,596 Chart updated
+2020-12-29 11:42:37,550 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:22:19,387 Kiwoom initializing...
+2020-12-29 12:22:29,490 Kiwoom log in success
+2020-12-29 12:22:29,491 Account information
+2020-12-29 12:22:30,938 Deposit information
+2020-12-29 12:22:33,254 Portfolio information
+2020-12-29 12:22:41,884 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:22:42,278 Chart updated
+2020-12-29 12:23:24,489 Kiwoom initializing...
+2020-12-29 12:23:38,063 Kiwoom initializing...
+2020-12-29 12:23:46,581 Kiwoom log in success
+2020-12-29 12:23:46,581 Account information
+2020-12-29 12:23:48,067 Deposit information
+2020-12-29 12:23:49,836 Portfolio information
+2020-12-29 12:23:54,137 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:23:55,558 Chart updated
+2020-12-29 12:33:46,893 Kiwoom initializing...
+2020-12-29 12:33:57,864 Kiwoom log in success
+2020-12-29 12:33:57,864 Account information
+2020-12-29 12:33:59,231 Deposit information
+2020-12-29 12:34:00,687 Portfolio information
+2020-12-29 12:34:24,853 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:34:26,265 Chart from request
+2020-12-29 12:36:17,493 Kiwoom initializing...
+2020-12-29 12:36:24,449 Kiwoom log in success
+2020-12-29 12:36:24,450 Account information
+2020-12-29 12:36:24,954 Deposit information
+2020-12-29 12:36:26,404 Portfolio information
+2020-12-29 12:36:34,650 오스템임플란트 trading information begins to be monitored
+2020-12-29 12:37:12,925 Kiwoom initializing...
+2020-12-29 12:37:19,536 Kiwoom log in success
+2020-12-29 12:37:19,537 Account information
+2020-12-29 12:37:21,276 Deposit information
+2020-12-29 12:37:22,562 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:37:40,991 Kiwoom initializing...
+2020-12-29 12:37:50,172 Kiwoom log in success
+2020-12-29 12:37:50,173 Account information
+2020-12-29 12:37:51,418 Deposit information
+2020-12-29 12:37:53,639 Portfolio information
+2020-12-29 12:38:12,915 오스템임플란트 trading information begins to be monitored
+2020-12-29 12:41:46,089 Kiwoom initializing...
+2020-12-29 12:41:51,057 Kiwoom log in success
+2020-12-29 12:41:51,058 Account information
+2020-12-29 12:41:52,444 Deposit information
+2020-12-29 12:41:53,578 Portfolio information
+2020-12-29 12:41:58,798 오스템임플란트 trading information begins to be monitored
+2020-12-29 12:42:09,441 Chart from request
+2020-12-29 12:46:04,007 Order execution 오스템임플란트(접수), order:100, executed:0, order number:135501, original number:0
+2020-12-29 12:46:04,008 Balance information
+2020-12-29 12:46:04,515 Deposit information
+2020-12-29 12:46:05,037 Order history information
+2020-12-29 12:46:05,701 Portfolio information
+2020-12-29 12:46:09,752 Running algorithm
+2020-12-29 12:46:09,906 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:135536, original number:0
+2020-12-29 12:46:09,933 Order history information
+2020-12-29 12:46:10,410 Order execution 오스템임플란트(체결), order:100, executed:5, order number:135501, original number:0
+2020-12-29 12:46:10,412 Balance information
+2020-12-29 12:46:10,928 Deposit information
+2020-12-29 12:46:11,462 Order history information
+2020-12-29 12:46:12,412 Portfolio information
+2020-12-29 12:46:22,916 Order execution 오스템임플란트(체결), order:100, executed:19, order number:135501, original number:0
+2020-12-29 12:46:22,918 Balance information
+2020-12-29 12:46:23,435 Deposit information
+2020-12-29 12:46:23,979 Order history information
+2020-12-29 12:46:24,460 Portfolio information
+2020-12-29 12:46:54,305 Order execution 오스템임플란트(체결), order:100, executed:20, order number:135501, original number:0
+2020-12-29 12:46:54,307 Balance information
+2020-12-29 12:46:54,821 Deposit information
+2020-12-29 12:46:55,564 Order history information
+2020-12-29 12:46:56,001 Portfolio information
+2020-12-29 12:47:01,119 Portfolio information
+2020-12-29 12:47:09,103 Order execution 오스템임플란트(체결), order:100, executed:21, order number:135501, original number:0
+2020-12-29 12:47:09,105 Balance information
+2020-12-29 12:47:09,796 Deposit information
+2020-12-29 12:47:10,169 Order history information
+2020-12-29 12:47:11,873 Portfolio information
+2020-12-29 12:47:16,231 Portfolio information
+2020-12-29 12:50:06,408 Order execution 오스템임플란트(체결), order:100, executed:22, order number:135501, original number:0
+2020-12-29 12:50:06,409 Balance information
+2020-12-29 12:50:06,922 Deposit information
+2020-12-29 12:50:07,454 Order history information
+2020-12-29 12:50:08,320 Portfolio information
+2020-12-29 12:50:21,304 Order execution 오스템임플란트(체결), order:100, executed:23, order number:135501, original number:0
+2020-12-29 12:50:21,306 Balance information
+2020-12-29 12:50:22,330 Deposit information
+2020-12-29 12:50:22,355 Order history information
+2020-12-29 12:50:23,100 Portfolio information
+2020-12-29 12:50:23,708 Order execution 오스템임플란트(체결), order:100, executed:25, order number:135501, original number:0
+2020-12-29 12:50:23,711 Balance information
+2020-12-29 12:50:24,233 Deposit information
+2020-12-29 12:50:24,777 Order history information
+2020-12-29 12:50:25,761 Portfolio information
+2020-12-29 12:50:32,417 Order execution 오스템임플란트(체결), order:100, executed:52, order number:135501, original number:0
+2020-12-29 12:50:32,419 Balance information
+2020-12-29 12:50:32,926 Deposit information
+2020-12-29 12:50:33,445 Order history information
+2020-12-29 12:50:34,107 Portfolio information
+2020-12-29 12:50:38,098 Order execution 오스템임플란트(체결), order:100, executed:55, order number:135501, original number:0
+2020-12-29 12:50:38,100 Balance information
+2020-12-29 12:50:38,620 Deposit information
+2020-12-29 12:50:39,141 Order history information
+2020-12-29 12:50:39,952 Portfolio information
+2020-12-29 12:51:30,392 Order execution 오스템임플란트(체결), order:100, executed:56, order number:135501, original number:0
+2020-12-29 12:51:30,395 Balance information
+2020-12-29 12:51:31,426 Deposit information
+2020-12-29 12:51:31,449 Order history information
+2020-12-29 12:51:32,609 Portfolio information
+2020-12-29 12:52:21,392 Order execution 오스템임플란트(체결), order:100, executed:69, order number:135501, original number:0
+2020-12-29 12:52:21,394 Balance information
+2020-12-29 12:52:22,612 Order history information
+2020-12-29 12:52:22,986 Deposit information
+2020-12-29 12:52:23,502 Order execution 오스템임플란트(체결), order:100, executed:71, order number:135501, original number:0
+2020-12-29 12:52:23,504 Balance information
+2020-12-29 12:52:24,528 Order history information
+2020-12-29 12:52:25,136 Deposit information
+2020-12-29 12:52:25,480 Portfolio information
+2020-12-29 12:52:39,293 Order execution 오스템임플란트(체결), order:100, executed:72, order number:135501, original number:0
+2020-12-29 12:52:39,295 Balance information
+2020-12-29 12:52:40,335 Order history information
+2020-12-29 12:52:40,434 Deposit information
+2020-12-29 12:52:43,632 Portfolio information
+2020-12-29 12:52:59,438 Kiwoom initializing...
+2020-12-29 12:53:08,410 Kiwoom log in success
+2020-12-29 12:53:08,411 Account information
+2020-12-29 12:53:09,798 Deposit information
+2020-12-29 12:53:12,263 Portfolio information
+2020-12-29 12:53:18,816 오스템임플란트 trading information begins to be monitored
+2020-12-29 12:53:37,665 Chart from request
+2020-12-29 12:53:38,433 Order execution 오스템임플란트(체결), order:100, executed:76, order number:135501, original number:0
+2020-12-29 12:53:38,434 Balance information
+2020-12-29 12:53:39,471 Deposit information
+2020-12-29 12:53:39,495 Order history information
+2020-12-29 12:53:41,685 Portfolio information
+2020-12-29 12:53:48,346 Order execution 오스템임플란트(체결), order:100, executed:78, order number:135501, original number:0
+2020-12-29 12:53:48,348 Balance information
+2020-12-29 12:53:48,852 Deposit information
+2020-12-29 12:53:49,387 Order history information
+2020-12-29 12:53:51,780 Portfolio information
+2020-12-29 12:53:57,945 Order execution 오스템임플란트(체결), order:100, executed:88, order number:135501, original number:0
+2020-12-29 12:53:57,947 Balance information
+2020-12-29 12:53:58,452 Deposit information
+2020-12-29 12:53:58,986 Order history information
+2020-12-29 12:53:59,816 Portfolio information
+2020-12-29 12:54:25,431 Order execution 오스템임플란트(체결), order:100, executed:100, order number:135501, original number:0
+2020-12-29 12:54:25,433 Balance information
+2020-12-29 12:54:26,452 Deposit information
+2020-12-29 12:54:26,475 Order history information
+2020-12-29 12:54:27,806 Portfolio information
+2020-12-29 12:55:23,350 Running algorithm started
+2020-12-29 12:55:23,832 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:138485, original number:0
+2020-12-29 12:55:23,863 Order history information
+2020-12-29 12:55:38,401 Portfolio information
+2020-12-29 12:57:45,335 Kiwoom initializing...
+2020-12-29 12:58:01,952 Kiwoom initializing...
+2020-12-29 12:58:08,500 Kiwoom log in success
+2020-12-29 12:58:08,501 Account information
+2020-12-29 12:58:09,915 Deposit information
+2020-12-29 12:58:11,643 Portfolio information
+2020-12-29 12:58:17,317 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:58:20,243 Chart from request
+2020-12-29 12:59:06,464 Kiwoom initializing...
+2020-12-29 12:59:11,238 Kiwoom log in success
+2020-12-29 12:59:11,238 Account information
+2020-12-29 12:59:11,746 Deposit information
+2020-12-29 12:59:13,021 Portfolio information
+2020-12-29 12:59:17,136 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 12:59:17,663 Chart from request
+2020-12-29 13:03:04,310 Kiwoom initializing...
+2020-12-29 13:03:12,327 Kiwoom log in success
+2020-12-29 13:03:12,328 Account information
+2020-12-29 13:03:13,714 Deposit information
+2020-12-29 13:03:15,520 Portfolio information
+2020-12-29 13:03:19,200 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 13:06:16,079 Kiwoom initializing...
+2020-12-29 13:06:21,657 Kiwoom log in success
+2020-12-29 13:06:21,657 Account information
+2020-12-29 13:06:22,164 Deposit information
+2020-12-29 13:06:23,864 Portfolio information
+2020-12-29 13:06:24,555 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 13:06:54,435 Kiwoom initializing...
+2020-12-29 13:06:58,862 Kiwoom log in success
+2020-12-29 13:06:58,862 Account information
+2020-12-29 13:06:59,365 Deposit information
+2020-12-29 13:07:00,330 Portfolio information
+2020-12-29 13:07:03,332 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 13:08:38,162 Kiwoom initializing...
+2020-12-29 13:08:44,112 Kiwoom log in success
+2020-12-29 13:08:44,112 Account information
+2020-12-29 13:08:44,615 Deposit information
+2020-12-29 13:08:46,427 Portfolio information
+2020-12-29 13:08:47,048 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 13:09:01,196 Kiwoom initializing...
+2020-12-29 13:09:06,641 Kiwoom log in success
+2020-12-29 13:09:06,641 Account information
+2020-12-29 13:09:07,145 Deposit information
+2020-12-29 13:09:08,070 Portfolio information
+2020-12-29 13:09:13,756 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 13:11:00,452 Running algorithm started
+2020-12-29 13:11:00,729 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:143766, original number:0
+2020-12-29 13:11:00,763 Order history information
+2020-12-29 13:11:46,838 Order execution 오스템임플란트(접수), order:150, executed:0, order number:143990, original number:0
+2020-12-29 13:11:46,839 Balance information
+2020-12-29 13:11:47,345 Deposit information
+2020-12-29 13:11:47,900 Order history information
+2020-12-29 13:11:48,458 Portfolio information
+2020-12-29 13:11:54,989 Order execution 오스템임플란트(체결), order:150, executed:3, order number:143990, original number:0
+2020-12-29 13:11:54,990 Balance information
+2020-12-29 13:11:55,502 Deposit information
+2020-12-29 13:11:56,373 Order history information
+2020-12-29 13:11:57,052 Portfolio information
+2020-12-29 13:12:42,278 Order execution 오스템임플란트(체결), order:150, executed:5, order number:143990, original number:0
+2020-12-29 13:12:42,279 Balance information
+2020-12-29 13:12:50,264 Deposit information
+2020-12-29 13:12:57,327 Portfolio information
+2020-12-29 13:13:03,047 Order execution 오스템임플란트(체결), order:150, executed:24, order number:143990, original number:0
+2020-12-29 13:13:03,048 Balance information
+2020-12-29 13:13:03,733 Order history information
+2020-12-29 13:13:08,643 Order execution 오스템임플란트(체결), order:150, executed:74, order number:143990, original number:0
+2020-12-29 13:13:08,645 Balance information
+2020-12-29 13:13:09,158 Deposit information
+2020-12-29 13:13:10,402 Order execution 오스템임플란트(체결), order:150, executed:75, order number:143990, original number:0
+2020-12-29 13:13:10,405 Balance information
+2020-12-29 13:13:11,914 Portfolio information
+2020-12-29 13:13:14,137 Deposit information
+2020-12-29 13:13:15,294 Order history information
+2020-12-29 13:13:19,589 Order execution 오스템임플란트(체결), order:150, executed:87, order number:143990, original number:0
+2020-12-29 13:13:19,591 Balance information
+2020-12-29 13:13:21,272 Deposit information
+2020-12-29 13:13:21,313 Order history information
+2020-12-29 13:13:23,066 Portfolio information
+2020-12-29 13:14:40,565 Order execution 오스템임플란트(체결), order:150, executed:90, order number:143990, original number:0
+2020-12-29 13:14:40,566 Balance information
+2020-12-29 13:14:41,580 Deposit information
+2020-12-29 13:14:42,028 Order history information
+2020-12-29 13:14:42,433 Portfolio information
+2020-12-29 13:14:43,553 Order execution 오스템임플란트(체결), order:150, executed:98, order number:143990, original number:0
+2020-12-29 13:14:43,554 Balance information
+2020-12-29 13:14:44,582 Deposit information
+2020-12-29 13:14:44,959 Order history information
+2020-12-29 13:14:45,459 Portfolio information
+2020-12-29 13:15:07,456 Order execution 오스템임플란트(체결), order:150, executed:100, order number:143990, original number:0
+2020-12-29 13:15:07,458 Balance information
+2020-12-29 13:15:07,975 Deposit information
+2020-12-29 13:15:08,846 Order history information
+2020-12-29 13:15:09,235 Portfolio information
+2020-12-29 13:16:05,646 Order execution 오스템임플란트(체결), order:150, executed:120, order number:143990, original number:0
+2020-12-29 13:16:05,648 Balance information
+2020-12-29 13:16:09,094 Order execution 오스템임플란트(체결), order:150, executed:150, order number:143990, original number:0
+2020-12-29 13:16:09,096 Balance information
+2020-12-29 13:16:11,239 Deposit information
+2020-12-29 13:16:11,585 Portfolio information
+2020-12-29 13:16:11,590 Order history information
+2020-12-29 14:40:25,716 Kiwoom initializing...
+2020-12-29 14:40:34,617 Kiwoom log in success
+2020-12-29 14:40:34,617 Account information
+2020-12-29 14:40:35,134 Deposit information
+2020-12-29 14:40:36,469 Portfolio information
+2020-12-29 14:40:37,036 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 14:40:57,581 Kiwoom initializing...
+2020-12-29 14:41:02,245 Kiwoom log in success
+2020-12-29 14:41:02,246 Account information
+2020-12-29 14:41:02,765 Deposit information
+2020-12-29 14:41:03,780 Portfolio information
+2020-12-29 14:41:08,039 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 14:42:10,135 Kiwoom initializing...
+2020-12-29 14:42:16,462 Kiwoom log in success
+2020-12-29 14:42:16,463 Account information
+2020-12-29 14:42:17,853 Deposit information
+2020-12-29 14:42:18,157 Portfolio information
+2020-12-29 14:44:29,862 Kiwoom initializing...
+2020-12-29 14:44:34,321 Kiwoom log in success
+2020-12-29 14:44:34,322 Account information
+2020-12-29 14:44:34,824 Deposit information
+2020-12-29 14:44:35,760 Portfolio information
+2020-12-29 14:44:38,328 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 14:44:53,512 Kiwoom initializing...
+2020-12-29 14:44:58,495 Kiwoom log in success
+2020-12-29 14:44:58,495 Account information
+2020-12-29 14:44:59,012 Deposit information
+2020-12-29 14:45:00,027 Portfolio information
+2020-12-29 14:45:06,021 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 14:45:39,287 Kiwoom initializing...
+2020-12-29 14:45:44,190 Kiwoom log in success
+2020-12-29 14:45:44,191 Account information
+2020-12-29 14:45:44,703 Deposit information
+2020-12-29 14:45:46,296 Portfolio information
+2020-12-29 14:45:55,745 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 14:50:28,560 Kiwoom initializing...
+2020-12-29 14:50:33,061 Kiwoom log in success
+2020-12-29 14:50:33,062 Account information
+2020-12-29 14:50:33,574 Deposit information
+2020-12-29 14:50:34,612 Portfolio information
+2020-12-29 14:50:44,576 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 14:51:01,877 Kiwoom initializing...
+2020-12-29 14:51:17,825 Something is wrong during log-in
+2020-12-29 14:51:17,826 Login error -100
+2020-12-29 14:51:17,827 Account information
+2020-12-29 14:51:17,866 Something is wrong during log-in
+2020-12-29 14:51:17,867 Login error -106
+2020-12-29 14:51:17,897 Something is wrong during log-in
+2020-12-29 14:51:17,897 Login error -106
+2020-12-29 14:51:21,756 Kiwoom initializing...
+2020-12-29 14:51:26,177 Kiwoom log in success
+2020-12-29 14:51:26,178 Account information
+2020-12-29 14:51:26,687 Deposit information
+2020-12-29 14:51:27,453 Portfolio information
+2020-12-29 14:51:28,040 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:03:09,095 Kiwoom initializing...
+2020-12-29 15:03:14,846 Kiwoom log in success
+2020-12-29 15:03:14,846 Account information
+2020-12-29 15:03:16,305 Deposit information
+2020-12-29 15:03:18,092 Portfolio information
+2020-12-29 15:03:24,429 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:03:52,579 Kiwoom initializing...
+2020-12-29 15:03:57,009 Kiwoom log in success
+2020-12-29 15:03:57,009 Account information
+2020-12-29 15:03:57,523 Deposit information
+2020-12-29 15:03:58,359 Portfolio information
+2020-12-29 15:04:08,224 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:04:35,823 Kiwoom initializing...
+2020-12-29 15:04:40,797 Kiwoom log in success
+2020-12-29 15:04:40,797 Account information
+2020-12-29 15:04:41,307 Deposit information
+2020-12-29 15:04:42,473 Portfolio information
+2020-12-29 15:04:43,473 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:05:16,695 Kiwoom initializing...
+2020-12-29 15:05:21,982 Kiwoom log in success
+2020-12-29 15:05:21,983 Account information
+2020-12-29 15:05:23,237 Deposit information
+2020-12-29 15:05:24,221 Portfolio information
+2020-12-29 15:05:24,711 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:05:44,662 Kiwoom initializing...
+2020-12-29 15:05:49,372 Kiwoom log in success
+2020-12-29 15:05:49,373 Account information
+2020-12-29 15:05:49,881 Deposit information
+2020-12-29 15:05:51,393 Portfolio information
+2020-12-29 15:05:53,635 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:06:50,618 Kiwoom initializing...
+2020-12-29 15:06:55,885 Kiwoom log in success
+2020-12-29 15:06:55,886 Account information
+2020-12-29 15:06:56,396 Deposit information
+2020-12-29 15:06:57,245 Portfolio information
+2020-12-29 15:06:57,310 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:08:45,590 Kiwoom initializing...
+2020-12-29 15:08:50,248 Kiwoom log in success
+2020-12-29 15:08:50,249 Account information
+2020-12-29 15:08:50,765 Deposit information
+2020-12-29 15:08:51,716 Portfolio information
+2020-12-29 15:09:14,959 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:13:30,531 Kiwoom initializing...
+2020-12-29 15:13:35,664 Kiwoom log in success
+2020-12-29 15:13:35,665 Account information
+2020-12-29 15:13:36,176 Deposit information
+2020-12-29 15:13:37,702 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:13:38,758 Portfolio information
+2020-12-29 15:15:47,419 Kiwoom initializing...
+2020-12-29 15:16:01,427 Kiwoom log in success
+2020-12-29 15:16:01,428 Account information
+2020-12-29 15:16:01,932 Deposit information
+2020-12-29 15:16:02,797 Portfolio information
+2020-12-29 15:16:04,184 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:17:04,682 Kiwoom initializing...
+2020-12-29 15:17:09,154 Kiwoom log in success
+2020-12-29 15:17:09,154 Account information
+2020-12-29 15:17:09,661 Deposit information
+2020-12-29 15:17:11,149 Portfolio information
+2020-12-29 15:17:12,414 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 15:17:12,849 Chart from request
+2020-12-29 15:18:26,263 Running algorithm started
+2020-12-29 15:18:27,500 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:194065, original number:0
+2020-12-29 15:18:27,559 Order history information
+2020-12-29 15:19:59,137 market operation state 2 152000 001000
+2020-12-29 15:20:59,025 market operation state 2 152100 000900
+2020-12-29 15:21:59,029 market operation state 2 152200 000800
+2020-12-29 15:22:59,033 market operation state 2 152300 000700
+2020-12-29 15:23:59,020 market operation state 2 152400 000600
+2020-12-29 15:24:59,023 market operation state 2 152500 000500
+2020-12-29 15:25:59,031 market operation state 2 152600 000400
+2020-12-29 15:26:59,114 market operation state 2 152700 000300
+2020-12-29 15:27:59,014 market operation state 2 152800 000200
+2020-12-29 15:28:59,117 market operation state 2 152900 000100
+2020-12-29 15:29:09,018 market operation state 2 152910 000050
+2020-12-29 15:29:19,017 market operation state 2 152920 000040
+2020-12-29 15:29:29,012 market operation state 2 152930 000030
+2020-12-29 15:29:39,012 market operation state 2 152940 000020
+2020-12-29 15:29:49,020 market operation state 2 152950 000010
+2020-12-29 15:29:59,009 market operation state 4 153000 000000
+2020-12-29 15:32:19,009 market operation state 8 888888 000000
+2020-12-29 15:34:59,512 market operation state s 153500 000000
+2020-12-29 15:34:59,512 market operation state s 153500 000000
+2020-12-29 15:34:59,512 market operation state s 153500 000000
+2020-12-29 15:34:59,601 market operation state s 153500 000000
+2020-12-29 15:34:59,602 market operation state s 153500 000000
+2020-12-29 15:34:59,602 market operation state s 153500 000000
+2020-12-29 15:34:59,602 market operation state s 153500 000000
+2020-12-29 15:34:59,602 market operation state s 153500 000000
+2020-12-29 15:34:59,603 market operation state s 153500 000000
+2020-12-29 15:34:59,603 market operation state s 153500 000000
+2020-12-29 15:34:59,604 market operation state s 153500 000000
+2020-12-29 15:34:59,604 market operation state s 153500 000000
+2020-12-29 15:34:59,604 market operation state s 153500 000000
+2020-12-29 15:34:59,605 market operation state s 153500 000000
+2020-12-29 15:34:59,605 market operation state s 153500 000000
+2020-12-29 15:34:59,708 market operation state s 153500 000000
+2020-12-29 15:34:59,709 market operation state s 153500 000000
+2020-12-29 15:39:59,860 market operation state a 154000 000000
+2020-12-29 15:44:59,692 market operation state e 154500 000000
+2020-12-29 15:44:59,693 market operation state e 154500 000000
+2020-12-29 15:44:59,784 market operation state e 154500 000000
+2020-12-29 15:44:59,890 market operation state e 154500 000000
+2020-12-29 15:44:59,891 market operation state e 154500 000000
+2020-12-29 15:44:59,997 market operation state e 154500 000000
+2020-12-29 15:44:59,997 market operation state e 154500 000000
+2020-12-29 15:45:00,088 market operation state e 154500 000000
+2020-12-29 15:45:00,089 market operation state e 154500 000000
+2020-12-29 15:45:00,197 market operation state e 154500 000000
+2020-12-29 15:45:00,288 market operation state e 154500 000000
+2020-12-29 15:45:00,288 market operation state e 154500 000000
+2020-12-29 15:45:00,594 market operation state e 154500 000000
+2020-12-29 15:45:00,899 market operation state e 154500 000000
+2020-12-29 15:45:01,098 market operation state e 154500 000000
+2020-12-29 15:45:01,295 market operation state e 154500 000000
+2020-12-29 15:45:01,295 market operation state e 154500 000000
+2020-12-29 15:59:59,764 market operation state b 160000 000000
+2020-12-29 15:59:59,765 market operation state c 160000 000000
+2020-12-29 17:59:59,574 market operation state d 180000 000000
+2020-12-29 18:01:18,777 market operation state 9 999999 000000
+2020-12-29 20:15:11,759 Kiwoom initializing...
+2020-12-29 20:15:28,144 Kiwoom log in success
+2020-12-29 20:15:28,145 Account information
+2020-12-29 20:15:28,652 Deposit information
+2020-12-29 20:15:29,619 Portfolio information
+2020-12-29 20:15:34,330 KODEX 레버리지 trading information begins to be monitored
+2020-12-29 20:23:54,447 Kiwoom initializing...
+2020-12-29 20:23:59,090 Kiwoom log in success
+2020-12-29 20:23:59,090 Account information
+2020-12-29 20:23:59,607 Deposit information
+2020-12-29 20:24:00,671 Portfolio information
+2020-12-29 20:24:21,188 Kiwoom initializing...
+2020-12-29 20:24:25,820 Kiwoom log in success
+2020-12-29 20:24:25,821 Account information
+2020-12-29 20:24:26,336 Deposit information
+2020-12-29 20:24:27,206 Portfolio information
+2020-12-29 20:24:46,289 Kiwoom initializing...
+2020-12-29 20:24:50,948 Kiwoom log in success
+2020-12-29 20:24:50,949 Account information
+2020-12-29 20:24:51,457 Deposit information
+2020-12-29 20:24:52,266 Portfolio information
+2020-12-29 20:25:02,445 Kiwoom initializing...
+2020-12-29 20:25:06,897 Kiwoom log in success
+2020-12-29 20:25:06,897 Account information
+2020-12-29 20:25:07,409 Deposit information
+2020-12-29 20:25:08,221 Portfolio information
+2020-12-29 20:28:04,120 Kiwoom initializing...
+2020-12-29 20:28:08,759 Kiwoom log in success
+2020-12-29 20:28:08,760 Account information
+2020-12-29 20:28:09,267 Deposit information
+2020-12-29 20:28:10,175 Portfolio information
+2020-12-29 20:29:57,534 Kiwoom initializing...
+2020-12-29 20:30:02,039 Kiwoom log in success
+2020-12-29 20:30:02,039 Account information
+2020-12-29 20:30:02,556 Deposit information
+2020-12-29 20:30:03,444 Portfolio information
+2020-12-29 20:30:50,361 Kiwoom initializing...
+2020-12-29 20:30:54,881 Kiwoom log in success
+2020-12-29 20:30:54,882 Account information
+2020-12-29 20:30:55,397 Deposit information
+2020-12-29 20:30:56,224 Portfolio information
+2020-12-29 20:34:33,164 Kiwoom initializing...
+2020-12-29 20:44:58,001 Kiwoom initializing...
+2020-12-29 20:45:06,628 Kiwoom log in success
+2020-12-29 20:45:06,629 Account information
+2020-12-29 20:45:07,136 Deposit information
+2020-12-29 20:45:08,158 Portfolio information
+2020-12-29 20:45:52,050 Go chart KODEX 레버리지
+2020-12-29 20:45:52,328 Chart from request
+2020-12-29 20:50:23,199 Go chart KODEX 레버리지
+2020-12-29 20:50:23,454 Chart from request
+2020-12-29 20:50:27,123 Go chart KODEX 레버리지
+2020-12-29 20:50:27,376 Chart from request
+2020-12-29 20:50:55,166 Kiwoom initializing...
+2020-12-29 20:50:59,721 Kiwoom log in success
+2020-12-29 20:50:59,721 Account information
+2020-12-29 20:51:00,233 Deposit information
+2020-12-29 20:51:01,144 Portfolio information
+2020-12-29 20:51:09,697 Go chart KODEX 레버리지
+2020-12-29 20:51:09,941 Chart from request
+2020-12-29 20:51:13,869 Go chart KODEX 레버리지
+2020-12-29 20:51:14,091 Chart from request
+2020-12-29 20:53:10,495 Kiwoom initializing...
+2020-12-29 20:53:15,159 Kiwoom log in success
+2020-12-29 20:53:15,159 Account information
+2020-12-29 20:53:15,669 Deposit information
+2020-12-29 20:53:16,432 Portfolio information
+2020-12-29 20:53:24,864 Chart KODEX 레버리지
+2020-12-29 20:54:46,831 Chart KODEX 200선물인버스2X
+2020-12-29 20:54:55,811 Chart 오스템임플란트
+2020-12-29 20:55:06,408 Chart F 202103
+2020-12-29 20:55:14,305 Chart KODEX 레버리지
+2020-12-29 20:55:20,131 Chart KODEX 200선물인버스2X
+2020-12-29 20:55:26,502 Chart KODEX 레버리지
+2020-12-29 21:00:10,833 Kiwoom initializing...
+2020-12-29 21:00:19,701 Kiwoom log in success
+2020-12-29 21:00:19,701 Account information
+2020-12-29 21:00:20,217 Deposit information
+2020-12-29 21:00:21,348 Portfolio information
+2020-12-29 21:00:24,513 Order history information
+2020-12-29 21:00:30,326 Running algorithm started
+2020-12-29 21:00:33,714 Chart KODEX 레버리지
+2020-12-29 21:08:15,159 Kiwoom initializing...
+2020-12-29 21:08:19,853 Kiwoom log in success
+2020-12-29 21:08:19,853 Account information
+2020-12-29 21:08:20,360 Deposit information
+2020-12-29 21:08:21,253 Portfolio information
+2020-12-29 21:08:23,598 Order history information
+2020-12-29 21:08:26,370 Chart KODEX 레버리지

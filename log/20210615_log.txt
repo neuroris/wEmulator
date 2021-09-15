@@ -1,0 +1,233 @@
+2021-06-15 09:45:28,059 Kiwoom initializing...
+2021-06-15 09:46:02,776 Kiwoom log in success
+2021-06-15 09:46:02,777 Account information
+2021-06-15 09:46:03,295 Deposit information (Futures)
+2021-06-15 09:46:03,807 Portfolio information (Futures) (No item found)
+2021-06-15 09:46:04,309 Deposit information (Futures)
+2021-06-15 09:46:04,573 Portfolio information (Futures) (No item found)
+2021-06-15 09:46:25,724 Deposit information
+2021-06-15 09:46:28,443 Portfolio information (No item found)
+2021-06-15 09:46:45,979 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-06-15 09:46:46,043 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:100, executed_sum:0, open:100, price:0, number:46980, original:0
+2021-06-15 09:46:46,247 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:100, executed_sum:10, open:90, price:0, number:46980, original:0
+2021-06-15 09:46:46,249 Balance information
+2021-06-15 09:46:46,449 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:100, executed_sum:37, open:63, price:0, number:46980, original:0
+2021-06-15 09:46:46,451 Balance information
+2021-06-15 09:46:49,546 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:100, executed_sum:100, open:0, price:0, number:46980, original:0
+2021-06-15 09:46:49,548 Balance information
+2021-06-15 09:46:58,623 Deposit information (Futures)
+2021-06-15 09:46:58,638 Portfolio information (Futures) (No item found)
+2021-06-15 09:47:10,595 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-06-15 09:47:10,751 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:11010, original:0
+2021-06-15 09:47:10,753 Balance information
+2021-06-15 09:47:11,945 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:11010, original:0
+2021-06-15 09:47:11,947 Balance information
+2021-06-15 09:47:23,931 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-06-15 09:47:24,144 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:11055, original:0
+2021-06-15 09:47:24,146 Balance information
+2021-06-15 09:47:24,847 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:11055, original:0
+2021-06-15 09:47:24,849 Balance information
+2021-06-15 09:47:39,617 F 202109 trading information begins to be monitored
+2021-06-15 09:47:39,617 Go Charting F 202109
+2021-06-15 09:47:54,069 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-06-15 09:47:54,340 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:11108, original:0
+2021-06-15 09:47:54,342 Balance information
+2021-06-15 09:47:59,544 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:11108, original:0
+2021-06-15 09:47:59,547 Balance information
+2021-06-15 09:48:25,489 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-06-15 09:48:25,750 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:11147, original:0
+2021-06-15 09:48:25,752 Balance information
+2021-06-15 09:48:26,540 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:11147, original:0
+2021-06-15 09:48:26,543 Balance information
+2021-06-15 09:48:35,209 [93mALGORITHM STARTED [97m
+2021-06-15 09:48:51,780 Kiwoom initializing...
+2021-06-15 09:48:57,121 Kiwoom log in success
+2021-06-15 09:48:57,122 Account information
+2021-06-15 09:48:57,639 Deposit information (Futures)
+2021-06-15 09:48:58,144 Portfolio information (Futures) (No item found)
+2021-06-15 09:48:58,645 Deposit information (Futures)
+2021-06-15 09:48:58,666 Portfolio information (Futures) (No item found)
+2021-06-15 09:49:35,454 [93mALGORITHM STARTED [97m
+2021-06-15 09:50:37,588 [93mALGORITHM Situation 4 [97m
+2021-06-15 09:51:34,583 [93mALGORITHM Situation 1 [97m
+2021-06-15 09:52:05,873 [93mALGORITHM Situation 4 [97m
+2021-06-15 09:57:08,470 [93mALGORITHM Situation 1 [97m
+2021-06-15 09:59:24,064 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:02:08,764 [93mALGORITHM Situation 1 [97m
+2021-06-15 10:12:41,519 Kiwoom initializing...
+2021-06-15 10:12:55,550 Kiwoom log in success
+2021-06-15 10:12:55,550 Account information
+2021-06-15 10:12:56,059 Deposit information (Futures)
+2021-06-15 10:12:56,092 Portfolio information (Futures) (No item found)
+2021-06-15 10:18:08,038 Kiwoom initializing...
+2021-06-15 10:18:19,571 Kiwoom log in success
+2021-06-15 10:18:19,572 Account information
+2021-06-15 10:18:20,080 Deposit information (Futures)
+2021-06-15 10:18:20,111 Portfolio information (Futures) (No item found)
+2021-06-15 10:20:45,898 [93mALGORITHM STARTED [97m
+2021-06-15 10:33:03,608 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:39:03,501 [93mALGORITHM Situation 1 [97m
+2021-06-15 10:41:38,199 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:41:52,488 [93mALGORITHM Situation 1 [97m
+2021-06-15 10:42:46,387 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:44:33,990 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:52:11,567 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:55:01,971 [93mALGORITHM Situation 4 [97m
+2021-06-15 10:55:46,768 [93mALGORITHM Situation 1 [97m
+2021-06-15 11:00:00,773 [93mALGORITHM Situation 4 [97m
+2021-06-15 11:02:20,552 [93mALGORITHM Situation 4 [97m
+2021-06-15 11:03:45,145 [93mALGORITHM Situation 1 [97m
+2021-06-15 11:09:25,447 [93mALGORITHM Situation 1 [97m
+2021-06-15 11:10:30,240 [93mALGORITHM Situation 4 [97m
+2021-06-15 11:12:24,537 [93mALGORITHM Situation 1 [97m
+2021-06-15 11:16:51,225 [93mALGORITHM Situation 4 [97m
+2021-06-15 11:20:29,020 [93mALGORITHM Situation 4 [97m
+2021-06-15 11:23:32,511 [93mALGORITHM Situation 1 [97m
+2021-06-15 11:37:04,880 [93mALGORITHM Situation 1 [97m
+2021-06-15 11:47:13,073 [93mALGORITHM Situation 1 [97m
+2021-06-15 12:00:38,448 [93mALGORITHM Situation 4 [97m
+2021-06-15 12:01:53,347 [93mALGORITHM Situation 1 [97m
+2021-06-15 12:06:45,731 [93mALGORITHM Situation 1 [97m
+2021-06-15 12:28:45,586 [93mALGORITHM Situation 1 [97m
+2021-06-15 12:40:43,964 [93mALGORITHM Situation 4 [97m
+2021-06-15 12:46:14,049 [93mALGORITHM Situation 1 [97m
+2021-06-15 12:48:45,663 [93mALGORITHM Situation 4 [97m
+2021-06-15 13:48:11,837 [93mALGORITHM Situation 1 [97m
+2021-06-15 14:09:02,323 [93mALGORITHM Situation 4 [97m
+2021-06-15 14:28:01,967 [93mALGORITHM Situation 4 [97m
+2021-06-15 14:43:49,931 [93mALGORITHM Situation 1 [97m
+2021-06-15 14:51:36,521 [93mALGORITHM STOPPED [97m
+2021-06-15 14:51:36,533 Go Charting F 202109
+2021-06-15 14:51:49,023 Kiwoom initializing...
+2021-06-15 14:51:57,202 Kiwoom log in success
+2021-06-15 14:51:57,202 Account information
+2021-06-15 14:51:57,707 Deposit information (Futures)
+2021-06-15 14:51:57,730 Portfolio information (Futures) (No item found)
+2021-06-15 14:52:11,509 F 202109 trading information begins to be monitored
+2021-06-15 14:52:11,510 Go Charting F 202109
+2021-06-15 14:52:22,210 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-06-15 14:52:22,321 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:20, executed_sum:0, open:20, price:0.0, number:39364, original:0
+2021-06-15 14:52:22,322 Balance information
+2021-06-15 14:52:24,921 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:1, open:19, price:0.0, number:39364, original:0
+2021-06-15 14:52:24,923 Balance information
+2021-06-15 14:52:29,924 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:3, open:17, price:0.0, number:39364, original:0
+2021-06-15 14:52:29,927 Balance information
+2021-06-15 14:52:32,125 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:4, open:16, price:0.0, number:39364, original:0
+2021-06-15 14:52:32,128 Balance information
+2021-06-15 14:52:34,534 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:5, open:15, price:0.0, number:39364, original:0
+2021-06-15 14:52:34,537 Balance information
+2021-06-15 14:52:36,722 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:6, open:14, price:0.0, number:39364, original:0
+2021-06-15 14:52:36,725 Balance information
+2021-06-15 14:52:39,925 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:7, open:13, price:0.0, number:39364, original:0
+2021-06-15 14:52:39,928 Balance information
+2021-06-15 14:52:47,725 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:8, open:12, price:0.0, number:39364, original:0
+2021-06-15 14:52:47,728 Balance information
+2021-06-15 14:52:49,118 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:9, open:11, price:0.0, number:39364, original:0
+2021-06-15 14:52:49,121 Balance information
+2021-06-15 14:52:52,519 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:10, open:10, price:0.0, number:39364, original:0
+2021-06-15 14:52:52,522 Balance information
+2021-06-15 14:52:55,915 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:11, open:9, price:0.0, number:39364, original:0
+2021-06-15 14:52:55,918 Balance information
+2021-06-15 14:52:57,121 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:12, open:8, price:0.0, number:39364, original:0
+2021-06-15 14:52:57,125 Balance information
+2021-06-15 14:52:57,127 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:13, open:7, price:0.0, number:39364, original:0
+2021-06-15 14:52:57,130 Balance information
+2021-06-15 14:52:59,319 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:15, open:5, price:0.0, number:39364, original:0
+2021-06-15 14:52:59,324 Balance information
+2021-06-15 14:53:01,922 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:17, open:3, price:0.0, number:39364, original:0
+2021-06-15 14:53:01,926 Balance information
+2021-06-15 14:53:02,316 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:18, open:2, price:0.0, number:39364, original:0
+2021-06-15 14:53:02,320 Balance information
+2021-06-15 14:53:02,726 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:20, executed_sum:20, open:0, price:0.0, number:39364, original:0
+2021-06-15 14:53:02,730 Balance information
+2021-06-15 14:54:52,453 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-15 14:54:52,513 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:39493, original:0
+2021-06-15 14:54:52,515 Balance information
+2021-06-15 14:54:54,116 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:39493, original:0
+2021-06-15 14:54:54,121 Balance information
+2021-06-15 14:55:07,349 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-15 14:55:07,519 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:433.0, number:39515, original:0
+2021-06-15 14:55:07,521 Balance information
+2021-06-15 14:55:08,920 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:433.0, number:39515, original:0
+2021-06-15 14:55:08,926 Balance information
+2021-06-15 14:55:12,836 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-15 14:55:12,915 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:18, executed_sum:0, open:18, price:433.0, number:39521, original:0
+2021-06-15 14:55:12,916 Balance information
+2021-06-15 14:55:29,515 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:18, executed_sum:6, open:12, price:433.0, number:39521, original:0
+2021-06-15 14:55:29,520 Balance information
+2021-06-15 14:55:31,544 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:18, executed_sum:7, open:11, price:433.0, number:39521, original:0
+2021-06-15 14:55:31,550 Balance information
+2021-06-15 14:55:41,114 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:18, executed_sum:8, open:10, price:433.0, number:39521, original:0
+2021-06-15 14:55:41,119 Balance information
+2021-06-15 14:55:50,917 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:18, executed_sum:9, open:9, price:433.0, number:39521, original:0
+2021-06-15 14:55:50,921 Balance information
+2021-06-15 14:55:55,709 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:18, executed_sum:10, open:8, price:433.0, number:39521, original:0
+2021-06-15 14:55:55,713 Balance information
+2021-06-15 14:55:55,920 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:18, executed_sum:18, open:0, price:433.0, number:39521, original:0
+2021-06-15 14:55:55,922 Balance information
+2021-06-15 15:19:59,676 market operation state 2 152000 001000
+2021-06-15 15:20:59,671 market operation state 2 152100 000900
+2021-06-15 15:21:59,668 market operation state 2 152200 000800
+2021-06-15 15:22:59,657 market operation state 2 152300 000700
+2021-06-15 15:23:59,666 market operation state 2 152400 000600
+2021-06-15 15:24:59,653 market operation state 2 152500 000500
+2021-06-15 15:25:59,655 market operation state 2 152600 000400
+2021-06-15 15:26:59,681 market operation state 2 152700 000300
+2021-06-15 15:27:59,686 market operation state 2 152800 000200
+2021-06-15 15:28:59,658 market operation state 2 152900 000100
+2021-06-15 15:29:09,654 market operation state 2 152910 000050
+2021-06-15 15:29:19,686 market operation state 2 152920 000040
+2021-06-15 15:29:29,650 market operation state 2 152930 000030
+2021-06-15 15:29:39,652 market operation state 2 152940 000020
+2021-06-15 15:29:49,650 market operation state 2 152950 000010
+2021-06-15 15:29:59,788 market operation state 4 153000 000000
+2021-06-15 15:30:39,648 market operation state 8 888888 000000
+2021-06-15 15:35:00,544 market operation state s 153500 000000
+2021-06-15 15:35:00,544 market operation state s 153500 000000
+2021-06-15 15:35:00,545 market operation state s 153500 000000
+2021-06-15 15:35:00,545 market operation state s 153500 000000
+2021-06-15 15:35:00,545 market operation state s 153500 000000
+2021-06-15 15:35:00,633 market operation state s 153500 000000
+2021-06-15 15:35:00,634 market operation state s 153500 000000
+2021-06-15 15:35:00,634 market operation state s 153500 000000
+2021-06-15 15:35:00,635 market operation state s 153500 000000
+2021-06-15 15:35:00,635 market operation state s 153500 000000
+2021-06-15 15:35:00,635 market operation state s 153500 000000
+2021-06-15 15:35:00,635 market operation state s 153500 000000
+2021-06-15 15:35:00,636 market operation state s 153500 000000
+2021-06-15 15:35:00,738 market operation state s 153500 000000
+2021-06-15 15:35:00,739 market operation state s 153500 000000
+2021-06-15 15:35:00,739 market operation state s 153500 000000
+2021-06-15 15:35:00,739 market operation state s 153500 000000
+2021-06-15 15:40:00,226 market operation state a 154000 000000
+2021-06-15 15:45:00,824 market operation state e 154500 000000
+2021-06-15 15:45:00,824 market operation state e 154500 000000
+2021-06-15 15:45:00,914 market operation state e 154500 000000
+2021-06-15 15:45:01,020 market operation state e 154500 000000
+2021-06-15 15:45:01,021 market operation state e 154500 000000
+2021-06-15 15:45:01,127 market operation state e 154500 000000
+2021-06-15 15:45:01,219 market operation state e 154500 000000
+2021-06-15 15:45:01,220 market operation state e 154500 000000
+2021-06-15 15:45:01,327 market operation state e 154500 000000
+2021-06-15 15:45:01,328 market operation state e 154500 000000
+2021-06-15 15:45:01,418 market operation state e 154500 000000
+2021-06-15 15:45:01,419 market operation state e 154500 000000
+2021-06-15 15:45:01,724 market operation state e 154500 000000
+2021-06-15 15:45:01,918 market operation state e 154500 000000
+2021-06-15 15:45:02,114 market operation state e 154500 000000
+2021-06-15 15:45:02,326 market operation state e 154500 000000
+2021-06-15 15:45:02,327 market operation state e 154500 000000
+2021-06-15 15:57:43,840 Kiwoom initializing...
+2021-06-15 15:57:49,147 Kiwoom log in success
+2021-06-15 15:57:49,147 Account information
+2021-06-15 15:57:49,653 Deposit information (Futures)
+2021-06-15 15:57:49,675 Portfolio information (Futures) (No item found)
+2021-06-15 15:58:42,093 Kiwoom initializing...
+2021-06-15 15:58:46,990 Kiwoom log in success
+2021-06-15 15:58:46,991 Account information
+2021-06-15 15:58:47,494 Deposit information (Futures)
+2021-06-15 15:58:47,523 Portfolio information (Futures) (No item found)
+2021-06-15 16:00:00,242 market operation state b 160000 000000
+2021-06-15 16:00:00,242 market operation state c 160000 000000
+2021-06-15 18:00:00,026 market operation state d 180000 000000
+2021-06-15 18:01:19,314 market operation state 9 999999 000000

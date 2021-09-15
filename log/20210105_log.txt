@@ -1,0 +1,258 @@
+2021-01-05 09:49:48,372 Kiwoom initializing...
+2021-01-05 09:50:21,717 Kiwoom log in success
+2021-01-05 09:50:21,718 Account information
+2021-01-05 09:50:22,225 Deposit information
+2021-01-05 09:50:23,436 Portfolio information
+2021-01-05 09:50:34,040 Go Charting KODEX 레버리지
+2021-01-05 09:50:39,459 KODEX 레버리지 trading information begins to be monitored
+2021-01-05 10:04:17,638 Kiwoom initializing...
+2021-01-05 10:04:29,730 Kiwoom log in success
+2021-01-05 10:04:29,731 Account information
+2021-01-05 10:04:31,910 Deposit information
+2021-01-05 10:04:33,413 Portfolio information
+2021-01-05 10:04:43,764 Go Charting KODEX 레버리지
+2021-01-05 10:04:44,886 KODEX 레버리지 trading information begins to be monitored
+2021-01-05 12:32:26,757 Kiwoom initializing...
+2021-01-05 12:32:38,313 Kiwoom log in success
+2021-01-05 12:32:38,313 Account information
+2021-01-05 12:32:38,954 Deposit information
+2021-01-05 12:32:40,892 Portfolio information
+2021-01-05 12:33:48,458 Kiwoom initializing...
+2021-01-05 12:33:55,559 Kiwoom log in success
+2021-01-05 12:33:55,560 Account information
+2021-01-05 12:33:56,937 Deposit information
+2021-01-05 12:34:06,339 Kiwoom initializing...
+2021-01-05 12:34:14,668 Kiwoom log in success
+2021-01-05 12:34:14,668 Account information
+2021-01-05 12:34:15,914 Deposit information
+2021-01-05 12:36:03,660 오스템임플란트 trading information begins to be monitored
+2021-01-05 12:37:28,293 Go Charting 오스템임플란트
+2021-01-05 12:37:59,565 Kiwoom initializing...
+2021-01-05 12:38:09,123 Kiwoom log in success
+2021-01-05 12:38:09,123 Account information
+2021-01-05 12:38:09,633 Deposit information
+2021-01-05 12:38:55,165 Kiwoom initializing...
+2021-01-05 12:38:59,878 Kiwoom log in success
+2021-01-05 12:40:10,149 Kiwoom initializing...
+2021-01-05 12:40:14,901 Kiwoom log in success
+2021-01-05 12:40:14,902 Account information
+2021-01-05 12:40:15,417 Deposit information
+2021-01-05 12:45:35,709 Kiwoom initializing...
+2021-01-05 12:45:42,914 Kiwoom log in success
+2021-01-05 12:45:42,915 Account information
+2021-01-05 12:45:44,161 Deposit information
+2021-01-05 12:49:56,756 Kiwoom initializing...
+2021-01-05 12:50:01,369 Kiwoom log in success
+2021-01-05 12:50:01,369 Account information
+2021-01-05 12:50:01,886 Deposit information
+2021-01-05 12:51:04,092 Order execution 오스템임플란트(접수), order:10, executed:0, order number:157198, original number:0
+2021-01-05 12:51:05,600 Balance information
+2021-01-05 12:51:06,131 Deposit information
+2021-01-05 12:51:16,433 Kiwoom initializing...
+2021-01-05 12:51:22,049 Kiwoom log in success
+2021-01-05 12:51:22,049 Account information
+2021-01-05 12:51:22,567 Deposit information
+2021-01-05 12:51:47,189 Order execution 오스템임플란트(접수), order:10, executed:0, order number:157621, original number:0
+2021-01-05 12:51:47,191 Balance information
+2021-01-05 12:51:48,739 Order history information
+2021-01-05 12:51:49,675 Deposit information
+2021-01-05 12:53:00,123 Kiwoom initializing...
+2021-01-05 12:53:04,910 Kiwoom log in success
+2021-01-05 12:53:04,911 Account information
+2021-01-05 12:53:05,425 Deposit information
+2021-01-05 12:53:06,604 Portfolio information
+2021-01-05 12:53:59,348 Order execution 오스템임플란트(접수), order:10, executed:0, order number:158597, original number:0
+2021-01-05 12:53:59,349 Balance information
+2021-01-05 12:54:00,370 Portfolio information
+2021-01-05 12:54:00,886 Deposit information
+2021-01-05 12:54:00,919 Order history information
+2021-01-05 12:54:44,541 Order execution 오스템임플란트(접수), order:10, executed:0, order number:158844, original number:0
+2021-01-05 12:54:44,542 Balance information
+2021-01-05 12:54:45,544 Deposit information
+2021-01-05 12:54:46,054 Portfolio information
+2021-01-05 12:54:46,087 Order history information
+2021-01-05 12:54:47,543 Order execution 오스템임플란트(체결), order:10, executed:-1, order number:158844, original number:0
+2021-01-05 12:54:47,545 Balance information
+2021-01-05 12:54:48,564 Deposit information
+2021-01-05 12:54:49,082 Portfolio information
+2021-01-05 12:54:49,114 Order history information
+2021-01-05 12:55:02,354 Order execution 오스템임플란트(체결), order:10, executed:-5, order number:158844, original number:0
+2021-01-05 12:55:02,355 Balance information
+2021-01-05 12:55:03,374 Deposit information
+2021-01-05 12:55:03,918 Order history information
+2021-01-05 12:55:03,925 Portfolio information
+2021-01-05 12:55:09,651 Order execution 오스템임플란트(체결), order:10, executed:-10, order number:158844, original number:0
+2021-01-05 12:55:09,652 Balance information
+2021-01-05 12:55:10,665 Deposit information
+2021-01-05 12:55:11,182 Portfolio information
+2021-01-05 12:55:11,210 Order history information
+2021-01-05 12:56:45,742 Order execution 오스템임플란트(체결), order:10, executed:-10, order number:155890, original number:0
+2021-01-05 12:56:45,743 Balance information
+2021-01-05 12:56:47,303 Order history information
+2021-01-05 12:56:47,408 Deposit information
+2021-01-05 12:56:48,768 Portfolio information
+2021-01-05 12:59:00,843 Kiwoom initializing...
+2021-01-05 12:59:05,459 Kiwoom log in success
+2021-01-05 12:59:05,460 Account information
+2021-01-05 12:59:05,980 Deposit information
+2021-01-05 12:59:06,163 Portfolio information
+2021-01-05 14:17:26,294 Order execution 오스템임플란트(접수), order:10, executed:0, order number:200510, original number:0
+2021-01-05 14:17:27,100 Balance information
+2021-01-05 14:17:27,625 Order history information
+2021-01-05 14:17:36,881 Kiwoom initializing...
+2021-01-05 14:18:00,773 Kiwoom initializing...
+2021-01-05 14:18:13,564 Kiwoom log in success
+2021-01-05 14:18:13,564 Account information
+2021-01-05 14:18:15,243 Deposit information
+2021-01-05 14:18:17,865 Portfolio information
+2021-01-05 14:18:53,337 Order execution 오스템임플란트(접수), order:1, executed:0, order number:201275, original number:0
+2021-01-05 14:18:53,338 Balance information
+2021-01-05 14:18:54,902 Order history information
+2021-01-05 14:18:56,226 Deposit information
+2021-01-05 14:18:58,176 Portfolio information
+2021-01-05 14:19:03,230 Order execution 오스템임플란트(체결), order:1, executed:1, order number:201275, original number:0
+2021-01-05 14:19:03,231 Balance information
+2021-01-05 14:19:04,786 Order history information
+2021-01-05 14:19:04,789 Deposit information
+2021-01-05 14:19:06,486 Portfolio information
+2021-01-05 14:20:31,320 Order execution 오스템임플란트(접수), order:10, executed:0, order number:201961, original number:0
+2021-01-05 14:20:31,321 Balance information
+2021-01-05 14:20:32,325 Portfolio information
+2021-01-05 14:20:32,329 Deposit information
+2021-01-05 14:20:32,859 Order history information
+2021-01-05 14:20:47,930 오스템임플란트 trading information begins to be monitored
+2021-01-05 14:20:50,329 Order execution 오스템임플란트(체결), order:10, executed:1, order number:201961, original number:0
+2021-01-05 14:20:50,330 Balance information
+2021-01-05 14:20:51,331 Portfolio information
+2021-01-05 14:20:51,335 Deposit information
+2021-01-05 14:20:52,343 Order history information
+2021-01-05 14:20:52,345 Go Charting 오스템임플란트
+2021-01-05 14:20:54,723 Order execution 오스템임플란트(체결), order:10, executed:10, order number:201961, original number:0
+2021-01-05 14:20:54,724 Balance information
+2021-01-05 14:20:55,747 Portfolio information
+2021-01-05 14:20:56,259 Deposit information
+2021-01-05 14:20:56,288 Order history information
+2021-01-05 14:21:35,228 Order execution 오스템임플란트(접수), order:10, executed:0, order number:202454, original number:0
+2021-01-05 14:21:35,760 Order history information
+2021-01-05 14:21:36,503 Portfolio information
+2021-01-05 14:21:40,328 Order execution 오스템임플란트(체결), order:10, executed:3, order number:202454, original number:0
+2021-01-05 14:21:40,329 Balance information
+2021-01-05 14:21:41,855 Deposit information
+2021-01-05 14:21:41,883 Portfolio information
+2021-01-05 14:21:41,894 Order history information
+2021-01-05 14:21:48,135 Order execution 오스템임플란트(체결), order:10, executed:4, order number:202454, original number:0
+2021-01-05 14:21:48,136 Balance information
+2021-01-05 14:21:49,672 Deposit information
+2021-01-05 14:21:50,174 Order execution 오스템임플란트(체결), order:10, executed:7, order number:202454, original number:0
+2021-01-05 14:21:50,175 Balance information
+2021-01-05 14:21:51,705 Order execution 오스템임플란트(체결), order:10, executed:9, order number:202454, original number:0
+2021-01-05 14:21:51,706 Balance information
+2021-01-05 14:21:52,731 Order history information
+2021-01-05 14:21:52,735 Portfolio information
+2021-01-05 14:21:52,768 Deposit information
+2021-01-05 14:21:56,429 Order execution 오스템임플란트(체결), order:10, executed:10, order number:202454, original number:0
+2021-01-05 14:21:56,430 Balance information
+2021-01-05 14:21:57,961 Deposit information
+2021-01-05 14:21:57,990 Order history information
+2021-01-05 14:21:59,977 Portfolio information
+2021-01-05 14:23:33,017 Kiwoom initializing...
+2021-01-05 14:23:40,126 Kiwoom log in success
+2021-01-05 14:23:40,126 Account information
+2021-01-05 14:23:41,164 Deposit information
+2021-01-05 14:23:44,145 Portfolio information
+2021-01-05 14:23:56,369 Order execution 오스템임플란트(접수), order:10, executed:0, order number:203284, original number:0
+2021-01-05 14:23:56,879 Balance information
+2021-01-05 14:23:57,922 Order history information
+2021-01-05 14:24:00,018 Deposit information
+2021-01-05 14:24:00,267 Portfolio information
+2021-01-05 14:24:07,283 Order execution 오스템임플란트(체결), order:10, executed:-10, order number:203284, original number:0
+2021-01-05 14:24:07,284 Balance information
+2021-01-05 14:24:08,813 Deposit information
+2021-01-05 14:24:08,869 Order history information
+2021-01-05 14:24:10,561 Portfolio information
+2021-01-05 14:38:19,057 Kiwoom initializing...
+2021-01-05 14:38:30,717 Kiwoom log in success
+2021-01-05 14:38:30,717 Account information
+2021-01-05 14:38:32,195 Deposit information
+2021-01-05 14:38:33,300 Portfolio information
+2021-01-05 14:38:44,461 Order execution 오스템임플란트(접수), order:10, executed:0, order number:209482, original number:0
+2021-01-05 14:38:45,009 Order history information
+2021-01-05 14:38:46,863 Portfolio information
+2021-01-05 14:38:47,269 Order execution 오스템임플란트(체결), order:10, executed:10, order number:209482, original number:0
+2021-01-05 14:38:47,270 Balance information
+2021-01-05 14:38:48,827 Order history information
+2021-01-05 14:38:48,853 Deposit information
+2021-01-05 14:38:50,909 Portfolio information
+2021-01-05 14:46:55,016 Kiwoom initializing...
+2021-01-05 14:47:21,326 Something is wrong during log-in
+2021-01-05 14:47:21,326 Login error -100
+2021-01-05 14:47:21,327 Account information
+2021-01-05 14:48:14,808 Kiwoom initializing...
+2021-01-05 14:48:19,568 Kiwoom log in success
+2021-01-05 14:48:19,568 Account information
+2021-01-05 14:48:20,079 Deposit information
+2021-01-05 14:48:20,417 Portfolio information
+2021-01-05 14:48:36,935 Order execution 오스템임플란트(접수), order:10, executed:0, order number:212990, original number:0
+2021-01-05 14:48:37,460 Portfolio information
+2021-01-05 14:48:37,487 Order history information
+2021-01-05 14:48:53,639 Order execution 오스템임플란트(체결), order:10, executed:10, order number:212990, original number:0
+2021-01-05 14:48:53,641 Balance information
+2021-01-05 14:48:54,651 Deposit information
+2021-01-05 14:48:55,166 Portfolio information
+2021-01-05 14:48:55,199 Order history information
+2021-01-05 15:19:55,874 market operation state 2 152000 001000
+2021-01-05 15:20:55,873 market operation state 2 152100 000900
+2021-01-05 15:21:55,879 market operation state 2 152200 000800
+2021-01-05 15:22:55,884 market operation state 2 152300 000700
+2021-01-05 15:23:55,874 market operation state 2 152400 000600
+2021-01-05 15:24:55,869 market operation state 2 152500 000500
+2021-01-05 15:25:55,871 market operation state 2 152600 000400
+2021-01-05 15:26:55,868 market operation state 2 152700 000300
+2021-01-05 15:27:55,875 market operation state 2 152800 000200
+2021-01-05 15:28:55,865 market operation state 2 152900 000100
+2021-01-05 15:29:05,860 market operation state 2 152910 000050
+2021-01-05 15:29:15,860 market operation state 2 152920 000040
+2021-01-05 15:29:25,866 market operation state 2 152930 000030
+2021-01-05 15:29:35,862 market operation state 2 152940 000020
+2021-01-05 15:29:45,860 market operation state 2 152950 000010
+2021-01-05 15:29:55,870 market operation state 4 153000 000000
+2021-01-05 15:30:35,857 market operation state 8 888888 000000
+2021-01-05 15:34:56,566 market operation state s 153500 000000
+2021-01-05 15:34:56,567 market operation state s 153500 000000
+2021-01-05 15:34:56,567 market operation state s 153500 000000
+2021-01-05 15:34:56,655 market operation state s 153500 000000
+2021-01-05 15:34:56,656 market operation state s 153500 000000
+2021-01-05 15:34:56,656 market operation state s 153500 000000
+2021-01-05 15:34:56,656 market operation state s 153500 000000
+2021-01-05 15:34:56,657 market operation state s 153500 000000
+2021-01-05 15:34:56,657 market operation state s 153500 000000
+2021-01-05 15:34:56,657 market operation state s 153500 000000
+2021-01-05 15:34:56,657 market operation state s 153500 000000
+2021-01-05 15:34:56,658 market operation state s 153500 000000
+2021-01-05 15:34:56,658 market operation state s 153500 000000
+2021-01-05 15:34:56,763 market operation state s 153500 000000
+2021-01-05 15:34:56,763 market operation state s 153500 000000
+2021-01-05 15:34:56,764 market operation state s 153500 000000
+2021-01-05 15:34:56,764 market operation state s 153500 000000
+2021-01-05 15:39:56,255 market operation state a 154000 000000
+2021-01-05 15:44:56,741 market operation state e 154500 000000
+2021-01-05 15:44:56,848 market operation state e 154500 000000
+2021-01-05 15:44:56,940 market operation state e 154500 000000
+2021-01-05 15:44:56,941 market operation state e 154500 000000
+2021-01-05 15:44:57,049 market operation state e 154500 000000
+2021-01-05 15:44:57,050 market operation state e 154500 000000
+2021-01-05 15:44:57,141 market operation state e 154500 000000
+2021-01-05 15:44:57,235 market operation state e 154500 000000
+2021-01-05 15:44:57,236 market operation state e 154500 000000
+2021-01-05 15:44:57,344 market operation state e 154500 000000
+2021-01-05 15:44:57,434 market operation state e 154500 000000
+2021-01-05 15:44:57,435 market operation state e 154500 000000
+2021-01-05 15:44:57,742 market operation state e 154500 000000
+2021-01-05 15:44:57,941 market operation state e 154500 000000
+2021-01-05 15:44:58,140 market operation state e 154500 000000
+2021-01-05 15:44:58,340 market operation state e 154500 000000
+2021-01-05 15:44:58,449 market operation state e 154500 000000
+2021-01-05 15:59:56,219 market operation state b 160000 000000
+2021-01-05 15:59:56,220 market operation state c 160000 000000
+2021-01-05 17:59:56,034 market operation state d 180000 000000
+2021-01-05 18:01:15,625 market operation state 9 999999 000000

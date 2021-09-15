@@ -1,0 +1,26 @@
+2021-05-15 09:45:08,536 Kiwoom initializing...
+2021-05-15 09:45:26,091 Kiwoom log in success
+2021-05-15 09:45:26,091 Account information
+2021-05-15 09:45:26,604 Deposit information
+2021-05-15 09:45:27,108 Portfolio information
+2021-05-15 09:45:27,614 Deposit information
+2021-05-15 11:26:35,632 Kiwoom initializing...
+2021-05-15 11:26:41,790 Kiwoom log in success
+2021-05-15 11:26:41,790 Account information
+2021-05-15 11:26:42,296 Deposit information
+2021-05-15 11:26:42,800 Portfolio information
+2021-05-15 11:26:43,311 Deposit information
+2021-05-15 11:27:00,401 Kiwoom initializing...
+2021-05-15 11:27:06,421 Kiwoom log in success
+2021-05-15 11:27:06,421 Account information
+2021-05-15 11:27:06,935 Deposit information
+2021-05-15 11:27:07,443 Portfolio information
+2021-05-15 11:27:07,947 Deposit information
+2021-05-15 11:27:07,992 5555555555555555555555555555555555555
+2021-05-15 11:28:37,113 Kiwoom initializing...
+2021-05-15 11:28:42,807 Kiwoom log in success
+2021-05-15 11:28:42,807 Account information
+2021-05-15 11:28:43,318 Deposit information
+2021-05-15 11:28:43,829 Portfolio information
+2021-05-15 11:28:44,331 Deposit information
+2021-05-15 11:28:44,375 5555555555555555555555555555555555555

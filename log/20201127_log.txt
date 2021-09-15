@@ -1,0 +1,290 @@
+2020-11-27 09:58:23,308 Kiwoom log in success
+2020-11-27 09:59:13,382 running algorithm
+2020-11-27 09:59:33,204 Kiwoom log in success
+2020-11-27 09:59:33,204 Account information acquired
+2020-11-27 09:59:33,726 Deposit information acquired
+2020-11-27 09:59:41,109 running algorithm
+2020-11-27 09:59:41,542 order info
+2020-11-27 09:59:41,543 A12263072818 접수 1 19000 1 
+2020-11-27 09:59:41,544 0+매수 
+2020-11-27 09:59:41,545 보통   0 0 
+2020-11-27 09:59:43,246 order info
+2020-11-27 09:59:43,247 A12263072818 체결 1 19000 0 
+2020-11-27 09:59:43,248 0+매수 
+2020-11-27 09:59:43,248 보통181044 18785 1 60 0 
+2020-11-27 09:59:43,251 balance info
+2020-11-27 09:59:43,251 A122630KODEX 레버리지 18785 203 18414 3738045 
+2020-11-27 09:59:43,251 12 0 18755 0.0 
+2020-11-27 09:59:43,252 00.0 
+2020-11-27 11:45:15,881 Kiwoom log in success
+2020-11-27 11:45:15,882 Account information acquired
+2020-11-27 11:45:16,177 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 11:46:49,231 Kiwoom log in success
+2020-11-27 11:46:49,231 Account information acquired
+2020-11-27 11:46:50,396 Deposit information acquired
+2020-11-27 11:47:21,302 Kiwoom log in success
+2020-11-27 11:47:21,302 Account information acquired
+2020-11-27 11:47:22,344 Deposit information acquired
+2020-11-27 11:48:52,567 Kiwoom log in success
+2020-11-27 11:48:52,568 Account information acquired
+2020-11-27 11:48:52,974 Deposit information acquired
+2020-11-27 11:48:55,470 Portfolio information acquired
+2020-11-27 11:48:59,108 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 11:49:06,618 KODEX 인버스2X  stock information begins to be monitored
+2020-11-27 11:51:00,499 Kiwoom log in success
+2020-11-27 11:51:00,500 Account information acquired
+2020-11-27 11:51:00,986 Deposit information acquired
+2020-11-27 11:51:04,982 Portfolio information acquired
+2020-11-27 11:51:10,078 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 11:51:14,715 KODEX 인버스2X  stock information begins to be monitored
+2020-11-27 11:52:13,524 Kiwoom log in success
+2020-11-27 11:52:13,525 Account information acquired
+2020-11-27 11:52:14,373 Deposit information acquired
+2020-11-27 11:52:17,360 Portfolio information acquired
+2020-11-27 11:52:18,779 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 11:52:21,850 KODEX 인버스2X  stock information begins to be monitored
+2020-11-27 11:52:29,501 KODEX 인버스2X  stock information monitoring is finished
+2020-11-27 11:52:35,471 KODEX 레버리지  stock information monitoring is finished
+2020-11-27 11:52:39,757 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 11:52:50,699 KODEX 레버리지  stock information monitoring is finished
+2020-11-27 11:52:52,968 running algorithm
+2020-11-27 11:52:53,616 order info
+2020-11-27 11:52:53,617 A122630 113222 접수 1 19000 1
+2020-11-27 11:52:53,617 0 +매수
+2020-11-27 11:52:53,618 보통    0 0
+2020-11-27 11:52:54,924 order info
+2020-11-27 11:52:54,925 A122630 113222 체결 1 19000 0
+2020-11-27 11:52:54,926 0 +매수
+2020-11-27 11:52:54,926 보통 399582 18735 1 60 0
+2020-11-27 11:52:54,928 balance info
+2020-11-27 11:52:54,928 A122630 KODEX 레버리지 -18735 204 18416 3756780
+2020-11-27 11:52:54,929 2 2 0 18755 0.0
+2020-11-27 11:52:54,929 0 0.0
+2020-11-27 11:56:10,325 Kiwoom log in success
+2020-11-27 11:56:10,325 Account information acquired
+2020-11-27 11:56:11,071 Deposit information acquired
+2020-11-27 11:56:14,554 Portfolio information acquired
+2020-11-27 11:56:19,252 running algorithm
+2020-11-27 11:56:20,357 order info
+2020-11-27 11:56:20,358 A122630 114296 접수 1 19000 1
+2020-11-27 11:56:20,359 0 +매수
+2020-11-27 11:56:20,359 보통    0 0
+2020-11-27 11:56:22,248 order info
+2020-11-27 11:56:22,249 A122630 114296 체결 1 19000 0
+2020-11-27 11:56:22,250 0 +매수
+2020-11-27 11:56:22,250 보통 404598 18735 1 60 0
+2020-11-27 11:56:22,252 balance info
+2020-11-27 11:56:22,252 A122630 KODEX 레버리지 -18735 205 18417 3775515
+2020-11-27 11:56:22,253 3 2 0 18755 0.0
+2020-11-27 11:56:22,253 0 0.0
+2020-11-27 12:08:24,801 Kiwoom log in success
+2020-11-27 12:08:24,802 Account information acquired
+2020-11-27 12:08:24,868 Deposit information acquired
+2020-11-27 12:08:27,210 Portfolio information acquired
+2020-11-27 12:08:29,385 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 12:08:34,052 KODEX 인버스2X  stock information begins to be monitored
+2020-11-27 12:09:18,544 Kiwoom log in success
+2020-11-27 12:09:18,544 Account information acquired
+2020-11-27 12:09:19,283 Deposit information acquired
+2020-11-27 12:09:21,884 Portfolio information acquired
+2020-11-27 12:09:22,342 KODEX 레버리지  stock information begins to be monitored
+2020-11-27 12:09:27,116 KODEX 인버스2X  stock information begins to be monitored
+2020-11-27 12:10:33,517 Kiwoom log in success
+2020-11-27 12:10:33,517 Account information acquired
+2020-11-27 12:10:34,953 Deposit information acquired
+2020-11-27 12:10:38,678 Portfolio information acquired
+2020-11-27 12:11:10,746 KODEX 레버리지 stock information begins to be monitored
+2020-11-27 12:11:13,430 KODEX 인버스2X stock information begins to be monitored
+2020-11-27 12:11:19,328 KODEX 인버스2X stock information monitoring is finished
+2020-11-27 12:11:22,602 KODEX 레버리지 stock information monitoring is finished
+2020-11-27 12:11:27,133 running algorithm
+2020-11-27 12:11:27,336 order info
+2020-11-27 12:11:27,337 A122630 118527 접수 1 19000 1
+2020-11-27 12:11:27,338 0 +매수
+2020-11-27 12:11:27,338 보통    0 0
+2020-11-27 12:11:27,941 order info
+2020-11-27 12:11:27,942 A122630 118527 체결 1 19000 0
+2020-11-27 12:11:27,942 0 +매수
+2020-11-27 12:11:27,942 보통 427132 18690 1 60 0
+2020-11-27 12:11:27,944 balance info
+2020-11-27 12:11:27,944 A122630 KODEX 레버리지 -18690 206 18418 3794205
+2020-11-27 12:11:27,945 4 2 0 18755 0.0
+2020-11-27 12:11:27,945 0 0.0
+2020-11-27 12:13:28,573 Kiwoom log in success
+2020-11-27 12:13:28,573 Account information acquired
+2020-11-27 12:13:28,593 Deposit information acquired
+2020-11-27 12:13:30,950 Portfolio information acquired
+2020-11-27 12:14:39,586 Kiwoom log in success
+2020-11-27 12:14:39,587 Account information acquired
+2020-11-27 12:14:40,257 Deposit information acquired
+2020-11-27 12:14:42,314 Portfolio information acquired
+2020-11-27 12:15:40,087 Kiwoom log in success
+2020-11-27 12:15:40,088 Account information acquired
+2020-11-27 12:15:41,096 Deposit information acquired
+2020-11-27 12:15:44,084 Portfolio information acquired
+2020-11-27 12:38:40,243 Kiwoom log in success
+2020-11-27 12:38:40,243 Account information acquired
+2020-11-27 12:38:40,605 Deposit information acquired
+2020-11-27 12:38:43,099 Portfolio information acquired
+2020-11-27 12:39:03,988 Kiwoom log in success
+2020-11-27 12:39:03,988 Account information acquired
+2020-11-27 12:39:04,017 Deposit information acquired
+2020-11-27 12:39:06,131 Portfolio information acquired
+2020-11-27 12:43:28,397 Kiwoom log in success
+2020-11-27 12:43:28,398 Account information acquired
+2020-11-27 12:43:28,798 Deposit information acquired
+2020-11-27 12:43:31,954 Portfolio information acquired
+2020-11-27 12:47:02,700 Kiwoom log in success
+2020-11-27 12:47:02,700 Account information acquired
+2020-11-27 12:47:03,167 Deposit information acquired
+2020-11-27 12:47:06,050 Portfolio information acquired
+2020-11-27 12:51:44,761 Kiwoom log in success
+2020-11-27 12:51:44,762 Account information acquired
+2020-11-27 12:51:44,946 Deposit information acquired
+2020-11-27 12:51:47,425 Portfolio information acquired
+2020-11-27 12:52:10,401 Kiwoom log in success
+2020-11-27 12:52:10,402 Account information acquired
+2020-11-27 12:52:10,533 Deposit information acquired
+2020-11-27 12:52:13,175 Portfolio information acquired
+2020-11-27 12:53:35,825 Kiwoom log in success
+2020-11-27 12:53:35,826 Account information acquired
+2020-11-27 12:53:35,918 Deposit information acquired
+2020-11-27 12:53:37,740 Portfolio information acquired
+2020-11-27 12:53:46,289 running algorithm
+2020-11-27 12:53:47,496 order info
+2020-11-27 12:53:47,496 A122630 128773 접수 1 19000 1
+2020-11-27 12:53:47,497 0 +매수
+2020-11-27 12:53:47,498 보통    0 0
+2020-11-27 12:53:47,989 order info
+2020-11-27 12:53:47,990 A122630 128773 체결 1 19000 0
+2020-11-27 12:53:47,990 0 +매수
+2020-11-27 12:53:47,991 보통 482988 18765 1 60 0
+2020-11-27 12:53:47,992 balance info
+2020-11-27 12:53:47,992 A122630 KODEX 레버리지 18765 207 18420 3812970
+2020-11-27 12:53:47,993 5 2 0 18755 0.0
+2020-11-27 12:53:47,993 0 0.0
+2020-11-27 12:57:03,110 KODEX 레버리지 stock information begins to be monitored
+2020-11-27 12:57:20,840 Kiwoom log in success
+2020-11-27 12:57:20,840 Account information acquired
+2020-11-27 12:57:21,563 Deposit information acquired
+2020-11-27 12:57:24,337 Portfolio information acquired
+2020-11-27 12:57:26,852 running algorithm
+2020-11-27 12:57:28,579 order info
+2020-11-27 12:57:28,580 A122630 129812 접수 3000 19000 3000
+2020-11-27 12:57:28,580 0 +매수
+2020-11-27 12:57:28,581 보통    0 0
+2020-11-27 12:57:28,879 order info
+2020-11-27 12:57:28,880 A122630 129812 체결 3000 19000 82
+2020-11-27 12:57:28,881 0 +매수
+2020-11-27 12:57:28,881 보통 487410 18790 2918 191900 0
+2020-11-27 12:57:28,882 balance info
+2020-11-27 12:57:28,882 A122630 KODEX 레버리지 18790 3125 18766 58642190
+2020-11-27 12:57:28,883 2923 2 0 18755 0.0
+2020-11-27 12:57:28,883 0 0.0
+2020-11-27 12:57:30,686 order info
+2020-11-27 12:57:30,687 A122630 129812 체결 3000 19000 0
+2020-11-27 12:57:30,687 0 +매수
+2020-11-27 12:57:30,687 보통 487466 18790 3000 197290 0
+2020-11-27 12:57:30,689 balance info
+2020-11-27 12:57:30,689 A122630 KODEX 레버리지 18790 3207 18766 60182970
+2020-11-27 12:57:30,690 3005 2 0 18755 0.0
+2020-11-27 12:57:30,690 0 0.0
+2020-11-27 15:19:54,662 market operation state 2 15:20:00 00:10:00
+2020-11-27 15:20:54,654 market operation state 2 15:21:00 00:09:00
+2020-11-27 15:21:54,659 market operation state 2 15:22:00 00:08:00
+2020-11-27 15:22:54,656 market operation state 2 15:23:00 00:07:00
+2020-11-27 15:23:54,652 market operation state 2 15:24:00 00:06:00
+2020-11-27 15:24:54,654 market operation state 2 15:25:00 00:05:00
+2020-11-27 15:25:54,654 market operation state 2 15:26:00 00:04:00
+2020-11-27 15:26:54,640 market operation state 2 15:27:00 00:03:00
+2020-11-27 15:27:54,658 market operation state 2 15:28:00 00:02:00
+2020-11-27 15:28:54,639 market operation state 2 15:29:00 00:01:00
+2020-11-27 15:29:04,648 market operation state 2 15:29:10 00:00:50
+2020-11-27 15:29:14,641 market operation state 2 15:29:20 00:00:40
+2020-11-27 15:29:24,664 market operation state 2 15:29:30 00:00:30
+2020-11-27 15:29:34,651 market operation state 2 15:29:40 00:00:20
+2020-11-27 15:29:44,638 market operation state 2 15:29:50 00:00:10
+2020-11-27 15:29:54,636 market operation state 4 15:30:00 00:00:00
+2020-11-27 15:30:34,637 market operation state 8 88:88:88 00:00:00
+2020-11-27 15:34:55,133 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,134 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,134 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,134 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,238 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,239 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,239 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,239 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,240 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,240 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,240 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,240 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,241 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,241 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,241 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,242 market operation state s 15:35:00 00:00:00
+2020-11-27 15:34:55,330 market operation state s 15:35:00 00:00:00
+2020-11-27 15:39:54,930 market operation state a 15:40:00 00:00:00
+2020-11-27 15:44:55,415 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,519 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,520 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,611 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,612 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,720 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,812 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,813 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,918 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:55,919 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:56,010 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:56,120 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:56,414 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:56,616 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:56,710 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:56,914 market operation state e 15:45:00 00:00:00
+2020-11-27 15:44:57,023 market operation state e 15:45:00 00:00:00
+2020-11-27 15:59:54,894 market operation state b 16:00:00 00:00:00
+2020-11-27 15:59:54,895 market operation state c 16:00:00 00:00:00
+2020-11-27 17:43:16,012 Kiwoom log in success
+2020-11-27 17:43:16,012 Account information acquired
+2020-11-27 17:43:17,128 Deposit information acquired
+2020-11-27 17:43:17,241 Portfolio information acquired
+2020-11-27 17:43:45,724 Kiwoom log in success
+2020-11-27 17:43:45,724 Account information acquired
+2020-11-27 17:43:45,755 Deposit information acquired
+2020-11-27 17:43:46,666 Portfolio information acquired
+2020-11-27 17:59:10,450 Kiwoom log in success
+2020-11-27 17:59:10,450 Account information acquired
+2020-11-27 18:00:10,225 Something is wrong during log-in
+2020-11-27 18:00:43,140 Kiwoom log in success
+2020-11-27 18:00:43,141 Account information acquired
+2020-11-27 18:01:46,035 Something is wrong during log-in
+2020-11-27 18:02:12,177 Kiwoom log in success
+2020-11-27 18:02:12,177 Account information acquired
+2020-11-27 18:02:49,150 Something is wrong during log-in
+2020-11-27 18:05:06,801 Kiwoom log in success
+2020-11-27 18:05:06,802 Account information acquired
+2020-11-27 18:05:08,712 Deposit information acquired
+2020-11-27 18:05:08,782 Portfolio information acquired
+2020-11-27 18:07:07,679 Kiwoom log in success
+2020-11-27 18:07:07,680 Account information acquired
+2020-11-27 18:07:07,713 Deposit information acquired
+2020-11-27 18:07:08,854 Portfolio information acquired
+2020-11-27 18:13:05,118 Kiwoom log in success
+2020-11-27 18:13:05,118 Account information acquired
+2020-11-27 18:13:06,056 Deposit information acquired
+2020-11-27 18:13:06,136 Portfolio information acquired
+2020-11-27 18:14:11,425 Kiwoom log in success
+2020-11-27 18:14:11,425 Account information acquired
+2020-11-27 18:14:12,329 Deposit information acquired
+2020-11-27 18:14:12,399 Portfolio information acquired
+2020-11-27 18:18:59,201 Kiwoom log in success
+2020-11-27 18:18:59,201 Account information acquired
+2020-11-27 18:19:00,231 Deposit information acquired
+2020-11-27 18:19:00,295 Portfolio information acquired
+2020-11-27 18:20:07,153 Kiwoom log in success
+2020-11-27 18:20:07,154 Account information acquired
+2020-11-27 18:20:07,183 Deposit information acquired
+2020-11-27 18:20:08,152 Portfolio information acquired
+2020-11-27 18:23:51,916 Kiwoom log in success
+2020-11-27 18:23:51,916 Account information acquired
+2020-11-27 18:23:51,942 Deposit information acquired
+2020-11-27 18:23:53,199 Portfolio information acquired

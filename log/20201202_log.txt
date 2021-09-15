@@ -1,0 +1,323 @@
+2020-12-02 09:52:52,582 Kiwoom log in success
+2020-12-02 09:52:52,583 Account information acquired
+2020-12-02 09:52:52,618 Deposit information acquired
+2020-12-02 09:52:55,019 Portfolio information acquired
+2020-12-02 09:53:10,868 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 09:53:31,711 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 09:58:04,925 Kiwoom log in success
+2020-12-02 09:58:04,926 Account information acquired
+2020-12-02 09:58:05,797 Deposit information acquired
+2020-12-02 09:58:07,846 Portfolio information acquired
+2020-12-02 09:58:14,471 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 10:00:25,501 Kiwoom log in success
+2020-12-02 10:00:25,502 Account information acquired
+2020-12-02 10:00:27,009 Deposit information acquired
+2020-12-02 10:00:31,178 Portfolio information acquired
+2020-12-02 10:00:33,244 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 10:02:11,034 Kiwoom log in success
+2020-12-02 10:02:11,035 Account information acquired
+2020-12-02 10:02:12,182 Deposit information acquired
+2020-12-02 10:02:14,798 Portfolio information acquired
+2020-12-02 10:02:22,304 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 10:09:34,484 Kiwoom log in success
+2020-12-02 10:09:34,485 Account information acquired
+2020-12-02 10:09:35,602 Deposit information acquired
+2020-12-02 10:09:37,580 Portfolio information acquired
+2020-12-02 10:09:41,733 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 10:13:46,194 Kiwoom log in success
+2020-12-02 10:13:46,195 Account information acquired
+2020-12-02 10:13:46,219 Deposit information acquired
+2020-12-02 10:13:47,799 Portfolio information acquired
+2020-12-02 10:13:50,316 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 10:14:46,111 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 12:01:26,315 Kiwoom log in success
+2020-12-02 12:01:26,316 Account information acquired
+2020-12-02 12:01:28,077 Deposit information acquired
+2020-12-02 12:01:32,239 Portfolio information acquired
+2020-12-02 12:02:03,815 Kiwoom log in success
+2020-12-02 12:02:03,815 Account information acquired
+2020-12-02 12:02:04,998 Deposit information acquired
+2020-12-02 12:02:09,225 Portfolio information acquired
+2020-12-02 12:13:06,424 Kiwoom log in success
+2020-12-02 12:13:06,425 Account information acquired
+2020-12-02 12:13:07,666 Deposit information acquired
+2020-12-02 12:13:11,970 Portfolio information acquired
+2020-12-02 12:14:49,439 Kiwoom log in success
+2020-12-02 12:14:49,440 Account information acquired
+2020-12-02 12:14:50,326 Deposit information acquired
+2020-12-02 12:14:53,627 Portfolio information acquired
+2020-12-02 12:16:37,860 Something is wrong during log-in
+2020-12-02 12:16:37,860 Login error -100
+2020-12-02 12:16:37,861 Account information acquired
+2020-12-02 12:17:17,724 Kiwoom log in success
+2020-12-02 12:17:17,724 Account information acquired
+2020-12-02 12:17:18,885 Deposit information acquired
+2020-12-02 12:17:22,498 Portfolio information acquired
+2020-12-02 12:17:24,545 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 12:19:38,925 Kiwoom log in success
+2020-12-02 12:19:38,926 Account information acquired
+2020-12-02 12:19:40,273 Deposit information acquired
+2020-12-02 12:19:44,231 Portfolio information acquired
+2020-12-02 12:22:06,360 Kiwoom log in success
+2020-12-02 12:22:06,361 Account information acquired
+2020-12-02 12:22:08,048 Deposit information acquired
+2020-12-02 12:22:12,308 Portfolio information acquired
+2020-12-02 12:22:24,308 Kiwoom log in success
+2020-12-02 12:22:24,308 Account information acquired
+2020-12-02 12:22:25,189 Deposit information acquired
+2020-12-02 12:22:28,973 Portfolio information acquired
+2020-12-02 12:24:00,757 Kiwoom log in success
+2020-12-02 12:24:00,757 Account information acquired
+2020-12-02 12:24:01,695 Deposit information acquired
+2020-12-02 12:24:05,608 Portfolio information acquired
+2020-12-02 12:26:52,355 Kiwoom log in success
+2020-12-02 12:26:52,356 Account information acquired
+2020-12-02 12:26:53,336 Deposit information acquired
+2020-12-02 12:26:57,022 Portfolio information acquired
+2020-12-02 12:27:52,783 오스템임플란트 stock information begins to be monitored
+2020-12-02 12:31:11,553 오스템임플란트 stock information monitoring is finished
+2020-12-02 12:48:36,654 Kiwoom log in success
+2020-12-02 12:48:36,655 Account information acquired
+2020-12-02 12:48:36,701 Deposit information acquired
+2020-12-02 12:48:42,328 Portfolio information acquired
+2020-12-02 12:49:03,011 Kiwoom log in success
+2020-12-02 12:49:03,012 Account information acquired
+2020-12-02 12:49:03,067 Deposit information acquired
+2020-12-02 12:49:03,985 Portfolio information acquired
+2020-12-02 12:50:57,306 Kiwoom log in success
+2020-12-02 12:50:57,307 Account information acquired
+2020-12-02 12:50:57,350 Deposit information acquired
+2020-12-02 12:51:35,413 Portfolio information acquired
+2020-12-02 12:51:47,830 Kiwoom log in success
+2020-12-02 12:51:47,831 Account information acquired
+2020-12-02 12:51:48,361 Deposit information acquired
+2020-12-02 12:52:08,011 Kiwoom log in success
+2020-12-02 12:52:08,012 Account information acquired
+2020-12-02 12:52:08,074 Deposit information acquired
+2020-12-02 12:52:08,302 Portfolio information acquired
+2020-12-02 12:52:59,141 Kiwoom log in success
+2020-12-02 12:52:59,141 Account information acquired
+2020-12-02 12:52:59,169 Deposit information acquired
+2020-12-02 12:52:59,470 Portfolio information acquired
+2020-12-02 12:53:44,134 Kiwoom log in success
+2020-12-02 12:53:44,134 Account information acquired
+2020-12-02 12:53:44,161 Deposit information acquired
+2020-12-02 12:53:46,059 Portfolio information acquired
+2020-12-02 12:55:25,799 Kiwoom log in success
+2020-12-02 12:55:25,800 Account information acquired
+2020-12-02 12:55:25,966 Deposit information acquired
+2020-12-02 12:55:31,657 Portfolio information acquired
+2020-12-02 12:56:43,735 Kiwoom log in success
+2020-12-02 12:56:43,736 Account information acquired
+2020-12-02 12:56:43,763 Deposit information acquired
+2020-12-02 12:56:44,985 Portfolio information acquired
+2020-12-02 12:57:24,061 Kiwoom log in success
+2020-12-02 12:57:24,061 Account information acquired
+2020-12-02 12:57:24,088 Deposit information acquired
+2020-12-02 12:57:26,413 Portfolio information acquired
+2020-12-02 12:58:18,648 Kiwoom log in success
+2020-12-02 12:58:18,649 Account information acquired
+2020-12-02 12:58:18,712 Deposit information acquired
+2020-12-02 12:58:20,122 Portfolio information acquired
+2020-12-02 12:58:44,157 Kiwoom log in success
+2020-12-02 12:58:44,157 Account information acquired
+2020-12-02 12:58:44,196 Deposit information acquired
+2020-12-02 12:58:45,763 Portfolio information acquired
+2020-12-02 12:59:30,753 Kiwoom log in success
+2020-12-02 12:59:30,753 Account information acquired
+2020-12-02 12:59:30,829 Deposit information acquired
+2020-12-02 12:59:33,478 Portfolio information acquired
+2020-12-02 13:00:45,768 Kiwoom log in success
+2020-12-02 13:00:45,768 Account information acquired
+2020-12-02 13:00:47,327 Deposit information acquired
+2020-12-02 13:00:50,925 Portfolio information acquired
+2020-12-02 13:01:43,323 Kiwoom log in success
+2020-12-02 13:01:43,323 Account information acquired
+2020-12-02 13:01:43,750 Deposit information acquired
+2020-12-02 13:01:47,141 Portfolio information acquired
+2020-12-02 13:03:14,635 Kiwoom log in success
+2020-12-02 13:03:14,635 Account information acquired
+2020-12-02 13:03:16,020 Deposit information acquired
+2020-12-02 13:03:18,814 Portfolio information acquired
+2020-12-02 13:05:02,407 Kiwoom log in success
+2020-12-02 13:05:02,408 Account information acquired
+2020-12-02 13:05:03,163 Deposit information acquired
+2020-12-02 13:05:05,907 Portfolio information acquired
+2020-12-02 13:06:06,023 Kiwoom log in success
+2020-12-02 13:06:06,024 Account information acquired
+2020-12-02 13:06:06,058 Deposit information acquired
+2020-12-02 13:06:06,671 Portfolio information acquired
+2020-12-02 13:06:19,773 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:06:33,975 KODEX 레버리지 stock information monitoring is finished
+2020-12-02 13:10:30,060 Kiwoom log in success
+2020-12-02 13:10:30,060 Account information acquired
+2020-12-02 13:10:30,102 Deposit information acquired
+2020-12-02 13:10:30,985 Portfolio information acquired
+2020-12-02 13:10:36,495 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:10:45,905 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 13:10:54,550 오스템임플란트 stock information begins to be monitored
+2020-12-02 13:11:43,591 오스템임플란트 stock information monitoring is finished
+2020-12-02 13:11:46,903 오스템임플란트 stock information begins to be monitored
+2020-12-02 13:13:15,871 Kiwoom log in success
+2020-12-02 13:13:15,871 Account information acquired
+2020-12-02 13:13:16,180 Deposit information acquired
+2020-12-02 13:13:18,250 Portfolio information acquired
+2020-12-02 13:13:27,448 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:13:36,410 KODEX 레버리지 stock information monitoring is finished
+2020-12-02 13:13:37,773 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:15:53,167 Kiwoom log in success
+2020-12-02 13:15:53,168 Account information acquired
+2020-12-02 13:15:54,689 Deposit information acquired
+2020-12-02 13:15:58,789 Portfolio information acquired
+2020-12-02 13:16:00,107 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:16:40,248 Kiwoom log in success
+2020-12-02 13:16:40,249 Account information acquired
+2020-12-02 13:16:40,642 Deposit information acquired
+2020-12-02 13:16:43,394 Portfolio information acquired
+2020-12-02 13:16:47,460 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:17:22,339 Kiwoom log in success
+2020-12-02 13:17:22,339 Account information acquired
+2020-12-02 13:17:23,706 Deposit information acquired
+2020-12-02 13:17:27,608 Portfolio information acquired
+2020-12-02 13:17:31,897 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:17:38,341 KODEX 레버리지 stock information monitoring is finished
+2020-12-02 13:17:40,909 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:17:46,041 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 13:17:51,459 KODEX 200선물인버스2X stock information monitoring is finished
+2020-12-02 13:18:00,313 오스템임플란트 stock information begins to be monitored
+2020-12-02 13:18:10,755 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 13:18:47,284 오스템임플란트 stock information monitoring is finished
+2020-12-02 13:19:09,991 오스템임플란트 stock information begins to be monitored
+2020-12-02 13:19:17,900 오스템임플란트 stock information monitoring is finished
+2020-12-02 13:19:23,077 오스템임플란트 stock information begins to be monitored
+2020-12-02 13:19:27,409 KODEX 레버리지 stock information monitoring is finished
+2020-12-02 13:19:31,660 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 13:19:46,477 KODEX 레버리지 stock information monitoring is finished
+2020-12-02 13:20:37,075 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 15:10:07,079 Kiwoom log in success
+2020-12-02 15:10:07,082 Account information acquired
+2020-12-02 15:10:08,614 Deposit information acquired
+2020-12-02 15:10:11,163 Portfolio information acquired
+2020-12-02 15:13:09,970 Kiwoom log in success
+2020-12-02 15:13:09,971 Account information acquired
+2020-12-02 15:13:11,394 Deposit information acquired
+2020-12-02 15:13:14,787 Portfolio information acquired
+2020-12-02 15:14:32,674 Kiwoom log in success
+2020-12-02 15:14:32,675 Account information acquired
+2020-12-02 15:14:33,989 Deposit information acquired
+2020-12-02 15:14:36,599 Portfolio information acquired
+2020-12-02 15:16:49,688 Something is wrong during log-in
+2020-12-02 15:16:49,688 Login error -100
+2020-12-02 15:16:49,689 Account information acquired
+2020-12-02 15:16:57,322 Kiwoom log in success
+2020-12-02 15:17:32,422 Something is wrong during log-in
+2020-12-02 15:17:32,423 Login error -100
+2020-12-02 15:17:32,424 Account information acquired
+2020-12-02 15:17:34,722 Closing process initializing...
+2020-12-02 15:17:34,723 All screens are disconnected
+2020-12-02 15:18:20,116 Kiwoom log in success
+2020-12-02 15:18:20,116 Account information acquired
+2020-12-02 15:18:21,055 Deposit information acquired
+2020-12-02 15:18:21,899 Portfolio information acquired
+2020-12-02 15:18:27,003 Open order information acquired
+2020-12-02 15:18:59,076 Kiwoom log in success
+2020-12-02 15:18:59,077 Account information acquired
+2020-12-02 15:19:02,942 Deposit information acquired
+2020-12-02 15:20:12,244 Something is wrong during log-in
+2020-12-02 15:20:12,244 Login error -100
+2020-12-02 15:20:12,246 Account information acquired
+2020-12-02 15:20:12,276 Something is wrong during log-in
+2020-12-02 15:20:12,276 Login error -106
+2020-12-02 15:20:12,327 Something is wrong during log-in
+2020-12-02 15:20:12,327 Login error -106
+2020-12-02 15:20:16,778 Closing process initializing...
+2020-12-02 15:20:16,778 All screens are disconnected
+2020-12-02 15:21:35,047 Kiwoom log in success
+2020-12-02 15:21:35,047 Account information acquired
+2020-12-02 15:21:35,074 Deposit information acquired
+2020-12-02 15:21:36,092 Portfolio information acquired
+2020-12-02 15:22:23,611 Kiwoom log in success
+2020-12-02 15:22:23,612 Account information acquired
+2020-12-02 15:22:23,664 Deposit information acquired
+2020-12-02 15:22:24,866 Portfolio information acquired
+2020-12-02 15:23:07,681 Kiwoom log in success
+2020-12-02 15:23:07,682 Account information acquired
+2020-12-02 15:23:07,729 Deposit information acquired
+2020-12-02 15:23:09,361 Portfolio information acquired
+2020-12-02 15:23:26,975 Kiwoom log in success
+2020-12-02 15:23:26,976 Account information acquired
+2020-12-02 15:23:27,836 Deposit information acquired
+2020-12-02 15:23:30,206 Portfolio information acquired
+2020-12-02 15:24:24,993 Kiwoom log in success
+2020-12-02 15:24:24,993 Account information acquired
+2020-12-02 15:24:25,028 Deposit information acquired
+2020-12-02 15:24:27,368 Portfolio information acquired
+2020-12-02 16:12:45,751 Kiwoom log in success
+2020-12-02 16:12:45,751 Account information acquired
+2020-12-02 16:12:45,776 Deposit information acquired
+2020-12-02 16:12:46,827 Portfolio information acquired
+2020-12-02 16:19:59,483 Kiwoom log in success
+2020-12-02 16:19:59,483 Account information acquired
+2020-12-02 16:19:59,521 Deposit information acquired
+2020-12-02 16:20:00,662 Portfolio information acquired
+2020-12-02 16:21:49,870 Kiwoom log in success
+2020-12-02 16:21:49,870 Account information acquired
+2020-12-02 16:21:49,894 Deposit information acquired
+2020-12-02 16:21:50,452 Portfolio information acquired
+2020-12-02 16:21:53,166 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 16:22:00,573 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 16:22:05,952 오스템임플란트 stock information begins to be monitored
+2020-12-02 16:22:28,414 오스템임플란트 stock information monitoring is finished
+2020-12-02 16:23:44,194 Kiwoom log in success
+2020-12-02 16:23:44,195 Account information acquired
+2020-12-02 16:23:44,230 Deposit information acquired
+2020-12-02 16:23:46,092 Portfolio information acquired
+2020-12-02 16:23:47,648 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 16:24:14,620 Kiwoom log in success
+2020-12-02 16:24:14,620 Account information acquired
+2020-12-02 16:24:14,651 Deposit information acquired
+2020-12-02 16:24:16,274 Portfolio information acquired
+2020-12-02 16:24:17,605 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 16:24:24,716 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 16:24:29,065 오스템임플란트 stock information begins to be monitored
+2020-12-02 16:24:37,067 KODEX 200선물인버스2X stock information monitoring is finished
+2020-12-02 16:24:41,256 KODEX 레버리지 stock information monitoring is finished
+2020-12-02 16:24:45,433 오스템임플란트 stock information monitoring is finished
+2020-12-02 16:24:46,848 오스템임플란트 stock information begins to be monitored
+2020-12-02 16:24:54,215 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 16:24:57,902 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 16:34:34,735 Kiwoom log in success
+2020-12-02 16:34:34,736 Account information acquired
+2020-12-02 16:34:34,771 Deposit information acquired
+2020-12-02 16:44:51,508 Kiwoom log in success
+2020-12-02 16:44:51,508 Account information acquired
+2020-12-02 16:44:51,532 Deposit information acquired
+2020-12-02 16:47:22,113 Kiwoom log in success
+2020-12-02 16:47:22,114 Account information acquired
+2020-12-02 16:47:22,144 Deposit information acquired
+2020-12-02 16:47:23,166 Portfolio information acquired
+2020-12-02 16:48:23,003 Kiwoom log in success
+2020-12-02 16:48:23,003 Account information acquired
+2020-12-02 16:48:23,028 Deposit information acquired
+2020-12-02 16:48:25,124 Portfolio information acquired
+2020-12-02 16:48:55,399 Kiwoom log in success
+2020-12-02 16:48:55,399 Account information acquired
+2020-12-02 16:48:55,430 Deposit information acquired
+2020-12-02 16:48:56,604 Portfolio information acquired
+2020-12-02 16:49:03,753 KODEX 레버리지 stock information begins to be monitored
+2020-12-02 16:49:05,806 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-02 16:49:08,369 오스템임플란트 stock information begins to be monitored
+2020-12-02 16:53:01,819 Kiwoom log in success
+2020-12-02 16:53:01,820 Account information acquired
+2020-12-02 16:53:01,848 Deposit information acquired
+2020-12-02 16:53:02,205 Portfolio information acquired
+2020-12-02 16:53:54,411 Kiwoom log in success
+2020-12-02 16:53:54,411 Account information acquired
+2020-12-02 16:53:54,435 Deposit information acquired
+2020-12-02 16:53:55,580 Portfolio information acquired
+2020-12-02 16:55:37,184 Kiwoom log in success
+2020-12-02 16:55:37,185 Account information acquired
+2020-12-02 16:55:37,221 Deposit information acquired
+2020-12-02 16:55:38,306 Portfolio information acquired
+2020-12-02 17:59:51,321 market operation state d 18:00:00 00:00:00
+2020-12-02 18:01:10,612 market operation state 9 99:99:99 00:00:00

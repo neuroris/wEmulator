@@ -1,0 +1,147 @@
+2021-01-26 09:55:20,028 Kiwoom initializing...
+2021-01-26 09:56:00,131 Kiwoom log in success
+2021-01-26 09:56:00,131 Account information
+2021-01-26 09:56:00,649 Deposit information
+2021-01-26 09:56:01,181 Order history information
+2021-01-26 09:56:02,270 Portfolio information
+2021-01-26 09:58:52,982 Algorithm started
+2021-01-26 09:58:53,293 Order execution(BUY) KODEX 레버리지(접수), order:34, executed:0, order number:63554, original number:0
+2021-01-26 09:58:55,802 Algorithm stopped
+2021-01-26 09:58:56,084 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:63583, original number:63554
+2021-01-26 09:58:56,092 Order execution(CANCEL BUY) KODEX 레버리지(확인), order:34, executed:0, order number:63583, original number:63554
+2021-01-26 09:58:56,094 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:63554, original number:0
+2021-01-26 09:59:05,649 Algorithm started
+2021-01-26 09:59:06,591 Order execution(BUY) KODEX 레버리지(접수), order:34, executed:0, order number:63711, original number:0
+2021-01-26 10:00:08,282 Order execution(BUY) KODEX 레버리지(접수), order:34, executed:0, order number:64403, original number:0
+2021-01-26 10:01:03,008 Order execution(BUY) KODEX 레버리지(접수), order:34, executed:0, order number:64919, original number:0
+2021-01-26 10:08:10,351 Algorithm stopped
+2021-01-26 10:08:10,354 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:69064, original number:63711
+2021-01-26 10:08:10,357 Order execution(CANCEL BUY) KODEX 레버리지(확인), order:34, executed:0, order number:69064, original number:63711
+2021-01-26 10:08:10,359 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:63711, original number:0
+2021-01-26 10:08:10,675 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:69070, original number:64403
+2021-01-26 10:08:10,678 Order execution(CANCEL BUY) KODEX 레버리지(확인), order:34, executed:0, order number:69070, original number:64403
+2021-01-26 10:08:10,680 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:64403, original number:0
+2021-01-26 10:08:10,784 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:69071, original number:64919
+2021-01-26 10:08:10,787 Order execution(CANCEL BUY) KODEX 레버리지(확인), order:34, executed:0, order number:69071, original number:64919
+2021-01-26 10:08:10,789 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:34, executed:0, order number:64919, original number:0
+2021-01-26 10:08:12,025 Go Charting KODEX 레버리지
+2021-01-26 13:13:16,377 Kiwoom initializing...
+2021-01-26 13:13:30,509 Kiwoom log in success
+2021-01-26 13:13:30,509 Account information
+2021-01-26 13:13:31,015 Deposit information
+2021-01-26 13:13:31,556 Order history information
+2021-01-26 13:13:32,527 Portfolio information
+2021-01-26 13:13:39,195 Algorithm started
+2021-01-26 13:13:40,610 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:141896, original number:0
+2021-01-26 13:14:25,194 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:142149, original number:141896
+2021-01-26 13:14:25,198 Order execution(BUY) KODEX 레버리지(확인), order:35, executed:0, order number:142149, original number:141896
+2021-01-26 13:14:25,202 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:141896, original number:0
+2021-01-26 13:14:25,314 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:142152, original number:0
+2021-01-26 13:17:37,194 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:143471, original number:142152
+2021-01-26 13:17:37,198 Order execution(BUY) KODEX 레버리지(확인), order:35, executed:0, order number:143471, original number:142152
+2021-01-26 13:17:37,201 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:142152, original number:0
+2021-01-26 13:17:37,312 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:143475, original number:0
+2021-01-26 13:18:58,205 Order execution(BUY) KODEX 레버리지(체결), order:35, executed:35, order number:143475, original number:0
+2021-01-26 13:18:58,206 Balance information
+2021-01-26 13:19:04,908 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:143987, original number:0
+2021-01-26 13:19:04,909 Balance information
+2021-01-26 13:19:05,016 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:143988, original number:0
+2021-01-26 13:19:05,110 Order execution(BUY) KODEX 레버리지(체결), order:35, executed:35, order number:143987, original number:0
+2021-01-26 13:19:05,111 Balance information
+2021-01-26 13:19:11,232 Order execution(BUY) KODEX 레버리지(체결), order:35, executed:35, order number:143988, original number:0
+2021-01-26 13:19:11,233 Balance information
+2021-01-26 13:20:28,107 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:144375, original number:0
+2021-01-26 13:20:28,109 Balance information
+2021-01-26 13:20:28,196 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:144376, original number:0
+2021-01-26 13:20:28,308 Order execution(BUY) KODEX 레버리지(체결), order:35, executed:35, order number:144375, original number:0
+2021-01-26 13:20:28,309 Balance information
+2021-01-26 13:20:53,241 now waiting 0.3631002902984619s... for request block interval
+2021-01-26 13:20:53,863 now waiting 0.23017311096191406s... for request block interval
+2021-01-26 13:20:54,371 now waiting 0.7246689796447754s... for request block interval
+2021-01-26 13:20:55,362 now waiting 0.2376997470855713s... for request block interval
+2021-01-26 13:20:55,867 now waiting 0.8256824016571045s... for request block interval
+2021-01-26 13:20:58,258 now waiting 0.3474087715148926s... for request block interval
+2021-01-26 13:20:58,872 now waiting 0.23473238945007324s... for request block interval
+2021-01-26 13:21:03,954 Algorithm stopped
+2021-01-26 13:21:04,497 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:35, executed:0, order number:144551, original number:144376
+2021-01-26 13:21:04,506 Order execution(CANCEL BUY) KODEX 레버리지(확인), order:35, executed:0, order number:144551, original number:144376
+2021-01-26 13:21:04,510 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:35, executed:0, order number:144376, original number:0
+2021-01-26 14:42:15,001 Kiwoom initializing...
+2021-01-26 14:42:27,980 Kiwoom log in success
+2021-01-26 14:42:27,980 Account information
+2021-01-26 14:42:28,490 Deposit information
+2021-01-26 14:42:29,034 Order history information
+2021-01-26 14:42:30,232 Portfolio information
+2021-01-26 14:42:55,942 Algorithm started
+2021-01-26 14:42:56,567 Order execution(BUY) KODEX 레버리지(접수), order:36, executed:0, order number:178813, original number:0
+2021-01-26 14:45:22,121 Order execution(BUY) KODEX 레버리지(접수), order:36, executed:0, order number:179694, original number:178813
+2021-01-26 14:45:22,126 Order execution(BUY) KODEX 레버리지(확인), order:36, executed:0, order number:179694, original number:178813
+2021-01-26 14:45:22,131 Order execution(BUY) KODEX 레버리지(접수), order:36, executed:0, order number:178813, original number:0
+2021-01-26 14:45:22,177 Order execution(BUY) KODEX 레버리지(접수), order:36, executed:0, order number:179696, original number:0
+2021-01-26 14:45:37,559 Order execution(BUY) KODEX 레버리지(체결), order:36, executed:36, order number:179696, original number:0
+2021-01-26 14:45:37,560 Balance information
+2021-01-26 14:56:42,341 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:184733, original number:0
+2021-01-26 15:00:00,943 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:186736, original number:184733
+2021-01-26 15:00:00,948 Order execution(BUY) KODEX 레버리지(확인), order:35, executed:0, order number:186736, original number:184733
+2021-01-26 15:00:00,952 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:184733, original number:0
+2021-01-26 15:00:01,545 Order execution(BUY) KODEX 레버리지(접수), order:35, executed:0, order number:186742, original number:0
+2021-01-26 15:00:12,048 Algorithm stopped
+2021-01-26 15:00:12,243 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:35, executed:0, order number:186846, original number:186742
+2021-01-26 15:00:12,247 Order execution(CANCEL BUY) KODEX 레버리지(확인), order:35, executed:0, order number:186846, original number:186742
+2021-01-26 15:00:12,251 Order execution(CANCEL BUY) KODEX 레버리지(접수), order:35, executed:0, order number:186742, original number:0
+2021-01-26 15:19:59,209 market operation state 2 152000 001000
+2021-01-26 15:20:59,202 market operation state 2 152100 000900
+2021-01-26 15:21:59,201 market operation state 2 152200 000800
+2021-01-26 15:22:59,191 market operation state 2 152300 000700
+2021-01-26 15:23:59,202 market operation state 2 152400 000600
+2021-01-26 15:24:59,194 market operation state 2 152500 000500
+2021-01-26 15:25:59,192 market operation state 2 152600 000400
+2021-01-26 15:26:59,198 market operation state 2 152700 000300
+2021-01-26 15:27:59,199 market operation state 2 152800 000200
+2021-01-26 15:28:59,198 market operation state 2 152900 000100
+2021-01-26 15:29:09,185 market operation state 2 152910 000050
+2021-01-26 15:29:19,185 market operation state 2 152920 000040
+2021-01-26 15:29:29,186 market operation state 2 152930 000030
+2021-01-26 15:29:39,192 market operation state 2 152940 000020
+2021-01-26 15:29:49,188 market operation state 2 152950 000010
+2021-01-26 15:29:59,191 market operation state 4 153000 000000
+2021-01-26 15:30:39,183 market operation state 8 888888 000000
+2021-01-26 15:34:59,781 market operation state s 153500 000000
+2021-01-26 15:34:59,870 market operation state s 153500 000000
+2021-01-26 15:34:59,870 market operation state s 153500 000000
+2021-01-26 15:34:59,871 market operation state s 153500 000000
+2021-01-26 15:34:59,871 market operation state s 153500 000000
+2021-01-26 15:34:59,871 market operation state s 153500 000000
+2021-01-26 15:34:59,872 market operation state s 153500 000000
+2021-01-26 15:34:59,872 market operation state s 153500 000000
+2021-01-26 15:34:59,872 market operation state s 153500 000000
+2021-01-26 15:34:59,873 market operation state s 153500 000000
+2021-01-26 15:34:59,873 market operation state s 153500 000000
+2021-01-26 15:34:59,977 market operation state s 153500 000000
+2021-01-26 15:34:59,977 market operation state s 153500 000000
+2021-01-26 15:34:59,978 market operation state s 153500 000000
+2021-01-26 15:34:59,978 market operation state s 153500 000000
+2021-01-26 15:34:59,978 market operation state s 153500 000000
+2021-01-26 15:34:59,978 market operation state s 153500 000000
+2021-01-26 15:39:59,380 market operation state a 154000 000000
+2021-01-26 15:44:59,962 market operation state e 154500 000000
+2021-01-26 15:45:00,055 market operation state e 154500 000000
+2021-01-26 15:45:00,163 market operation state e 154500 000000
+2021-01-26 15:45:00,255 market operation state e 154500 000000
+2021-01-26 15:45:00,255 market operation state e 154500 000000
+2021-01-26 15:45:00,363 market operation state e 154500 000000
+2021-01-26 15:45:00,364 market operation state e 154500 000000
+2021-01-26 15:45:00,454 market operation state e 154500 000000
+2021-01-26 15:45:00,561 market operation state e 154500 000000
+2021-01-26 15:45:00,562 market operation state e 154500 000000
+2021-01-26 15:45:00,667 market operation state e 154500 000000
+2021-01-26 15:45:00,668 market operation state e 154500 000000
+2021-01-26 15:45:00,958 market operation state e 154500 000000
+2021-01-26 15:45:01,163 market operation state e 154500 000000
+2021-01-26 15:45:01,359 market operation state e 154500 000000
+2021-01-26 15:45:01,666 market operation state e 154500 000000
+2021-01-26 15:45:01,666 market operation state e 154500 000000
+2021-01-26 15:59:59,339 market operation state b 160000 000000
+2021-01-26 15:59:59,340 market operation state c 160000 000000
+2021-01-26 17:59:59,144 market operation state d 180000 000000
+2021-01-26 18:02:58,946 market operation state 9 999999 000000

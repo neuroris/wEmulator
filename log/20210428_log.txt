@@ -1,0 +1,327 @@
+2021-04-28 09:44:18,313 Kiwoom initializing...
+2021-04-28 09:44:54,860 Kiwoom log in success
+2021-04-28 09:44:54,861 Account information
+2021-04-28 09:44:55,889 Deposit information
+2021-04-28 09:44:55,921 Order history information
+2021-04-28 09:44:57,248 Portfolio information
+2021-04-28 09:45:44,862 [93mALGORITHM STARTED [97m
+2021-04-28 11:28:56,095 Kiwoom initializing...
+2021-04-28 11:29:11,509 Kiwoom log in success
+2021-04-28 11:29:11,509 Account information
+2021-04-28 11:29:12,023 Deposit information
+2021-04-28 11:29:12,560 Order history information
+2021-04-28 11:29:13,363 Portfolio information
+2021-04-28 11:29:21,450 Send order (SELL) command committed successfully KOA_NORMAL_SELL_KP_ORD
+2021-04-28 11:29:21,542 Order execution(-¸Åµµ) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:0, number:103378, original:0
+2021-04-28 11:29:21,544 Balance information
+2021-04-28 11:29:21,546 Order execution(-¸Åµµ) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:35, executed_sum:35, open:0, price:0, number:103378, original:0
+2021-04-28 11:29:21,548 Balance information
+2021-04-28 11:29:53,436 [93mALGORITHM STARTED [97m
+2021-04-28 11:31:51,930 Kiwoom initializing...
+2021-04-28 11:31:58,022 Kiwoom log in success
+2021-04-28 11:31:58,022 Account information
+2021-04-28 11:31:59,056 Deposit information
+2021-04-28 11:31:59,084 Order history information
+2021-04-28 11:32:00,532 Portfolio information
+2021-04-28 11:32:05,340 [93mALGORITHM STARTED [97m
+2021-04-28 11:32:48,433 Kiwoom initializing...
+2021-04-28 11:32:53,655 Kiwoom log in success
+2021-04-28 11:32:53,655 Account information
+2021-04-28 11:32:54,169 Deposit information
+2021-04-28 11:32:54,715 Order history information
+2021-04-28 11:32:55,261 Portfolio information
+2021-04-28 11:32:59,608 [93mALGORITHM STARTED [97m
+2021-04-28 11:40:03,988 Kiwoom initializing...
+2021-04-28 11:40:14,819 Kiwoom log in success
+2021-04-28 11:40:14,819 Account information
+2021-04-28 11:40:15,330 Deposit information
+2021-04-28 11:40:15,868 Order history information
+2021-04-28 11:40:16,917 Portfolio information
+2021-04-28 11:40:29,347 [93mALGORITHM STARTED [97m
+2021-04-28 11:41:43,671 Kiwoom initializing...
+2021-04-28 11:41:50,211 Kiwoom log in success
+2021-04-28 11:41:50,212 Account information
+2021-04-28 11:41:51,248 Deposit information
+2021-04-28 11:41:51,279 Order history information
+2021-04-28 11:41:52,064 Portfolio information
+2021-04-28 11:41:54,512 [93mALGORITHM STARTED [97m
+2021-04-28 11:41:54,650                        Open   High    Low  Close  Volume
+2021-04-28 09:00:00  28415  28415  28385  28410  223045
+2021-04-28 09:01:00  28410  28420  28375  28390  233155
+2021-04-28 09:02:00  28385  28395  28370  28370  140602
+2021-04-28 09:03:00  28375  28380  28325  28380  246836
+2021-04-28 09:04:00  28380  28405  28365  28370  143912
+...                    ...    ...    ...    ...     ...
+2021-04-28 11:37:00  27940  27960  27935  27955   15753
+2021-04-28 11:38:00  27955  27955  27945  27955   12270
+2021-04-28 11:39:00  27955  27955  27915  27925   45730
+2021-04-28 11:40:00  27930  27960  27925  27955   22440
+2021-04-28 11:41:00  27960  27965  27950  27960    5839
+
+[162 rows x 5 columns]
+2021-04-28 12:07:22,792 Kiwoom initializing...
+2021-04-28 12:07:28,286 Kiwoom log in success
+2021-04-28 12:07:28,287 Account information
+2021-04-28 12:07:28,795 Deposit information
+2021-04-28 12:07:29,345 Order history information
+2021-04-28 12:07:29,982 Portfolio information
+2021-04-28 12:07:41,790 [93mALGORITHM STARTED [97m
+2021-04-28 12:07:41,921 
+                       Open   High    Low  Close  Volume
+2021-04-28 09:00:00  28415  28415  28385  28410  223045
+2021-04-28 09:01:00  28410  28420  28375  28390  233155
+2021-04-28 09:02:00  28385  28395  28370  28370  140602
+2021-04-28 09:03:00  28375  28380  28325  28380  246836
+2021-04-28 09:04:00  28380  28405  28365  28370  143912
+...                    ...    ...    ...    ...     ...
+2021-04-28 12:03:00  27945  27960  27945  27950   11397
+2021-04-28 12:04:00  27950  27965  27945  27955   36136
+2021-04-28 12:05:00  27955  27970  27955  27965   34477
+2021-04-28 12:06:00  27965  27975  27960  27965    9471
+2021-04-28 12:07:00  27965  27965  27940  27945   28209
+
+[188 rows x 5 columns]
+2021-04-28 12:07:41,975 
+                       Open   High    Low  Close  Volume    MA5
+2021-04-28 09:00:00  28415  28415  28385  28410  223045  28410
+2021-04-28 09:01:00  28410  28420  28375  28390  233155  28400
+2021-04-28 09:02:00  28385  28395  28370  28370  140602  28390
+2021-04-28 09:03:00  28375  28380  28325  28380  246836  28388
+2021-04-28 09:04:00  28380  28405  28365  28370  143912  28384
+...                    ...    ...    ...    ...     ...    ...
+2021-04-28 12:03:00  27945  27960  27945  27950   11397  27939
+2021-04-28 12:04:00  27950  27965  27945  27955   36136  27942
+2021-04-28 12:05:00  27955  27970  27955  27965   34477  27945
+2021-04-28 12:06:00  27965  27975  27960  27965    9471  27948
+2021-04-28 12:07:00  27965  27965  27940  27945   28209  27950
+
+[188 rows x 6 columns]
+2021-04-28 12:07:43,990 [96mALGORITHM (BUY) holding:0 price:27940 amount:35 [97m
+2021-04-28 12:07:44,406 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:07:44,498 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:27940, number:113221, original:0
+2021-04-28 12:07:44,498 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:35 executed_each:0 open:35 number:113221 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:07:44,499 [94mALGORITHM (DEBUG) 12:07:44 Purchases 1 Sales 0 [97m
+2021-04-28 12:07:44,607 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:35, executed_sum:35, open:0, price:27940, number:113221, original:0
+2021-04-28 12:07:44,618 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:35 executed_each:35 open:0 number:113221 purchase:0 executed:27940 holding:35 [97m
+2021-04-28 12:07:44,644 [94mALGORITHM (DEBUG) 12:07:44 Purchases 0 Sales 0 [97m
+2021-04-28 12:07:44,798 Balance information
+2021-04-28 12:29:13,313 Kiwoom initializing...
+2021-04-28 12:29:23,644 Kiwoom log in success
+2021-04-28 12:29:23,645 Account information
+2021-04-28 12:29:24,159 Deposit information
+2021-04-28 12:29:24,707 Order history information
+2021-04-28 12:29:25,754 Portfolio information
+2021-04-28 12:30:01,865 [93mALGORITHM STARTED [97m
+2021-04-28 12:30:02,040 
+                       Open   High    Low  Close  Volume
+2021-04-28 09:00:00  28415  28415  28385  28410  223045
+2021-04-28 09:01:00  28410  28420  28375  28390  233155
+2021-04-28 09:02:00  28385  28395  28370  28370  140602
+2021-04-28 09:03:00  28375  28380  28325  28380  246836
+2021-04-28 09:04:00  28380  28405  28365  28370  143912
+...                    ...    ...    ...    ...     ...
+2021-04-28 12:26:00  27910  27925  27905  27925   10175
+2021-04-28 12:27:00  27925  27925  27905  27905   11592
+2021-04-28 12:28:00  27905  27935  27905  27930   26992
+2021-04-28 12:29:00  27935  27945  27930  27940   40609
+2021-04-28 12:30:00  27940  27940  27940  27940    1000
+
+[211 rows x 5 columns]
+2021-04-28 12:30:02,095 
+                       Open   High    Low  Close  Volume    MA5
+2021-04-28 09:00:00  28415  28415  28385  28410  223045  28410
+2021-04-28 09:01:00  28410  28420  28375  28390  233155  28400
+2021-04-28 09:02:00  28385  28395  28370  28370  140602  28390
+2021-04-28 09:03:00  28375  28380  28325  28380  246836  28388
+2021-04-28 09:04:00  28380  28405  28365  28370  143912  28384
+...                    ...    ...    ...    ...     ...    ...
+2021-04-28 12:26:00  27910  27925  27905  27925   10175  27905
+2021-04-28 12:27:00  27925  27925  27905  27905   11592  27906
+2021-04-28 12:28:00  27905  27935  27905  27930   26992  27908
+2021-04-28 12:29:00  27935  27945  27930  27940   40609  27912
+2021-04-28 12:30:00  27940  27940  27940  27940    1000  27919
+
+[211 rows x 6 columns]
+2021-04-28 12:30:02,308 [96mALGORITHM (BUY) holding:0 price:27920 amount:35 [97m
+2021-04-28 12:30:03,224 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:30:03,228 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:27920, number:118558, original:0
+2021-04-28 12:30:03,229 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:35 executed_each:0 open:35 number:118558 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:30:03,229 [94mALGORITHM (DEBUG) 12:30:02 Purchases 1 Sales 0 [97m
+2021-04-28 12:30:17,637 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:35, executed_sum:3, open:32, price:27920, number:118558, original:0
+2021-04-28 12:30:17,638 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:35 executed_each:3 open:32 number:118558 purchase:0 executed:27920 holding:3 [97m
+2021-04-28 12:30:17,638 [94mALGORITHM (DEBUG) 12:30:17 Purchases 1 Sales 0 [97m
+2021-04-28 12:30:17,658 Balance information
+2021-04-28 12:30:30,026 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:35, executed_sum:8, open:27, price:27920, number:118558, original:0
+2021-04-28 12:30:30,026 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:35 executed_each:5 open:27 number:118558 purchase:0 executed:27920 holding:8 [97m
+2021-04-28 12:30:30,026 [94mALGORITHM (DEBUG) 12:30:29 Purchases 1 Sales 0 [97m
+2021-04-28 12:30:30,030 Balance information
+2021-04-28 12:30:32,729 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:35, executed_sum:35, open:0, price:27920, number:118558, original:0
+2021-04-28 12:30:32,729 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:35 executed_each:27 open:0 number:118558 purchase:0 executed:27920 holding:35 [97m
+2021-04-28 12:30:32,729 [94mALGORITHM (DEBUG) 12:30:32 Purchases 0 Sales 0 [97m
+2021-04-28 12:30:32,760 Balance information
+2021-04-28 12:30:46,233 [93mALGORITHM Situation 4 [97m
+2021-04-28 12:30:46,234 [96mALGORITHM (SELL_OFF) holding:35 purchase.open:0 sale.open:0 [97m
+2021-04-28 12:30:46,339 [93mALGORITHM (BLOCK) sell off ordered [97m
+2021-04-28 12:30:46,416 [93mALGORITHM (BLOCK) sell off ordered [97m
+2021-04-28 12:30:46,916 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:30:46,921 Order execution(-¸Åµµ) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:0, number:118697, original:0
+2021-04-28 12:30:46,921 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö -¸Åµµ Á¢¼ö order:35 executed_each:0 open:35 number:118697 purchase:27920 executed:0 holding:35 [97m
+2021-04-28 12:30:46,921 [94mALGORITHM (DEBUG) 12:30:46 Purchases 0 Sales 1 [97m
+2021-04-28 12:30:47,068 Balance information
+2021-04-28 12:30:54,331 [93mALGORITHM (BLOCK) sell off ordered [97m
+2021-04-28 12:30:54,825 [93mALGORITHM (BLOCK) sell off ordered [97m
+2021-04-28 12:30:54,945 Order execution(-¸Åµµ) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:35, executed_sum:35, open:0, price:0, number:118697, original:0
+2021-04-28 12:30:54,946 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö -¸Åµµ Ã¼°á order:35 executed_each:35 open:0 number:118697 purchase:27920 executed:27915 holding:0 [97m
+2021-04-28 12:30:54,946 [94mALGORITHM (DEBUG) 12:30:54 Purchases 0 Sales 0 [97m
+2021-04-28 12:30:54,946 [96mALGORITHM (BUY) holding:0 price:27900 amount:35 [97m
+2021-04-28 12:30:54,990 Balance information
+2021-04-28 12:30:55,231 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:30:55,244 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:27900, number:118721, original:0
+2021-04-28 12:30:55,245 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:35 executed_each:0 open:35 number:118721 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:30:55,246 [94mALGORITHM (DEBUG) 12:30:54 Purchases 1 Sales 0 [97m
+2021-04-28 12:31:25,939 Kiwoom initializing...
+2021-04-28 12:31:31,680 Kiwoom log in success
+2021-04-28 12:31:31,680 Account information
+2021-04-28 12:31:32,709 Deposit information
+2021-04-28 12:31:32,734 Order history information
+2021-04-28 12:31:33,838 Portfolio information
+2021-04-28 12:31:44,169 [93mALGORITHM STARTED [97m
+2021-04-28 12:31:44,323 
+                       Open   High    Low  Close  Volume
+2021-04-28 09:00:00  28415  28415  28385  28410  223045
+2021-04-28 09:01:00  28410  28420  28375  28390  233155
+2021-04-28 09:02:00  28385  28395  28370  28370  140602
+2021-04-28 09:03:00  28375  28380  28325  28380  246836
+2021-04-28 09:04:00  28380  28405  28365  28370  143912
+...                    ...    ...    ...    ...     ...
+2021-04-28 12:27:00  27925  27925  27905  27905   11592
+2021-04-28 12:28:00  27905  27935  27905  27930   26992
+2021-04-28 12:29:00  27935  27945  27930  27940   40609
+2021-04-28 12:30:00  27940  27940  27910  27915   31745
+2021-04-28 12:31:00  27920  27930  27915  27925   17360
+
+[212 rows x 5 columns]
+2021-04-28 12:31:44,373 
+                       Open   High    Low  Close  Volume    MA5
+2021-04-28 09:00:00  28415  28415  28385  28410  223045  28410
+2021-04-28 09:01:00  28410  28420  28375  28390  233155  28400
+2021-04-28 09:02:00  28385  28395  28370  28370  140602  28390
+2021-04-28 09:03:00  28375  28380  28325  28380  246836  28388
+2021-04-28 09:04:00  28380  28405  28365  28370  143912  28384
+...                    ...    ...    ...    ...     ...    ...
+2021-04-28 12:27:00  27925  27925  27905  27905   11592  27906
+2021-04-28 12:28:00  27905  27935  27905  27930   26992  27908
+2021-04-28 12:29:00  27935  27945  27930  27940   40609  27912
+2021-04-28 12:30:00  27940  27940  27910  27915   31745  27916
+2021-04-28 12:31:00  27920  27930  27915  27925   17360  27920
+
+[212 rows x 6 columns]
+2021-04-28 12:31:44,762 Send order (CANCEL BUY) command committed successfully KOA_NORMAL_KP_CANCEL
+2021-04-28 12:31:44,767 Order execution(¸Å¼öÃë¼Ò) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:0, number:118941, original:118721
+2021-04-28 12:31:44,767 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö ¸Å¼öÃë¼Ò Á¢¼ö order:35 executed_each:0 open:35 number:118941 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:31:44,768 [94mALGORITHM (DEBUG) 12:31:44 Purchases 0 Sales 0 [97m
+2021-04-28 12:31:44,773 Order execution(¸Å¼öÃë¼Ò) KODEX ·¹¹ö¸®Áö(È®ÀÎ), order:35, executed_sum:0, open:0, price:0, number:118941, original:118721
+2021-04-28 12:35:50,109 Kiwoom initializing...
+2021-04-28 12:35:56,883 Kiwoom log in success
+2021-04-28 12:35:56,883 Account information
+2021-04-28 12:35:57,913 Deposit information
+2021-04-28 12:35:57,948 Order history information
+2021-04-28 12:35:59,351 Portfolio information
+2021-04-28 12:36:03,864 [93mALGORITHM STARTED [97m
+2021-04-28 12:36:04,024 
+                       Open   High    Low  Close  Volume
+2021-04-28 09:00:00  28415  28415  28385  28410  223045
+2021-04-28 09:01:00  28410  28420  28375  28390  233155
+2021-04-28 09:02:00  28385  28395  28370  28370  140602
+2021-04-28 09:03:00  28375  28380  28325  28380  246836
+2021-04-28 09:04:00  28380  28405  28365  28370  143912
+...                    ...    ...    ...    ...     ...
+2021-04-28 12:32:00  27925  27935  27920  27935    4245
+2021-04-28 12:33:00  27930  27935  27920  27925   11943
+2021-04-28 12:34:00  27930  27945  27930  27935   36808
+2021-04-28 12:35:00  27935  27935  27920  27930    9264
+2021-04-28 12:36:00  27930  27930  27920  27920   16845
+
+[217 rows x 5 columns]
+2021-04-28 12:36:04,085 
+                       Open   High    Low  Close  Volume    MA5
+2021-04-28 09:00:00  28415  28415  28385  28410  223045  28410
+2021-04-28 09:01:00  28410  28420  28375  28390  233155  28400
+2021-04-28 09:02:00  28385  28395  28370  28370  140602  28390
+2021-04-28 09:03:00  28375  28380  28325  28380  246836  28388
+2021-04-28 09:04:00  28380  28405  28365  28370  143912  28384
+...                    ...    ...    ...    ...     ...    ...
+2021-04-28 12:32:00  27925  27935  27920  27935    4245  27922
+2021-04-28 12:33:00  27930  27935  27920  27925   11943  27922
+2021-04-28 12:34:00  27930  27945  27930  27935   36808  27924
+2021-04-28 12:35:00  27935  27935  27920  27930    9264  27926
+2021-04-28 12:36:00  27930  27930  27920  27920   16845  27926
+
+[217 rows x 6 columns]
+2021-04-28 12:42:14,394 Kiwoom initializing...
+2021-04-28 12:43:05,514 Kiwoom initializing...
+2021-04-28 12:43:12,319 Kiwoom log in success
+2021-04-28 12:43:12,320 Account information
+2021-04-28 12:43:13,362 Order history information
+2021-04-28 12:43:13,366 Deposit information
+2021-04-28 12:43:15,119 Portfolio information
+2021-04-28 12:43:40,027 [93mALGORITHM STARTED [97m
+2021-04-28 12:44:32,648 Kiwoom initializing...
+2021-04-28 12:44:39,013 Kiwoom log in success
+2021-04-28 12:44:39,013 Account information
+2021-04-28 12:44:40,048 Deposit information
+2021-04-28 12:44:40,079 Order history information
+2021-04-28 12:44:41,227 Portfolio information
+2021-04-28 12:44:45,380 [93mALGORITHM STARTED [97m
+2021-04-28 12:44:47,145 [96mALGORITHM (BUY) holding:0 price:27900 amount:35 [97m
+2021-04-28 12:49:20,597 Kiwoom initializing...
+2021-04-28 12:49:26,115 Kiwoom log in success
+2021-04-28 12:49:26,116 Account information
+2021-04-28 12:49:26,621 Deposit information
+2021-04-28 12:49:27,173 Order history information
+2021-04-28 12:49:28,395 Portfolio information
+2021-04-28 12:49:35,061 [93mALGORITHM STARTED [97m
+2021-04-28 12:49:40,105 [96mALGORITHM (BUY) holding:0 price:27920 amount:35 [97m
+2021-04-28 12:49:41,353 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:49:41,414 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:27920, number:123673, original:0
+2021-04-28 12:49:41,414 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:35 executed_each:0 open:35 number:123673 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:49:41,415 [94mALGORITHM (DEBUG) 12:49:41 Purchases 1 Sales 0 [97m
+2021-04-28 12:53:10,024 Kiwoom initializing...
+2021-04-28 12:53:16,611 Kiwoom log in success
+2021-04-28 12:53:16,611 Account information
+2021-04-28 12:53:17,129 Deposit information
+2021-04-28 12:53:17,673 Order history information
+2021-04-28 12:53:19,181 Portfolio information
+2021-04-28 12:53:30,814 [93mALGORITHM STARTED [97m
+2021-04-28 12:53:35,699 [96mALGORITHM (BUY) holding:0 price:27880 amount:35 [97m
+2021-04-28 12:53:36,218 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:53:36,297 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:27880, number:124658, original:0
+2021-04-28 12:53:36,297 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:35 executed_each:0 open:35 number:124658 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:53:36,297 [94mALGORITHM (DEBUG) 12:53:35 Purchases 1 Sales 0 [97m
+2021-04-28 12:58:06,870 Kiwoom initializing...
+2021-04-28 12:58:13,274 Kiwoom log in success
+2021-04-28 12:58:13,275 Account information
+2021-04-28 12:58:13,791 Deposit information
+2021-04-28 12:58:14,345 Order history information
+2021-04-28 12:58:15,405 Portfolio information
+2021-04-28 12:58:50,524 [93mALGORITHM STARTED [97m
+2021-04-28 12:58:51,943 [96mALGORITHM (BUY) holding:0 price:27880 amount:35 [97m
+2021-04-28 12:59:02,657 Kiwoom initializing...
+2021-04-28 12:59:09,276 Kiwoom log in success
+2021-04-28 12:59:09,276 Account information
+2021-04-28 12:59:10,312 Order history information
+2021-04-28 12:59:10,741 Deposit information
+2021-04-28 12:59:13,397 Portfolio information
+2021-04-28 12:59:18,028 [93mALGORITHM STARTED [97m
+2021-04-28 12:59:21,930 [96mALGORITHM (BUY) holding:0 price:27880 amount:35 [97m
+2021-04-28 12:59:23,920 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-28 12:59:23,936 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:35, executed_sum:0, open:35, price:27880, number:126043, original:0
+2021-04-28 12:59:23,936 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:35 executed_each:0 open:35 number:126043 purchase:0 executed:0 holding:0 [97m
+2021-04-28 12:59:23,936 [94mALGORITHM (DEBUG) 12:59:23 Purchases 1 Sales 0 [97m
+2021-04-28 18:57:22,696 Kiwoom initializing...
+2021-04-28 18:57:35,400 Kiwoom log in success
+2021-04-28 18:57:35,401 Account information
+2021-04-28 18:57:35,909 Deposit information
+2021-04-28 18:57:36,428 Portfolio information
+2021-04-28 18:57:36,476 Order history information
+2021-04-28 18:57:48,053 [93mALGORITHM STARTED [97m

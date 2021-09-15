@@ -1,0 +1,367 @@
+2021-05-17 09:40:35,487 Kiwoom initializing...
+2021-05-17 09:41:13,348 Kiwoom log in success
+2021-05-17 09:41:13,349 Account information
+2021-05-17 09:48:14,149 Kiwoom initializing...
+2021-05-17 09:48:24,085 Kiwoom log in success
+2021-05-17 09:48:24,085 Account information
+2021-05-17 10:07:35,432 Kiwoom initializing...
+2021-05-17 10:07:41,217 Kiwoom log in success
+2021-05-17 10:07:41,217 Account information
+2021-05-17 10:07:51,455 Kiwoom initializing...
+2021-05-17 10:07:56,587 Kiwoom log in success
+2021-05-17 10:07:56,587 Account information
+2021-05-17 10:07:57,101 Deposit information
+2021-05-17 10:07:58,144 Portfolio information
+2021-05-17 10:08:28,415 Kiwoom initializing...
+2021-05-17 10:09:12,039 Kiwoom initializing...
+2021-05-17 10:09:18,165 Kiwoom log in success
+2021-05-17 10:09:18,166 Account information
+2021-05-17 10:10:08,633 Kiwoom initializing...
+2021-05-17 10:10:14,033 Kiwoom log in success
+2021-05-17 10:10:14,034 Account information
+2021-05-17 10:10:34,525 Deposit information
+2021-05-17 10:10:41,494 Portfolio information
+2021-05-17 10:11:26,883 Deposit information
+2021-05-17 10:11:47,798 Kiwoom initializing...
+2021-05-17 10:11:53,048 Kiwoom log in success
+2021-05-17 10:11:53,048 Account information
+2021-05-17 10:12:04,167 Kiwoom initializing...
+2021-05-17 10:12:09,339 Kiwoom log in success
+2021-05-17 10:12:09,339 Account information
+2021-05-17 10:12:09,849 Deposit information
+2021-05-17 10:12:10,950 Deposit information
+2021-05-17 10:12:11,246 Portfolio information
+2021-05-17 10:40:33,206 Kiwoom initializing...
+2021-05-17 10:40:43,460 Kiwoom log in success
+2021-05-17 10:40:43,461 Account information
+2021-05-17 10:40:43,979 Deposit information
+2021-05-17 10:40:44,984 Deposit information
+2021-05-17 10:43:47,280 Kiwoom initializing...
+2021-05-17 10:43:53,680 Kiwoom log in success
+2021-05-17 10:43:53,681 Account information
+2021-05-17 10:43:54,199 Deposit information
+2021-05-17 10:43:55,228 Deposit information
+2021-05-17 10:43:55,840 Portfolio information
+2021-05-17 10:45:49,492 Kiwoom initializing...
+2021-05-17 10:45:55,903 Kiwoom log in success
+2021-05-17 10:45:55,903 Account information
+2021-05-17 10:45:56,410 Deposit information
+2021-05-17 10:45:57,416 Deposit information
+2021-05-17 10:45:57,444 Portfolio information
+2021-05-17 10:46:05,360 Kiwoom initializing...
+2021-05-17 10:46:10,828 Kiwoom log in success
+2021-05-17 10:46:10,829 Account information
+2021-05-17 10:46:11,335 Deposit information
+2021-05-17 10:46:12,358 Deposit information
+2021-05-17 10:46:12,388 Portfolio information
+2021-05-17 10:46:23,326 Portfolio information
+2021-05-17 10:47:13,413 Kiwoom initializing...
+2021-05-17 10:47:18,995 Kiwoom log in success
+2021-05-17 10:47:18,996 Account information
+2021-05-17 10:47:19,505 Deposit information
+2021-05-17 10:47:20,513 Deposit information
+2021-05-17 11:00:48,148 Portfolio information
+2021-05-17 11:02:15,060 Kiwoom initializing...
+2021-05-17 11:02:25,513 Kiwoom log in success
+2021-05-17 11:02:25,514 Account information
+2021-05-17 11:02:26,173 Deposit information
+2021-05-17 11:02:40,126 Portfolio information
+2021-05-17 11:03:16,879 Kiwoom initializing...
+2021-05-17 11:03:17,992 OUT
+2021-05-17 11:03:17,993 OUT
+2021-05-17 11:03:18,180 OUT
+2021-05-17 11:03:18,181 OUT
+2021-05-17 11:03:18,205 OUT
+2021-05-17 11:03:18,205 OUT
+2021-05-17 11:03:22,848 Kiwoom log in success
+2021-05-17 11:03:22,848 Account information
+2021-05-17 11:03:23,362 Deposit information
+2021-05-17 11:03:24,373 Deposit information
+2021-05-17 11:03:24,807 Portfolio information
+2021-05-17 11:03:33,465 Deposit information
+2021-05-17 11:03:34,315 Portfolio information
+2021-05-17 11:03:41,216 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KQ_ORD
+2021-05-17 11:03:41,316 Order execution(+¸Å¼ö) ¿À½ºÅÛÀÓÇÃ¶õÆ®(Á¢¼ö), order:100, executed_sum:0, open:100, price:0, number:87144, original:0
+2021-05-17 11:03:41,514 Order execution(+¸Å¼ö) ¿À½ºÅÛÀÓÇÃ¶õÆ®(Ã¼°á), order:100, executed_sum:89, open:11, price:0, number:87144, original:0
+2021-05-17 11:03:41,516 Balance information
+2021-05-17 11:03:44,814 Order execution(+¸Å¼ö) ¿À½ºÅÛÀÓÇÃ¶õÆ®(Ã¼°á), order:100, executed_sum:100, open:0, price:0, number:87144, original:0
+2021-05-17 11:03:44,816 Balance information
+2021-05-17 11:03:47,962 Deposit information
+2021-05-17 11:04:15,998 Kiwoom initializing...
+2021-05-17 11:04:21,196 Kiwoom log in success
+2021-05-17 11:04:21,196 Account information
+2021-05-17 11:04:21,706 Deposit information
+2021-05-17 11:04:22,290 Portfolio information
+2021-05-17 11:04:28,231 Deposit information
+2021-05-17 11:04:49,825 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-17 11:04:49,859 Order execution(+¸Å¼ö) (Á¢¼ö), order:2, executed_sum:0, open:2, price:453.4, number:25694, original:0
+2021-05-17 11:04:51,267 Order execution(+¸Å¼ö) (Ã¼°á), order:2, executed_sum:2, open:0, price:453.4, number:25694, original:0
+2021-05-17 11:05:39,895 Kiwoom initializing...
+2021-05-17 11:05:45,537 Kiwoom log in success
+2021-05-17 11:05:45,537 Account information
+2021-05-17 11:05:46,053 Deposit information
+2021-05-17 11:05:52,773 Portfolio information
+2021-05-17 11:06:06,171 Deposit information
+2021-05-17 13:17:36,469 Kiwoom initializing...
+2021-05-17 13:17:46,932 Kiwoom log in success
+2021-05-17 13:17:46,933 Account information
+2021-05-17 13:17:47,450 Deposit information
+2021-05-17 13:17:58,424 Kiwoom initializing...
+2021-05-17 13:18:03,764 Kiwoom log in success
+2021-05-17 13:18:03,764 Account information
+2021-05-17 13:18:04,269 Deposit information
+2021-05-17 13:18:05,372 Portfolio information
+2021-05-17 13:20:27,876 Deposit information
+2021-05-17 13:51:16,892 Kiwoom initializing...
+2021-05-17 13:51:26,894 Kiwoom log in success
+2021-05-17 13:51:26,895 Account information
+2021-05-17 13:51:27,402 Deposit information
+2021-05-17 13:51:28,549 Portfolio information
+2021-05-17 13:51:43,289 Deposit information
+2021-05-17 13:52:08,543 Kiwoom initializing...
+2021-05-17 13:52:13,596 Kiwoom log in success
+2021-05-17 13:52:13,596 Account information
+2021-05-17 13:52:14,108 Deposit information
+2021-05-17 13:52:14,246 Portfolio information
+2021-05-17 13:52:45,623 Deposit information
+2021-05-17 13:52:48,896 Portfolio information
+2021-05-17 13:52:57,728 test1 button clicked
+2021-05-17 13:52:57,747 Deposit information
+2021-05-17 13:53:08,402 test1 button clicked
+2021-05-17 13:53:08,426 Deposit information
+2021-05-17 13:56:01,768 test1 button clicked
+2021-05-17 13:56:01,793 Deposit information
+2021-05-17 13:56:14,013 Portfolio information
+2021-05-17 13:57:06,020 Kiwoom initializing...
+2021-05-17 13:57:11,408 Kiwoom log in success
+2021-05-17 13:57:11,408 Account information
+2021-05-17 13:57:11,921 Deposit information
+2021-05-17 13:57:12,339 Portfolio information
+2021-05-17 13:57:16,671 test1 button clicked
+2021-05-17 13:57:16,697 No deposit information
+2021-05-17 13:57:16,698 Deposit information
+2021-05-17 13:57:23,967 Deposit information
+2021-05-17 13:57:24,592 test1 button clicked
+2021-05-17 13:57:24,747 Deposit information
+2021-05-17 13:57:30,843 Deposit information
+2021-05-17 13:57:31,810 Portfolio information
+2021-05-17 13:57:34,114 Deposit information
+2021-05-17 13:57:38,159 Portfolio information
+2021-05-17 13:57:45,308 test1 button clicked
+2021-05-17 13:57:45,445 Deposit information
+2021-05-17 13:58:32,604 Kiwoom initializing...
+2021-05-17 13:58:37,830 Kiwoom log in success
+2021-05-17 13:58:37,830 Account information
+2021-05-17 13:58:38,338 Deposit information
+2021-05-17 13:58:39,155 Portfolio information
+2021-05-17 13:58:43,877 Deposit information
+2021-05-17 13:58:45,106 Portfolio information
+2021-05-17 14:01:54,871 test1 button clicked
+2021-05-17 14:01:55,153 Deposit information
+2021-05-17 14:02:47,391 Kiwoom initializing...
+2021-05-17 14:02:52,675 Kiwoom log in success
+2021-05-17 14:02:52,675 Account information
+2021-05-17 14:02:53,184 Deposit information
+2021-05-17 14:02:54,266 Portfolio information
+2021-05-17 14:02:59,764 test1 button clicked
+2021-05-17 14:03:00,956 Portfolio information
+2021-05-17 14:03:04,040 Deposit information
+2021-05-17 14:03:06,806 test1 button clicked
+2021-05-17 14:03:06,905 Portfolio information
+2021-05-17 14:03:34,817 Portfolio information
+2021-05-17 14:31:27,846 Kiwoom initializing...
+2021-05-17 14:31:33,074 Kiwoom log in success
+2021-05-17 14:31:33,075 Account information
+2021-05-17 14:31:33,580 Deposit information
+2021-05-17 14:31:34,509 Portfolio information
+2021-05-17 14:31:40,669 Deposit information
+2021-05-17 14:47:15,075 Kiwoom initializing...
+2021-05-17 14:47:24,998 Kiwoom log in success
+2021-05-17 14:47:24,998 Account information
+2021-05-17 14:47:25,504 Deposit information
+2021-05-17 14:47:26,245 Portfolio information
+2021-05-17 14:50:04,922 Deposit information
+2021-05-17 14:53:29,276 Kiwoom initializing...
+2021-05-17 14:53:34,884 Kiwoom log in success
+2021-05-17 14:53:34,884 Account information
+2021-05-17 14:53:35,395 Deposit information
+2021-05-17 14:53:36,632 Portfolio information
+2021-05-17 14:53:37,918 Deposit information
+2021-05-17 14:53:39,372 Portfolio information
+2021-05-17 14:55:01,522 Kiwoom initializing...
+2021-05-17 14:55:06,693 Kiwoom log in success
+2021-05-17 14:55:06,693 Account information
+2021-05-17 14:55:07,211 Deposit information
+2021-05-17 14:55:07,236 Portfolio information
+2021-05-17 14:55:14,003 Deposit information
+2021-05-17 14:57:41,850 Kiwoom initializing...
+2021-05-17 14:57:47,116 Kiwoom log in success
+2021-05-17 14:57:47,116 Account information
+2021-05-17 14:57:47,632 Deposit information
+2021-05-17 14:57:47,894 Portfolio information
+2021-05-17 14:57:56,123 Deposit information
+2021-05-17 14:58:35,047 Kiwoom initializing...
+2021-05-17 14:58:40,178 Kiwoom log in success
+2021-05-17 14:58:40,179 Account information
+2021-05-17 14:58:40,691 Deposit information
+2021-05-17 14:58:41,148 Portfolio information
+2021-05-17 14:59:05,927 Deposit information
+2021-05-17 15:03:02,402 Portfolio information
+2021-05-17 15:04:22,842 Kiwoom initializing...
+2021-05-17 15:04:30,418 Kiwoom log in success
+2021-05-17 15:04:30,418 Account information
+2021-05-17 15:04:30,925 Deposit information
+2021-05-17 15:04:32,069 Portfolio information
+2021-05-17 15:04:36,550 Deposit information
+2021-05-17 15:04:38,179 Portfolio information
+2021-05-17 15:07:29,888 Kiwoom initializing...
+2021-05-17 15:07:35,082 Kiwoom log in success
+2021-05-17 15:07:35,083 Account information
+2021-05-17 15:07:35,591 Deposit information
+2021-05-17 15:07:36,176 Portfolio information
+2021-05-17 15:08:05,559 Deposit information
+2021-05-17 15:08:07,254 Portfolio information
+2021-05-17 15:08:11,657 Deposit information
+2021-05-17 15:08:12,771 Portfolio information
+2021-05-17 15:08:15,863 Deposit information
+2021-05-17 15:09:04,775 Kiwoom initializing...
+2021-05-17 15:09:11,024 Kiwoom log in success
+2021-05-17 15:09:11,024 Account information
+2021-05-17 15:09:11,540 Deposit information
+2021-05-17 15:09:12,781 Portfolio information
+2021-05-17 15:09:23,597 Deposit information
+2021-05-17 15:09:23,763 Portfolio information
+2021-05-17 15:09:28,913 Deposit information
+2021-05-17 15:09:30,246 Portfolio information
+2021-05-17 15:09:33,285 Deposit information
+2021-05-17 15:09:33,363 Portfolio information
+2021-05-17 15:09:53,707 Deposit information
+2021-05-17 15:09:55,177 Portfolio information
+2021-05-17 15:09:58,146 Deposit information
+2021-05-17 15:09:58,570 Portfolio information
+2021-05-17 15:10:02,346 Deposit information
+2021-05-17 15:10:03,331 Portfolio information
+2021-05-17 15:10:11,979 Deposit information
+2021-05-17 15:10:12,039 Portfolio information
+2021-05-17 15:10:16,701 Deposit information
+2021-05-17 15:10:16,810 Portfolio information
+2021-05-17 15:10:23,489 Deposit information
+2021-05-17 15:10:23,880 Portfolio information
+2021-05-17 15:11:02,166 Deposit information
+2021-05-17 15:11:03,693 Portfolio information
+2021-05-17 15:11:25,904 Deposit information
+2021-05-17 15:11:26,004 Portfolio information
+2021-05-17 15:12:19,824 test1 button clicked
+2021-05-17 15:28:21,932 Kiwoom initializing...
+2021-05-17 15:28:32,353 Kiwoom log in success
+2021-05-17 15:28:32,353 Account information
+2021-05-17 15:28:32,859 Deposit information
+2021-05-17 15:28:33,933 Portfolio information
+2021-05-17 15:28:39,078 Deposit information
+2021-05-17 15:28:47,650 Kiwoom initializing...
+2021-05-17 15:28:53,305 Kiwoom log in success
+2021-05-17 15:28:53,306 Account information
+2021-05-17 15:29:00,102 Kiwoom initializing...
+2021-05-17 15:29:05,583 Kiwoom log in success
+2021-05-17 15:29:05,584 Account information
+2021-05-17 15:29:06,094 Deposit information
+2021-05-17 15:29:07,026 Portfolio information
+2021-05-17 15:29:07,973 market operation state 2 152910 000050
+2021-05-17 15:29:13,372 Deposit information
+2021-05-17 15:29:50,292 Kiwoom initializing...
+2021-05-17 15:29:55,458 Kiwoom log in success
+2021-05-17 15:29:55,458 Account information
+2021-05-17 15:29:55,962 Deposit information
+2021-05-17 15:29:57,024 Portfolio information
+2021-05-17 15:29:57,976 market operation state 4 153000 000000
+2021-05-17 15:30:00,606 Deposit information
+2021-05-17 15:30:52,739 Kiwoom initializing...
+2021-05-17 15:30:57,720 Kiwoom log in success
+2021-05-17 15:30:57,720 Account information
+2021-05-17 15:30:58,231 Deposit information
+2021-05-17 15:30:58,270 Portfolio information
+2021-05-17 15:31:07,694 Deposit information
+2021-05-17 15:31:07,787 Portfolio information (Futures)
+2021-05-17 15:32:27,925 market operation state 8 888888 000000
+2021-05-17 15:32:47,758 Deposit information
+2021-05-17 15:32:47,773 Portfolio information
+2021-05-17 15:32:51,978 Deposit information
+2021-05-17 15:32:52,045 Portfolio information (Futures)
+2021-05-17 15:34:58,730 market operation state s 153500 000000
+2021-05-17 15:34:58,731 market operation state s 153500 000000
+2021-05-17 15:34:58,821 market operation state s 153500 000000
+2021-05-17 15:34:58,822 market operation state s 153500 000000
+2021-05-17 15:34:58,822 market operation state s 153500 000000
+2021-05-17 15:34:58,822 market operation state s 153500 000000
+2021-05-17 15:34:58,822 market operation state s 153500 000000
+2021-05-17 15:34:58,824 market operation state s 153500 000000
+2021-05-17 15:34:58,825 market operation state s 153500 000000
+2021-05-17 15:34:58,825 market operation state s 153500 000000
+2021-05-17 15:34:58,927 market operation state s 153500 000000
+2021-05-17 15:34:58,927 market operation state s 153500 000000
+2021-05-17 15:34:58,928 market operation state s 153500 000000
+2021-05-17 15:34:58,928 market operation state s 153500 000000
+2021-05-17 15:34:58,928 market operation state s 153500 000000
+2021-05-17 15:34:58,929 market operation state s 153500 000000
+2021-05-17 15:34:58,929 market operation state s 153500 000000
+2021-05-17 15:39:58,716 market operation state a 154000 000000
+2021-05-17 15:44:58,900 market operation state e 154500 000000
+2021-05-17 15:44:59,112 market operation state e 154500 000000
+2021-05-17 15:44:59,202 market operation state e 154500 000000
+2021-05-17 15:44:59,204 market operation state e 154500 000000
+2021-05-17 15:44:59,309 market operation state e 154500 000000
+2021-05-17 15:44:59,401 market operation state e 154500 000000
+2021-05-17 15:44:59,402 market operation state e 154500 000000
+2021-05-17 15:44:59,506 market operation state e 154500 000000
+2021-05-17 15:44:59,507 market operation state e 154500 000000
+2021-05-17 15:44:59,612 market operation state e 154500 000000
+2021-05-17 15:44:59,702 market operation state e 154500 000000
+2021-05-17 15:44:59,703 market operation state e 154500 000000
+2021-05-17 15:45:00,005 market operation state e 154500 000000
+2021-05-17 15:45:00,201 market operation state e 154500 000000
+2021-05-17 15:45:00,307 market operation state e 154500 000000
+2021-05-17 15:45:00,608 market operation state e 154500 000000
+2021-05-17 15:45:00,609 market operation state e 154500 000000
+2021-05-17 15:57:05,307 Deposit information
+2021-05-17 15:57:05,334 Portfolio information
+2021-05-17 15:57:08,581 Deposit information
+2021-05-17 15:57:08,759 Portfolio information (Futures)
+2021-05-17 15:57:20,916 [95mSend order failed. Please check order variables[0m
+2021-05-17 15:57:20,916 [95m Order Variables 0 4 SELL MARKET  [0m
+2021-05-17 15:57:36,783 [95mSend order failed. Please check order variables[0m
+2021-05-17 15:57:36,783 [95m Order Variables 0 2 SELL MARKET  [0m
+2021-05-17 15:57:47,290 Deposit information
+2021-05-17 15:57:47,305 Portfolio information
+2021-05-17 15:57:57,011 Deposit information
+2021-05-17 15:57:57,059 Portfolio information (Futures)
+2021-05-17 15:58:08,394 [95mSend order failed. Please check order variables[0m
+2021-05-17 15:58:08,394 [95m Order Variables 0 2 SELL MARKET  [0m
+2021-05-17 15:58:38,666 [95mSend order failed. Please check order variables[0m
+2021-05-17 15:58:38,666 [95m Order Variables 0 2 SELL MARKET  [0m
+2021-05-17 15:58:49,255 [95mSend order failed. Please check order variables[0m
+2021-05-17 15:58:49,255 [95m Order Variables 0 2 BUY MARKET  [0m
+2021-05-17 15:59:58,676 market operation state b 160000 000000
+2021-05-17 15:59:58,676 market operation state c 160000 000000
+2021-05-17 16:01:36,576 Kiwoom initializing...
+2021-05-17 16:01:46,605 Kiwoom log in success
+2021-05-17 16:01:46,606 Account information
+2021-05-17 16:01:47,113 Deposit information
+2021-05-17 16:01:47,139 Portfolio information
+2021-05-17 16:01:59,298 Deposit information
+2021-05-17 16:01:59,366 Portfolio information (Futures)
+2021-05-17 16:03:39,741 Kiwoom initializing...
+2021-05-17 16:03:44,903 Kiwoom log in success
+2021-05-17 16:03:44,903 Account information
+2021-05-17 16:03:45,408 Deposit information
+2021-05-17 16:03:45,912 Portfolio information
+2021-05-17 16:03:46,416 Deposit information
+2021-05-17 16:03:46,463 Portfolio information (Futures)
+2021-05-17 16:04:37,002 Kiwoom initializing...
+2021-05-17 16:04:42,044 Kiwoom log in success
+2021-05-17 16:04:42,044 Account information
+2021-05-17 16:04:42,552 Deposit information
+2021-05-17 16:04:43,068 Portfolio information
+2021-05-17 16:04:43,569 Deposit information
+2021-05-17 16:04:43,615 Portfolio information (Futures)
+2021-05-17 17:59:58,492 market operation state d 180000 000000
+2021-05-17 18:01:17,690 market operation state 9 999999 000000

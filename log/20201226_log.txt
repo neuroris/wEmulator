@@ -1,0 +1,136 @@
+2020-12-26 10:00:03,957 Kiwoom initializing...
+2020-12-26 10:00:31,323 Kiwoom log in success
+2020-12-26 10:00:31,324 Account information
+2020-12-26 10:00:31,847 Deposit information
+2020-12-26 10:00:33,056 Portfolio information
+2020-12-26 11:17:57,409 Chart updated
+2020-12-26 11:50:20,923 Kiwoom initializing...
+2020-12-26 11:50:25,449 Kiwoom log in success
+2020-12-26 11:50:25,449 Account information
+2020-12-26 11:50:25,964 Deposit information
+2020-12-26 11:50:26,017 Portfolio information
+2020-12-26 11:50:27,457 Chart updated
+2020-12-26 11:50:47,095 Kiwoom initializing...
+2020-12-26 11:50:51,872 Kiwoom log in success
+2020-12-26 11:50:51,873 Account information
+2020-12-26 11:50:52,378 Deposit information
+2020-12-26 11:50:52,481 Portfolio information
+2020-12-26 11:51:05,608 Chart updated
+2020-12-26 11:51:37,499 Kiwoom initializing...
+2020-12-26 11:51:41,746 Kiwoom log in success
+2020-12-26 11:51:41,746 Account information
+2020-12-26 11:51:42,265 Deposit information
+2020-12-26 11:51:42,310 Portfolio information
+2020-12-26 12:23:17,112 Kiwoom initializing...
+2020-12-26 12:23:21,919 Kiwoom log in success
+2020-12-26 12:23:21,920 Account information
+2020-12-26 12:23:22,445 Deposit information
+2020-12-26 12:23:22,500 Portfolio information
+2020-12-26 12:23:51,539 Chart updated
+2020-12-26 12:25:41,769 Kiwoom initializing...
+2020-12-26 12:25:46,099 Kiwoom log in success
+2020-12-26 12:25:46,100 Account information
+2020-12-26 12:25:46,617 Deposit information
+2020-12-26 12:25:46,663 Portfolio information
+2020-12-26 12:26:35,062 Chart updated
+2020-12-26 12:51:41,853 Kiwoom initializing...
+2020-12-26 12:51:46,258 Kiwoom log in success
+2020-12-26 12:51:46,258 Account information
+2020-12-26 12:51:46,766 Deposit information
+2020-12-26 12:51:46,813 Portfolio information
+2020-12-26 13:38:52,535 Kiwoom initializing...
+2020-12-26 13:38:56,865 Kiwoom log in success
+2020-12-26 13:38:56,865 Account information
+2020-12-26 13:38:57,372 Deposit information
+2020-12-26 13:38:57,420 Portfolio information
+2020-12-26 13:39:56,187 Chart updated
+2020-12-26 13:41:11,445 Kiwoom initializing...
+2020-12-26 13:41:15,730 Kiwoom log in success
+2020-12-26 13:41:15,731 Account information
+2020-12-26 13:41:16,236 Deposit information
+2020-12-26 13:41:16,284 Portfolio information
+2020-12-26 13:41:33,163 Kiwoom initializing...
+2020-12-26 13:41:37,761 Kiwoom log in success
+2020-12-26 13:41:37,762 Account information
+2020-12-26 13:41:38,277 Deposit information
+2020-12-26 13:41:38,363 Portfolio information
+2020-12-26 13:42:28,095 Chart updated
+2020-12-26 13:44:21,301 Kiwoom initializing...
+2020-12-26 13:44:25,657 Kiwoom log in success
+2020-12-26 13:44:25,657 Account information
+2020-12-26 13:44:26,162 Deposit information
+2020-12-26 13:44:26,204 Portfolio information
+2020-12-26 13:44:44,242 Kiwoom initializing...
+2020-12-26 13:44:48,426 Kiwoom log in success
+2020-12-26 13:44:48,426 Account information
+2020-12-26 13:44:48,929 Deposit information
+2020-12-26 13:44:48,976 Portfolio information
+2020-12-26 13:45:39,309 Kiwoom initializing...
+2020-12-26 13:45:43,500 Kiwoom log in success
+2020-12-26 13:45:43,501 Account information
+2020-12-26 13:45:44,007 Deposit information
+2020-12-26 13:45:44,054 Portfolio information
+2020-12-26 13:48:22,783 Kiwoom initializing...
+2020-12-26 13:48:27,076 Kiwoom log in success
+2020-12-26 13:48:27,076 Account information
+2020-12-26 13:48:27,589 Deposit information
+2020-12-26 13:48:27,636 Portfolio information
+2020-12-26 13:49:45,025 Kiwoom initializing...
+2020-12-26 13:49:49,492 Kiwoom log in success
+2020-12-26 13:49:49,492 Account information
+2020-12-26 13:49:50,004 Deposit information
+2020-12-26 13:49:50,050 Portfolio information
+2020-12-26 13:53:23,195 Kiwoom initializing...
+2020-12-26 13:53:27,411 Kiwoom log in success
+2020-12-26 13:53:27,412 Account information
+2020-12-26 13:53:27,925 Deposit information
+2020-12-26 13:53:28,188 Portfolio information
+2020-12-26 13:53:47,201 Kiwoom initializing...
+2020-12-26 13:53:51,633 Kiwoom log in success
+2020-12-26 13:53:51,633 Account information
+2020-12-26 13:53:52,144 Deposit information
+2020-12-26 13:53:52,207 Portfolio information
+2020-12-26 13:54:52,756 Kiwoom initializing...
+2020-12-26 13:54:57,227 Kiwoom log in success
+2020-12-26 13:54:57,229 Account information
+2020-12-26 13:54:57,733 Deposit information
+2020-12-26 13:54:57,811 Portfolio information
+2020-12-26 14:00:02,050 Kiwoom initializing...
+2020-12-26 14:00:06,344 Kiwoom log in success
+2020-12-26 14:00:06,344 Account information
+2020-12-26 14:00:06,864 Deposit information
+2020-12-26 14:00:06,913 Portfolio information
+2020-12-26 14:09:43,396 Kiwoom initializing...
+2020-12-26 14:09:48,010 Kiwoom log in success
+2020-12-26 14:09:48,010 Account information
+2020-12-26 14:09:48,520 Deposit information
+2020-12-26 14:09:48,569 Portfolio information
+2020-12-26 14:09:53,830 Chart updated
+2020-12-26 14:14:52,541 Kiwoom initializing...
+2020-12-26 14:14:56,871 Kiwoom log in success
+2020-12-26 14:14:56,871 Account information
+2020-12-26 14:14:57,375 Deposit information
+2020-12-26 14:14:57,411 Portfolio information
+2020-12-26 14:15:02,526 Chart updated
+2020-12-26 14:20:51,714 Kiwoom initializing...
+2020-12-26 14:20:56,029 Kiwoom log in success
+2020-12-26 14:20:56,030 Account information
+2020-12-26 14:20:56,548 Deposit information
+2020-12-26 14:20:56,595 Portfolio information
+2020-12-26 14:23:06,025 Kiwoom initializing...
+2020-12-26 14:23:10,299 Kiwoom log in success
+2020-12-26 14:23:10,300 Account information
+2020-12-26 14:23:10,813 Deposit information
+2020-12-26 14:23:10,862 Portfolio information
+2020-12-26 14:41:46,836 Kiwoom initializing...
+2020-12-26 14:41:51,181 Kiwoom log in success
+2020-12-26 14:41:51,181 Account information
+2020-12-26 14:41:51,696 Deposit information
+2020-12-26 14:41:51,742 Portfolio information
+2020-12-26 14:41:57,340 Chart updated
+2020-12-26 14:42:35,868 Kiwoom initializing...
+2020-12-26 14:42:40,456 Kiwoom log in success
+2020-12-26 14:42:40,457 Account information
+2020-12-26 14:42:40,971 Deposit information
+2020-12-26 14:42:41,017 Portfolio information
+2020-12-26 14:42:49,030 Chart updated

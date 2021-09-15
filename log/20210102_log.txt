@@ -1,0 +1,6 @@
+2021-01-02 10:19:07,429 Kiwoom initializing...
+2021-01-02 10:19:34,024 Kiwoom log in success
+2021-01-02 10:19:34,024 Account information
+2021-01-02 10:19:34,530 Deposit information
+2021-01-02 10:19:35,227 Portfolio information
+2021-01-02 12:02:13,970 Go Charting KODEX 레버리지

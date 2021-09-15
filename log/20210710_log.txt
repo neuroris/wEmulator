@@ -1,0 +1,5 @@
+2021-07-10 09:50:33,422 Kiwoom initializing...
+2021-07-10 09:51:04,755 Kiwoom log in success
+2021-07-10 09:51:04,755 Account information
+2021-07-10 09:51:05,265 Deposit information (Futures)
+2021-07-10 09:51:05,295 Portfolio information (Futures) (No item found)

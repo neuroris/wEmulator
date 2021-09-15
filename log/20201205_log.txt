@@ -1,0 +1,13 @@
+2020-12-05 13:07:07,966 Kiwoom log in success
+2020-12-05 13:07:07,967 Account information acquired
+2020-12-05 13:07:08,235 Deposit information acquired
+2020-12-05 13:07:08,289 Portfolio information acquired
+2020-12-05 13:07:40,146 Kiwoom log in success
+2020-12-05 13:07:40,147 Account information acquired
+2020-12-05 13:07:40,407 Deposit information acquired
+2020-12-05 13:07:40,466 Portfolio information acquired
+2020-12-05 13:59:15,913 Kiwoom log in success
+2020-12-05 13:59:15,914 Account information acquired
+2020-12-05 13:59:16,182 Deposit information acquired
+2020-12-05 13:59:16,219 Portfolio information acquired
+2020-12-05 14:08:44,898 Order history information acquired

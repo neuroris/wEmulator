@@ -1,0 +1,498 @@
+2021-05-27 09:47:06,083 Kiwoom initializing...
+2021-05-27 09:47:47,441 Kiwoom log in success
+2021-05-27 09:47:47,441 Account information
+2021-05-27 09:47:47,959 Deposit information
+2021-05-27 09:47:49,497 Deposit information (Futures)
+2021-05-27 09:47:50,011 Portfolio information
+2021-05-27 09:48:02,245 Portfolio information (Futures)
+2021-05-27 09:48:06,413 F 202106 trading information begins to be monitored
+2021-05-27 09:48:06,413 Go Charting F 202106
+2021-05-27 09:48:21,279 Stop Charting
+2021-05-27 09:48:23,119 F 202106 stock information monitoring is finished
+2021-05-27 09:57:40,209 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 09:57:40,226 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:17659, original:0
+2021-05-27 09:57:40,228 Balance information
+2021-05-27 09:57:40,924 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:17659, original:0
+2021-05-27 09:57:40,927 Balance information
+2021-05-27 09:58:08,819 Kiwoom initializing...
+2021-05-27 09:58:19,288 Kiwoom log in success
+2021-05-27 09:58:19,288 Account information
+2021-05-27 09:58:19,799 Deposit information
+2021-05-27 09:58:20,815 Deposit information (Futures)
+2021-05-27 09:58:21,330 Portfolio information
+2021-05-27 09:58:21,873 Deposit information (Futures)
+2021-05-27 09:58:22,239 Portfolio information (Futures)
+2021-05-27 09:58:43,224 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 09:58:43,303 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:17949, original:0
+2021-05-27 09:58:43,305 Balance information
+2021-05-27 09:58:43,307 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:17949, original:0
+2021-05-27 10:23:24,824 Kiwoom initializing...
+2021-05-27 10:23:36,874 Kiwoom log in success
+2021-05-27 10:23:36,874 Account information
+2021-05-27 10:23:37,382 Deposit information
+2021-05-27 10:23:38,397 Deposit information (Futures)
+2021-05-27 10:23:38,911 Portfolio information
+2021-05-27 10:23:39,446 Deposit information (Futures)
+2021-05-27 10:23:39,595 Portfolio information (Futures)
+2021-05-27 10:23:55,691 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 10:23:55,754 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:23429, original:0
+2021-05-27 10:23:55,755 Balance information
+2021-05-27 10:23:56,361 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:23429, original:0
+2021-05-27 10:23:56,363 Balance information
+2021-05-27 10:24:02,624 Portfolio information (Futures)
+2021-05-27 10:24:06,696 Portfolio information (Futures)
+2021-05-27 10:24:14,456 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 10:24:14,560 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:23477, original:0
+2021-05-27 10:24:14,562 Balance information
+2021-05-27 10:24:15,062 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:23477, original:0
+2021-05-27 10:24:15,063 Balance information
+2021-05-27 10:24:17,842 Portfolio information (Futures)
+2021-05-27 10:24:47,000 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 10:24:47,062 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:23548, original:0
+2021-05-27 10:24:47,064 Balance information
+2021-05-27 10:24:48,559 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:23548, original:0
+2021-05-27 10:24:48,561 Balance information
+2021-05-27 10:24:59,173 Portfolio information (Futures)
+2021-05-27 10:25:01,324 Portfolio information (Futures)
+2021-05-27 10:25:04,145 Portfolio information (Futures)
+2021-05-27 10:25:06,534 Portfolio information (Futures)
+2021-05-27 10:25:10,956 Portfolio information (Futures)
+2021-05-27 11:15:52,997 Portfolio information (Futures)
+2021-05-27 11:16:07,607 Portfolio information (Futures)
+2021-05-27 11:16:20,095 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 11:16:20,170 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:31746, original:0
+2021-05-27 11:16:20,172 Balance information
+2021-05-27 11:16:22,470 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:31746, original:0
+2021-05-27 11:16:22,473 Balance information
+2021-05-27 11:16:29,003 Portfolio information (Futures)
+2021-05-27 11:25:51,658 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 11:25:51,752 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:32604, original:0
+2021-05-27 11:25:51,754 Balance information
+2021-05-27 11:25:53,354 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:32604, original:0
+2021-05-27 11:25:53,357 Balance information
+2021-05-27 11:26:06,055 Portfolio information (Futures)
+2021-05-27 11:26:54,506 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 11:26:54,550 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:32679, original:0
+2021-05-27 11:26:54,552 Balance information
+2021-05-27 11:26:55,453 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:32679, original:0
+2021-05-27 11:26:55,548 Balance information
+2021-05-27 11:26:58,367 Portfolio information (Futures)
+2021-05-27 11:27:33,590 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 11:27:33,653 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:32716, original:0
+2021-05-27 11:27:33,655 Balance information
+2021-05-27 11:27:36,054 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:32716, original:0
+2021-05-27 11:27:36,058 Balance information
+2021-05-27 11:27:46,706 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 11:27:46,750 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:32733, original:0
+2021-05-27 11:27:46,753 Balance information
+2021-05-27 11:27:48,345 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:32733, original:0
+2021-05-27 11:28:52,067 Kiwoom initializing...
+2021-05-27 11:29:08,294 Kiwoom log in success
+2021-05-27 11:29:08,295 Account information
+2021-05-27 11:29:09,305 Deposit information (Futures)
+2021-05-27 11:29:09,305 No deposit information
+2021-05-27 11:29:10,329 Portfolio information
+2021-05-27 11:29:10,876 Deposit information (Futures)
+2021-05-27 11:29:11,313 Portfolio information (Futures)
+2021-05-27 11:29:33,289 F 202106 trading information begins to be monitored
+2021-05-27 11:29:33,289 Go Charting F 202106
+2021-05-27 11:58:32,286 Kiwoom initializing...
+2021-05-27 11:58:42,214 Kiwoom log in success
+2021-05-27 11:58:42,215 Account information
+2021-05-27 11:58:42,724 Deposit information
+2021-05-27 11:58:44,257 Deposit information (Futures)
+2021-05-27 11:58:44,760 Portfolio information
+2021-05-27 11:58:51,586 Portfolio information (Futures)
+2021-05-27 11:59:11,773 F 202106 trading information begins to be monitored
+2021-05-27 11:59:11,773 Go Charting F 202106
+2021-05-27 11:59:53,012 F 202106 stock information monitoring is finished
+2021-05-27 11:59:55,231 Portfolio information (Futures)
+2021-05-27 12:00:30,542 [95mSend order failed. Please check order variables[0m
+2021-05-27 12:00:30,543 [95m Order Variables 0 0 BUY MARKET  [0m
+2021-05-27 12:00:51,806 [95mSend order failed. Please check order variables[0m
+2021-05-27 12:00:51,806 [95m Order Variables 0 0 BUY MARKET  [0m
+2021-05-27 12:01:12,081 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:01:12,143 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:35826, original:0
+2021-05-27 12:01:12,146 Balance information
+2021-05-27 12:01:12,448 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:35826, original:0
+2021-05-27 12:01:35,178 Kiwoom initializing...
+2021-05-27 12:01:41,933 Kiwoom log in success
+2021-05-27 12:01:41,933 Account information
+2021-05-27 12:01:42,447 Deposit information
+2021-05-27 12:01:43,455 Deposit information (Futures)
+2021-05-27 12:01:43,960 Portfolio information
+2021-05-27 12:01:44,489 Deposit information (Futures)
+2021-05-27 12:01:44,780 Portfolio information (NO ITEM)
+2021-05-27 12:05:43,967 Portfolio information (NO ITEM)
+2021-05-27 12:05:56,507 [95mSend order failed. Please check order variables[0m
+2021-05-27 12:05:56,508 [95m Order Variables 0 1 SELL LIMIT  [0m
+2021-05-27 12:06:09,231 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:06:09,262 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:36153, original:0
+2021-05-27 12:06:09,264 Balance information
+2021-05-27 12:06:10,072 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:36153, original:0
+2021-05-27 12:13:52,954 Kiwoom initializing...
+2021-05-27 12:14:03,721 Kiwoom log in success
+2021-05-27 12:14:03,721 Account information
+2021-05-27 12:14:04,729 Deposit information (Futures)
+2021-05-27 12:14:04,729 No deposit information
+2021-05-27 12:14:06,250 Portfolio information
+2021-05-27 12:14:06,503 Deposit information (Futures)
+2021-05-27 12:16:22,627 Portfolio information (Futures)
+2021-05-27 12:16:33,425 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:16:33,467 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:37473, original:0
+2021-05-27 12:16:33,469 Balance information
+2021-05-27 12:16:37,370 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:37473, original:0
+2021-05-27 12:16:37,373 Balance information
+2021-05-27 12:18:07,134 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:18:07,150 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:37663, original:0
+2021-05-27 12:18:07,152 Balance information
+2021-05-27 12:18:08,258 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:37663, original:0
+2021-05-27 12:18:08,261 Balance information
+2021-05-27 12:18:16,188 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:18:16,256 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:37674, original:0
+2021-05-27 12:18:16,258 Balance information
+2021-05-27 12:18:17,856 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:37674, original:0
+2021-05-27 12:18:17,859 Balance information
+2021-05-27 12:18:20,346 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:18:20,349 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:37678, original:0
+2021-05-27 12:18:20,352 Balance information
+2021-05-27 12:18:29,249 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:37678, original:0
+2021-05-27 12:20:31,463 Kiwoom initializing...
+2021-05-27 12:20:43,013 Kiwoom log in success
+2021-05-27 12:20:43,013 Account information
+2021-05-27 12:20:44,029 Deposit information (Futures)
+2021-05-27 12:20:44,029 No deposit information
+2021-05-27 12:20:45,045 Portfolio information
+2021-05-27 12:20:45,578 Deposit information (Futures)
+2021-05-27 12:20:45,619 Portfolio information (Futures)
+2021-05-27 12:21:16,357 Kiwoom initializing...
+2021-05-27 12:21:22,147 Kiwoom log in success
+2021-05-27 12:21:22,147 Account information
+2021-05-27 12:21:23,167 Deposit information (Futures)
+2021-05-27 12:21:23,167 No deposit information
+2021-05-27 12:21:24,173 Portfolio information
+2021-05-27 12:21:24,892 Deposit information (Futures)
+2021-05-27 12:21:25,165 Portfolio information (Futures)
+2021-05-27 12:22:28,960 Kiwoom initializing...
+2021-05-27 12:22:34,666 Kiwoom log in success
+2021-05-27 12:22:34,667 Account information
+2021-05-27 12:22:35,695 Deposit information (Futures)
+2021-05-27 12:22:35,695 No deposit information
+2021-05-27 12:22:37,202 Portfolio information (Futures)
+2021-05-27 12:22:37,236 Deposit information (Futures)
+2021-05-27 12:23:34,153 Portfolio information (Futures)
+2021-05-27 12:23:43,572 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:23:43,633 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:38086, original:0
+2021-05-27 12:23:43,635 Balance information
+2021-05-27 12:23:45,845 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:38086, original:0
+2021-05-27 12:24:47,549 Balance information
+2021-05-27 12:24:57,215 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:24:57,245 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:38149, original:0
+2021-05-27 12:24:57,248 Balance information
+2021-05-27 12:24:58,540 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:38149, original:0
+2021-05-27 12:26:22,907 Kiwoom initializing...
+2021-05-27 12:26:29,288 Kiwoom log in success
+2021-05-27 12:26:29,288 Account information
+2021-05-27 12:26:30,313 Deposit information (Futures)
+2021-05-27 12:26:30,314 No deposit information
+2021-05-27 12:26:31,839 Portfolio information (Futures)
+2021-05-27 12:26:32,194 Deposit information (Futures)
+2021-05-27 12:26:45,590 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:26:45,606 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:38266, original:0
+2021-05-27 12:26:45,608 Balance information
+2021-05-27 12:26:46,206 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:38266, original:0
+2021-05-27 12:26:46,208 Balance information
+2021-05-27 12:26:50,980 Portfolio information (NO ITEM)
+2021-05-27 12:26:56,677 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:26:56,706 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:38280, original:0
+2021-05-27 12:26:56,707 Balance information
+2021-05-27 12:26:59,800 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:38280, original:0
+2021-05-27 12:26:59,804 Balance information
+2021-05-27 12:29:44,162 Kiwoom initializing...
+2021-05-27 12:29:49,880 Kiwoom log in success
+2021-05-27 12:29:49,880 Account information
+2021-05-27 12:29:50,399 Deposit information
+2021-05-27 12:29:51,907 Deposit information (Futures)
+2021-05-27 12:29:52,410 Portfolio information
+2021-05-27 12:30:23,920 Portfolio information (Futures)
+2021-05-27 12:30:29,393 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:30:29,426 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:38800, original:0
+2021-05-27 12:30:29,428 Balance information
+2021-05-27 12:30:30,017 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:38800, original:0
+2021-05-27 12:30:30,020 Balance information
+2021-05-27 12:30:37,881 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:30:37,912 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:38825, original:0
+2021-05-27 12:30:37,914 Balance information
+2021-05-27 12:30:38,018 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:38825, original:0
+2021-05-27 12:30:38,022 Balance information
+2021-05-27 12:31:18,924 F 202106 trading information begins to be monitored
+2021-05-27 12:31:18,924 Go Charting F 202106
+2021-05-27 12:33:47,430 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:33:47,506 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:39482, original:0
+2021-05-27 12:33:47,508 Balance information
+2021-05-27 12:33:55,319 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:39482, original:0
+2021-05-27 12:36:05,235 Kiwoom initializing...
+2021-05-27 12:36:12,986 Kiwoom log in success
+2021-05-27 12:36:12,986 Account information
+2021-05-27 12:36:13,492 Deposit information
+2021-05-27 12:36:14,996 Deposit information (Futures)
+2021-05-27 12:36:15,498 Portfolio information (Futures)
+2021-05-27 12:36:22,823 Portfolio information (Futures)
+2021-05-27 12:36:29,527 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:36:29,589 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:2, executed_sum:0, open:2, price:457.25, number:39846, original:0
+2021-05-27 12:36:29,591 Balance information
+2021-05-27 12:36:32,185 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:2, executed_sum:2, open:0, price:457.25, number:39846, original:0
+2021-05-27 12:36:32,186 Balance information
+2021-05-27 12:37:09,434 Kiwoom initializing...
+2021-05-27 12:37:15,522 Kiwoom log in success
+2021-05-27 12:37:15,523 Account information
+2021-05-27 12:37:16,030 Deposit information
+2021-05-27 12:37:17,058 Deposit information (Futures)
+2021-05-27 12:37:17,563 Portfolio information
+2021-05-27 12:37:18,092 Deposit information (Futures)
+2021-05-27 12:37:18,506 Portfolio information (NO ITEM)
+2021-05-27 12:37:37,909 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:37:37,955 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:40099, original:0
+2021-05-27 12:37:37,957 Balance information
+2021-05-27 12:37:38,348 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:40099, original:0
+2021-05-27 12:38:39,819 Balance information
+2021-05-27 12:38:44,569 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:38:44,645 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:40370, original:0
+2021-05-27 12:38:44,647 Balance information
+2021-05-27 12:38:45,342 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:40370, original:0
+2021-05-27 12:39:47,286 Kiwoom initializing...
+2021-05-27 12:39:52,768 Kiwoom log in success
+2021-05-27 12:39:52,768 Account information
+2021-05-27 12:39:53,281 Deposit information
+2021-05-27 12:39:54,299 Deposit information (Futures)
+2021-05-27 12:39:54,802 Portfolio information
+2021-05-27 12:39:55,345 Deposit information (Futures)
+2021-05-27 12:39:55,387 Portfolio information (Futures)
+2021-05-27 12:41:04,061 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:41:04,096 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:2, executed_sum:0, open:2, price:457.25, number:40861, original:0
+2021-05-27 12:41:04,099 Balance information
+2021-05-27 12:41:04,899 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:2, executed_sum:1, open:1, price:457.25, number:40861, original:0
+2021-05-27 12:41:04,902 Balance information
+2021-05-27 12:41:06,395 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:2, executed_sum:2, open:0, price:457.25, number:40861, original:0
+2021-05-27 12:41:06,398 Balance information
+2021-05-27 12:41:20,826 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:41:20,903 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:2, executed_sum:0, open:2, price:389.55, number:40906, original:0
+2021-05-27 12:41:20,905 Balance information
+2021-05-27 12:41:22,402 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:2, executed_sum:1, open:1, price:389.55, number:40906, original:0
+2021-05-27 12:41:22,406 Balance information
+2021-05-27 12:41:24,497 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:2, executed_sum:2, open:0, price:389.55, number:40906, original:0
+2021-05-27 12:41:24,500 Balance information
+2021-05-27 12:41:29,403 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:41:29,495 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:2, executed_sum:0, open:2, price:457.25, number:40923, original:0
+2021-05-27 12:41:29,498 Balance information
+2021-05-27 12:41:29,692 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:2, executed_sum:1, open:1, price:457.25, number:40923, original:0
+2021-05-27 12:41:29,694 Balance information
+2021-05-27 12:41:31,889 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:2, executed_sum:2, open:0, price:457.25, number:40923, original:0
+2021-05-27 12:41:31,890 Balance information
+2021-05-27 12:41:37,076 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:41:37,090 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:40939, original:0
+2021-05-27 12:41:37,093 Balance information
+2021-05-27 12:41:39,293 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:40939, original:0
+2021-05-27 12:41:39,297 Balance information
+2021-05-27 12:41:56,307 F 202106 trading information begins to be monitored
+2021-05-27 12:41:56,308 Go Charting F 202106
+2021-05-27 12:42:24,906 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:42:24,999 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:41059, original:0
+2021-05-27 12:42:25,001 Balance information
+2021-05-27 12:42:25,003 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:41059, original:0
+2021-05-27 12:42:25,006 Balance information
+2021-05-27 12:55:46,257 Kiwoom initializing...
+2021-05-27 12:55:56,832 Kiwoom log in success
+2021-05-27 12:55:56,833 Account information
+2021-05-27 12:55:57,851 Deposit information (Futures)
+2021-05-27 12:55:57,851 No deposit information
+2021-05-27 12:55:59,385 Portfolio information
+2021-05-27 12:55:59,417 Deposit information (Futures)
+2021-05-27 12:57:20,099 [95mSend order failed. Please check order variables[0m
+2021-05-27 12:57:20,100 [95m Order Variables 0 1 BUY LIMIT  [0m
+2021-05-27 12:57:33,955 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:57:34,003 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:42964, original:0
+2021-05-27 12:57:34,005 Balance information
+2021-05-27 12:57:34,093 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:42964, original:0
+2021-05-27 12:58:23,715 Kiwoom initializing...
+2021-05-27 12:58:31,742 Kiwoom log in success
+2021-05-27 12:58:31,742 Account information
+2021-05-27 12:58:33,261 Deposit information (Futures)
+2021-05-27 12:58:33,261 No deposit information
+2021-05-27 12:58:34,272 Portfolio information (Futures)
+2021-05-27 12:58:34,307 Deposit information (Futures)
+2021-05-27 12:59:07,038 F 202106 trading information begins to be monitored
+2021-05-27 12:59:07,039 Go Charting F 202106
+2021-05-27 12:59:19,276 Portfolio information (Futures)
+2021-05-27 12:59:31,757 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:59:31,864 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:43191, original:0
+2021-05-27 12:59:31,866 Balance information
+2021-05-27 12:59:32,761 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:43191, original:0
+2021-05-27 12:59:32,763 Balance information
+2021-05-27 12:59:35,739 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 12:59:35,755 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:43200, original:0
+2021-05-27 12:59:35,757 Balance information
+2021-05-27 12:59:36,561 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:43200, original:0
+2021-05-27 12:59:36,564 Balance information
+2021-05-27 13:00:13,274 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 13:00:13,280 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:43291, original:0
+2021-05-27 13:00:13,283 Balance information
+2021-05-27 13:00:13,661 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:43291, original:0
+2021-05-27 13:00:13,663 Balance information
+2021-05-27 13:02:16,730 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 13:02:16,762 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:43618, original:0
+2021-05-27 13:02:16,763 Balance information
+2021-05-27 13:02:17,159 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:43618, original:0
+2021-05-27 13:02:17,161 Balance information
+2021-05-27 13:04:58,724 Kiwoom initializing...
+2021-05-27 13:05:05,228 Kiwoom log in success
+2021-05-27 13:05:05,228 Account information
+2021-05-27 13:05:06,233 Deposit information (Futures)
+2021-05-27 13:05:06,234 No deposit information
+2021-05-27 13:05:07,237 Portfolio information
+2021-05-27 13:05:07,769 Deposit information (Futures)
+2021-05-27 13:05:08,143 Portfolio information (Futures)
+2021-05-27 13:05:36,443 F 202106 trading information begins to be monitored
+2021-05-27 13:05:36,443 Go Charting F 202106
+2021-05-27 13:07:20,236 Kiwoom initializing...
+2021-05-27 13:07:25,932 Kiwoom log in success
+2021-05-27 13:07:25,933 Account information
+2021-05-27 13:07:26,447 Deposit information
+2021-05-27 13:07:27,455 Deposit information (Futures)
+2021-05-27 13:07:27,960 Portfolio information
+2021-05-27 13:07:28,552 Deposit information (Futures)
+2021-05-27 13:07:28,918 Portfolio information (Futures)
+2021-05-27 13:07:56,354 F 202106 trading information begins to be monitored
+2021-05-27 13:07:56,355 Go Charting F 202106
+2021-05-27 13:11:44,040 Kiwoom initializing...
+2021-05-27 13:11:50,292 Kiwoom log in success
+2021-05-27 13:11:50,292 Account information
+2021-05-27 13:11:50,807 Deposit information
+2021-05-27 13:11:52,331 Portfolio information
+2021-05-27 13:11:52,830 Deposit information (Futures)
+2021-05-27 13:11:53,272 Portfolio information (Futures)
+2021-05-27 13:12:11,657 F 202106 trading information begins to be monitored
+2021-05-27 13:12:11,658 Go Charting F 202106
+2021-05-27 13:13:47,767 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 13:13:47,838 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:45026, original:0
+2021-05-27 13:13:47,843 Balance information
+2021-05-27 13:13:48,213 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:45026, original:0
+2021-05-27 13:13:48,216 Balance information
+2021-05-27 13:16:51,201 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:45492, original:0
+2021-05-27 13:16:51,204 Balance information
+2021-05-27 13:16:54,308 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:45492, original:0
+2021-05-27 13:16:54,310 Balance information
+2021-05-27 14:25:25,243 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:55718, original:0
+2021-05-27 14:25:25,246 Balance information
+2021-05-27 14:25:25,500 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:55718, original:0
+2021-05-27 14:25:25,589 Balance information
+2021-05-27 14:25:36,245 Order execution(+¸Å¼ö) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:457.25, number:55738, original:0
+2021-05-27 14:25:36,248 Balance information
+2021-05-27 14:25:36,312 Order execution(+¸Å¼ö) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:457.25, number:55738, original:0
+2021-05-27 14:25:36,318 Balance information
+2021-05-27 14:25:43,713 Portfolio information (Futures)
+2021-05-27 14:26:15,089 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 14:26:15,194 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:55839, original:0
+2021-05-27 14:26:15,197 Balance information
+2021-05-27 14:26:15,287 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:55839, original:0
+2021-05-27 14:26:15,290 Balance information
+2021-05-27 14:26:26,986 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-27 14:26:27,092 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:389.55, number:55879, original:0
+2021-05-27 14:26:27,095 Balance information
+2021-05-27 14:26:28,887 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:389.55, number:55879, original:0
+2021-05-27 14:26:28,890 Balance information
+2021-05-27 15:19:59,208 market operation state 2 152000 001000
+2021-05-27 15:20:59,196 market operation state 2 152100 000900
+2021-05-27 15:21:59,356 market operation state 2 152200 000800
+2021-05-27 15:22:59,209 market operation state 2 152300 000700
+2021-05-27 15:23:59,189 market operation state 2 152400 000600
+2021-05-27 15:24:59,271 market operation state 2 152500 000500
+2021-05-27 15:25:59,199 market operation state 2 152600 000400
+2021-05-27 15:26:59,212 market operation state 2 152700 000300
+2021-05-27 15:27:59,192 market operation state 2 152800 000200
+2021-05-27 15:28:59,187 market operation state 2 152900 000100
+2021-05-27 15:29:09,082 market operation state 2 152910 000050
+2021-05-27 15:29:19,179 market operation state 2 152920 000040
+2021-05-27 15:29:29,192 market operation state 2 152930 000030
+2021-05-27 15:29:39,192 market operation state 2 152940 000020
+2021-05-27 15:29:49,194 market operation state 2 152950 000010
+2021-05-27 15:29:59,407 market operation state 4 153000 000000
+2021-05-27 15:32:59,312 market operation state 8 888888 000000
+2021-05-27 15:34:42,298 Kiwoom initializing...
+2021-05-27 15:34:47,688 Kiwoom log in success
+2021-05-27 15:34:47,688 Account information
+2021-05-27 15:34:48,202 Deposit information
+2021-05-27 15:34:48,706 Portfolio information
+2021-05-27 15:34:49,210 Deposit information (Futures)
+2021-05-27 15:34:49,715 Portfolio information (Futures)
+2021-05-27 15:34:50,212 Deposit information (Futures)
+2021-05-27 15:34:50,261 Portfolio information (Futures)
+2021-05-27 15:34:59,557 market operation state s 153500 000000
+2021-05-27 15:34:59,558 market operation state s 153500 000000
+2021-05-27 15:34:59,558 market operation state s 153500 000000
+2021-05-27 15:34:59,559 market operation state s 153500 000000
+2021-05-27 15:34:59,559 market operation state s 153500 000000
+2021-05-27 15:34:59,559 market operation state s 153500 000000
+2021-05-27 15:34:59,560 market operation state s 153500 000000
+2021-05-27 15:34:59,663 market operation state s 153500 000000
+2021-05-27 15:34:59,663 market operation state s 153500 000000
+2021-05-27 15:34:59,664 market operation state s 153500 000000
+2021-05-27 15:34:59,665 market operation state s 153500 000000
+2021-05-27 15:34:59,665 market operation state s 153500 000000
+2021-05-27 15:34:59,666 market operation state s 153500 000000
+2021-05-27 15:34:59,666 market operation state s 153500 000000
+2021-05-27 15:34:59,667 market operation state s 153500 000000
+2021-05-27 15:34:59,668 market operation state s 153500 000000
+2021-05-27 15:34:59,668 market operation state s 153500 000000
+2021-05-27 15:39:59,356 market operation state a 154000 000000
+2021-05-27 15:44:59,840 market operation state e 154500 000000
+2021-05-27 15:44:59,841 market operation state e 154500 000000
+2021-05-27 15:44:59,947 market operation state e 154500 000000
+2021-05-27 15:44:59,949 market operation state e 154500 000000
+2021-05-27 15:44:59,951 market operation state e 154500 000000
+2021-05-27 15:45:00,036 market operation state e 154500 000000
+2021-05-27 15:45:00,037 market operation state e 154500 000000
+2021-05-27 15:45:00,141 market operation state e 154500 000000
+2021-05-27 15:45:00,142 market operation state e 154500 000000
+2021-05-27 15:45:00,250 market operation state e 154500 000000
+2021-05-27 15:45:00,341 market operation state e 154500 000000
+2021-05-27 15:45:00,342 market operation state e 154500 000000
+2021-05-27 15:45:00,646 market operation state e 154500 000000
+2021-05-27 15:45:00,737 market operation state e 154500 000000
+2021-05-27 15:45:00,938 market operation state e 154500 000000
+2021-05-27 15:45:01,151 market operation state e 154500 000000
+2021-05-27 15:45:01,241 market operation state e 154500 000000
+2021-05-27 15:50:32,941 Portfolio information (Futures)
+2021-05-27 15:58:09,120 Kiwoom initializing...
+2021-05-27 15:58:14,418 Kiwoom log in success
+2021-05-27 15:58:14,418 Account information
+2021-05-27 15:58:14,928 Deposit information
+2021-05-27 15:58:15,430 Portfolio information
+2021-05-27 15:58:15,934 Deposit information (Futures)
+2021-05-27 15:58:16,435 Portfolio information (Futures)
+2021-05-27 15:58:16,936 Deposit information (Futures)
+2021-05-27 15:58:16,988 Portfolio information (Futures)
+2021-05-27 15:58:33,857 Portfolio information (Futures)
+2021-05-27 15:59:59,318 market operation state b 160000 000000
+2021-05-27 15:59:59,318 market operation state c 160000 000000
+2021-05-27 17:59:59,116 market operation state d 180000 000000
+2021-05-27 18:01:18,824 market operation state 9 999999 000000
+2021-05-27 18:45:23,140 Kiwoom initializing...
+2021-05-27 18:45:45,031 Kiwoom log in success
+2021-05-27 18:45:45,032 Account information
+2021-05-27 18:45:45,542 Deposit information
+2021-05-27 18:45:46,056 Portfolio information
+2021-05-27 18:45:46,561 Deposit information (Futures)
+2021-05-27 18:45:47,570 Deposit information (Futures)
+2021-05-27 18:45:49,576 Portfolio information (NO ITEM)
+2021-05-27 18:45:50,592 Portfolio information (NO ITEM)
+2021-05-27 18:45:58,235 Portfolio information (Futures)
+2021-05-27 18:49:26,147 Kiwoom initializing...
+2021-05-27 18:49:31,492 Kiwoom log in success
+2021-05-27 18:49:33,111 Account information
+2021-05-27 18:49:33,626 Deposit information
+2021-05-27 18:49:34,135 Portfolio information
+2021-05-27 18:49:34,638 Deposit information (Futures)
+2021-05-27 18:49:35,143 Portfolio information (Futures)
+2021-05-27 18:49:35,646 Deposit information (Futures)
+2021-05-27 18:49:35,693 Portfolio information (Futures)

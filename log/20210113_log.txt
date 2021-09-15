@@ -1,0 +1,1135 @@
+2021-01-13 09:49:32,195 Kiwoom initializing...
+2021-01-13 09:50:05,039 Kiwoom log in success
+2021-01-13 09:50:05,040 Account information
+2021-01-13 09:50:05,546 Deposit information
+2021-01-13 09:50:06,464 Portfolio information
+2021-01-13 09:50:19,481 Go Charting KODEX 레버리지
+2021-01-13 09:51:58,175 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:70418, original number:0
+2021-01-13 09:51:58,277 Order execution KODEX 레버리지(체결), order:10, executed:1, order number:70418, original number:0
+2021-01-13 09:51:58,279 Balance information
+2021-01-13 09:51:59,873 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:70418, original number:0
+2021-01-13 09:51:59,876 Balance information
+2021-01-13 09:52:23,930 Deposit information
+2021-01-13 09:52:31,567 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:70819, original number:0
+2021-01-13 09:52:31,568 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:70819, original number:0
+2021-01-13 09:52:31,570 Balance information
+2021-01-13 09:52:35,771 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:70866, original number:0
+2021-01-13 09:52:35,879 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:70866, original number:0
+2021-01-13 09:52:35,881 Balance information
+2021-01-13 09:52:48,072 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:71025, original number:0
+2021-01-13 09:52:49,274 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:71025, original number:0
+2021-01-13 09:52:49,275 Balance information
+2021-01-13 09:52:53,882 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:71108, original number:0
+2021-01-13 09:52:53,884 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:71108, original number:0
+2021-01-13 09:52:53,886 Balance information
+2021-01-13 09:53:01,475 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:71223, original number:0
+2021-01-13 09:53:01,868 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:71223, original number:0
+2021-01-13 09:53:01,870 Balance information
+2021-01-13 09:53:13,473 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:71345, original number:0
+2021-01-13 09:53:13,675 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:71345, original number:0
+2021-01-13 09:53:13,773 Balance information
+2021-01-13 09:53:43,997 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:71661, original number:0
+2021-01-13 09:53:44,374 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:71661, original number:0
+2021-01-13 09:53:44,375 Balance information
+2021-01-13 09:53:44,780 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:71661, original number:0
+2021-01-13 09:53:44,782 Balance information
+2021-01-13 09:53:52,277 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:71752, original number:0
+2021-01-13 09:53:52,384 Order execution KODEX 레버리지(체결), order:1000, executed:422, order number:71752, original number:0
+2021-01-13 09:53:52,385 Balance information
+2021-01-13 09:53:52,476 Order execution KODEX 레버리지(체결), order:1000, executed:431, order number:71752, original number:0
+2021-01-13 09:53:52,478 Balance information
+2021-01-13 09:53:52,588 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:71752, original number:0
+2021-01-13 09:53:52,590 Balance information
+2021-01-13 09:53:57,265 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:71811, original number:0
+2021-01-13 09:53:58,083 Order execution KODEX 레버리지(체결), order:1000, executed:860, order number:71811, original number:0
+2021-01-13 09:53:58,084 Balance information
+2021-01-13 09:53:59,374 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:71811, original number:0
+2021-01-13 09:53:59,385 Balance information
+2021-01-13 09:54:41,199 Deposit information
+2021-01-13 10:00:01,041 Deposit information
+2021-01-13 10:00:21,955 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:76592, original number:0
+2021-01-13 10:00:21,956 Balance information
+2021-01-13 10:00:22,262 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:76592, original number:0
+2021-01-13 10:00:22,264 Balance information
+2021-01-13 10:00:33,061 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:76776, original number:0
+2021-01-13 10:00:33,062 Balance information
+2021-01-13 10:00:33,459 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:76776, original number:0
+2021-01-13 10:00:33,461 Balance information
+2021-01-13 10:00:36,161 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:76820, original number:0
+2021-01-13 10:00:36,161 Balance information
+2021-01-13 10:00:36,261 Order execution KODEX 레버리지(체결), order:1000, executed:6, order number:76820, original number:0
+2021-01-13 10:00:36,263 Balance information
+2021-01-13 10:00:36,861 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:76820, original number:0
+2021-01-13 10:00:36,863 Balance information
+2021-01-13 10:00:39,656 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:76848, original number:0
+2021-01-13 10:00:39,657 Balance information
+2021-01-13 10:00:40,065 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:76848, original number:0
+2021-01-13 10:00:40,067 Balance information
+2021-01-13 10:00:42,262 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:76863, original number:0
+2021-01-13 10:00:42,264 Balance information
+2021-01-13 10:00:42,566 Order execution KODEX 레버리지(체결), order:1000, executed:12, order number:76863, original number:0
+2021-01-13 10:00:42,568 Balance information
+2021-01-13 10:00:42,764 Order execution KODEX 레버리지(체결), order:1000, executed:14, order number:76863, original number:0
+2021-01-13 10:00:42,766 Balance information
+2021-01-13 10:00:42,858 Order execution KODEX 레버리지(체결), order:1000, executed:19, order number:76863, original number:0
+2021-01-13 10:00:42,860 Balance information
+2021-01-13 10:00:42,977 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:76863, original number:0
+2021-01-13 10:00:42,984 Balance information
+2021-01-13 10:00:46,155 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:76931, original number:0
+2021-01-13 10:00:46,157 Balance information
+2021-01-13 10:00:46,257 Order execution KODEX 레버리지(체결), order:1000, executed:100, order number:76931, original number:0
+2021-01-13 10:00:46,259 Balance information
+2021-01-13 10:00:46,658 Order execution KODEX 레버리지(체결), order:1000, executed:160, order number:76931, original number:0
+2021-01-13 10:00:46,659 Balance information
+2021-01-13 10:00:46,766 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:76931, original number:0
+2021-01-13 10:00:46,768 Balance information
+2021-01-13 10:00:50,860 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:77002, original number:0
+2021-01-13 10:00:50,862 Balance information
+2021-01-13 10:00:51,168 Order execution KODEX 레버리지(체결), order:1000, executed:250, order number:77002, original number:0
+2021-01-13 10:00:51,170 Balance information
+2021-01-13 10:00:51,367 Order execution KODEX 레버리지(체결), order:1000, executed:731, order number:77002, original number:0
+2021-01-13 10:00:51,369 Balance information
+2021-01-13 10:00:51,373 Order execution KODEX 레버리지(체결), order:1000, executed:737, order number:77002, original number:0
+2021-01-13 10:00:51,375 Balance information
+2021-01-13 10:00:51,462 Order execution KODEX 레버리지(체결), order:1000, executed:854, order number:77002, original number:0
+2021-01-13 10:00:51,464 Balance information
+2021-01-13 10:00:51,776 Order execution KODEX 레버리지(체결), order:1000, executed:857, order number:77002, original number:0
+2021-01-13 10:00:51,778 Balance information
+2021-01-13 10:00:52,163 Order execution KODEX 레버리지(체결), order:1000, executed:959, order number:77002, original number:0
+2021-01-13 10:00:52,165 Balance information
+2021-01-13 10:00:52,255 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:77002, original number:0
+2021-01-13 10:00:52,257 Balance information
+2021-01-13 10:00:54,508 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:77063, original number:0
+2021-01-13 10:00:54,554 Balance information
+2021-01-13 10:00:54,964 Order execution KODEX 레버리지(체결), order:1000, executed:35, order number:77063, original number:0
+2021-01-13 10:00:54,966 Balance information
+2021-01-13 10:00:55,564 Order execution KODEX 레버리지(체결), order:1000, executed:192, order number:77063, original number:0
+2021-01-13 10:00:55,566 Balance information
+2021-01-13 10:00:57,967 Order execution KODEX 레버리지(체결), order:1000, executed:392, order number:77063, original number:0
+2021-01-13 10:00:57,969 Balance information
+2021-01-13 10:00:58,162 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:77063, original number:0
+2021-01-13 10:00:58,164 Balance information
+2021-01-13 10:01:16,244 Deposit information
+2021-01-13 10:01:34,059 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:77569, original number:0
+2021-01-13 10:01:34,461 Order execution KODEX 레버리지(체결), order:1000, executed:11, order number:77569, original number:0
+2021-01-13 10:01:34,463 Balance information
+2021-01-13 10:01:34,963 Order execution KODEX 레버리지(체결), order:1000, executed:31, order number:77569, original number:0
+2021-01-13 10:01:34,965 Balance information
+2021-01-13 10:01:35,465 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:77569, original number:0
+2021-01-13 10:01:35,467 Balance information
+2021-01-13 10:02:30,328 Deposit information
+2021-01-13 10:03:54,459 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:79193, original number:0
+2021-01-13 10:03:54,750 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:79193, original number:0
+2021-01-13 10:03:54,752 Balance information
+2021-01-13 10:03:55,256 Order execution KODEX 레버리지(체결), order:1000, executed:11, order number:79193, original number:0
+2021-01-13 10:03:55,258 Balance information
+2021-01-13 10:03:56,052 Order execution KODEX 레버리지(체결), order:1000, executed:116, order number:79193, original number:0
+2021-01-13 10:03:56,054 Balance information
+2021-01-13 10:03:56,358 Order execution KODEX 레버리지(체결), order:1000, executed:737, order number:79193, original number:0
+2021-01-13 10:03:56,360 Balance information
+2021-01-13 10:03:56,364 Order execution KODEX 레버리지(체결), order:1000, executed:937, order number:79193, original number:0
+2021-01-13 10:03:56,448 Balance information
+2021-01-13 10:03:56,452 Order execution KODEX 레버리지(체결), order:1000, executed:957, order number:79193, original number:0
+2021-01-13 10:03:56,453 Balance information
+2021-01-13 10:03:56,853 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:79193, original number:0
+2021-01-13 10:03:56,855 Balance information
+2021-01-13 10:04:04,695 Deposit information
+2021-01-13 10:04:54,860 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:79825, original number:0
+2021-01-13 10:04:54,956 Balance information
+2021-01-13 10:04:55,152 Order execution KODEX 레버리지(체결), order:1000, executed:3, order number:79825, original number:0
+2021-01-13 10:04:55,154 Balance information
+2021-01-13 10:04:56,261 Order execution KODEX 레버리지(체결), order:1000, executed:103, order number:79825, original number:0
+2021-01-13 10:04:56,263 Balance information
+2021-01-13 10:04:56,368 Order execution KODEX 레버리지(체결), order:1000, executed:108, order number:79825, original number:0
+2021-01-13 10:04:56,370 Balance information
+2021-01-13 10:04:56,374 Order execution KODEX 레버리지(체결), order:1000, executed:201, order number:79825, original number:0
+2021-01-13 10:04:56,376 Balance information
+2021-01-13 10:04:56,380 Order execution KODEX 레버리지(체결), order:1000, executed:203, order number:79825, original number:0
+2021-01-13 10:04:56,383 Balance information
+2021-01-13 10:04:56,555 Order execution KODEX 레버리지(체결), order:1000, executed:295, order number:79825, original number:0
+2021-01-13 10:04:56,557 Balance information
+2021-01-13 10:04:56,561 Order execution KODEX 레버리지(체결), order:1000, executed:310, order number:79825, original number:0
+2021-01-13 10:04:56,563 Balance information
+2021-01-13 10:04:56,568 Order execution KODEX 레버리지(체결), order:1000, executed:311, order number:79825, original number:0
+2021-01-13 10:04:56,570 Balance information
+2021-01-13 10:04:56,663 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:79825, original number:0
+2021-01-13 10:04:56,665 Balance information
+2021-01-13 10:05:09,656 Deposit information
+2021-01-13 10:06:29,457 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:81071, original number:0
+2021-01-13 10:06:29,458 Balance information
+2021-01-13 10:06:29,765 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:81071, original number:0
+2021-01-13 10:06:29,767 Balance information
+2021-01-13 10:06:38,140 Deposit information
+2021-01-13 10:07:26,172 Kiwoom initializing...
+2021-01-13 10:07:34,671 Kiwoom log in success
+2021-01-13 10:07:34,671 Account information
+2021-01-13 10:07:35,176 Deposit information
+2021-01-13 10:07:36,082 Portfolio information
+2021-01-13 10:20:01,966 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:90201, original number:0
+2021-01-13 10:20:01,967 Balance information
+2021-01-13 10:20:02,166 Order execution KODEX 레버리지(체결), order:10, executed:5, order number:90201, original number:0
+2021-01-13 10:20:02,168 Balance information
+2021-01-13 10:20:02,557 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:90201, original number:0
+2021-01-13 10:20:02,558 Balance information
+2021-01-13 10:20:29,473 Deposit information
+2021-01-13 10:24:42,790 Kiwoom initializing...
+2021-01-13 10:24:49,741 Kiwoom log in success
+2021-01-13 10:24:49,741 Account information
+2021-01-13 10:24:50,246 Deposit information
+2021-01-13 10:24:51,101 Portfolio information
+2021-01-13 10:25:25,678 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:93586, original number:0
+2021-01-13 10:25:25,679 Balance information
+2021-01-13 10:25:26,091 Order execution KODEX 레버리지(체결), order:10, executed:5, order number:93586, original number:0
+2021-01-13 10:25:26,094 Balance information
+2021-01-13 10:25:26,885 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:93586, original number:0
+2021-01-13 10:25:26,886 Balance information
+2021-01-13 10:25:56,868 Deposit information
+2021-01-13 10:28:57,316 Kiwoom initializing...
+2021-01-13 10:29:03,757 Kiwoom log in success
+2021-01-13 10:29:03,758 Account information
+2021-01-13 10:29:04,268 Deposit information
+2021-01-13 10:29:05,281 Portfolio information
+2021-01-13 10:29:12,516 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:95792, original number:0
+2021-01-13 10:29:12,593 Balance information
+2021-01-13 10:29:13,084 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:95792, original number:0
+2021-01-13 10:29:13,085 Balance information
+2021-01-13 10:29:19,854 Deposit information
+2021-01-13 10:33:26,150 Kiwoom initializing...
+2021-01-13 10:33:31,594 Kiwoom log in success
+2021-01-13 10:33:31,594 Account information
+2021-01-13 10:33:32,102 Deposit information
+2021-01-13 10:33:33,514 Portfolio information
+2021-01-13 10:36:02,777 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:99971, original number:0
+2021-01-13 10:36:02,778 Balance information
+2021-01-13 10:36:03,076 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:99971, original number:0
+2021-01-13 10:36:03,078 Balance information
+2021-01-13 10:36:07,140 Deposit information
+2021-01-13 10:36:22,193 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:100165, original number:0
+2021-01-13 10:36:22,194 Balance information
+2021-01-13 10:36:22,196 Order execution KODEX 레버리지(체결), order:1000, executed:243, order number:100165, original number:0
+2021-01-13 10:36:22,198 Balance information
+2021-01-13 10:36:22,787 Order execution KODEX 레버리지(체결), order:1000, executed:244, order number:100165, original number:0
+2021-01-13 10:36:22,788 Balance information
+2021-01-13 10:36:22,789 Order execution KODEX 레버리지(체결), order:1000, executed:261, order number:100165, original number:0
+2021-01-13 10:36:22,792 Balance information
+2021-01-13 10:36:23,276 Order execution KODEX 레버리지(체결), order:1000, executed:266, order number:100165, original number:0
+2021-01-13 10:36:23,278 Balance information
+2021-01-13 10:36:23,874 Order execution KODEX 레버리지(체결), order:1000, executed:284, order number:100165, original number:0
+2021-01-13 10:36:23,876 Balance information
+2021-01-13 10:36:23,877 Order execution KODEX 레버리지(체결), order:1000, executed:334, order number:100165, original number:0
+2021-01-13 10:36:23,979 Balance information
+2021-01-13 10:36:24,470 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:100165, original number:0
+2021-01-13 10:36:24,472 Balance information
+2021-01-13 10:37:07,169 Deposit information
+2021-01-13 10:40:15,346 Kiwoom initializing...
+2021-01-13 10:40:19,680 Kiwoom log in success
+2021-01-13 10:40:19,680 Account information
+2021-01-13 10:40:20,191 Deposit information
+2021-01-13 10:40:21,064 Portfolio information
+2021-01-13 10:40:36,928 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:102671, original number:0
+2021-01-13 10:40:36,929 Balance information
+2021-01-13 10:40:37,114 Order execution KODEX 레버리지(체결), order:100, executed:18, order number:102671, original number:0
+2021-01-13 10:40:37,115 Balance information
+2021-01-13 10:40:37,710 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:102671, original number:0
+2021-01-13 10:40:37,711 Balance information
+2021-01-13 10:41:10,701 Portfolio information
+2021-01-13 10:41:50,687 Kiwoom initializing...
+2021-01-13 10:41:55,010 Kiwoom log in success
+2021-01-13 10:41:55,010 Account information
+2021-01-13 10:41:55,518 Deposit information
+2021-01-13 10:41:56,386 Portfolio information
+2021-01-13 10:42:11,109 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:103801, original number:0
+2021-01-13 10:42:11,111 Balance information
+2021-01-13 10:42:11,308 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:103801, original number:0
+2021-01-13 10:42:11,310 Balance information
+2021-01-13 10:42:24,423 Deposit information
+2021-01-13 10:55:43,387 Portfolio information
+2021-01-13 10:55:46,580 Order history information
+2021-01-13 10:56:01,969 Kiwoom initializing...
+2021-01-13 10:56:07,053 Kiwoom log in success
+2021-01-13 10:56:07,053 Account information
+2021-01-13 10:56:07,558 Deposit information
+2021-01-13 10:56:08,414 Portfolio information
+2021-01-13 10:56:23,164 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:113783, original number:0
+2021-01-13 10:56:23,165 Balance information
+2021-01-13 10:56:23,474 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:113783, original number:0
+2021-01-13 10:56:23,563 Balance information
+2021-01-13 10:56:31,611 Deposit information
+2021-01-13 10:56:50,165 Order history information
+2021-01-13 10:57:02,661 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:114159, original number:0
+2021-01-13 10:57:02,966 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:114159, original number:0
+2021-01-13 10:57:02,967 Balance information
+2021-01-13 10:57:07,980 Deposit information
+2021-01-13 10:57:27,110 Order history information
+2021-01-13 10:57:44,464 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:114549, original number:0
+2021-01-13 10:57:45,065 Order execution KODEX 레버리지(체결), order:1000, executed:5, order number:114549, original number:0
+2021-01-13 10:57:45,067 Balance information
+2021-01-13 10:57:45,071 Order execution KODEX 레버리지(체결), order:1000, executed:6, order number:114549, original number:0
+2021-01-13 10:57:45,073 Balance information
+2021-01-13 10:57:45,370 Order execution KODEX 레버리지(체결), order:1000, executed:155, order number:114549, original number:0
+2021-01-13 10:57:45,371 Balance information
+2021-01-13 10:57:45,857 Order execution KODEX 레버리지(체결), order:1000, executed:253, order number:114549, original number:0
+2021-01-13 10:57:45,859 Balance information
+2021-01-13 10:57:46,957 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:114549, original number:0
+2021-01-13 10:57:46,959 Balance information
+2021-01-13 10:58:03,657 Deposit information
+2021-01-13 11:08:31,645 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:121163, original number:0
+2021-01-13 11:08:31,646 Balance information
+2021-01-13 11:08:31,849 Order execution KODEX 레버리지(체결), order:1000, executed:2, order number:121163, original number:0
+2021-01-13 11:08:31,851 Balance information
+2021-01-13 11:08:32,853 Order execution KODEX 레버리지(체결), order:1000, executed:12, order number:121163, original number:0
+2021-01-13 11:08:32,854 Balance information
+2021-01-13 11:08:33,549 Order execution KODEX 레버리지(체결), order:1000, executed:22, order number:121163, original number:0
+2021-01-13 11:08:33,551 Balance information
+2021-01-13 11:08:34,150 Order execution KODEX 레버리지(체결), order:1000, executed:23, order number:121163, original number:0
+2021-01-13 11:08:34,152 Balance information
+2021-01-13 11:08:35,340 Order execution KODEX 레버리지(체결), order:1000, executed:778, order number:121163, original number:0
+2021-01-13 11:08:35,342 Balance information
+2021-01-13 11:08:35,751 Order execution KODEX 레버리지(체결), order:1000, executed:878, order number:121163, original number:0
+2021-01-13 11:08:35,837 Balance information
+2021-01-13 11:08:36,451 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:121163, original number:0
+2021-01-13 11:08:36,452 Balance information
+2021-01-13 11:08:54,519 Deposit information
+2021-01-13 11:15:32,825 Kiwoom initializing...
+2021-01-13 11:15:37,245 Kiwoom log in success
+2021-01-13 11:15:37,245 Account information
+2021-01-13 11:15:37,749 Deposit information
+2021-01-13 11:15:38,628 Portfolio information
+2021-01-13 11:15:48,371 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:124602, original number:0
+2021-01-13 11:15:48,777 Order execution KODEX 레버리지(체결), order:1000, executed:22, order number:124602, original number:0
+2021-01-13 11:15:48,778 Balance information
+2021-01-13 11:15:49,078 Order execution KODEX 레버리지(체결), order:1000, executed:323, order number:124602, original number:0
+2021-01-13 11:15:49,079 Balance information
+2021-01-13 11:15:49,081 Order execution KODEX 레버리지(체결), order:1000, executed:325, order number:124602, original number:0
+2021-01-13 11:15:49,083 Balance information
+2021-01-13 11:15:49,084 Order execution KODEX 레버리지(체결), order:1000, executed:327, order number:124602, original number:0
+2021-01-13 11:15:49,087 Balance information
+2021-01-13 11:15:49,277 Order execution KODEX 레버리지(체결), order:1000, executed:428, order number:124602, original number:0
+2021-01-13 11:15:49,278 Balance information
+2021-01-13 11:15:49,371 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:124602, original number:0
+2021-01-13 11:15:49,373 Balance information
+2021-01-13 11:16:08,171 Portfolio information
+2021-01-13 11:16:17,116 Deposit information
+2021-01-13 11:16:35,471 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:125073, original number:0
+2021-01-13 11:16:35,472 Balance information
+2021-01-13 11:16:35,474 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:125073, original number:0
+2021-01-13 11:16:35,475 Balance information
+2021-01-13 11:16:35,974 Order execution KODEX 레버리지(체결), order:1000, executed:92, order number:125073, original number:0
+2021-01-13 11:16:35,975 Balance information
+2021-01-13 11:16:36,266 Order execution KODEX 레버리지(체결), order:1000, executed:101, order number:125073, original number:0
+2021-01-13 11:16:36,268 Balance information
+2021-01-13 11:16:36,767 Order execution KODEX 레버리지(체결), order:1000, executed:103, order number:125073, original number:0
+2021-01-13 11:16:36,769 Balance information
+2021-01-13 11:16:36,874 Order execution KODEX 레버리지(체결), order:1000, executed:457, order number:125073, original number:0
+2021-01-13 11:16:36,875 Balance information
+2021-01-13 11:16:37,365 Order execution KODEX 레버리지(체결), order:1000, executed:458, order number:125073, original number:0
+2021-01-13 11:16:37,367 Balance information
+2021-01-13 11:16:38,074 Order execution KODEX 레버리지(체결), order:1000, executed:464, order number:125073, original number:0
+2021-01-13 11:16:38,075 Balance information
+2021-01-13 11:16:38,077 Order execution KODEX 레버리지(체결), order:1000, executed:465, order number:125073, original number:0
+2021-01-13 11:16:38,078 Balance information
+2021-01-13 11:16:38,467 Order execution KODEX 레버리지(체결), order:1000, executed:565, order number:125073, original number:0
+2021-01-13 11:16:38,469 Balance information
+2021-01-13 11:16:38,967 Order execution KODEX 레버리지(체결), order:1000, executed:567, order number:125073, original number:0
+2021-01-13 11:16:39,074 Balance information
+2021-01-13 11:16:39,665 Order execution KODEX 레버리지(체결), order:1000, executed:602, order number:125073, original number:0
+2021-01-13 11:16:39,667 Balance information
+2021-01-13 11:16:39,864 Order execution KODEX 레버리지(체결), order:1000, executed:802, order number:125073, original number:0
+2021-01-13 11:16:39,866 Balance information
+2021-01-13 11:16:40,078 Order execution KODEX 레버리지(체결), order:1000, executed:804, order number:125073, original number:0
+2021-01-13 11:16:40,080 Balance information
+2021-01-13 11:16:40,275 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:125073, original number:0
+2021-01-13 11:16:40,276 Balance information
+2021-01-13 11:16:41,684 Portfolio information
+2021-01-13 11:16:48,438 Portfolio information
+2021-01-13 11:17:12,461 Deposit information
+2021-01-13 11:19:29,371 Order history information
+2021-01-13 11:19:41,471 Kiwoom initializing...
+2021-01-13 11:19:45,852 Kiwoom log in success
+2021-01-13 11:19:45,852 Account information
+2021-01-13 11:19:46,355 Deposit information
+2021-01-13 11:19:47,214 Portfolio information
+2021-01-13 11:19:52,597 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:126762, original number:0
+2021-01-13 11:19:53,208 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:126762, original number:0
+2021-01-13 11:19:53,210 Balance information
+2021-01-13 11:20:14,951 Portfolio information
+2021-01-13 11:20:19,450 Deposit information
+2021-01-13 11:20:25,597 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:127048, original number:0
+2021-01-13 11:20:25,598 Balance information
+2021-01-13 11:20:25,703 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:127048, original number:0
+2021-01-13 11:20:25,705 Balance information
+2021-01-13 11:20:29,221 Portfolio information
+2021-01-13 11:20:32,404 Portfolio information
+2021-01-13 11:20:34,604 Portfolio information
+2021-01-13 11:20:36,374 Portfolio information
+2021-01-13 11:20:38,287 Portfolio information
+2021-01-13 11:20:40,163 Portfolio information
+2021-01-13 11:20:44,485 Deposit information
+2021-01-13 11:26:47,887 Order history information
+2021-01-13 11:29:49,087 Kiwoom initializing...
+2021-01-13 11:29:57,542 Kiwoom log in success
+2021-01-13 11:29:57,542 Account information
+2021-01-13 11:29:58,046 Deposit information
+2021-01-13 11:29:58,557 Portfolio information
+2021-01-13 11:29:58,623 Order history information
+2021-01-13 11:30:37,653 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:131355, original number:0
+2021-01-13 11:32:48,016 Kiwoom initializing...
+2021-01-13 11:32:52,455 Kiwoom log in success
+2021-01-13 11:32:52,455 Account information
+2021-01-13 11:32:52,968 Deposit information
+2021-01-13 11:32:53,496 Portfolio information
+2021-01-13 11:32:53,520 Order history information
+2021-01-13 11:33:14,471 Order execution KODEX 레버리지(접수), order:20, executed:0, order number:132465, original number:0
+2021-01-13 11:33:45,398 Order history information
+2021-01-13 11:34:06,020 Order history information
+2021-01-13 11:35:44,154 Kiwoom initializing...
+2021-01-13 11:35:48,538 Kiwoom log in success
+2021-01-13 11:35:48,538 Account information
+2021-01-13 11:35:49,048 Deposit information
+2021-01-13 11:35:49,558 Portfolio information
+2021-01-13 11:35:49,622 Order history information
+2021-01-13 11:36:25,051 Order execution KODEX 레버리지(접수), order:30, executed:0, order number:133713, original number:0
+2021-01-13 11:36:30,232 Order history information
+2021-01-13 11:36:43,444 Order execution KODEX 레버리지(접수), order:50, executed:0, order number:133836, original number:0
+2021-01-13 11:36:51,649 Order execution KODEX 레버리지(체결), order:50, executed:50, order number:133836, original number:0
+2021-01-13 11:36:51,752 Balance information
+2021-01-13 11:40:08,537 Order history information
+2021-01-13 11:40:24,548 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:135448, original number:0
+2021-01-13 11:40:47,940 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:135639, original number:135448
+2021-01-13 11:40:47,947 Order execution KODEX 레버리지(확인), order:1000, executed:0, order number:135639, original number:135448
+2021-01-13 11:40:47,953 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:135448, original number:0
+2021-01-13 11:41:02,246 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:135768, original number:0
+2021-01-13 11:41:02,840 Order execution KODEX 레버리지(체결), order:1000, executed:20, order number:135768, original number:0
+2021-01-13 11:41:02,841 Balance information
+2021-01-13 11:41:03,438 Order execution KODEX 레버리지(체결), order:1000, executed:75, order number:135768, original number:0
+2021-01-13 11:41:03,439 Balance information
+2021-01-13 11:41:04,053 Order execution KODEX 레버리지(체결), order:1000, executed:117, order number:135768, original number:0
+2021-01-13 11:41:04,054 Balance information
+2021-01-13 11:41:04,236 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:135768, original number:0
+2021-01-13 11:41:04,237 Balance information
+2021-01-13 11:41:35,013 Order history information
+2021-01-13 11:43:13,529 Kiwoom initializing...
+2021-01-13 11:43:17,873 Kiwoom log in success
+2021-01-13 11:43:17,873 Account information
+2021-01-13 11:43:18,378 Deposit information
+2021-01-13 11:43:18,890 Portfolio information
+2021-01-13 11:43:18,951 Order history information
+2021-01-13 11:43:53,727 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:137002, original number:0
+2021-01-13 11:43:55,937 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:137002, original number:0
+2021-01-13 11:43:55,938 Balance information
+2021-01-13 11:44:09,528 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:137116, original number:0
+2021-01-13 11:44:10,026 Order execution KODEX 레버리지(체결), order:1000, executed:120, order number:137116, original number:0
+2021-01-13 11:44:10,028 Balance information
+2021-01-13 11:44:10,727 Order execution KODEX 레버리지(체결), order:1000, executed:210, order number:137116, original number:0
+2021-01-13 11:44:10,728 Balance information
+2021-01-13 11:44:13,028 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:137116, original number:0
+2021-01-13 11:44:13,029 Balance information
+2021-01-13 11:45:13,429 Order history information
+2021-01-13 11:47:28,887 Kiwoom initializing...
+2021-01-13 11:47:33,272 Kiwoom log in success
+2021-01-13 11:47:33,272 Account information
+2021-01-13 11:47:33,779 Deposit information
+2021-01-13 11:47:34,293 Portfolio information
+2021-01-13 11:47:34,368 Order history information
+2021-01-13 11:47:56,550 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:138599, original number:0
+2021-01-13 11:47:56,948 Order execution KODEX 레버리지(체결), order:1000, executed:954, order number:138599, original number:0
+2021-01-13 11:47:56,950 Balance information
+2021-01-13 11:47:57,547 Order execution KODEX 레버리지(체결), order:1000, executed:955, order number:138599, original number:0
+2021-01-13 11:47:57,548 Balance information
+2021-01-13 11:47:58,050 Order execution KODEX 레버리지(체결), order:1000, executed:956, order number:138599, original number:0
+2021-01-13 11:47:58,051 Balance information
+2021-01-13 11:48:00,553 Order execution KODEX 레버리지(체결), order:1000, executed:961, order number:138599, original number:0
+2021-01-13 11:48:00,555 Balance information
+2021-01-13 11:48:01,064 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:138599, original number:0
+2021-01-13 11:48:01,065 Balance information
+2021-01-13 11:48:06,376 Deposit information
+2021-01-13 11:48:35,667 Order history information
+2021-01-13 11:53:44,150 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:140853, original number:0
+2021-01-13 11:53:44,439 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:140853, original number:0
+2021-01-13 11:53:44,440 Balance information
+2021-01-13 11:53:45,241 Order execution KODEX 레버리지(체결), order:1000, executed:337, order number:140853, original number:0
+2021-01-13 11:53:45,242 Balance information
+2021-01-13 11:53:45,741 Order execution KODEX 레버리지(체결), order:1000, executed:477, order number:140853, original number:0
+2021-01-13 11:53:45,742 Balance information
+2021-01-13 11:53:46,542 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:140853, original number:0
+2021-01-13 11:53:46,543 Balance information
+2021-01-13 11:54:06,867 Deposit information
+2021-01-13 11:57:45,136 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:142420, original number:0
+2021-01-13 11:57:45,138 Balance information
+2021-01-13 11:57:45,336 Order execution KODEX 레버리지(체결), order:1000, executed:100, order number:142420, original number:0
+2021-01-13 11:57:45,337 Balance information
+2021-01-13 11:57:45,642 Order execution KODEX 레버리지(체결), order:1000, executed:200, order number:142420, original number:0
+2021-01-13 11:57:45,644 Balance information
+2021-01-13 11:57:45,843 Order execution KODEX 레버리지(체결), order:1000, executed:201, order number:142420, original number:0
+2021-01-13 11:57:45,844 Balance information
+2021-01-13 11:57:46,339 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:142420, original number:0
+2021-01-13 11:57:46,341 Balance information
+2021-01-13 11:57:49,041 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:142434, original number:0
+2021-01-13 11:57:49,042 Balance information
+2021-01-13 11:57:50,842 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:142434, original number:0
+2021-01-13 11:57:50,844 Balance information
+2021-01-13 11:57:58,348 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:142465, original number:0
+2021-01-13 11:57:58,548 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:142465, original number:0
+2021-01-13 11:57:58,549 Balance information
+2021-01-13 11:57:59,441 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:142465, original number:0
+2021-01-13 11:57:59,442 Balance information
+2021-01-13 11:58:07,254 Deposit information
+2021-01-13 11:58:11,375 Kiwoom initializing...
+2021-01-13 11:58:19,762 Kiwoom log in success
+2021-01-13 11:58:19,763 Account information
+2021-01-13 11:58:20,277 Deposit information
+2021-01-13 11:58:20,846 Order history information
+2021-01-13 11:58:21,714 Portfolio information
+2021-01-13 11:58:35,567 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:142700, original number:0
+2021-01-13 11:58:47,159 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:142777, original number:142700
+2021-01-13 11:58:47,167 Order execution KODEX 레버리지(확인), order:1000, executed:0, order number:142777, original number:142700
+2021-01-13 11:58:47,174 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:142700, original number:0
+2021-01-13 11:59:03,547 Order history information
+2021-01-13 11:59:16,374 Deposit information
+2021-01-13 11:59:31,361 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:143186, original number:0
+2021-01-13 11:59:32,667 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:143186, original number:0
+2021-01-13 11:59:32,668 Balance information
+2021-01-13 11:59:37,207 Deposit information
+2021-01-13 11:59:49,169 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:143326, original number:0
+2021-01-13 11:59:49,170 Balance information
+2021-01-13 11:59:50,757 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:143326, original number:0
+2021-01-13 11:59:50,758 Balance information
+2021-01-13 11:59:54,967 Deposit information
+2021-01-13 11:59:59,077 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:143392, original number:0
+2021-01-13 11:59:59,079 Balance information
+2021-01-13 11:59:59,261 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:143392, original number:0
+2021-01-13 11:59:59,263 Balance information
+2021-01-13 12:00:05,495 Deposit information
+2021-01-13 12:00:26,189 Deposit information
+2021-01-13 12:01:23,415 Kiwoom initializing...
+2021-01-13 12:01:27,793 Kiwoom log in success
+2021-01-13 12:01:27,794 Account information
+2021-01-13 12:01:28,308 Deposit information
+2021-01-13 12:01:28,832 Portfolio information
+2021-01-13 12:01:28,909 Order history information
+2021-01-13 12:21:51,911 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:150625, original number:0
+2021-01-13 12:21:51,913 Balance information
+2021-01-13 12:21:52,306 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:150625, original number:0
+2021-01-13 12:21:52,307 Balance information
+2021-01-13 12:21:56,309 Deposit information
+2021-01-13 12:22:08,213 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:150763, original number:0
+2021-01-13 12:22:08,609 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:150763, original number:0
+2021-01-13 12:22:08,610 Balance information
+2021-01-13 12:22:08,805 Order execution KODEX 레버리지(체결), order:1000, executed:101, order number:150763, original number:0
+2021-01-13 12:22:08,806 Balance information
+2021-01-13 12:22:09,307 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:150763, original number:0
+2021-01-13 12:22:09,308 Balance information
+2021-01-13 12:22:14,978 Deposit information
+2021-01-13 12:22:19,105 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:150857, original number:0
+2021-01-13 12:22:19,516 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:150857, original number:0
+2021-01-13 12:22:19,517 Balance information
+2021-01-13 12:22:20,312 Order execution KODEX 레버리지(체결), order:1000, executed:102, order number:150857, original number:0
+2021-01-13 12:22:20,313 Balance information
+2021-01-13 12:22:21,102 Order execution KODEX 레버리지(체결), order:1000, executed:122, order number:150857, original number:0
+2021-01-13 12:22:21,103 Balance information
+2021-01-13 12:22:21,317 Order execution KODEX 레버리지(체결), order:1000, executed:142, order number:150857, original number:0
+2021-01-13 12:22:21,318 Balance information
+2021-01-13 12:22:21,804 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:150857, original number:0
+2021-01-13 12:22:21,805 Balance information
+2021-01-13 12:22:28,507 Deposit information
+2021-01-13 12:23:07,779 Deposit information
+2021-01-13 12:23:28,105 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:151467, original number:0
+2021-01-13 12:23:28,106 Balance information
+2021-01-13 12:23:28,212 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:151467, original number:0
+2021-01-13 12:23:28,213 Balance information
+2021-01-13 12:23:34,412 Deposit information
+2021-01-13 12:23:52,422 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:151681, original number:0
+2021-01-13 12:23:52,423 Balance information
+2021-01-13 12:23:52,903 Order execution KODEX 레버리지(체결), order:1000, executed:10, order number:151681, original number:0
+2021-01-13 12:23:52,905 Balance information
+2021-01-13 12:23:53,510 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:151681, original number:0
+2021-01-13 12:23:53,511 Balance information
+2021-01-13 12:23:58,095 Deposit information
+2021-01-13 12:24:06,113 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:151811, original number:0
+2021-01-13 12:24:06,206 Order execution KODEX 레버리지(체결), order:1000, executed:100, order number:151811, original number:0
+2021-01-13 12:24:06,207 Balance information
+2021-01-13 12:24:06,811 Order execution KODEX 레버리지(체결), order:1000, executed:547, order number:151811, original number:0
+2021-01-13 12:24:06,895 Balance information
+2021-01-13 12:24:07,113 Order execution KODEX 레버리지(체결), order:1000, executed:549, order number:151811, original number:0
+2021-01-13 12:24:07,114 Balance information
+2021-01-13 12:24:07,609 Order execution KODEX 레버리지(체결), order:1000, executed:627, order number:151811, original number:0
+2021-01-13 12:24:07,610 Balance information
+2021-01-13 12:24:08,515 Order execution KODEX 레버리지(체결), order:1000, executed:630, order number:151811, original number:0
+2021-01-13 12:24:08,516 Balance information
+2021-01-13 12:24:08,709 Order execution KODEX 레버리지(체결), order:1000, executed:728, order number:151811, original number:0
+2021-01-13 12:24:08,710 Balance information
+2021-01-13 12:24:09,211 Order execution KODEX 레버리지(체결), order:1000, executed:748, order number:151811, original number:0
+2021-01-13 12:24:09,212 Balance information
+2021-01-13 12:24:09,711 Order execution KODEX 레버리지(체결), order:1000, executed:948, order number:151811, original number:0
+2021-01-13 12:24:09,713 Balance information
+2021-01-13 12:24:10,302 Order execution KODEX 레버리지(체결), order:1000, executed:950, order number:151811, original number:0
+2021-01-13 12:24:10,304 Balance information
+2021-01-13 12:24:10,803 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:151811, original number:0
+2021-01-13 12:24:10,804 Balance information
+2021-01-13 12:24:14,101 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:151872, original number:0
+2021-01-13 12:24:14,110 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:151872, original number:0
+2021-01-13 12:24:14,111 Balance information
+2021-01-13 12:24:21,005 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:151926, original number:0
+2021-01-13 12:24:21,108 Order execution KODEX 레버리지(체결), order:1000, executed:13, order number:151926, original number:0
+2021-01-13 12:24:21,109 Balance information
+2021-01-13 12:24:21,606 Order execution KODEX 레버리지(체결), order:1000, executed:234, order number:151926, original number:0
+2021-01-13 12:24:21,607 Balance information
+2021-01-13 12:24:22,612 Order execution KODEX 레버리지(체결), order:1000, executed:279, order number:151926, original number:0
+2021-01-13 12:24:22,614 Balance information
+2021-01-13 12:24:23,105 Order execution KODEX 레버리지(체결), order:1000, executed:330, order number:151926, original number:0
+2021-01-13 12:24:23,106 Balance information
+2021-01-13 12:24:23,717 Order execution KODEX 레버리지(체결), order:1000, executed:346, order number:151926, original number:0
+2021-01-13 12:24:23,718 Balance information
+2021-01-13 12:24:24,001 Order execution KODEX 레버리지(체결), order:1000, executed:356, order number:151926, original number:0
+2021-01-13 12:24:24,002 Balance information
+2021-01-13 12:24:24,109 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:151926, original number:0
+2021-01-13 12:24:24,110 Balance information
+2021-01-13 12:24:32,924 Deposit information
+2021-01-13 12:24:45,008 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152176, original number:0
+2021-01-13 12:24:46,715 Order execution KODEX 레버리지(체결), order:1000, executed:50, order number:152176, original number:0
+2021-01-13 12:24:46,716 Balance information
+2021-01-13 12:24:47,213 Order execution KODEX 레버리지(체결), order:1000, executed:150, order number:152176, original number:0
+2021-01-13 12:24:47,214 Balance information
+2021-01-13 12:24:47,712 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152176, original number:0
+2021-01-13 12:24:47,714 Balance information
+2021-01-13 12:24:51,907 Deposit information
+2021-01-13 12:24:59,999 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152282, original number:0
+2021-01-13 12:25:00,106 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152282, original number:0
+2021-01-13 12:25:00,107 Balance information
+2021-01-13 12:25:28,300 Go Charting KODEX 레버리지
+2021-01-13 12:25:31,099 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152497, original number:0
+2021-01-13 12:25:31,208 Order execution KODEX 레버리지(체결), order:1000, executed:100, order number:152497, original number:0
+2021-01-13 12:25:31,209 Balance information
+2021-01-13 12:25:31,710 Order execution KODEX 레버리지(체결), order:1000, executed:105, order number:152497, original number:0
+2021-01-13 12:25:31,711 Balance information
+2021-01-13 12:25:32,407 Order execution KODEX 레버리지(체결), order:1000, executed:484, order number:152497, original number:0
+2021-01-13 12:25:32,408 Balance information
+2021-01-13 12:25:32,710 Order execution KODEX 레버리지(체결), order:1000, executed:486, order number:152497, original number:0
+2021-01-13 12:25:32,711 Balance information
+2021-01-13 12:25:32,805 Order execution KODEX 레버리지(체결), order:1000, executed:506, order number:152497, original number:0
+2021-01-13 12:25:32,806 Balance information
+2021-01-13 12:25:32,913 Order execution KODEX 레버리지(체결), order:1000, executed:508, order number:152497, original number:0
+2021-01-13 12:25:32,914 Balance information
+2021-01-13 12:25:33,109 Order execution KODEX 레버리지(체결), order:1000, executed:511, order number:152497, original number:0
+2021-01-13 12:25:33,110 Balance information
+2021-01-13 12:25:33,304 Order execution KODEX 레버리지(체결), order:1000, executed:513, order number:152497, original number:0
+2021-01-13 12:25:33,305 Balance information
+2021-01-13 12:25:33,805 Order execution KODEX 레버리지(체결), order:1000, executed:613, order number:152497, original number:0
+2021-01-13 12:25:33,806 Balance information
+2021-01-13 12:25:34,303 Order execution KODEX 레버리지(체결), order:1000, executed:813, order number:152497, original number:0
+2021-01-13 12:25:34,304 Balance information
+2021-01-13 12:25:34,501 Order execution KODEX 레버리지(체결), order:1000, executed:815, order number:152497, original number:0
+2021-01-13 12:25:34,502 Balance information
+2021-01-13 12:25:34,605 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152497, original number:0
+2021-01-13 12:25:34,606 Balance information
+2021-01-13 12:25:37,721 Deposit information
+2021-01-13 12:25:47,702 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152570, original number:0
+2021-01-13 12:25:48,306 Order execution KODEX 레버리지(체결), order:1000, executed:56, order number:152570, original number:0
+2021-01-13 12:25:48,307 Balance information
+2021-01-13 12:25:48,806 Order execution KODEX 레버리지(체결), order:1000, executed:86, order number:152570, original number:0
+2021-01-13 12:25:48,807 Balance information
+2021-01-13 12:25:49,913 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152570, original number:0
+2021-01-13 12:25:49,914 Balance information
+2021-01-13 12:25:59,901 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152698, original number:0
+2021-01-13 12:25:59,902 Balance information
+2021-01-13 12:26:00,098 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152698, original number:0
+2021-01-13 12:26:00,100 Balance information
+2021-01-13 12:26:04,600 Deposit information
+2021-01-13 12:26:06,908 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152745, original number:0
+2021-01-13 12:26:06,909 Balance information
+2021-01-13 12:26:08,900 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152745, original number:0
+2021-01-13 12:26:08,902 Balance information
+2021-01-13 12:26:15,246 Deposit information
+2021-01-13 12:26:17,502 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152813, original number:0
+2021-01-13 12:26:17,503 Balance information
+2021-01-13 12:26:18,099 Order execution KODEX 레버리지(체결), order:1000, executed:21, order number:152813, original number:0
+2021-01-13 12:26:18,101 Balance information
+2021-01-13 12:26:19,205 Order execution KODEX 레버리지(체결), order:1000, executed:121, order number:152813, original number:0
+2021-01-13 12:26:19,206 Balance information
+2021-01-13 12:26:20,112 Order execution KODEX 레버리지(체결), order:1000, executed:176, order number:152813, original number:0
+2021-01-13 12:26:20,113 Balance information
+2021-01-13 12:26:21,212 Order execution KODEX 레버리지(체결), order:1000, executed:376, order number:152813, original number:0
+2021-01-13 12:26:21,214 Balance information
+2021-01-13 12:26:22,410 Order execution KODEX 레버리지(체결), order:1000, executed:876, order number:152813, original number:0
+2021-01-13 12:26:22,411 Balance information
+2021-01-13 12:26:22,807 Order execution KODEX 레버리지(체결), order:1000, executed:927, order number:152813, original number:0
+2021-01-13 12:26:22,808 Balance information
+2021-01-13 12:26:23,004 Order execution KODEX 레버리지(체결), order:1000, executed:928, order number:152813, original number:0
+2021-01-13 12:26:23,005 Balance information
+2021-01-13 12:26:23,501 Order execution KODEX 레버리지(체결), order:1000, executed:930, order number:152813, original number:0
+2021-01-13 12:26:23,503 Balance information
+2021-01-13 12:26:26,122 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152813, original number:0
+2021-01-13 12:26:26,123 Balance information
+2021-01-13 12:26:31,611 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:152904, original number:0
+2021-01-13 12:26:31,613 Balance information
+2021-01-13 12:26:32,807 Order execution KODEX 레버리지(체결), order:1000, executed:300, order number:152904, original number:0
+2021-01-13 12:26:32,808 Balance information
+2021-01-13 12:26:34,305 Order execution KODEX 레버리지(체결), order:1000, executed:507, order number:152904, original number:0
+2021-01-13 12:26:34,306 Balance information
+2021-01-13 12:26:36,502 Order execution KODEX 레버리지(체결), order:1000, executed:764, order number:152904, original number:0
+2021-01-13 12:26:36,503 Balance information
+2021-01-13 12:26:37,498 Order execution KODEX 레버리지(체결), order:1000, executed:867, order number:152904, original number:0
+2021-01-13 12:26:37,499 Balance information
+2021-01-13 12:26:38,001 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:152904, original number:0
+2021-01-13 12:26:38,003 Balance information
+2021-01-13 12:26:47,612 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:153041, original number:0
+2021-01-13 12:26:47,613 Balance information
+2021-01-13 12:26:47,704 Order execution KODEX 레버리지(체결), order:1000, executed:11, order number:153041, original number:0
+2021-01-13 12:26:47,705 Balance information
+2021-01-13 12:26:48,206 Order execution KODEX 레버리지(체결), order:1000, executed:62, order number:153041, original number:0
+2021-01-13 12:26:48,207 Balance information
+2021-01-13 12:26:50,609 Order execution KODEX 레버리지(체결), order:1000, executed:162, order number:153041, original number:0
+2021-01-13 12:26:50,611 Balance information
+2021-01-13 12:26:50,805 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:153041, original number:0
+2021-01-13 12:26:50,806 Balance information
+2021-01-13 12:26:55,912 Deposit information
+2021-01-13 12:27:08,706 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:153234, original number:0
+2021-01-13 12:27:08,707 Balance information
+2021-01-13 12:27:09,210 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:153234, original number:0
+2021-01-13 12:27:09,211 Balance information
+2021-01-13 12:27:13,707 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:153280, original number:0
+2021-01-13 12:27:13,708 Balance information
+2021-01-13 12:27:14,011 Order execution KODEX 레버리지(체결), order:1000, executed:100, order number:153280, original number:0
+2021-01-13 12:27:14,012 Balance information
+2021-01-13 12:27:14,802 Order execution KODEX 레버리지(체결), order:1000, executed:200, order number:153280, original number:0
+2021-01-13 12:27:14,803 Balance information
+2021-01-13 12:27:15,305 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:153280, original number:0
+2021-01-13 12:27:15,306 Balance information
+2021-01-13 12:27:18,510 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:153322, original number:0
+2021-01-13 12:27:18,512 Balance information
+2021-01-13 12:27:18,697 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:153322, original number:0
+2021-01-13 12:27:18,698 Balance information
+2021-01-13 12:27:19,817 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:153322, original number:0
+2021-01-13 12:27:19,818 Balance information
+2021-01-13 12:27:23,684 Deposit information
+2021-01-13 12:27:46,910 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:153586, original number:0
+2021-01-13 12:27:46,911 Balance information
+2021-01-13 12:27:47,001 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:153586, original number:0
+2021-01-13 12:27:47,002 Balance information
+2021-01-13 12:27:51,791 Deposit information
+2021-01-13 12:28:07,031 Order history information
+2021-01-13 12:28:26,701 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:153901, original number:0
+2021-01-13 12:28:27,098 Order execution KODEX 레버리지(체결), order:1000, executed:307, order number:153901, original number:0
+2021-01-13 12:28:27,099 Balance information
+2021-01-13 12:28:27,203 Order execution KODEX 레버리지(체결), order:1000, executed:407, order number:153901, original number:0
+2021-01-13 12:28:27,204 Balance information
+2021-01-13 12:28:27,310 Order execution KODEX 레버리지(체결), order:1000, executed:558, order number:153901, original number:0
+2021-01-13 12:28:27,311 Balance information
+2021-01-13 12:28:27,321 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:153901, original number:0
+2021-01-13 12:28:27,323 Balance information
+2021-01-13 12:28:32,029 Deposit information
+2021-01-13 12:28:39,298 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:154022, original number:0
+2021-01-13 12:28:39,498 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:154022, original number:0
+2021-01-13 12:28:39,499 Balance information
+2021-01-13 12:28:44,478 Deposit information
+2021-01-13 12:28:49,109 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:154097, original number:0
+2021-01-13 12:28:49,201 Order execution KODEX 레버리지(체결), order:1000, executed:50, order number:154097, original number:0
+2021-01-13 12:28:49,202 Balance information
+2021-01-13 12:28:49,611 Order execution KODEX 레버리지(체결), order:1000, executed:54, order number:154097, original number:0
+2021-01-13 12:28:49,611 Balance information
+2021-01-13 12:28:50,009 Order execution KODEX 레버리지(체결), order:1000, executed:59, order number:154097, original number:0
+2021-01-13 12:28:50,010 Balance information
+2021-01-13 12:28:50,509 Order execution KODEX 레버리지(체결), order:1000, executed:255, order number:154097, original number:0
+2021-01-13 12:28:50,510 Balance information
+2021-01-13 12:28:50,796 Order execution KODEX 레버리지(체결), order:1000, executed:998, order number:154097, original number:0
+2021-01-13 12:28:50,797 Balance information
+2021-01-13 12:28:51,295 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:154097, original number:0
+2021-01-13 12:28:51,297 Balance information
+2021-01-13 12:28:54,884 Deposit information
+2021-01-13 12:28:58,503 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:154174, original number:0
+2021-01-13 12:28:59,607 Order execution KODEX 레버리지(체결), order:1000, executed:5, order number:154174, original number:0
+2021-01-13 12:28:59,608 Balance information
+2021-01-13 12:29:00,105 Order execution KODEX 레버리지(체결), order:1000, executed:9, order number:154174, original number:0
+2021-01-13 12:29:00,106 Balance information
+2021-01-13 12:29:01,009 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:154174, original number:0
+2021-01-13 12:29:01,010 Balance information
+2021-01-13 12:29:04,181 Deposit information
+2021-01-13 12:29:12,101 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:154303, original number:0
+2021-01-13 12:29:12,708 Order execution KODEX 레버리지(체결), order:1000, executed:1, order number:154303, original number:0
+2021-01-13 12:29:12,709 Balance information
+2021-01-13 12:29:14,498 Order execution KODEX 레버리지(체결), order:1000, executed:2, order number:154303, original number:0
+2021-01-13 12:29:14,499 Balance information
+2021-01-13 12:29:15,396 Order execution KODEX 레버리지(체결), order:1000, executed:186, order number:154303, original number:0
+2021-01-13 12:29:15,397 Balance information
+2021-01-13 12:29:15,701 Order execution KODEX 레버리지(체결), order:1000, executed:191, order number:154303, original number:0
+2021-01-13 12:29:15,702 Balance information
+2021-01-13 12:29:15,805 Order execution KODEX 레버리지(체결), order:1000, executed:237, order number:154303, original number:0
+2021-01-13 12:29:15,806 Balance information
+2021-01-13 12:29:15,817 Order execution KODEX 레버리지(체결), order:1000, executed:257, order number:154303, original number:0
+2021-01-13 12:29:15,819 Balance information
+2021-01-13 12:29:16,225 Order execution KODEX 레버리지(체결), order:1000, executed:352, order number:154303, original number:0
+2021-01-13 12:29:16,226 Balance information
+2021-01-13 12:29:16,702 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:154303, original number:0
+2021-01-13 12:29:16,704 Balance information
+2021-01-13 12:29:18,716 Deposit information
+2021-01-13 12:29:24,698 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:154396, original number:0
+2021-01-13 12:29:24,699 Balance information
+2021-01-13 12:29:25,503 Order execution KODEX 레버리지(체결), order:1000, executed:882, order number:154396, original number:0
+2021-01-13 12:29:25,505 Balance information
+2021-01-13 12:29:26,602 Order execution KODEX 레버리지(체결), order:1000, executed:886, order number:154396, original number:0
+2021-01-13 12:29:26,603 Balance information
+2021-01-13 12:29:27,508 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:154396, original number:0
+2021-01-13 12:29:27,590 Balance information
+2021-01-13 12:29:32,487 Deposit information
+2021-01-13 12:29:37,403 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:154474, original number:0
+2021-01-13 12:29:37,404 Balance information
+2021-01-13 12:29:38,709 Order execution KODEX 레버리지(체결), order:1000, executed:20, order number:154474, original number:0
+2021-01-13 12:29:38,710 Balance information
+2021-01-13 12:29:39,210 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:154474, original number:0
+2021-01-13 12:29:39,212 Balance information
+2021-01-13 12:29:47,024 Deposit information
+2021-01-13 12:30:11,165 KODEX 레버리지 trading information begins to be monitored
+2021-01-13 12:30:14,108 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-13 12:30:22,188 오스템임플란트 trading information begins to be monitored
+2021-01-13 12:30:30,929 Go Charting KODEX 레버리지
+2021-01-13 12:37:03,693 Kiwoom initializing...
+2021-01-13 12:37:08,167 Kiwoom log in success
+2021-01-13 12:37:08,167 Account information
+2021-01-13 12:37:08,681 Deposit information
+2021-01-13 12:37:09,194 Portfolio information
+2021-01-13 12:37:09,275 Order history information
+2021-01-13 12:37:14,844 Portfolio information
+2021-01-13 12:37:17,081 Portfolio information
+2021-01-13 12:37:20,864 Deposit information
+2021-01-13 12:41:37,371 Kiwoom initializing...
+2021-01-13 12:41:41,837 Kiwoom log in success
+2021-01-13 12:41:41,837 Account information
+2021-01-13 12:41:42,349 Deposit information
+2021-01-13 12:41:42,872 Portfolio information
+2021-01-13 12:41:42,960 Order history information
+2021-01-13 12:41:48,008 Go Charting KODEX 레버리지
+2021-01-13 12:41:49,095 KODEX 레버리지 trading information begins to be monitored
+2021-01-13 12:44:30,721 Kiwoom initializing...
+2021-01-13 12:44:35,397 Kiwoom log in success
+2021-01-13 12:44:35,398 Account information
+2021-01-13 12:44:35,915 Deposit information
+2021-01-13 12:44:36,440 Portfolio information
+2021-01-13 12:44:36,534 Order history information
+2021-01-13 12:44:43,165 Go Charting KODEX 레버리지
+2021-01-13 12:44:45,343 KODEX 레버리지 trading information begins to be monitored
+2021-01-13 12:44:50,578 Deposit information
+2021-01-13 12:44:56,979 Portfolio information
+2021-01-13 12:45:00,415 Order history information
+2021-01-13 12:48:07,275 Kiwoom initializing...
+2021-01-13 12:48:11,840 Kiwoom log in success
+2021-01-13 12:48:11,840 Account information
+2021-01-13 12:48:12,353 Deposit information
+2021-01-13 12:48:12,864 Portfolio information
+2021-01-13 12:48:12,947 Order history information
+2021-01-13 12:48:38,285 Order execution KODEX 레버리지(접수), order:1000, executed:0, order number:161119, original number:0
+2021-01-13 12:48:38,286 Balance information
+2021-01-13 12:48:38,498 Order execution KODEX 레버리지(체결), order:1000, executed:1000, order number:161119, original number:0
+2021-01-13 12:48:38,500 Balance information
+2021-01-13 12:50:50,119 Kiwoom initializing...
+2021-01-13 12:50:54,660 Kiwoom log in success
+2021-01-13 12:50:54,661 Account information
+2021-01-13 12:50:55,173 Deposit information
+2021-01-13 12:50:55,691 Portfolio information
+2021-01-13 12:50:55,783 Order history information
+2021-01-13 12:52:53,226 Kiwoom initializing...
+2021-01-13 12:52:57,546 Kiwoom log in success
+2021-01-13 12:52:57,547 Account information
+2021-01-13 12:52:58,059 Deposit information
+2021-01-13 12:52:58,652 Order history information
+2021-01-13 12:52:58,657 Portfolio information
+2021-01-13 12:58:00,864 Kiwoom initializing...
+2021-01-13 12:58:05,156 Kiwoom log in success
+2021-01-13 12:58:05,156 Account information
+2021-01-13 12:58:05,669 Deposit information
+2021-01-13 12:58:06,183 Portfolio information
+2021-01-13 12:58:06,272 Order history information
+2021-01-13 13:00:00,358 Kiwoom initializing...
+2021-01-13 13:00:04,719 Kiwoom log in success
+2021-01-13 13:00:04,719 Account information
+2021-01-13 13:00:05,226 Deposit information
+2021-01-13 13:00:05,751 Portfolio information
+2021-01-13 13:00:05,833 Order history information
+2021-01-13 13:00:13,573 Kiwoom initializing...
+2021-01-13 13:00:17,817 Kiwoom log in success
+2021-01-13 13:00:17,818 Account information
+2021-01-13 13:00:18,326 Deposit information
+2021-01-13 13:00:18,839 Portfolio information
+2021-01-13 13:00:18,933 Order history information
+2021-01-13 13:00:26,894 Kiwoom initializing...
+2021-01-13 13:00:31,073 Kiwoom log in success
+2021-01-13 13:00:31,073 Account information
+2021-01-13 13:00:31,577 Deposit information
+2021-01-13 13:00:32,097 Portfolio information
+2021-01-13 13:00:32,185 Order history information
+2021-01-13 13:01:01,701 F 202103 trading information begins to be monitored
+2021-01-13 13:01:05,955 Go Charting F 202103
+2021-01-13 13:02:39,200 Kiwoom initializing...
+2021-01-13 13:02:43,403 Kiwoom log in success
+2021-01-13 13:02:43,404 Account information
+2021-01-13 13:02:43,918 Deposit information
+2021-01-13 13:02:44,442 Portfolio information
+2021-01-13 13:02:44,528 Order history information
+2021-01-13 13:02:53,583 Kiwoom initializing...
+2021-01-13 13:02:57,840 Kiwoom log in success
+2021-01-13 13:02:57,840 Account information
+2021-01-13 13:02:58,357 Deposit information
+2021-01-13 13:02:58,868 Portfolio information
+2021-01-13 13:02:58,952 Order history information
+2021-01-13 13:03:10,905 Kiwoom initializing...
+2021-01-13 13:03:15,174 Kiwoom log in success
+2021-01-13 13:03:15,175 Account information
+2021-01-13 13:03:15,687 Deposit information
+2021-01-13 13:03:16,197 Portfolio information
+2021-01-13 13:03:16,286 Order history information
+2021-01-13 13:03:56,728 F 202103 trading information begins to be monitored
+2021-01-13 13:04:32,363 Go Charting F 202103
+2021-01-13 13:06:40,504 Kiwoom initializing...
+2021-01-13 13:06:44,982 Kiwoom log in success
+2021-01-13 13:06:44,982 Account information
+2021-01-13 13:06:45,487 Deposit information
+2021-01-13 13:06:46,008 Portfolio information
+2021-01-13 13:06:46,091 Order history information
+2021-01-13 13:06:59,701 Go Charting F 202103
+2021-01-13 13:07:02,798 F 202103 trading information begins to be monitored
+2021-01-13 13:17:15,587 KODEX 레버리지 trading information begins to be monitored
+2021-01-13 13:17:17,617 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-13 13:17:20,264 오스템임플란트 trading information begins to be monitored
+2021-01-13 15:01:41,595 Kiwoom initializing...
+2021-01-13 15:02:19,727 Kiwoom initializing...
+2021-01-13 15:02:32,140 Kiwoom log in success
+2021-01-13 15:02:32,140 Account information
+2021-01-13 15:02:32,645 Deposit information
+2021-01-13 15:02:33,161 Portfolio information
+2021-01-13 15:02:33,250 Order history information
+2021-01-13 15:03:00,228 Kiwoom initializing...
+2021-01-13 15:03:04,524 Kiwoom log in success
+2021-01-13 15:03:04,524 Account information
+2021-01-13 15:03:05,044 Deposit information
+2021-01-13 15:03:05,558 Portfolio information
+2021-01-13 15:03:05,659 Order history information
+2021-01-13 15:05:47,374 Kiwoom initializing...
+2021-01-13 15:05:51,722 Kiwoom log in success
+2021-01-13 15:05:51,722 Account information
+2021-01-13 15:05:52,227 Deposit information
+2021-01-13 15:05:52,737 Portfolio information
+2021-01-13 15:05:52,840 Order history information
+2021-01-13 15:16:59,411 Kiwoom initializing...
+2021-01-13 15:17:03,871 Kiwoom log in success
+2021-01-13 15:17:03,872 Account information
+2021-01-13 15:17:04,381 Deposit information
+2021-01-13 15:17:04,903 Portfolio information
+2021-01-13 15:17:04,991 Order history information
+2021-01-13 15:17:52,630 Kiwoom initializing...
+2021-01-13 15:18:16,179 Kiwoom initializing...
+2021-01-13 15:20:57,023 Kiwoom initializing...
+2021-01-13 15:21:01,472 Kiwoom log in success
+2021-01-13 15:21:01,472 Account information
+2021-01-13 15:21:01,976 Deposit information
+2021-01-13 15:21:02,487 Portfolio information
+2021-01-13 15:21:02,580 Order history information
+2021-01-13 15:21:54,633 market operation state 2 152200 000800
+2021-01-13 15:22:54,624 market operation state 2 152300 000700
+2021-01-13 15:23:16,180 Kiwoom initializing...
+2021-01-13 15:23:20,523 Kiwoom log in success
+2021-01-13 15:23:20,523 Account information
+2021-01-13 15:23:21,031 Deposit information
+2021-01-13 15:23:21,541 Portfolio information
+2021-01-13 15:23:21,629 Order history information
+2021-01-13 15:23:54,656 market operation state 2 152400 000600
+2021-01-13 15:24:54,644 market operation state 2 152500 000500
+2021-01-13 16:48:50,115 Kiwoom initializing...
+2021-01-13 16:48:59,535 Kiwoom log in success
+2021-01-13 16:48:59,535 Account information
+2021-01-13 16:49:00,050 Deposit information
+2021-01-13 16:49:00,560 Portfolio information
+2021-01-13 16:49:00,663 Order history information
+2021-01-13 16:49:05,172 Go Charting KODEX 레버리지
+2021-01-13 16:49:25,241 Kiwoom initializing...
+2021-01-13 16:49:29,963 Kiwoom log in success
+2021-01-13 16:49:29,963 Account information
+2021-01-13 16:49:30,468 Deposit information
+2021-01-13 16:49:30,985 Portfolio information
+2021-01-13 16:49:31,083 Order history information
+2021-01-13 16:49:46,841 Go Charting KODEX 레버리지
+2021-01-13 16:52:16,082 Kiwoom initializing...
+2021-01-13 16:52:20,899 Kiwoom log in success
+2021-01-13 16:52:20,900 Account information
+2021-01-13 16:52:21,405 Deposit information
+2021-01-13 16:52:21,924 Portfolio information
+2021-01-13 16:52:22,021 Order history information
+2021-01-13 16:52:36,680 Go Charting KODEX 레버리지
+2021-01-13 17:21:30,370 Kiwoom initializing...
+2021-01-13 17:21:39,344 Kiwoom log in success
+2021-01-13 17:21:39,345 Account information
+2021-01-13 17:21:39,852 Deposit information
+2021-01-13 17:21:40,376 Portfolio information
+2021-01-13 17:21:40,469 Order history information
+2021-01-13 17:21:45,788 Go Charting KODEX 레버리지
+2021-01-13 17:22:10,953 Kiwoom initializing...
+2021-01-13 17:22:15,469 Kiwoom log in success
+2021-01-13 17:22:15,469 Account information
+2021-01-13 17:22:15,985 Deposit information
+2021-01-13 17:22:16,510 Portfolio information
+2021-01-13 17:22:16,595 Order history information
+2021-01-13 17:22:19,040 Go Charting KODEX 레버리지
+2021-01-13 17:26:55,011 Kiwoom initializing...
+2021-01-13 17:26:59,462 Kiwoom log in success
+2021-01-13 17:26:59,463 Account information
+2021-01-13 17:26:59,980 Deposit information
+2021-01-13 17:27:00,491 Portfolio information
+2021-01-13 17:27:00,585 Order history information
+2021-01-13 17:27:02,359 Go Charting KODEX 레버리지
+2021-01-13 17:29:32,205 Kiwoom initializing...
+2021-01-13 17:29:37,053 Kiwoom log in success
+2021-01-13 17:29:37,053 Account information
+2021-01-13 17:29:37,570 Deposit information
+2021-01-13 17:29:38,091 Portfolio information
+2021-01-13 17:29:38,189 Order history information
+2021-01-13 17:29:39,045 Go Charting KODEX 레버리지
+2021-01-13 17:34:09,597 Kiwoom initializing...
+2021-01-13 17:34:14,791 Kiwoom log in success
+2021-01-13 17:34:14,791 Account information
+2021-01-13 17:34:15,302 Deposit information
+2021-01-13 17:34:15,819 Portfolio information
+2021-01-13 17:34:15,922 Order history information
+2021-01-13 17:34:17,895 Go Charting KODEX 레버리지
+2021-01-13 17:36:41,859 Kiwoom initializing...
+2021-01-13 17:36:46,418 Kiwoom log in success
+2021-01-13 17:36:46,418 Account information
+2021-01-13 17:36:46,928 Deposit information
+2021-01-13 17:36:47,452 Portfolio information
+2021-01-13 17:36:47,553 Order history information
+2021-01-13 17:36:50,388 Go Charting KODEX 레버리지
+2021-01-13 17:37:35,472 Kiwoom initializing...
+2021-01-13 17:37:40,473 Kiwoom log in success
+2021-01-13 17:37:40,473 Account information
+2021-01-13 17:37:40,989 Deposit information
+2021-01-13 17:37:41,508 Portfolio information
+2021-01-13 17:37:41,606 Order history information
+2021-01-13 17:37:57,562 Go Charting KODEX 레버리지
+2021-01-13 17:40:50,213 Kiwoom initializing...
+2021-01-13 17:40:54,750 Kiwoom log in success
+2021-01-13 17:40:54,750 Account information
+2021-01-13 17:40:55,262 Deposit information
+2021-01-13 17:40:55,784 Portfolio information
+2021-01-13 17:40:55,875 Order history information
+2021-01-13 17:41:00,259 Go Charting KODEX 레버리지
+2021-01-13 17:43:07,854 Kiwoom initializing...
+2021-01-13 17:43:12,402 Kiwoom log in success
+2021-01-13 17:43:12,402 Account information
+2021-01-13 17:43:12,906 Deposit information
+2021-01-13 17:43:13,418 Portfolio information
+2021-01-13 17:43:13,522 Order history information
+2021-01-13 17:43:15,373 Go Charting KODEX 레버리지
+2021-01-13 17:44:25,437 Kiwoom initializing...
+2021-01-13 17:44:30,744 Kiwoom log in success
+2021-01-13 17:44:30,744 Account information
+2021-01-13 17:44:31,252 Deposit information
+2021-01-13 17:44:31,767 Portfolio information
+2021-01-13 17:44:31,862 Order history information
+2021-01-13 17:44:33,967 Kiwoom initializing...
+2021-01-13 17:44:39,523 Kiwoom log in success
+2021-01-13 17:44:39,523 Account information
+2021-01-13 17:44:40,029 Deposit information
+2021-01-13 17:44:40,538 Portfolio information
+2021-01-13 17:44:40,625 Order history information
+2021-01-13 17:44:43,795 Go Charting KODEX 레버리지
+2021-01-13 17:45:15,825 Kiwoom initializing...
+2021-01-13 17:45:20,384 Kiwoom log in success
+2021-01-13 17:45:20,385 Account information
+2021-01-13 17:45:20,888 Deposit information
+2021-01-13 17:45:21,400 Portfolio information
+2021-01-13 17:45:21,497 Order history information
+2021-01-13 17:45:27,038 Go Charting KODEX 레버리지
+2021-01-13 17:46:23,459 Kiwoom initializing...
+2021-01-13 17:46:27,977 Kiwoom log in success
+2021-01-13 17:46:27,978 Account information
+2021-01-13 17:46:28,486 Deposit information
+2021-01-13 17:46:28,997 Portfolio information
+2021-01-13 17:46:29,084 Order history information
+2021-01-13 17:46:49,261 Go Charting KODEX 레버리지
+2021-01-13 17:59:19,593 Kiwoom initializing...
+2021-01-13 17:59:28,166 Kiwoom log in success
+2021-01-13 17:59:28,166 Account information
+2021-01-13 17:59:28,672 Deposit information
+2021-01-13 17:59:29,183 Portfolio information
+2021-01-13 17:59:29,265 Order history information
+2021-01-13 17:59:48,093 Go Charting KODEX 레버리지
+2021-01-13 17:59:54,796 market operation state d 180000 000000
+2021-01-13 18:02:23,381 Kiwoom initializing...
+2021-01-13 18:02:27,861 Kiwoom log in success
+2021-01-13 18:02:28,914 Account information
+2021-01-13 18:02:29,432 Deposit information
+2021-01-13 18:02:29,951 Portfolio information
+2021-01-13 18:02:30,034 Order history information
+2021-01-13 18:02:36,793 Go Charting KODEX 레버리지
+2021-01-13 18:03:24,264 market operation state 9 999999 000000
+2021-01-13 18:28:37,961 Kiwoom initializing...
+2021-01-13 18:28:47,282 Kiwoom log in success
+2021-01-13 18:28:47,282 Account information
+2021-01-13 18:28:47,796 Deposit information
+2021-01-13 18:28:48,320 Portfolio information
+2021-01-13 18:28:48,411 Order history information
+2021-01-13 18:28:58,411 Go Charting KODEX 레버리지
+2021-01-13 18:29:46,865 Kiwoom initializing...
+2021-01-13 18:29:51,409 Kiwoom log in success
+2021-01-13 18:29:51,409 Account information
+2021-01-13 18:29:51,916 Deposit information
+2021-01-13 18:29:52,436 Portfolio information
+2021-01-13 18:29:52,522 Order history information
+2021-01-13 18:29:54,428 Go Charting KODEX 레버리지
+2021-01-13 18:30:10,718 Kiwoom initializing...
+2021-01-13 18:30:15,144 Kiwoom log in success
+2021-01-13 18:30:15,145 Account information
+2021-01-13 18:30:15,664 Deposit information
+2021-01-13 18:30:16,186 Portfolio information
+2021-01-13 18:30:16,281 Order history information
+2021-01-13 18:30:21,885 Go Charting KODEX 레버리지
+2021-01-13 18:51:22,573 Something is wrong during log-in
+2021-01-13 18:51:22,573 Login error -106
+2021-01-13 19:03:08,790 Kiwoom initializing...
+2021-01-13 19:03:13,325 Kiwoom log in success
+2021-01-13 19:03:13,325 Account information
+2021-01-13 19:03:13,828 Deposit information
+2021-01-13 19:03:14,344 Portfolio information
+2021-01-13 19:03:14,469 Order history information
+2021-01-13 19:03:17,064 Go Charting KODEX 레버리지
+2021-01-13 19:05:34,260 Kiwoom initializing...
+2021-01-13 19:05:38,545 Kiwoom log in success
+2021-01-13 19:05:38,546 Account information
+2021-01-13 19:05:39,052 Deposit information
+2021-01-13 19:05:39,565 Portfolio information
+2021-01-13 19:05:39,662 Order history information
+2021-01-13 19:05:41,643 Go Charting KODEX 레버리지
+2021-01-13 19:07:36,398 Kiwoom initializing...
+2021-01-13 19:07:40,885 Kiwoom log in success
+2021-01-13 19:07:40,885 Account information
+2021-01-13 19:07:41,394 Deposit information
+2021-01-13 19:07:41,906 Portfolio information
+2021-01-13 19:07:41,985 Order history information
+2021-01-13 19:07:44,490 Go Charting KODEX 레버리지
+2021-01-13 19:08:21,712 Kiwoom initializing...
+2021-01-13 19:08:26,048 Kiwoom log in success
+2021-01-13 19:08:26,048 Account information
+2021-01-13 19:08:26,563 Deposit information
+2021-01-13 19:08:27,086 Portfolio information
+2021-01-13 19:08:27,178 Order history information
+2021-01-13 19:23:26,940 Go Charting KODEX 레버리지
+2021-01-13 19:26:01,907 Kiwoom initializing...
+2021-01-13 19:26:16,286 Kiwoom log in success
+2021-01-13 19:26:16,286 Account information
+2021-01-13 19:26:16,804 Deposit information
+2021-01-13 19:26:17,317 Portfolio information
+2021-01-13 19:26:17,413 Order history information
+2021-01-13 19:26:19,829 Go Charting KODEX 레버리지
+2021-01-13 19:26:43,702 Kiwoom initializing...
+2021-01-13 19:26:48,156 Kiwoom log in success
+2021-01-13 19:26:48,157 Account information
+2021-01-13 19:26:48,673 Deposit information
+2021-01-13 19:26:49,184 Portfolio information
+2021-01-13 19:26:49,277 Order history information
+2021-01-13 19:27:04,018 Go Charting KODEX 레버리지
+2021-01-13 19:31:55,181 Kiwoom initializing...
+2021-01-13 19:31:59,842 Kiwoom log in success
+2021-01-13 19:31:59,842 Account information
+2021-01-13 19:32:00,350 Deposit information
+2021-01-13 19:32:00,862 Portfolio information
+2021-01-13 19:32:00,950 Order history information
+2021-01-13 19:32:08,739 Go Charting KODEX 레버리지
+2021-01-13 19:43:32,631 Closing process initializing...
+2021-01-13 19:43:32,631 All screens are disconnected

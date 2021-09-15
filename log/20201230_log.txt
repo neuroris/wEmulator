@@ -1,0 +1,255 @@
+2020-12-30 09:50:31,355 Kiwoom initializing...
+2020-12-30 09:51:01,814 Kiwoom log in success
+2020-12-30 09:51:01,814 Account information
+2020-12-30 09:51:02,324 Deposit information
+2020-12-30 09:51:05,996 Portfolio information
+2020-12-30 09:51:23,228 Chart KODEX 레버리지
+2020-12-30 09:52:18,710 Kiwoom initializing...
+2020-12-30 09:52:23,408 Kiwoom log in success
+2020-12-30 09:52:23,408 Account information
+2020-12-30 09:52:23,916 Deposit information
+2020-12-30 09:52:24,842 Portfolio information
+2020-12-30 09:52:32,197 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 09:57:21,692 Kiwoom initializing...
+2020-12-30 09:57:26,280 Kiwoom log in success
+2020-12-30 09:57:26,281 Account information
+2020-12-30 09:57:26,787 Deposit information
+2020-12-30 09:57:27,690 Portfolio information
+2020-12-30 09:57:56,820 Chart KODEX 레버리지
+2020-12-30 09:58:01,448 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 10:00:20,495 Kiwoom initializing...
+2020-12-30 10:00:25,257 Kiwoom log in success
+2020-12-30 10:00:25,257 Account information
+2020-12-30 10:00:25,771 Deposit information
+2020-12-30 10:00:26,698 Portfolio information
+2020-12-30 10:00:35,717 Chart KODEX 레버리지
+2020-12-30 10:00:37,931 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 12:34:29,626 Order execution 오스템임플란트(접수), order:100, executed:0, order number:145158, original number:0
+2020-12-30 12:34:29,628 Balance information
+2020-12-30 12:34:30,132 Deposit information
+2020-12-30 12:34:30,675 Order history information
+2020-12-30 12:34:31,522 Portfolio information
+2020-12-30 12:35:07,919 Order execution 오스템임플란트(체결), order:100, executed:100, order number:145158, original number:0
+2020-12-30 12:35:07,921 Balance information
+2020-12-30 12:35:09,023 Deposit information
+2020-12-30 12:35:09,129 Order history information
+2020-12-30 12:35:10,093 Portfolio information
+2020-12-30 12:35:28,908 Running algorithm started
+2020-12-30 12:35:29,517 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:145477, original number:0
+2020-12-30 12:35:29,541 Order history information
+2020-12-30 13:04:03,628 Kiwoom initializing...
+2020-12-30 13:04:17,188 Kiwoom log in success
+2020-12-30 13:04:17,188 Account information
+2020-12-30 13:04:17,699 Deposit information
+2020-12-30 13:04:19,133 Portfolio information
+2020-12-30 13:04:31,758 Chart KODEX 레버리지
+2020-12-30 13:05:04,718 Kiwoom initializing...
+2020-12-30 13:05:11,198 Kiwoom log in success
+2020-12-30 13:05:11,199 Account information
+2020-12-30 13:05:12,605 Deposit information
+2020-12-30 13:05:14,311 Portfolio information
+2020-12-30 13:13:31,356 Kiwoom initializing...
+2020-12-30 13:13:40,137 Kiwoom log in success
+2020-12-30 13:13:40,138 Account information
+2020-12-30 13:13:40,642 Deposit information
+2020-12-30 13:13:41,928 Portfolio information
+2020-12-30 13:15:58,862 Kiwoom initializing...
+2020-12-30 13:16:53,488 Kiwoom initializing...
+2020-12-30 13:16:58,058 Kiwoom log in success
+2020-12-30 13:16:58,059 Account information
+2020-12-30 13:16:58,562 Deposit information
+2020-12-30 13:16:59,633 Portfolio information
+2020-12-30 13:17:00,791 Chart KODEX 레버리지
+2020-12-30 13:17:30,730 Kiwoom initializing...
+2020-12-30 13:17:35,246 Kiwoom log in success
+2020-12-30 13:17:35,247 Account information
+2020-12-30 13:17:35,760 Deposit information
+2020-12-30 13:17:36,305 Portfolio information
+2020-12-30 13:17:41,943 Chart KODEX 레버리지
+2020-12-30 13:57:52,204 Kiwoom initializing...
+2020-12-30 13:58:01,460 Kiwoom log in success
+2020-12-30 13:58:01,461 Account information
+2020-12-30 13:58:01,974 Deposit information
+2020-12-30 13:58:03,471 Portfolio information
+2020-12-30 13:58:08,182 Chart KODEX 레버리지
+2020-12-30 13:58:40,367 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:02:16,458 Kiwoom initializing...
+2020-12-30 14:02:21,025 Kiwoom log in success
+2020-12-30 14:02:21,025 Account information
+2020-12-30 14:02:21,530 Deposit information
+2020-12-30 14:02:21,577 Portfolio information
+2020-12-30 14:02:48,796 Kiwoom initializing...
+2020-12-30 14:02:53,251 Kiwoom log in success
+2020-12-30 14:02:53,251 Account information
+2020-12-30 14:02:53,762 Deposit information
+2020-12-30 14:02:53,947 Portfolio information
+2020-12-30 14:02:57,522 Chart KODEX 레버리지
+2020-12-30 14:03:05,039 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:05:16,504 Kiwoom initializing...
+2020-12-30 14:05:23,284 Kiwoom log in success
+2020-12-30 14:05:23,284 Account information
+2020-12-30 14:05:24,105 Deposit information
+2020-12-30 14:05:25,897 Portfolio information
+2020-12-30 14:05:28,455 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:07:35,632 Chart KODEX 레버리지
+2020-12-30 14:08:37,561 Kiwoom initializing...
+2020-12-30 14:08:42,126 Kiwoom log in success
+2020-12-30 14:08:42,126 Account information
+2020-12-30 14:08:42,642 Deposit information
+2020-12-30 14:08:43,511 Portfolio information
+2020-12-30 14:08:44,711 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:09:08,319 Kiwoom initializing...
+2020-12-30 14:09:13,539 Kiwoom log in success
+2020-12-30 14:09:13,539 Account information
+2020-12-30 14:09:14,043 Deposit information
+2020-12-30 14:09:15,249 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:09:15,596 Portfolio information
+2020-12-30 14:09:41,448 Running algorithm started
+2020-12-30 14:09:41,832 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:185498, original number:0
+2020-12-30 14:09:41,878 Order history information
+2020-12-30 14:10:32,997 Kiwoom initializing...
+2020-12-30 14:10:42,234 Kiwoom log in success
+2020-12-30 14:10:42,235 Account information
+2020-12-30 14:10:42,743 Deposit information
+2020-12-30 14:10:46,319 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:10:46,396 Portfolio information
+2020-12-30 14:10:48,101 Running algorithm started
+2020-12-30 14:10:49,956 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:186028, original number:0
+2020-12-30 14:10:50,006 Order history information
+2020-12-30 14:11:04,535 Order execution 오스템임플란트(접수), order:100, executed:0, order number:186147, original number:0
+2020-12-30 14:11:04,537 Balance information
+2020-12-30 14:11:05,771 Order history information
+2020-12-30 14:11:06,192 Deposit information
+2020-12-30 14:11:08,154 Portfolio information
+2020-12-30 14:11:15,239 Order execution 오스템임플란트(체결), order:100, executed:2, order number:186147, original number:0
+2020-12-30 14:11:15,241 Balance information
+2020-12-30 14:11:16,396 Order history information
+2020-12-30 14:11:16,400 Deposit information
+2020-12-30 14:11:18,525 Portfolio information
+2020-12-30 14:11:18,631 Order execution 오스템임플란트(체결), order:100, executed:3, order number:186147, original number:0
+2020-12-30 14:11:18,632 Balance information
+2020-12-30 14:11:19,870 Order history information
+2020-12-30 14:11:19,920 Deposit information
+2020-12-30 14:11:22,307 Portfolio information
+2020-12-30 14:11:24,238 Order execution 오스템임플란트(체결), order:100, executed:100, order number:186147, original number:0
+2020-12-30 14:11:24,244 Balance information
+2020-12-30 14:11:25,278 Deposit information
+2020-12-30 14:11:25,410 Order history information
+2020-12-30 14:11:27,330 Portfolio information
+2020-12-30 14:51:13,161 Order execution 오스템임플란트(접수), order:100, executed:0, order number:205706, original number:0
+2020-12-30 14:51:13,163 Balance information
+2020-12-30 14:51:13,766 Deposit information
+2020-12-30 14:51:14,200 Portfolio information
+2020-12-30 14:51:14,247 Order history information
+2020-12-30 14:53:38,837 Kiwoom initializing...
+2020-12-30 14:53:43,648 Kiwoom log in success
+2020-12-30 14:53:43,648 Account information
+2020-12-30 14:53:44,160 Deposit information
+2020-12-30 14:53:45,572 Portfolio information
+2020-12-30 14:53:49,815 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 14:59:32,063 Kiwoom initializing...
+2020-12-30 14:59:42,811 Kiwoom log in success
+2020-12-30 14:59:42,811 Account information
+2020-12-30 14:59:44,962 Deposit information
+2020-12-30 14:59:45,677 Portfolio information
+2020-12-30 14:59:54,259 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 15:01:11,323 Kiwoom initializing...
+2020-12-30 15:01:16,174 Kiwoom log in success
+2020-12-30 15:01:16,174 Account information
+2020-12-30 15:01:16,682 Deposit information
+2020-12-30 15:01:18,538 Portfolio information
+2020-12-30 15:01:22,923 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 15:01:27,125 Chart KODEX 레버리지
+2020-12-30 15:04:37,248 Kiwoom initializing...
+2020-12-30 15:04:41,874 Kiwoom log in success
+2020-12-30 15:04:41,874 Account information
+2020-12-30 15:04:42,379 Deposit information
+2020-12-30 15:04:43,431 Portfolio information
+2020-12-30 15:04:45,309 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 15:05:26,519 Kiwoom initializing...
+2020-12-30 15:05:32,060 Kiwoom log in success
+2020-12-30 15:05:32,060 Account information
+2020-12-30 15:05:32,570 Deposit information
+2020-12-30 15:05:32,632 Portfolio information
+2020-12-30 15:05:42,254 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 15:15:09,584 Kiwoom initializing...
+2020-12-30 15:15:30,215 Something is wrong during log-in
+2020-12-30 15:15:30,215 Login error -100
+2020-12-30 15:15:30,217 Account information
+2020-12-30 15:15:30,256 Something is wrong during log-in
+2020-12-30 15:15:30,256 Login error -106
+2020-12-30 15:15:30,284 Something is wrong during log-in
+2020-12-30 15:15:30,284 Login error -106
+2020-12-30 15:15:33,557 Kiwoom initializing...
+2020-12-30 15:15:53,312 Kiwoom initializing...
+2020-12-30 15:16:13,475 Kiwoom initializing...
+2020-12-30 15:16:43,637 Something is wrong during log-in
+2020-12-30 15:16:43,638 Login error -100
+2020-12-30 15:16:43,639 Account information
+2020-12-30 15:16:48,816 Kiwoom initializing...
+2020-12-30 15:17:11,135 Kiwoom initializing...
+2020-12-30 15:17:15,827 Kiwoom log in success
+2020-12-30 15:17:15,827 Account information
+2020-12-30 15:17:16,332 Deposit information
+2020-12-30 15:17:16,378 Portfolio information
+2020-12-30 15:17:22,993 KODEX 레버리지 trading information begins to be monitored
+2020-12-30 15:19:19,413 Chart KODEX 레버리지
+2020-12-30 15:19:58,506 market operation state 2 152000 001000
+2020-12-30 15:20:04,783 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-30 15:20:15,894 Chart KODEX 200선물인버스2X
+2020-12-30 15:20:58,498 market operation state 2 152100 000900
+2020-12-30 15:21:58,500 market operation state 2 152200 000800
+2020-12-30 15:22:58,405 market operation state 2 152300 000700
+2020-12-30 15:23:58,494 market operation state 2 152400 000600
+2020-12-30 15:24:58,493 market operation state 2 152500 000500
+2020-12-30 15:25:58,492 market operation state 2 152600 000400
+2020-12-30 15:26:58,491 market operation state 2 152700 000300
+2020-12-30 15:27:58,487 market operation state 2 152800 000200
+2020-12-30 15:28:58,494 market operation state 2 152900 000100
+2020-12-30 15:29:08,498 market operation state 2 152910 000050
+2020-12-30 15:29:18,481 market operation state 2 152920 000040
+2020-12-30 15:29:28,493 market operation state 2 152930 000030
+2020-12-30 15:29:38,489 market operation state 2 152940 000020
+2020-12-30 15:29:48,493 market operation state 2 152950 000010
+2020-12-30 15:29:58,480 market operation state 4 153000 000000
+2020-12-30 15:30:38,377 market operation state 8 888888 000000
+2020-12-30 15:34:58,682 market operation state s 153500 000000
+2020-12-30 15:34:58,683 market operation state s 153500 000000
+2020-12-30 15:34:58,683 market operation state s 153500 000000
+2020-12-30 15:34:58,788 market operation state s 153500 000000
+2020-12-30 15:34:58,789 market operation state s 153500 000000
+2020-12-30 15:34:58,789 market operation state s 153500 000000
+2020-12-30 15:34:58,789 market operation state s 153500 000000
+2020-12-30 15:34:58,790 market operation state s 153500 000000
+2020-12-30 15:34:58,790 market operation state s 153500 000000
+2020-12-30 15:34:58,790 market operation state s 153500 000000
+2020-12-30 15:34:58,790 market operation state s 153500 000000
+2020-12-30 15:34:58,880 market operation state s 153500 000000
+2020-12-30 15:34:58,881 market operation state s 153500 000000
+2020-12-30 15:34:58,881 market operation state s 153500 000000
+2020-12-30 15:34:58,881 market operation state s 153500 000000
+2020-12-30 15:34:58,882 market operation state s 153500 000000
+2020-12-30 15:34:58,882 market operation state s 153500 000000
+2020-12-30 15:39:59,072 market operation state a 154000 000000
+2020-12-30 15:44:58,865 market operation state e 154500 000000
+2020-12-30 15:44:58,956 market operation state e 154500 000000
+2020-12-30 15:44:59,064 market operation state e 154500 000000
+2020-12-30 15:44:59,064 market operation state e 154500 000000
+2020-12-30 15:44:59,154 market operation state e 154500 000000
+2020-12-30 15:44:59,155 market operation state e 154500 000000
+2020-12-30 15:44:59,260 market operation state e 154500 000000
+2020-12-30 15:44:59,261 market operation state e 154500 000000
+2020-12-30 15:44:59,367 market operation state e 154500 000000
+2020-12-30 15:44:59,460 market operation state e 154500 000000
+2020-12-30 15:44:59,553 market operation state e 154500 000000
+2020-12-30 15:44:59,553 market operation state e 154500 000000
+2020-12-30 15:44:59,858 market operation state e 154500 000000
+2020-12-30 15:45:00,055 market operation state e 154500 000000
+2020-12-30 15:45:00,254 market operation state e 154500 000000
+2020-12-30 15:45:00,453 market operation state e 154500 000000
+2020-12-30 15:45:00,453 market operation state e 154500 000000
+2020-12-30 15:55:43,126 Order history information
+2020-12-30 15:59:59,037 market operation state b 160000 000000
+2020-12-30 15:59:59,038 market operation state c 160000 000000
+2020-12-30 17:59:58,835 market operation state d 180000 000000
+2020-12-30 18:03:28,130 market operation state 9 999999 000000

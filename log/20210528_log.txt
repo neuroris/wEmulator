@@ -1,0 +1,210 @@
+2021-05-28 09:45:20,887 Kiwoom initializing...
+2021-05-28 09:45:58,941 Kiwoom log in success
+2021-05-28 09:45:58,941 Account information
+2021-05-28 09:45:59,958 Deposit information (Futures)
+2021-05-28 09:45:59,958 No deposit information
+2021-05-28 09:46:01,609 Portfolio information (Futures)
+2021-05-28 09:46:02,619 Deposit information (Futures)
+2021-05-28 09:47:07,342 F 202106 trading information begins to be monitored
+2021-05-28 09:47:07,342 Go Charting F 202106
+2021-05-28 10:00:56,734 Stop Charting
+2021-05-28 10:00:57,399 F 202106 stock information monitoring is finished
+2021-05-28 10:01:54,635 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 10:01:54,727 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:17401, original:0
+2021-05-28 10:01:54,729 Balance information
+2021-05-28 10:01:56,236 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:17401, original:0
+2021-05-28 10:01:56,238 Balance information
+2021-05-28 10:04:22,918 Kiwoom initializing...
+2021-05-28 10:04:35,521 Kiwoom log in success
+2021-05-28 10:04:35,521 Account information
+2021-05-28 10:04:36,550 Deposit information (Futures)
+2021-05-28 10:04:36,550 No deposit information
+2021-05-28 10:04:38,072 Portfolio information (Futures)
+2021-05-28 10:04:38,113 Deposit information (Futures)
+2021-05-28 13:01:06,889 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 13:01:06,966 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:456.4, number:40114, original:0
+2021-05-28 13:01:06,967 Balance information
+2021-05-28 13:01:09,269 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:456.4, number:40114, original:0
+2021-05-28 13:01:09,270 Balance information
+2021-05-28 13:02:04,570 Kiwoom initializing...
+2021-05-28 13:02:20,247 Kiwoom log in success
+2021-05-28 13:02:20,247 Account information
+2021-05-28 13:02:20,760 Deposit information
+2021-05-28 13:02:22,274 Deposit information (Futures)
+2021-05-28 13:02:22,785 Portfolio information
+2021-05-28 13:02:29,447 Portfolio information (Futures)
+2021-05-28 13:02:50,462 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 13:02:50,493 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:456.4, number:40244, original:0
+2021-05-28 13:02:50,494 Balance information
+2021-05-28 13:02:50,783 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:456.4, number:40244, original:0
+2021-05-28 13:02:50,785 Balance information
+2021-05-28 13:02:56,008 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 13:02:56,085 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:40250, original:0
+2021-05-28 13:02:56,087 Balance information
+2021-05-28 13:02:57,591 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:40250, original:0
+2021-05-28 13:02:57,593 Balance information
+2021-05-28 13:03:06,246 Portfolio information (Futures)
+2021-05-28 13:03:14,883 Portfolio information (Futures)
+2021-05-28 13:04:49,715 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 13:04:49,792 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:40420, original:0
+2021-05-28 13:04:49,795 Balance information
+2021-05-28 13:05:06,481 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:40420, original:0
+2021-05-28 13:05:06,483 Balance information
+2021-05-28 13:06:06,240 Portfolio information (Futures)
+2021-05-28 14:32:25,101 Portfolio information (Futures)
+2021-05-28 14:41:06,843 Kiwoom initializing...
+2021-05-28 14:41:13,496 Kiwoom log in success
+2021-05-28 14:41:13,496 Account information
+2021-05-28 14:41:14,515 Deposit information (Futures)
+2021-05-28 14:41:14,516 No deposit information
+2021-05-28 14:41:16,053 Portfolio information
+2021-05-28 14:41:16,114 Deposit information (Futures)
+2021-05-28 14:42:37,926 Portfolio information (Futures)
+2021-05-28 14:45:51,736 Kiwoom initializing...
+2021-05-28 14:45:57,814 Kiwoom log in success
+2021-05-28 14:45:57,815 Account information
+2021-05-28 14:45:58,330 Deposit information
+2021-05-28 14:45:59,861 Deposit information (Futures)
+2021-05-28 14:46:05,787 Kiwoom initializing...
+2021-05-28 14:46:11,282 Kiwoom log in success
+2021-05-28 14:46:11,283 Account information
+2021-05-28 14:46:11,795 Deposit information
+2021-05-28 14:46:12,812 Deposit information (Futures)
+2021-05-28 14:46:13,316 Portfolio information
+2021-05-28 14:46:13,876 Deposit information (Futures)
+2021-05-28 14:46:22,949 Kiwoom initializing...
+2021-05-28 14:46:28,846 Kiwoom log in success
+2021-05-28 14:46:28,846 Account information
+2021-05-28 14:46:29,354 Deposit information
+2021-05-28 14:46:30,370 Deposit information (Futures)
+2021-05-28 14:46:30,876 Portfolio information
+2021-05-28 14:46:31,636 Deposit information (Futures)
+2021-05-28 14:46:51,985 Kiwoom initializing...
+2021-05-28 14:46:58,095 Kiwoom log in success
+2021-05-28 14:46:58,095 Account information
+2021-05-28 14:46:59,114 Deposit information (Futures)
+2021-05-28 14:46:59,114 No deposit information
+2021-05-28 14:47:00,136 Portfolio information (Futures)
+2021-05-28 14:47:00,712 Deposit information (Futures)
+2021-05-28 14:47:01,266 Portfolio information (Futures)
+2021-05-28 14:47:34,868 Portfolio information (Futures)
+2021-05-28 14:50:06,931 Portfolio information (Futures)
+2021-05-28 14:50:16,380 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 14:50:16,474 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:49653, original:0
+2021-05-28 14:50:16,477 Balance information
+2021-05-28 14:50:20,371 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:49653, original:0
+2021-05-28 14:50:20,373 Balance information
+2021-05-28 14:50:30,324 Portfolio information (Futures)
+2021-05-28 14:50:42,332 Portfolio information (Futures)
+2021-05-28 14:53:06,460 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 14:53:06,463 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:49947, original:0
+2021-05-28 14:53:06,465 Balance information
+2021-05-28 14:53:07,568 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:49947, original:0
+2021-05-28 14:53:07,570 Balance information
+2021-05-28 14:53:35,344 Portfolio information (Futures)
+2021-05-28 14:54:18,313 F 202106 trading information begins to be monitored
+2021-05-28 14:54:18,313 Go Charting F 202106
+2021-05-28 14:56:12,052 Kiwoom initializing...
+2021-05-28 14:56:23,442 Kiwoom log in success
+2021-05-28 14:56:23,442 Account information
+2021-05-28 14:56:23,960 Deposit information
+2021-05-28 14:56:24,970 Deposit information (Futures)
+2021-05-28 14:56:25,477 Portfolio information
+2021-05-28 14:56:26,023 Deposit information (Futures)
+2021-05-28 14:56:26,266 Portfolio information (Futures)
+2021-05-28 14:56:54,485 Portfolio information (Futures)
+2021-05-28 14:59:27,531 F 202106 trading information begins to be monitored
+2021-05-28 14:59:27,532 Go Charting F 202106
+2021-05-28 14:59:39,242 F 202106 stock information monitoring is finished
+2021-05-28 14:59:40,122 Stop Charting
+2021-05-28 14:59:49,227 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 14:59:49,333 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:50525, original:0
+2021-05-28 14:59:49,334 Balance information
+2021-05-28 14:59:55,225 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:50525, original:0
+2021-05-28 14:59:55,227 Balance information
+2021-05-28 15:00:47,694 Kiwoom initializing...
+2021-05-28 15:00:55,827 Kiwoom log in success
+2021-05-28 15:00:55,827 Account information
+2021-05-28 15:00:56,343 Deposit information
+2021-05-28 15:00:57,361 Deposit information (Futures)
+2021-05-28 15:00:57,864 Portfolio information
+2021-05-28 15:00:58,414 Deposit information (Futures)
+2021-05-28 15:00:58,687 Portfolio information (Futures)
+2021-05-28 15:01:22,166 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:01:22,181 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:50637, original:0
+2021-05-28 15:01:22,183 Balance information
+2021-05-28 15:01:22,576 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:50637, original:0
+2021-05-28 15:01:22,578 Balance information
+2021-05-28 15:01:44,517 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:01:44,579 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:388.8, number:50658, original:0
+2021-05-28 15:01:44,581 Balance information
+2021-05-28 15:01:45,982 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:388.8, number:50658, original:0
+2021-05-28 15:01:45,984 Balance information
+2021-05-28 15:02:11,848 Portfolio information (Futures)
+2021-05-28 15:02:19,417 Portfolio information (Futures)
+2021-05-28 15:02:30,039 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:02:30,084 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:456.4, number:50711, original:0
+2021-05-28 15:02:30,085 Balance information
+2021-05-28 15:02:31,773 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:456.4, number:50711, original:0
+2021-05-28 15:02:31,775 Balance information
+2021-05-28 15:10:41,104 Kiwoom initializing...
+2021-05-28 15:10:46,668 Kiwoom log in success
+2021-05-28 15:10:46,668 Account information
+2021-05-28 15:10:47,181 Deposit information
+2021-05-28 15:10:48,189 Deposit information (Futures)
+2021-05-28 15:10:48,697 Portfolio information
+2021-05-28 15:10:49,246 Deposit information (Futures)
+2021-05-28 15:10:49,311 Portfolio information (Futures)
+2021-05-28 15:11:05,761 Portfolio information (Futures)
+2021-05-28 15:11:13,235 Portfolio information (Futures)
+2021-05-28 15:11:42,019 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:11:42,033 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:426.0, number:51889, original:0
+2021-05-28 15:11:42,034 Balance information
+2021-05-28 15:12:48,066 F 202106 trading information begins to be monitored
+2021-05-28 15:12:48,067 Go Charting F 202106
+2021-05-28 15:12:59,194 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:12:59,240 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:456.4, number:52030, original:0
+2021-05-28 15:12:59,242 Balance information
+2021-05-28 15:12:59,362 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:456.4, number:52030, original:0
+2021-05-28 15:12:59,365 Balance information
+2021-05-28 15:13:07,854 Send order (CANCEL BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:13:07,931 Order execution(매수취소) F 202106(접수), order:1, executed_sum:0, open:1, price:0.0, number:52059, original:51889
+2021-05-28 15:13:07,933 Order execution(매수취소) F 202106(확인), order:1, executed_sum:0, open:0, price:0.0, number:52059, original:51889
+2021-05-28 15:13:07,935 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:0, price:426.0, number:51889, original:0
+2021-05-28 15:13:07,937 Balance information
+2021-05-28 15:13:11,921 Stop Charting
+2021-05-28 15:13:12,397 F 202106 stock information monitoring is finished
+2021-05-28 15:13:20,166 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:13:20,243 Order execution(-매도) F 202106(접수), order:5, executed_sum:0, open:5, price:388.8, number:52097, original:0
+2021-05-28 15:13:20,245 Balance information
+2021-05-28 15:13:21,139 Order execution(-매도) F 202106(체결), order:5, executed_sum:1, open:4, price:388.8, number:52097, original:0
+2021-05-28 15:13:21,142 Balance information
+2021-05-28 15:13:25,335 Order execution(-매도) F 202106(체결), order:5, executed_sum:3, open:2, price:388.8, number:52097, original:0
+2021-05-28 15:13:25,337 Balance information
+2021-05-28 15:13:27,034 Order execution(-매도) F 202106(체결), order:5, executed_sum:5, open:0, price:388.8, number:52097, original:0
+2021-05-28 15:13:27,037 Balance information
+2021-05-28 15:14:30,954 Kiwoom initializing...
+2021-05-28 15:14:36,553 Kiwoom log in success
+2021-05-28 15:14:36,553 Account information
+2021-05-28 15:14:37,070 Deposit information
+2021-05-28 15:14:38,098 Deposit information (Futures)
+2021-05-28 15:14:38,614 Portfolio information
+2021-05-28 15:14:39,150 Deposit information (Futures)
+2021-05-28 15:14:39,271 Portfolio information (Futures)
+2021-05-28 15:14:51,108 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:14:51,199 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:456.4, number:52326, original:0
+2021-05-28 15:14:51,202 Balance information
+2021-05-28 15:14:54,004 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:456.4, number:52326, original:0
+2021-05-28 15:14:54,005 Balance information
+2021-05-28 15:15:19,007 Kiwoom initializing...
+2021-05-28 15:15:24,244 Kiwoom log in success
+2021-05-28 15:15:25,447 Account information
+2021-05-28 15:15:25,956 Deposit information
+2021-05-28 15:15:26,974 Deposit information (Futures)
+2021-05-28 15:15:27,481 Portfolio information
+2021-05-28 15:15:28,013 Deposit information (Futures)
+2021-05-28 15:15:28,626 Portfolio information (Futures)
+2021-05-28 15:15:34,963 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-05-28 15:15:35,033 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:456.4, number:52457, original:0
+2021-05-28 15:15:35,035 Balance information
+2021-05-28 15:15:38,130 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:456.4, number:52457, original:0

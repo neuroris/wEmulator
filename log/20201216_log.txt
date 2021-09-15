@@ -1,0 +1,605 @@
+2020-12-16 10:00:13,392 Kiwoom initializing...
+2020-12-16 10:00:47,389 Kiwoom log in success
+2020-12-16 10:00:47,389 Account information
+2020-12-16 10:00:49,070 Deposit information
+2020-12-16 10:00:51,749 Portfolio information
+2020-12-16 10:01:44,766 오스템임플란트 trading information begins to be monitored
+2020-12-16 10:01:47,308 KODEX 레버리지 trading information begins to be monitored
+2020-12-16 10:01:48,922 Portfolio information
+2020-12-16 10:01:49,576 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-16 10:01:52,122 Portfolio information
+2020-12-16 10:01:54,501 Order history information
+2020-12-16 10:01:55,515 Portfolio information
+2020-12-16 10:01:56,997 Portfolio information
+2020-12-16 10:02:01,124 Portfolio information
+2020-12-16 10:02:03,904 Portfolio information
+2020-12-16 10:02:06,572 Portfolio information
+2020-12-16 10:02:08,614 Portfolio information
+2020-12-16 10:02:11,444 Portfolio information
+2020-12-16 10:02:14,294 Portfolio information
+2020-12-16 10:02:16,900 Portfolio information
+2020-12-16 10:02:19,313 Portfolio information
+2020-12-16 10:02:22,837 Portfolio information
+2020-12-16 10:02:26,079 Portfolio information
+2020-12-16 10:02:29,082 Portfolio information
+2020-12-16 10:02:31,528 Portfolio information
+2020-12-16 10:02:33,547 Portfolio information
+2020-12-16 10:02:36,265 Portfolio information
+2020-12-16 10:02:38,593 Portfolio information
+2020-12-16 10:02:40,183 Portfolio information
+2020-12-16 10:02:42,168 Portfolio information
+2020-12-16 10:02:45,779 Portfolio information
+2020-12-16 10:02:48,897 Portfolio information
+2020-12-16 10:02:51,768 Portfolio information
+2020-12-16 10:02:56,959 Portfolio information
+2020-12-16 10:03:02,286 Portfolio information
+2020-12-16 10:03:06,915 Portfolio information
+2020-12-16 10:10:34,436 Kiwoom initializing...
+2020-12-16 10:10:43,007 Kiwoom log in success
+2020-12-16 10:10:43,007 Account information
+2020-12-16 10:10:43,513 Deposit information
+2020-12-16 10:10:45,103 Portfolio information
+2020-12-16 10:10:48,146 오스템임플란트 trading information begins to be monitored
+2020-12-16 10:10:50,491 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-16 10:10:52,085 KODEX 레버리지 trading information begins to be monitored
+2020-12-16 10:10:54,661 Portfolio information
+2020-12-16 10:10:58,263 Portfolio information
+2020-12-16 10:26:26,863 Order history information
+2020-12-16 10:26:55,459 Portfolio information
+2020-12-16 10:26:57,549 Portfolio information
+2020-12-16 10:26:59,975 Portfolio information
+2020-12-16 10:27:00,823 Portfolio information
+2020-12-16 10:27:02,419 Portfolio information
+2020-12-16 10:27:04,595 Portfolio information
+2020-12-16 10:27:07,451 Portfolio information
+2020-12-16 10:27:09,551 Portfolio information
+2020-12-16 10:27:11,630 Portfolio information
+2020-12-16 10:27:14,944 Portfolio information
+2020-12-16 10:27:19,260 Portfolio information
+2020-12-16 10:27:21,542 Portfolio information
+2020-12-16 10:27:23,929 Portfolio information
+2020-12-16 10:27:25,937 Portfolio information
+2020-12-16 10:27:28,590 Portfolio information
+2020-12-16 10:27:30,570 Portfolio information
+2020-12-16 10:27:34,659 Portfolio information
+2020-12-16 10:27:38,282 Portfolio information
+2020-12-16 10:27:40,576 Portfolio information
+2020-12-16 10:27:42,214 Portfolio information
+2020-12-16 10:27:44,055 Portfolio information
+2020-12-16 10:27:46,416 Portfolio information
+2020-12-16 10:27:49,243 Portfolio information
+2020-12-16 10:27:51,644 Portfolio information
+2020-12-16 10:27:54,340 Portfolio information
+2020-12-16 10:27:57,267 Portfolio information
+2020-12-16 10:28:01,306 Portfolio information
+2020-12-16 10:28:03,841 Portfolio information
+2020-12-16 10:28:06,389 Portfolio information
+2020-12-16 10:28:09,002 Portfolio information
+2020-12-16 10:28:12,951 Portfolio information
+2020-12-16 10:28:14,720 Portfolio information
+2020-12-16 10:28:19,055 Portfolio information
+2020-12-16 10:28:21,172 Portfolio information
+2020-12-16 10:28:24,748 Portfolio information
+2020-12-16 10:28:26,943 Portfolio information
+2020-12-16 10:28:28,874 Portfolio information
+2020-12-16 10:28:32,578 Portfolio information
+2020-12-16 10:28:36,251 Portfolio information
+2020-12-16 10:28:39,043 Portfolio information
+2020-12-16 10:28:42,553 Portfolio information
+2020-12-16 10:28:48,542 Portfolio information
+2020-12-16 10:28:51,339 Portfolio information
+2020-12-16 10:28:54,871 Portfolio information
+2020-12-16 10:28:57,878 Portfolio information
+2020-12-16 10:29:00,936 Portfolio information
+2020-12-16 10:29:03,886 Portfolio information
+2020-12-16 10:29:07,318 Portfolio information
+2020-12-16 10:29:09,917 Portfolio information
+2020-12-16 10:29:11,946 Portfolio information
+2020-12-16 10:29:13,784 Portfolio information
+2020-12-16 10:29:16,638 Portfolio information
+2020-12-16 10:29:19,853 Portfolio information
+2020-12-16 10:29:21,812 Portfolio information
+2020-12-16 10:29:23,036 Portfolio information
+2020-12-16 10:29:26,057 Portfolio information
+2020-12-16 10:29:29,887 Portfolio information
+2020-12-16 10:36:25,624 Kiwoom initializing...
+2020-12-16 10:36:38,296 Kiwoom log in success
+2020-12-16 10:36:38,296 Account information
+2020-12-16 10:36:38,803 Deposit information
+2020-12-16 10:36:40,059 Portfolio information
+2020-12-16 10:37:38,340 Kiwoom initializing...
+2020-12-16 10:37:42,989 Kiwoom log in success
+2020-12-16 10:37:42,990 Account information
+2020-12-16 10:37:43,502 Deposit information
+2020-12-16 10:37:45,977 Portfolio information
+2020-12-16 10:57:20,611 Kiwoom initializing...
+2020-12-16 10:57:29,263 Kiwoom log in success
+2020-12-16 10:57:29,263 Account information
+2020-12-16 10:57:29,783 Deposit information
+2020-12-16 10:59:26,129 Portfolio information
+2020-12-16 11:00:31,345 Kiwoom initializing...
+2020-12-16 11:00:36,260 Kiwoom log in success
+2020-12-16 11:00:36,260 Account information
+2020-12-16 11:00:36,772 Deposit information
+2020-12-16 11:00:37,890 Portfolio information
+2020-12-16 11:01:14,176 Kiwoom initializing...
+2020-12-16 11:01:18,726 Kiwoom log in success
+2020-12-16 11:01:18,727 Account information
+2020-12-16 11:01:19,245 Deposit information
+2020-12-16 11:01:25,161 Portfolio information
+2020-12-16 11:01:59,641 Kiwoom initializing...
+2020-12-16 11:02:04,370 Kiwoom log in success
+2020-12-16 11:02:04,370 Account information
+2020-12-16 11:02:04,876 Deposit information
+2020-12-16 11:02:05,838 Portfolio information
+2020-12-16 13:19:26,676 Kiwoom initializing...
+2020-12-16 13:19:35,846 Kiwoom log in success
+2020-12-16 13:19:35,846 Account information
+2020-12-16 13:19:36,353 Deposit information
+2020-12-16 13:19:39,578 Portfolio information
+2020-12-16 13:51:19,844 오스템임플란트 trading information begins to be monitored
+2020-12-16 13:51:39,441 Portfolio information
+2020-12-16 13:51:51,410 Portfolio information
+2020-12-16 13:51:58,083 Portfolio information
+2020-12-16 13:52:09,554 Portfolio information
+2020-12-16 13:52:21,680 Portfolio information
+2020-12-16 13:52:26,890 Portfolio information
+2020-12-16 13:52:37,583 Portfolio information
+2020-12-16 13:52:54,874 Portfolio information
+2020-12-16 13:53:04,137 Portfolio information
+2020-12-16 13:53:09,853 Portfolio information
+2020-12-16 13:53:16,937 Portfolio information
+2020-12-16 13:53:18,280 Portfolio information
+2020-12-16 13:53:19,391 Portfolio information
+2020-12-16 13:53:24,418 Portfolio information
+2020-12-16 13:53:25,316 Portfolio information
+2020-12-16 13:53:26,262 Portfolio information
+2020-12-16 13:53:39,770 Portfolio information
+2020-12-16 13:53:41,323 Portfolio information
+2020-12-16 13:53:42,010 Portfolio information
+2020-12-16 13:53:46,080 Portfolio information
+2020-12-16 13:54:24,085 Portfolio information
+2020-12-16 13:54:27,343 Portfolio information
+2020-12-16 13:54:34,222 Portfolio information
+2020-12-16 13:54:36,445 Portfolio information
+2020-12-16 13:54:38,663 Portfolio information
+2020-12-16 13:54:51,193 Portfolio information
+2020-12-16 13:55:14,679 Portfolio information
+2020-12-16 13:55:41,562 Portfolio information
+2020-12-16 13:55:48,241 Portfolio information
+2020-12-16 13:55:52,438 Portfolio information
+2020-12-16 13:55:54,368 Portfolio information
+2020-12-16 13:55:58,295 Portfolio information
+2020-12-16 13:56:12,046 Portfolio information
+2020-12-16 13:56:16,783 Portfolio information
+2020-12-16 13:56:22,071 Portfolio information
+2020-12-16 13:56:25,571 Portfolio information
+2020-12-16 13:56:43,617 Portfolio information
+2020-12-16 13:56:57,403 Portfolio information
+2020-12-16 13:57:07,912 Portfolio information
+2020-12-16 13:57:15,295 Portfolio information
+2020-12-16 13:57:20,872 Portfolio information
+2020-12-16 13:57:31,014 Portfolio information
+2020-12-16 13:57:36,487 Portfolio information
+2020-12-16 13:57:37,636 Portfolio information
+2020-12-16 13:57:46,035 Portfolio information
+2020-12-16 13:57:49,278 Portfolio information
+2020-12-16 13:57:57,783 Portfolio information
+2020-12-16 13:57:59,386 Portfolio information
+2020-12-16 13:58:00,814 Portfolio information
+2020-12-16 13:58:01,387 Portfolio information
+2020-12-16 13:58:02,778 Portfolio information
+2020-12-16 13:58:03,918 Portfolio information
+2020-12-16 13:58:04,710 Portfolio information
+2020-12-16 13:58:05,555 Portfolio information
+2020-12-16 13:58:07,123 Portfolio information
+2020-12-16 13:58:08,373 Portfolio information
+2020-12-16 13:58:10,219 Portfolio information
+2020-12-16 13:58:13,232 Portfolio information
+2020-12-16 13:58:20,618 Portfolio information
+2020-12-16 13:58:23,577 Portfolio information
+2020-12-16 13:58:38,302 Portfolio information
+2020-12-16 13:58:51,837 Portfolio information
+2020-12-16 13:59:14,233 Portfolio information
+2020-12-16 13:59:36,642 Portfolio information
+2020-12-16 13:59:43,935 Portfolio information
+2020-12-16 13:59:57,370 Portfolio information
+2020-12-16 14:00:18,036 Portfolio information
+2020-12-16 14:00:21,898 Portfolio information
+2020-12-16 14:00:34,873 Portfolio information
+2020-12-16 14:00:43,218 Portfolio information
+2020-12-16 14:00:58,694 Portfolio information
+2020-12-16 14:01:11,498 Portfolio information
+2020-12-16 14:01:14,984 Portfolio information
+2020-12-16 14:02:15,854 Portfolio information
+2020-12-16 14:02:31,399 Portfolio information
+2020-12-16 14:02:38,432 Portfolio information
+2020-12-16 14:02:43,612 Portfolio information
+2020-12-16 14:02:46,890 Portfolio information
+2020-12-16 14:02:51,340 Portfolio information
+2020-12-16 14:02:59,582 Portfolio information
+2020-12-16 14:03:01,741 Portfolio information
+2020-12-16 14:03:04,859 Portfolio information
+2020-12-16 14:03:07,902 Portfolio information
+2020-12-16 14:03:10,808 Portfolio information
+2020-12-16 14:03:16,984 Portfolio information
+2020-12-16 14:03:37,102 Portfolio information
+2020-12-16 14:03:55,269 Portfolio information
+2020-12-16 14:04:05,226 Portfolio information
+2020-12-16 14:04:12,910 Portfolio information
+2020-12-16 14:04:19,011 Portfolio information
+2020-12-16 14:04:48,648 Portfolio information
+2020-12-16 14:04:53,339 Portfolio information
+2020-12-16 14:05:00,543 Portfolio information
+2020-12-16 14:05:29,264 Portfolio information
+2020-12-16 14:05:40,706 Portfolio information
+2020-12-16 14:05:44,057 Portfolio information
+2020-12-16 14:05:54,657 Portfolio information
+2020-12-16 14:06:00,123 Portfolio information
+2020-12-16 14:06:02,209 Portfolio information
+2020-12-16 14:06:05,590 Portfolio information
+2020-12-16 14:06:14,012 Portfolio information
+2020-12-16 14:06:30,703 Portfolio information
+2020-12-16 14:06:39,396 Portfolio information
+2020-12-16 14:07:18,138 Portfolio information
+2020-12-16 14:07:28,392 Portfolio information
+2020-12-16 14:07:31,550 Portfolio information
+2020-12-16 14:07:35,233 Portfolio information
+2020-12-16 14:07:45,869 Portfolio information
+2020-12-16 14:07:50,367 Portfolio information
+2020-12-16 14:07:55,004 Portfolio information
+2020-12-16 14:07:59,338 Portfolio information
+2020-12-16 14:08:05,745 Portfolio information
+2020-12-16 14:08:12,880 Portfolio information
+2020-12-16 14:08:18,065 Portfolio information
+2020-12-16 14:08:26,922 Portfolio information
+2020-12-16 14:08:48,770 Portfolio information
+2020-12-16 14:09:01,888 Portfolio information
+2020-12-16 14:09:05,549 Portfolio information
+2020-12-16 14:09:10,147 Portfolio information
+2020-12-16 14:09:19,410 Portfolio information
+2020-12-16 14:09:21,890 Portfolio information
+2020-12-16 14:09:27,338 Portfolio information
+2020-12-16 14:09:28,741 Portfolio information
+2020-12-16 14:09:31,686 Portfolio information
+2020-12-16 14:09:36,961 Portfolio information
+2020-12-16 14:09:43,950 Portfolio information
+2020-12-16 14:09:55,579 Portfolio information
+2020-12-16 14:10:24,157 Portfolio information
+2020-12-16 14:10:28,108 Portfolio information
+2020-12-16 14:10:43,873 Portfolio information
+2020-12-16 14:10:48,674 Portfolio information
+2020-12-16 14:11:01,937 Portfolio information
+2020-12-16 14:11:07,298 Portfolio information
+2020-12-16 14:11:23,713 Portfolio information
+2020-12-16 14:11:40,490 Portfolio information
+2020-12-16 14:11:44,581 Portfolio information
+2020-12-16 14:11:55,220 Portfolio information
+2020-12-16 14:11:59,372 Portfolio information
+2020-12-16 14:12:04,334 Portfolio information
+2020-12-16 14:12:23,719 Portfolio information
+2020-12-16 14:12:31,330 Portfolio information
+2020-12-16 14:12:48,635 Portfolio information
+2020-12-16 14:12:52,260 Portfolio information
+2020-12-16 14:12:56,384 Portfolio information
+2020-12-16 14:13:01,180 Portfolio information
+2020-12-16 14:13:08,436 Portfolio information
+2020-12-16 14:13:15,033 Portfolio information
+2020-12-16 14:13:15,548 Portfolio information
+2020-12-16 14:13:21,553 Portfolio information
+2020-12-16 14:13:22,155 Portfolio information
+2020-12-16 14:13:27,154 Portfolio information
+2020-12-16 14:13:50,726 Portfolio information
+2020-12-16 14:14:16,392 Portfolio information
+2020-12-16 14:14:31,230 Portfolio information
+2020-12-16 14:14:40,600 Portfolio information
+2020-12-16 14:14:51,086 Portfolio information
+2020-12-16 14:14:54,749 Portfolio information
+2020-12-16 14:15:15,751 Portfolio information
+2020-12-16 14:16:06,185 Portfolio information
+2020-12-16 14:16:11,639 Portfolio information
+2020-12-16 14:16:21,263 Portfolio information
+2020-12-16 14:28:30,309 Kiwoom initializing...
+2020-12-16 14:30:27,261 Something is wrong during log-in
+2020-12-16 14:30:27,261 Login error -100
+2020-12-16 14:30:27,263 Account information
+2020-12-16 14:30:27,408 Something is wrong during log-in
+2020-12-16 14:30:27,409 Login error -106
+2020-12-16 14:30:27,496 Something is wrong during log-in
+2020-12-16 14:30:27,497 Login error -106
+2020-12-16 14:30:30,620 Kiwoom initializing...
+2020-12-16 14:30:59,856 Kiwoom initializing...
+2020-12-16 14:31:12,850 Kiwoom log in success
+2020-12-16 14:31:12,851 Account information
+2020-12-16 14:31:13,362 Deposit information
+2020-12-16 14:31:13,425 Portfolio information
+2020-12-16 14:31:37,283 Order history information
+2020-12-16 14:32:03,434 Kiwoom initializing...
+2020-12-16 14:32:10,705 Kiwoom log in success
+2020-12-16 14:32:10,705 Account information
+2020-12-16 14:32:11,213 Deposit information
+2020-12-16 14:32:13,716 Portfolio information
+2020-12-16 15:19:58,491 market operation state 2 152000 001000
+2020-12-16 15:20:58,402 market operation state 2 152100 000900
+2020-12-16 15:21:58,400 market operation state 2 152200 000800
+2020-12-16 15:22:58,392 market operation state 2 152300 000700
+2020-12-16 15:23:58,405 market operation state 2 152400 000600
+2020-12-16 15:24:58,396 market operation state 2 152500 000500
+2020-12-16 15:25:58,389 market operation state 2 152600 000400
+2020-12-16 15:26:58,389 market operation state 2 152700 000300
+2020-12-16 15:27:58,381 market operation state 2 152800 000200
+2020-12-16 15:28:58,404 market operation state 2 152900 000100
+2020-12-16 15:29:08,378 market operation state 2 152910 000050
+2020-12-16 15:29:18,379 market operation state 2 152920 000040
+2020-12-16 15:29:28,376 market operation state 2 152930 000030
+2020-12-16 15:29:38,380 market operation state 2 152940 000020
+2020-12-16 15:29:48,379 market operation state 2 152950 000010
+2020-12-16 15:29:58,485 market operation state 4 153000 000000
+2020-12-16 15:30:38,395 market operation state 8 888888 000000
+2020-12-16 15:34:58,477 market operation state s 153500 000000
+2020-12-16 15:34:58,583 market operation state s 153500 000000
+2020-12-16 15:34:58,584 market operation state s 153500 000000
+2020-12-16 15:34:58,584 market operation state s 153500 000000
+2020-12-16 15:34:58,584 market operation state s 153500 000000
+2020-12-16 15:34:58,585 market operation state s 153500 000000
+2020-12-16 15:34:58,585 market operation state s 153500 000000
+2020-12-16 15:34:58,585 market operation state s 153500 000000
+2020-12-16 15:34:58,585 market operation state s 153500 000000
+2020-12-16 15:34:58,674 market operation state s 153500 000000
+2020-12-16 15:34:58,674 market operation state s 153500 000000
+2020-12-16 15:34:58,675 market operation state s 153500 000000
+2020-12-16 15:34:58,675 market operation state s 153500 000000
+2020-12-16 15:34:58,675 market operation state s 153500 000000
+2020-12-16 15:34:58,676 market operation state s 153500 000000
+2020-12-16 15:34:58,676 market operation state s 153500 000000
+2020-12-16 15:34:58,676 market operation state s 153500 000000
+2020-12-16 15:39:58,567 market operation state a 154000 000000
+2020-12-16 15:44:58,864 market operation state e 154500 000000
+2020-12-16 15:44:58,865 market operation state e 154500 000000
+2020-12-16 15:44:58,865 market operation state e 154500 000000
+2020-12-16 15:44:58,956 market operation state e 154500 000000
+2020-12-16 15:44:58,957 market operation state e 154500 000000
+2020-12-16 15:44:58,957 market operation state e 154500 000000
+2020-12-16 15:44:59,185 market operation state e 154500 000000
+2020-12-16 15:44:59,185 market operation state e 154500 000000
+2020-12-16 15:44:59,186 market operation state e 154500 000000
+2020-12-16 15:44:59,263 market operation state e 154500 000000
+2020-12-16 15:44:59,264 market operation state e 154500 000000
+2020-12-16 15:44:59,357 market operation state e 154500 000000
+2020-12-16 15:44:59,660 market operation state e 154500 000000
+2020-12-16 15:44:59,871 market operation state e 154500 000000
+2020-12-16 15:44:59,964 market operation state e 154500 000000
+2020-12-16 15:45:00,267 market operation state e 154500 000000
+2020-12-16 15:45:00,268 market operation state e 154500 000000
+2020-12-16 15:59:58,537 market operation state b 160000 000000
+2020-12-16 15:59:58,537 market operation state c 160000 000000
+2020-12-16 17:55:23,112 Kiwoom initializing...
+2020-12-16 17:55:28,482 Kiwoom log in success
+2020-12-16 17:55:28,483 Account information
+2020-12-16 17:55:28,993 Deposit information
+2020-12-16 17:55:29,032 Portfolio information
+2020-12-16 17:56:22,865 Order history information
+2020-12-16 17:56:30,842 Order history information
+2020-12-16 17:56:31,758 Order history information
+2020-12-16 17:56:33,345 Order history information
+2020-12-16 17:56:35,156 Order history information
+2020-12-16 17:56:39,133 Order history information
+2020-12-16 17:56:40,034 Order history information
+2020-12-16 17:56:40,761 Order history information
+2020-12-16 17:56:41,375 Order history information
+2020-12-16 17:56:42,006 Order history information
+2020-12-16 17:56:42,589 Order history information
+2020-12-16 17:56:43,115 Order history information
+2020-12-16 17:56:46,171 Order history information
+2020-12-16 17:56:46,831 Order history information
+2020-12-16 17:56:47,515 Order history information
+2020-12-16 17:56:48,196 Order history information
+2020-12-16 17:56:48,711 Order history information
+2020-12-16 17:56:49,262 Order history information
+2020-12-16 17:56:49,767 Order history information
+2020-12-16 17:56:50,262 Order history information
+2020-12-16 17:56:50,790 Order history information
+2020-12-16 17:56:51,354 Order history information
+2020-12-16 17:56:51,846 Order history information
+2020-12-16 17:56:52,348 Order history information
+2020-12-16 17:56:52,854 Order history information
+2020-12-16 17:56:53,349 Order history information
+2020-12-16 17:56:53,853 Order history information
+2020-12-16 17:56:54,364 Order history information
+2020-12-16 17:56:54,857 Order history information
+2020-12-16 17:56:55,362 Order history information
+2020-12-16 17:56:55,856 Order history information
+2020-12-16 17:56:56,359 Order history information
+2020-12-16 17:56:56,866 Order history information
+2020-12-16 17:56:57,361 Order history information
+2020-12-16 17:56:57,866 Order history information
+2020-12-16 17:56:58,367 Order history information
+2020-12-16 17:56:58,867 Order history information
+2020-12-16 17:56:59,860 Order history information
+2020-12-16 17:57:30,553 Kiwoom initializing...
+2020-12-16 17:57:37,349 Kiwoom log in success
+2020-12-16 17:57:37,349 Account information
+2020-12-16 17:57:37,866 Deposit information
+2020-12-16 17:57:37,911 Portfolio information
+2020-12-16 17:57:43,909 Order history information
+2020-12-16 17:57:44,599 Order history information
+2020-12-16 17:57:45,225 Order history information
+2020-12-16 17:57:45,820 Order history information
+2020-12-16 17:57:46,326 Order history information
+2020-12-16 17:57:46,825 Order history information
+2020-12-16 17:57:47,324 Order history information
+2020-12-16 17:57:48,323 Order history information
+2020-12-16 17:58:20,651 Kiwoom initializing...
+2020-12-16 17:58:25,640 Kiwoom log in success
+2020-12-16 17:58:25,640 Account information
+2020-12-16 17:58:26,151 Deposit information
+2020-12-16 17:58:27,175 Portfolio information
+2020-12-16 17:58:33,724 Order history information
+2020-12-16 17:58:34,920 Order history information
+2020-12-16 17:58:35,785 Order history information
+2020-12-16 17:58:36,427 Order history information
+2020-12-16 17:58:37,033 Order history information
+2020-12-16 17:58:37,591 Order history information
+2020-12-16 17:58:38,087 Order history information
+2020-12-16 17:58:38,591 Order history information
+2020-12-16 17:58:39,090 Order history information
+2020-12-16 17:58:39,599 Order history information
+2020-12-16 17:58:40,098 Order history information
+2020-12-16 17:58:40,596 Order history information
+2020-12-16 17:58:41,097 Order history information
+2020-12-16 17:58:41,599 Order history information
+2020-12-16 17:58:42,099 Order history information
+2020-12-16 17:58:42,601 Order history information
+2020-12-16 17:58:43,100 Order history information
+2020-12-16 17:58:43,607 Order history information
+2020-12-16 17:58:44,105 Order history information
+2020-12-16 17:58:44,606 Order history information
+2020-12-16 17:58:45,109 Order history information
+2020-12-16 17:58:45,607 Order history information
+2020-12-16 17:58:46,116 Order history information
+2020-12-16 17:58:46,615 Order history information
+2020-12-16 17:58:49,770 Order history information
+2020-12-16 17:58:50,270 Order history information
+2020-12-16 17:58:50,773 Order history information
+2020-12-16 17:58:51,274 Order history information
+2020-12-16 17:58:51,775 Order history information
+2020-12-16 17:58:52,278 Order history information
+2020-12-16 17:58:52,780 Order history information
+2020-12-16 17:58:53,279 Order history information
+2020-12-16 17:58:53,782 Order history information
+2020-12-16 17:58:54,283 Order history information
+2020-12-16 17:59:58,395 market operation state d 180000 000000
+2020-12-16 18:00:50,466 Kiwoom initializing...
+2020-12-16 18:00:55,134 Kiwoom log in success
+2020-12-16 18:00:55,134 Account information
+2020-12-16 18:00:55,649 Deposit information
+2020-12-16 18:00:55,682 Portfolio information
+2020-12-16 18:00:57,475 Order history information
+2020-12-16 18:01:18,186 market operation state 9 999999 000000
+2020-12-16 18:01:21,286 Kiwoom initializing...
+2020-12-16 18:01:25,911 Kiwoom log in success
+2020-12-16 18:01:25,912 Account information
+2020-12-16 18:01:26,419 Deposit information
+2020-12-16 18:01:26,449 Portfolio information
+2020-12-16 18:01:32,653 Order history information
+2020-12-16 18:01:35,669 Order history information
+2020-12-16 18:01:37,141 Order history information
+2020-12-16 18:01:38,676 Order history information
+2020-12-16 18:01:39,687 Order history information
+2020-12-16 18:01:40,464 Order history information
+2020-12-16 18:01:41,145 Order history information
+2020-12-16 18:01:41,772 Order history information
+2020-12-16 18:01:42,426 Order history information
+2020-12-16 18:01:43,040 Order history information
+2020-12-16 18:01:43,609 Order history information
+2020-12-16 18:01:44,190 Order history information
+2020-12-16 18:01:44,719 Order history information
+2020-12-16 18:01:45,239 Order history information
+2020-12-16 18:01:45,816 Order history information
+2020-12-16 18:01:46,318 Order history information
+2020-12-16 18:01:46,820 Order history information
+2020-12-16 18:01:47,322 Order history information
+2020-12-16 18:01:59,084 Order history information
+2020-12-16 18:02:00,322 Order history information
+2020-12-16 18:02:01,442 Order history information
+2020-12-16 18:02:02,328 Order history information
+2020-12-16 18:02:03,088 Order history information
+2020-12-16 18:02:03,977 Order history information
+2020-12-16 18:02:20,105 Kiwoom initializing...
+2020-12-16 18:02:25,017 Kiwoom log in success
+2020-12-16 18:02:25,017 Account information
+2020-12-16 18:02:25,524 Deposit information
+2020-12-16 18:02:25,555 Portfolio information
+2020-12-16 18:02:28,943 Order history information
+2020-12-16 18:02:29,928 Order history information
+2020-12-16 18:02:30,590 Order history information
+2020-12-16 18:02:31,224 Order history information
+2020-12-16 18:02:31,805 Order history information
+2020-12-16 18:02:32,308 Order history information
+2020-12-16 18:02:32,816 Order history information
+2020-12-16 18:02:33,317 Order history information
+2020-12-16 18:02:33,816 Order history information
+2020-12-16 18:03:12,807 Order history information
+2020-12-16 18:03:13,308 Order history information
+2020-12-16 18:03:13,807 Order history information
+2020-12-16 18:03:14,306 Order history information
+2020-12-16 18:03:14,805 Order history information
+2020-12-16 18:03:15,317 Order history information
+2020-12-16 18:03:15,811 Order history information
+2020-12-16 18:03:16,311 Order history information
+2020-12-16 18:03:16,816 Order history information
+2020-12-16 18:03:17,319 Order history information
+2020-12-16 18:03:17,819 Order history information
+2020-12-16 18:03:18,319 Order history information
+2020-12-16 18:03:18,821 Order history information
+2020-12-16 18:03:19,322 Order history information
+2020-12-16 18:03:19,819 Order history information
+2020-12-16 18:03:20,327 Order history information
+2020-12-16 18:03:20,828 Order history information
+2020-12-16 18:03:21,327 Order history information
+2020-12-16 18:03:21,834 Order history information
+2020-12-16 18:03:22,334 Order history information
+2020-12-16 18:03:22,834 Order history information
+2020-12-16 18:03:23,334 Order history information
+2020-12-16 18:03:23,831 Order history information
+2020-12-16 18:03:24,340 Order history information
+2020-12-16 18:27:51,756 Kiwoom initializing...
+2020-12-16 18:27:56,347 Kiwoom log in success
+2020-12-16 18:27:56,347 Account information
+2020-12-16 18:27:56,855 Deposit information
+2020-12-16 18:27:57,768 Portfolio information
+2020-12-16 18:27:58,068 Order history information
+2020-12-16 18:28:03,055 Portfolio information
+2020-12-16 18:28:05,816 오스템임플란트 trading information begins to be monitored
+2020-12-16 18:31:34,616 Kiwoom initializing...
+2020-12-16 18:31:39,510 Kiwoom log in success
+2020-12-16 18:31:39,511 Account information
+2020-12-16 18:31:40,018 Deposit information
+2020-12-16 18:31:40,967 Portfolio information
+2020-12-16 18:32:02,621 Kiwoom initializing...
+2020-12-16 18:32:16,853 Kiwoom initializing...
+2020-12-16 18:32:21,393 Kiwoom log in success
+2020-12-16 18:32:21,393 Account information
+2020-12-16 18:32:21,909 Deposit information
+2020-12-16 18:32:22,843 Portfolio information
+2020-12-16 18:34:41,019 Kiwoom initializing...
+2020-12-16 18:35:37,750 Kiwoom initializing...
+2020-12-16 18:35:56,096 Kiwoom initializing...
+2020-12-16 18:36:00,642 Kiwoom log in success
+2020-12-16 18:36:00,642 Account information
+2020-12-16 18:36:01,163 Deposit information
+2020-12-16 18:36:01,196 Portfolio information
+2020-12-16 18:36:25,253 Kiwoom initializing...
+2020-12-16 18:36:30,035 Kiwoom log in success
+2020-12-16 18:36:30,036 Account information
+2020-12-16 18:36:30,548 Deposit information
+2020-12-16 18:36:31,283 Portfolio information
+2020-12-16 18:36:39,739 Kiwoom initializing...
+2020-12-16 18:36:44,414 Kiwoom log in success
+2020-12-16 18:36:44,414 Account information
+2020-12-16 18:36:44,934 Deposit information
+2020-12-16 18:36:45,628 Portfolio information
+2020-12-16 18:36:56,905 Kiwoom initializing...
+2020-12-16 18:37:01,735 Kiwoom log in success
+2020-12-16 18:37:01,735 Account information
+2020-12-16 18:37:02,251 Deposit information
+2020-12-16 18:37:03,105 Portfolio information
+2020-12-16 18:43:14,863 Kiwoom initializing...
+2020-12-16 18:43:19,641 Kiwoom log in success
+2020-12-16 18:43:19,651 Account information
+2020-12-16 18:43:20,160 Deposit information
+2020-12-16 18:43:21,201 Portfolio information
+2020-12-16 18:44:52,276 Kiwoom initializing...
+2020-12-16 18:45:54,727 Kiwoom initializing...
+2020-12-16 18:46:19,321 Kiwoom initializing...
+2020-12-16 18:46:23,924 Kiwoom log in success
+2020-12-16 18:46:23,926 Account information
+2020-12-16 18:46:24,435 Deposit information
+2020-12-16 18:46:24,469 Portfolio information
+2020-12-16 18:46:55,961 오스템임플란트 trading information begins to be monitored
+2020-12-16 18:54:26,582 Kiwoom initializing...
+2020-12-16 18:54:49,308 Kiwoom initializing...
+2020-12-16 18:54:54,236 Kiwoom log in success
+2020-12-16 18:54:54,236 Account information
+2020-12-16 18:54:54,753 Deposit information
+2020-12-16 18:54:54,792 Portfolio information

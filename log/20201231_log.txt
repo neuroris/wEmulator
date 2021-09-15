@@ -1,0 +1,150 @@
+2020-12-31 10:27:29,992 Kiwoom initializing...
+2020-12-31 10:27:56,820 Kiwoom log in success
+2020-12-31 10:27:56,821 Account information
+2020-12-31 10:27:57,332 Deposit information
+2020-12-31 10:27:58,434 Portfolio information
+2020-12-31 10:28:01,688 Go Chart KODEX 레버리지
+2020-12-31 10:28:24,333 Go Chart KODEX 레버리지
+2020-12-31 10:29:00,964 Kiwoom initializing...
+2020-12-31 10:29:07,227 Kiwoom log in success
+2020-12-31 10:29:07,228 Account information
+2020-12-31 10:29:07,741 Deposit information
+2020-12-31 10:29:09,301 Portfolio information
+2020-12-31 10:29:37,348 Go Chart KODEX 레버리지
+2020-12-31 10:29:52,417 Kiwoom initializing...
+2020-12-31 10:29:56,729 Kiwoom log in success
+2020-12-31 10:29:56,730 Account information
+2020-12-31 10:29:57,247 Deposit information
+2020-12-31 10:29:58,014 Portfolio information
+2020-12-31 10:30:00,702 Go Chart KODEX 레버리지
+2020-12-31 12:14:42,611 Kiwoom initializing...
+2020-12-31 12:14:47,239 Kiwoom log in success
+2020-12-31 12:14:47,239 Account information
+2020-12-31 12:14:47,749 Deposit information
+2020-12-31 12:14:48,707 Portfolio information
+2020-12-31 12:14:49,765 Go Chart KODEX 레버리지
+2020-12-31 13:06:32,706 Kiwoom initializing...
+2020-12-31 13:08:44,710 Kiwoom initializing...
+2020-12-31 13:13:28,909 Kiwoom initializing...
+2020-12-31 13:15:29,617 Kiwoom initializing...
+2020-12-31 13:16:24,252 Kiwoom initializing...
+2020-12-31 13:16:33,477 Kiwoom log in success
+2020-12-31 13:16:33,477 Account information
+2020-12-31 13:16:33,983 Deposit information
+2020-12-31 13:16:34,890 Portfolio information
+2020-12-31 13:16:36,314 Go Chart KODEX 레버리지
+2020-12-31 15:41:17,313 Kiwoom initializing...
+2020-12-31 15:41:26,022 Kiwoom log in success
+2020-12-31 15:41:26,022 Account information
+2020-12-31 15:41:26,533 Deposit information
+2020-12-31 15:41:27,492 Portfolio information
+2020-12-31 15:42:50,336 Kiwoom initializing...
+2020-12-31 15:42:54,713 Kiwoom log in success
+2020-12-31 15:42:54,713 Account information
+2020-12-31 15:42:55,224 Deposit information
+2020-12-31 15:42:56,118 Portfolio information
+2020-12-31 15:49:36,969 Go Chart KODEX 레버리지
+2020-12-31 15:52:15,983 Kiwoom initializing...
+2020-12-31 15:52:24,832 Kiwoom log in success
+2020-12-31 15:52:24,833 Account information
+2020-12-31 15:52:25,349 Deposit information
+2020-12-31 15:52:26,311 Portfolio information
+2020-12-31 15:52:31,556 Go Charting KODEX 레버리지
+2020-12-31 15:58:29,256 Kiwoom initializing...
+2020-12-31 15:58:33,843 Kiwoom log in success
+2020-12-31 15:58:33,843 Account information
+2020-12-31 15:58:34,352 Deposit information
+2020-12-31 15:58:35,288 Portfolio information
+2020-12-31 15:58:36,573 Go Charting KODEX 레버리지
+2020-12-31 16:30:09,118 Kiwoom initializing...
+2020-12-31 16:30:17,855 Kiwoom log in success
+2020-12-31 16:30:17,855 Account information
+2020-12-31 16:30:18,371 Deposit information
+2020-12-31 16:30:19,611 Portfolio information
+2020-12-31 16:52:17,567 Go Charting KODEX 레버리지
+2020-12-31 18:04:23,941 Kiwoom initializing...
+2020-12-31 18:04:32,613 Kiwoom log in success
+2020-12-31 18:04:32,613 Account information
+2020-12-31 18:04:33,122 Deposit information
+2020-12-31 18:04:45,968 Portfolio information
+2020-12-31 18:04:46,012 Go Charting KODEX 레버리지
+2020-12-31 18:05:15,291 Kiwoom initializing...
+2020-12-31 18:05:19,720 Kiwoom log in success
+2020-12-31 18:05:19,721 Account information
+2020-12-31 18:05:20,225 Deposit information
+2020-12-31 18:05:21,152 Portfolio information
+2020-12-31 18:05:26,100 Go Charting KODEX 레버리지
+2020-12-31 18:06:51,032 Kiwoom initializing...
+2020-12-31 18:06:55,424 Kiwoom log in success
+2020-12-31 18:06:55,424 Account information
+2020-12-31 18:06:55,927 Deposit information
+2020-12-31 18:06:56,810 Portfolio information
+2020-12-31 18:07:03,278 Go Charting KODEX 레버리지
+2020-12-31 18:07:16,071 Stop Charting
+2020-12-31 18:07:43,488 Stop Charting
+2020-12-31 18:33:05,116 Kiwoom initializing...
+2020-12-31 18:33:14,256 Kiwoom log in success
+2020-12-31 18:33:14,256 Account information
+2020-12-31 18:33:14,769 Deposit information
+2020-12-31 18:33:15,905 Portfolio information
+2020-12-31 18:33:26,221 Go Charting F 202103
+2020-12-31 18:33:54,161 Stop Charting
+2020-12-31 18:42:29,262 Kiwoom initializing...
+2020-12-31 18:42:33,623 Kiwoom log in success
+2020-12-31 18:42:33,623 Account information
+2020-12-31 18:42:34,128 Deposit information
+2020-12-31 18:42:35,018 Portfolio information
+2020-12-31 18:43:52,747 Kiwoom initializing...
+2020-12-31 18:43:57,167 Kiwoom log in success
+2020-12-31 18:43:57,167 Account information
+2020-12-31 18:43:57,682 Deposit information
+2020-12-31 18:43:58,635 Portfolio information
+2020-12-31 18:45:16,787 Kiwoom initializing...
+2020-12-31 18:45:21,269 Kiwoom log in success
+2020-12-31 18:45:21,269 Account information
+2020-12-31 18:45:21,773 Deposit information
+2020-12-31 18:45:22,628 Portfolio information
+2020-12-31 18:45:58,617 Kiwoom initializing...
+2020-12-31 18:46:03,113 Kiwoom log in success
+2020-12-31 18:46:03,114 Account information
+2020-12-31 18:46:03,621 Deposit information
+2020-12-31 18:46:04,529 Portfolio information
+2020-12-31 18:46:44,689 Kiwoom initializing...
+2020-12-31 18:46:49,027 Kiwoom log in success
+2020-12-31 18:46:49,028 Account information
+2020-12-31 18:46:49,541 Deposit information
+2020-12-31 18:46:50,425 Portfolio information
+2020-12-31 18:47:27,131 Kiwoom initializing...
+2020-12-31 18:47:31,526 Kiwoom log in success
+2020-12-31 18:47:31,526 Account information
+2020-12-31 18:47:32,033 Deposit information
+2020-12-31 18:47:32,783 Portfolio information
+2020-12-31 18:48:05,617 Kiwoom initializing...
+2020-12-31 18:48:10,057 Kiwoom log in success
+2020-12-31 18:48:10,057 Account information
+2020-12-31 18:48:10,566 Deposit information
+2020-12-31 18:48:11,539 Portfolio information
+2020-12-31 18:48:40,873 Go Charting F 202103
+2020-12-31 19:12:38,812 Kiwoom initializing...
+2020-12-31 19:12:47,587 Kiwoom log in success
+2020-12-31 19:12:47,587 Account information
+2020-12-31 19:12:48,104 Deposit information
+2020-12-31 19:12:48,168 Portfolio information
+2020-12-31 19:13:17,340 Go Charting F 202103
+2020-12-31 19:14:52,712 Kiwoom initializing...
+2020-12-31 19:14:57,234 Kiwoom log in success
+2020-12-31 19:14:57,235 Account information
+2020-12-31 19:14:57,750 Deposit information
+2020-12-31 19:14:57,799 Portfolio information
+2020-12-31 19:15:02,048 Go Charting KODEX 레버리지
+2020-12-31 19:15:11,043 Go Charting F 202103
+2020-12-31 19:15:37,870 Go Charting KODEX 레버리지
+2020-12-31 19:16:01,933 Go Charting F 202103
+2020-12-31 19:16:33,016 Go Charting KODEX 200선물인버스2X
+2020-12-31 19:17:32,761 Go Charting 오스템임플란트
+2020-12-31 19:17:50,465 Go Charting F 202103
+2020-12-31 19:17:57,702 Go Charting KODEX 레버리지
+2020-12-31 19:18:13,640 Go Charting F 202103
+2020-12-31 19:20:07,198 Go Charting KODEX 레버리지
+2020-12-31 19:21:19,440 Go Charting F 202103
+2020-12-31 19:21:37,801 Go Charting KODEX 레버리지

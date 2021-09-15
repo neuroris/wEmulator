@@ -1,0 +1,138 @@
+2021-05-18 09:54:56,925 Kiwoom initializing...
+2021-05-18 09:55:34,205 Kiwoom log in success
+2021-05-18 09:55:34,205 Account information
+2021-05-18 09:55:34,717 Deposit information
+2021-05-18 09:55:35,956 Deposit information
+2021-05-18 09:55:36,019 Portfolio information
+2021-05-18 12:15:23,084 Deposit information
+2021-05-18 12:15:23,874 Portfolio information
+2021-05-18 12:15:26,043 Deposit information
+2021-05-18 12:15:26,262 Portfolio information (Futures)
+2021-05-18 12:16:11,785 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-05-18 12:16:11,832 Order execution(-매도) (접수), order:1, executed_sum:0, open:1, price:423.0, number:36175, original:0
+2021-05-18 12:16:14,035 Order execution(-매도) (체결), order:1, executed_sum:1, open:0, price:423.0, number:36175, original:0
+2021-05-18 12:20:40,854 Kiwoom initializing...
+2021-05-18 12:20:51,579 Kiwoom log in success
+2021-05-18 12:20:51,580 Account information
+2021-05-18 12:20:52,597 No deposit information
+2021-05-18 12:20:52,597 Deposit information
+2021-05-18 12:20:53,381 Portfolio information
+2021-05-18 12:21:20,063 Deposit information
+2021-05-18 12:21:20,712 Portfolio information
+2021-05-18 12:21:22,974 Deposit information
+2021-05-18 12:21:23,110 Portfolio information (Futures)
+2021-05-18 12:21:38,530 F 202106 trading information begins to be monitored
+2021-05-18 12:21:52,729 Go Charting F 202106
+2021-05-18 12:22:37,757 Portfolio information (Futures)
+2021-05-18 12:30:43,641 Kiwoom initializing...
+2021-05-18 12:30:53,296 Kiwoom log in success
+2021-05-18 12:30:53,296 Account information
+2021-05-18 12:30:53,813 Deposit information
+2021-05-18 12:30:54,834 Deposit information
+2021-05-18 12:30:54,860 Portfolio information
+2021-05-18 12:35:53,217 F 202106 trading information begins to be monitored
+2021-05-18 12:35:58,247 Go Charting F 202106
+2021-05-18 12:36:18,488 Portfolio information (Futures)
+2021-05-18 12:36:46,779 Portfolio information (Futures)
+2021-05-18 12:39:29,701 Kiwoom initializing...
+2021-05-18 12:39:39,084 Kiwoom log in success
+2021-05-18 12:39:39,085 Account information
+2021-05-18 12:39:39,596 Deposit information
+2021-05-18 12:39:40,596 Portfolio information
+2021-05-18 12:51:47,081 Deposit information
+2021-05-18 12:51:47,316 Portfolio information (Futures)
+2021-05-18 12:53:48,117 F 202106 trading information begins to be monitored
+2021-05-18 12:54:02,135 Go Charting F 202106
+2021-05-18 14:36:19,612 Portfolio information (Futures)
+2021-05-18 14:36:24,621 Portfolio information (Futures)
+2021-05-18 14:36:34,164 Portfolio information (Futures)
+2021-05-18 14:36:56,791 Portfolio information (Futures)
+2021-05-18 14:37:32,025 F 202106 stock information monitoring is finished
+2021-05-18 14:38:22,125 Portfolio information (Futures)
+2021-05-18 15:19:59,196 market operation state 2 152000 001000
+2021-05-18 15:20:59,194 market operation state 2 152100 000900
+2021-05-18 15:21:59,200 market operation state 2 152200 000800
+2021-05-18 15:22:59,101 market operation state 2 152300 000700
+2021-05-18 15:23:59,191 market operation state 2 152400 000600
+2021-05-18 15:24:59,090 market operation state 2 152500 000500
+2021-05-18 15:25:59,182 market operation state 2 152600 000400
+2021-05-18 15:26:59,183 market operation state 2 152700 000300
+2021-05-18 15:27:59,189 market operation state 2 152800 000200
+2021-05-18 15:28:59,187 market operation state 2 152900 000100
+2021-05-18 15:29:09,182 market operation state 2 152910 000050
+2021-05-18 15:29:19,183 market operation state 2 152920 000040
+2021-05-18 15:29:29,177 market operation state 2 152930 000030
+2021-05-18 15:29:39,190 market operation state 2 152940 000020
+2021-05-18 15:29:49,185 market operation state 2 152950 000010
+2021-05-18 15:29:59,179 market operation state 4 153000 000000
+2021-05-18 15:30:39,076 market operation state 8 888888 000000
+2021-05-18 15:34:59,775 market operation state s 153500 000000
+2021-05-18 15:34:59,776 market operation state s 153500 000000
+2021-05-18 15:34:59,776 market operation state s 153500 000000
+2021-05-18 15:34:59,777 market operation state s 153500 000000
+2021-05-18 15:34:59,777 market operation state s 153500 000000
+2021-05-18 15:34:59,881 market operation state s 153500 000000
+2021-05-18 15:34:59,882 market operation state s 153500 000000
+2021-05-18 15:34:59,882 market operation state s 153500 000000
+2021-05-18 15:34:59,883 market operation state s 153500 000000
+2021-05-18 15:34:59,883 market operation state s 153500 000000
+2021-05-18 15:34:59,883 market operation state s 153500 000000
+2021-05-18 15:34:59,884 market operation state s 153500 000000
+2021-05-18 15:34:59,884 market operation state s 153500 000000
+2021-05-18 15:34:59,885 market operation state s 153500 000000
+2021-05-18 15:34:59,885 market operation state s 153500 000000
+2021-05-18 15:34:59,886 market operation state s 153500 000000
+2021-05-18 15:34:59,886 market operation state s 153500 000000
+2021-05-18 15:39:59,362 market operation state a 154000 000000
+2021-05-18 15:45:00,053 market operation state e 154500 000000
+2021-05-18 15:45:00,054 market operation state e 154500 000000
+2021-05-18 15:45:00,161 market operation state e 154500 000000
+2021-05-18 15:45:00,162 market operation state e 154500 000000
+2021-05-18 15:45:00,162 market operation state e 154500 000000
+2021-05-18 15:45:00,254 market operation state e 154500 000000
+2021-05-18 15:45:00,255 market operation state e 154500 000000
+2021-05-18 15:45:00,362 market operation state e 154500 000000
+2021-05-18 15:45:00,362 market operation state e 154500 000000
+2021-05-18 15:45:00,454 market operation state e 154500 000000
+2021-05-18 15:45:00,563 market operation state e 154500 000000
+2021-05-18 15:45:00,564 market operation state e 154500 000000
+2021-05-18 15:45:00,860 market operation state e 154500 000000
+2021-05-18 15:45:01,059 market operation state e 154500 000000
+2021-05-18 15:45:01,261 market operation state e 154500 000000
+2021-05-18 15:45:01,451 market operation state e 154500 000000
+2021-05-18 15:45:01,452 market operation state e 154500 000000
+2021-05-18 15:59:59,335 market operation state b 160000 000000
+2021-05-18 15:59:59,336 market operation state c 160000 000000
+2021-05-18 16:16:04,810 Portfolio information (Futures)
+2021-05-18 16:16:14,553 Portfolio information (Futures)
+2021-05-18 17:59:59,118 market operation state d 180000 000000
+2021-05-18 18:03:18,810 market operation state 9 999999 000000
+2021-05-18 18:28:34,226 Portfolio information (Futures)
+2021-05-18 18:42:02,525 Kiwoom initializing...
+2021-05-18 18:42:19,597 Kiwoom log in success
+2021-05-18 18:42:19,597 Account information
+2021-05-18 18:42:20,109 Deposit information
+2021-05-18 18:42:20,137 Portfolio information
+2021-05-18 18:42:47,330 Kiwoom initializing...
+2021-05-18 18:42:53,237 Kiwoom log in success
+2021-05-18 18:42:53,238 Account information
+2021-05-18 18:42:53,747 Deposit information
+2021-05-18 18:42:54,256 Portfolio information
+2021-05-18 18:42:54,758 Deposit information
+2021-05-18 18:42:54,822 Portfolio information (Futures)
+2021-05-18 18:56:29,224 F 202106 trading information begins to be monitored
+2021-05-18 18:56:29,224 Go Charting F 202106
+2021-05-18 18:58:40,701 Kiwoom initializing...
+2021-05-18 18:58:46,187 Kiwoom log in success
+2021-05-18 18:58:46,187 Account information
+2021-05-18 18:58:46,704 Deposit information
+2021-05-18 18:58:47,208 Portfolio information
+2021-05-18 18:58:47,712 Deposit information
+2021-05-18 18:58:47,942 Portfolio information (Futures)
+2021-05-18 18:59:15,457 Kiwoom initializing...
+2021-05-18 18:59:20,384 Kiwoom log in success
+2021-05-18 18:59:20,384 Account information
+2021-05-18 18:59:20,893 Deposit information
+2021-05-18 18:59:21,405 Portfolio information
+2021-05-18 18:59:21,909 Deposit information
+2021-05-18 18:59:21,958 Portfolio information (Futures)

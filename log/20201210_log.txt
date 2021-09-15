@@ -1,0 +1,397 @@
+2020-12-10 09:59:56,538 Kiwoom log in success
+2020-12-10 09:59:56,538 Account information acquired
+2020-12-10 09:59:56,802 Deposit information
+2020-12-10 09:59:58,676 Portfolio information
+2020-12-10 10:00:01,995 Order history information
+2020-12-10 10:18:34,239 Portfolio information
+2020-12-10 10:18:51,454 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 10:19:11,629 Order history information
+2020-12-10 10:23:27,683 Kiwoom log in success
+2020-12-10 10:23:27,684 Account information
+2020-12-10 10:23:27,938 Deposit information
+2020-12-10 10:23:30,481 Portfolio information
+2020-12-10 10:23:34,426 Order history information
+2020-12-10 10:25:13,950 Order execution 오스템임플란트(접수), order:40, executed:0, order number:81023, original number:77932
+2020-12-10 10:25:13,952 Order execution 오스템임플란트(확인), order:40, executed:0, order number:81023, original number:77932
+2020-12-10 10:25:13,964 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 10:25:13,979 Order history information
+2020-12-10 10:25:22,953 Order execution 오스템임플란트(체결), order:40, executed:1, order number:81023, original number:77932
+2020-12-10 10:25:22,964 Balance information
+2020-12-10 10:25:23,474 Order history information
+2020-12-10 10:25:23,684 Deposit information
+2020-12-10 10:25:25,885 Portfolio information
+2020-12-10 10:25:26,944 Order execution 오스템임플란트(체결), order:40, executed:21, order number:81023, original number:77932
+2020-12-10 10:25:26,955 Balance information
+2020-12-10 10:25:27,460 Order history information
+2020-12-10 10:25:27,949 Deposit information
+2020-12-10 10:25:31,084 Portfolio information
+2020-12-10 10:25:33,741 Order execution 오스템임플란트(체결), order:40, executed:22, order number:81023, original number:77932
+2020-12-10 10:25:33,753 Balance information
+2020-12-10 10:25:34,261 Order history information
+2020-12-10 10:25:48,035 Order execution 오스템임플란트(체결), order:40, executed:23, order number:81023, original number:77932
+2020-12-10 10:25:48,045 Balance information
+2020-12-10 10:25:48,551 Order history information
+2020-12-10 10:25:48,566 Deposit information
+2020-12-10 10:25:50,315 Portfolio information
+2020-12-10 10:26:07,343 Order execution 오스템임플란트(체결), order:40, executed:40, order number:81023, original number:77932
+2020-12-10 10:26:07,354 Balance information
+2020-12-10 10:26:07,861 Order history information
+2020-12-10 10:26:07,876 Deposit information
+2020-12-10 10:26:09,581 Portfolio information
+2020-12-10 10:27:16,624 Portfolio information
+2020-12-10 10:28:33,542 Order execution 오스템임플란트(접수), order:10, executed:0, order number:82531, original number:77932
+2020-12-10 10:28:33,544 Order execution 오스템임플란트(확인), order:10, executed:0, order number:82531, original number:77932
+2020-12-10 10:28:33,555 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 10:28:33,566 Order history information
+2020-12-10 10:29:05,438 Order execution 오스템임플란트(접수), order:10, executed:0, order number:82764, original number:77932
+2020-12-10 10:29:05,440 Order execution 오스템임플란트(확인), order:10, executed:0, order number:82764, original number:77932
+2020-12-10 10:29:05,505 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 10:29:05,510 Order history information
+2020-12-10 10:29:42,340 Order execution 오스템임플란트(접수), order:10, executed:0, order number:83026, original number:82764
+2020-12-10 10:29:42,343 Order execution 오스템임플란트(확인), order:10, executed:0, order number:83026, original number:82764
+2020-12-10 10:29:42,354 Order execution 오스템임플란트(확인), order:10, executed:0, order number:82764, original number:77932
+2020-12-10 10:29:42,616 Order history information
+2020-12-10 10:35:33,424 Kiwoom log in success
+2020-12-10 10:35:33,425 Account information
+2020-12-10 10:35:34,579 Deposit information
+2020-12-10 10:35:36,243 Portfolio information
+2020-12-10 10:36:36,007 Order history information
+2020-12-10 10:37:51,526 Kiwoom log in success
+2020-12-10 10:37:51,526 Account information
+2020-12-10 10:37:52,559 Deposit information
+2020-12-10 10:37:53,828 Portfolio information
+2020-12-10 10:37:59,010 Order history information
+2020-12-10 10:38:26,665 Kiwoom log in success
+2020-12-10 10:38:26,666 Account information
+2020-12-10 10:38:28,001 Deposit information
+2020-12-10 10:38:28,983 Portfolio information
+2020-12-10 10:38:36,044 Order history information
+2020-12-10 10:39:31,916 Kiwoom log in success
+2020-12-10 10:39:31,917 Account information
+2020-12-10 10:39:33,271 Deposit information
+2020-12-10 10:39:35,263 Portfolio information
+2020-12-10 10:39:52,869 Order history information
+2020-12-10 10:41:18,020 Order execution 오스템임플란트(접수), order:10, executed:0, order number:87956, original number:82531
+2020-12-10 10:41:18,032 Order execution 오스템임플란트(확인), order:10, executed:0, order number:87956, original number:82531
+2020-12-10 10:41:18,288 Order execution 오스템임플란트(확인), order:10, executed:0, order number:82531, original number:77932
+2020-12-10 10:41:18,551 Order history information
+2020-12-10 10:41:38,495 Kiwoom log in success
+2020-12-10 10:41:38,496 Account information
+2020-12-10 10:41:39,710 Deposit information
+2020-12-10 10:41:41,614 Portfolio information
+2020-12-10 10:41:43,830 Order history information
+2020-12-10 12:11:14,994 Order history information
+2020-12-10 12:12:06,573 Order execution 오스템임플란트(접수), order:10, executed:0, order number:119317, original number:77932
+2020-12-10 12:12:06,584 Order execution 오스템임플란트(확인), order:10, executed:0, order number:119317, original number:77932
+2020-12-10 12:12:06,845 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 12:12:07,108 Order history information
+2020-12-10 12:12:53,872 Kiwoom log in success
+2020-12-10 12:12:53,873 Account information
+2020-12-10 12:12:54,145 Deposit information
+2020-12-10 12:12:55,861 Portfolio information
+2020-12-10 12:13:00,570 Order history information
+2020-12-10 12:14:23,867 Kiwoom log in success
+2020-12-10 12:14:23,867 Account information
+2020-12-10 12:14:24,896 Deposit information
+2020-12-10 12:14:25,249 Order history information
+2020-12-10 12:14:27,114 Portfolio information
+2020-12-10 12:34:24,863 Kiwoom log in success
+2020-12-10 12:34:24,864 Account information
+2020-12-10 12:34:26,662 Deposit information
+2020-12-10 12:34:28,634 Portfolio information
+2020-12-10 12:34:33,691 Order history information
+2020-12-10 12:35:31,985 Kiwoom log in success
+2020-12-10 12:35:31,986 Account information
+2020-12-10 12:35:33,011 Deposit information
+2020-12-10 12:35:35,013 Portfolio information
+2020-12-10 12:36:20,341 Order history information
+2020-12-10 12:37:48,685 Kiwoom initializing...
+2020-12-10 12:37:53,960 Kiwoom initializing...
+2020-12-10 12:37:58,583 Kiwoom log in success
+2020-12-10 12:37:58,584 Account information
+2020-12-10 12:37:59,723 Deposit information
+2020-12-10 12:38:01,136 Portfolio information
+2020-12-10 12:38:25,278 Order history information
+2020-12-10 12:41:53,097 Kiwoom initializing...
+2020-12-10 12:41:58,803 Kiwoom log in success
+2020-12-10 12:41:58,803 Account information
+2020-12-10 12:41:59,879 Deposit information
+2020-12-10 12:42:01,577 Portfolio information
+2020-12-10 12:42:16,033 Order history information
+2020-12-10 12:45:06,459 Order execution 오스템임플란트(접수), order:5, executed:0, order number:126997, original number:77932
+2020-12-10 12:45:06,461 Order execution 오스템임플란트(확인), order:5, executed:0, order number:126997, original number:77932
+2020-12-10 12:45:06,471 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 12:45:06,494 Order history information
+2020-12-10 12:45:32,543 Order execution 오스템임플란트(접수), order:3, executed:0, order number:127096, original number:77932
+2020-12-10 12:45:32,545 Order execution 오스템임플란트(확인), order:3, executed:0, order number:127096, original number:77932
+2020-12-10 12:45:32,557 Order execution 오스템임플란트(접수), order:100, executed:0, order number:77932, original number:0
+2020-12-10 12:45:32,580 Order history information
+2020-12-10 12:50:29,279 Kiwoom initializing...
+2020-12-10 12:50:54,407 Kiwoom initializing...
+2020-12-10 12:51:06,192 Kiwoom initializing...
+2020-12-10 12:51:35,643 Kiwoom initializing...
+2020-12-10 12:51:43,458 Kiwoom log in success
+2020-12-10 12:51:43,458 Account information
+2020-12-10 12:51:44,755 Deposit information
+2020-12-10 12:51:45,970 Portfolio information
+2020-12-10 12:51:51,503 Order history information
+2020-12-10 12:53:02,366 Kiwoom initializing...
+2020-12-10 12:53:07,356 Kiwoom log in success
+2020-12-10 12:53:07,357 Account information
+2020-12-10 12:53:08,494 Deposit information
+2020-12-10 12:53:09,658 Portfolio information
+2020-12-10 12:53:11,024 Order history information
+2020-12-10 12:54:05,613 KODEX 레버리지 trading information begins to be monitored
+2020-12-10 12:54:11,428 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-10 12:54:13,534 오스템임플란트 trading information begins to be monitored
+2020-12-10 12:55:07,298 Order execution 오스템임플란트(접수), order:100, executed:0, order number:129543, original number:0
+2020-12-10 12:55:15,093 Order execution 오스템임플란트(체결), order:100, executed:56, order number:129543, original number:0
+2020-12-10 12:55:15,104 Balance information
+2020-12-10 12:55:15,614 Order history information
+2020-12-10 12:55:17,148 Deposit information
+2020-12-10 12:55:19,179 Portfolio information
+2020-12-10 12:55:24,392 Order execution 오스템임플란트(체결), order:100, executed:76, order number:129543, original number:0
+2020-12-10 12:55:24,402 Balance information
+2020-12-10 12:55:24,920 Order history information
+2020-12-10 12:55:25,820 Deposit information
+2020-12-10 12:55:26,495 Order execution 오스템임플란트(체결), order:100, executed:77, order number:129543, original number:0
+2020-12-10 12:55:26,507 Balance information
+2020-12-10 12:55:27,017 Order history information
+2020-12-10 12:55:28,175 Deposit information
+2020-12-10 12:55:29,254 Portfolio information
+2020-12-10 12:55:32,604 Order execution 오스템임플란트(체결), order:100, executed:78, order number:129543, original number:0
+2020-12-10 12:55:32,615 Balance information
+2020-12-10 12:55:33,130 Order history information
+2020-12-10 12:55:33,156 Deposit information
+2020-12-10 12:55:36,301 Order execution 오스템임플란트(체결), order:100, executed:83, order number:129543, original number:0
+2020-12-10 12:55:36,312 Balance information
+2020-12-10 12:55:36,829 Portfolio information
+2020-12-10 12:55:36,844 Order history information
+2020-12-10 12:55:36,867 Deposit information
+2020-12-10 12:55:41,692 Order execution 오스템임플란트(체결), order:100, executed:100, order number:129543, original number:0
+2020-12-10 12:55:41,703 Balance information
+2020-12-10 12:55:42,217 Order history information
+2020-12-10 12:55:43,675 Deposit information
+2020-12-10 12:55:45,105 Portfolio information
+2020-12-10 12:57:38,563 Kiwoom initializing...
+2020-12-10 12:57:43,611 Kiwoom log in success
+2020-12-10 12:57:43,611 Account information
+2020-12-10 12:57:44,752 Deposit information
+2020-12-10 12:57:45,669 Portfolio information
+2020-12-10 12:57:53,151 Order history information
+2020-12-10 13:00:14,667 Kiwoom initializing...
+2020-12-10 13:00:22,292 Kiwoom log in success
+2020-12-10 13:00:22,292 Account information
+2020-12-10 13:00:24,576 Deposit information
+2020-12-10 13:00:26,044 Portfolio information
+2020-12-10 13:00:44,071 Order history information
+2020-12-10 13:01:01,161 Order execution 오스템임플란트(접수), order:10, executed:0, order number:131420, original number:0
+2020-12-10 13:01:01,663 Order execution 오스템임플란트(체결), order:10, executed:1, order number:131420, original number:0
+2020-12-10 13:01:01,675 Balance information
+2020-12-10 13:01:02,187 Order history information
+2020-12-10 13:01:03,505 Deposit information
+2020-12-10 13:01:05,352 Portfolio information
+2020-12-10 13:01:33,554 Order execution 오스템임플란트(체결), order:10, executed:2, order number:131420, original number:0
+2020-12-10 13:01:33,566 Balance information
+2020-12-10 13:01:34,078 Order history information
+2020-12-10 13:01:34,617 Deposit information
+2020-12-10 13:01:36,780 Portfolio information
+2020-12-10 13:01:45,954 Order execution 오스템임플란트(체결), order:10, executed:3, order number:131420, original number:0
+2020-12-10 13:01:45,965 Balance information
+2020-12-10 13:01:46,473 Order history information
+2020-12-10 13:01:47,046 Deposit information
+2020-12-10 13:01:47,154 Order execution 오스템임플란트(체결), order:10, executed:4, order number:131420, original number:0
+2020-12-10 13:01:47,165 Balance information
+2020-12-10 13:01:47,684 Order history information
+2020-12-10 13:01:48,343 Deposit information
+2020-12-10 13:01:49,202 Portfolio information
+2020-12-10 13:02:15,656 Order execution 오스템임플란트(체결), order:10, executed:8, order number:131420, original number:0
+2020-12-10 13:02:15,668 Balance information
+2020-12-10 13:02:16,183 Order history information
+2020-12-10 13:02:16,205 Deposit information
+2020-12-10 13:02:16,359 Order execution 오스템임플란트(체결), order:10, executed:9, order number:131420, original number:0
+2020-12-10 13:02:16,444 Balance information
+2020-12-10 13:02:16,961 Order history information
+2020-12-10 13:02:17,502 Deposit information
+2020-12-10 13:02:18,228 Portfolio information
+2020-12-10 13:02:23,654 Order execution 오스템임플란트(체결), order:10, executed:10, order number:131420, original number:0
+2020-12-10 13:02:23,665 Balance information
+2020-12-10 13:02:24,178 Order history information
+2020-12-10 13:02:24,198 Deposit information
+2020-12-10 13:02:25,886 Portfolio information
+2020-12-10 13:04:13,769 오스템임플란트 trading information begins to be monitored
+2020-12-10 13:04:16,396 KODEX 레버리지 trading information begins to be monitored
+2020-12-10 13:04:18,789 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-10 14:23:32,716 KODEX 200선물인버스2X stock information monitoring is finished
+2020-12-10 14:23:47,146 오스템임플란트 stock information monitoring is finished
+2020-12-10 14:23:51,286 KODEX 레버리지 stock information monitoring is finished
+2020-12-10 14:24:02,335 Kiwoom initializing...
+2020-12-10 14:24:08,482 Kiwoom log in success
+2020-12-10 14:24:08,482 Account information
+2020-12-10 14:24:09,373 Deposit information
+2020-12-10 14:24:12,128 Portfolio information
+2020-12-10 14:24:22,426 Order history information
+2020-12-10 14:25:16,834 Order execution 오스템임플란트(접수), order:3, executed:0, order number:162580, original number:127096
+2020-12-10 14:25:16,836 Order execution 오스템임플란트(확인), order:3, executed:0, order number:162580, original number:127096
+2020-12-10 14:25:16,847 Order execution 오스템임플란트(확인), order:3, executed:0, order number:127096, original number:77932
+2020-12-10 14:25:17,109 Order history information
+2020-12-10 14:25:28,479 Kiwoom initializing...
+2020-12-10 14:25:34,794 Kiwoom log in success
+2020-12-10 14:25:34,794 Account information
+2020-12-10 14:25:35,964 Deposit information
+2020-12-10 14:25:38,578 Portfolio information
+2020-12-10 14:25:42,226 Order history information
+2020-12-10 14:25:59,849 Order execution 오스템임플란트(접수), order:10, executed:0, order number:162818, original number:119317
+2020-12-10 14:25:59,851 Order execution 오스템임플란트(확인), order:10, executed:0, order number:162818, original number:119317
+2020-12-10 14:25:59,862 Order execution 오스템임플란트(확인), order:10, executed:0, order number:119317, original number:77932
+2020-12-10 14:26:00,127 Order history information
+2020-12-10 14:39:37,681 Kiwoom initializing...
+2020-12-10 14:39:43,381 Kiwoom log in success
+2020-12-10 14:39:43,382 Account information
+2020-12-10 14:39:44,412 Deposit information
+2020-12-10 14:39:46,439 Portfolio information
+2020-12-10 14:40:03,748 Order execution 오스템임플란트(접수), order:100, executed:0, order number:168864, original number:0
+2020-12-10 14:40:06,567 Order history information
+2020-12-10 14:40:34,141 Order execution 오스템임플란트(접수), order:40, executed:0, order number:169057, original number:168864
+2020-12-10 14:40:34,143 Order execution 오스템임플란트(확인), order:40, executed:0, order number:169057, original number:168864
+2020-12-10 14:40:34,155 Order execution 오스템임플란트(접수), order:100, executed:0, order number:168864, original number:0
+2020-12-10 14:40:34,168 Order history information
+2020-12-10 14:41:23,446 Order execution 오스템임플란트(접수), order:10, executed:0, order number:169314, original number:169057
+2020-12-10 14:41:23,448 Order execution 오스템임플란트(확인), order:10, executed:0, order number:169314, original number:169057
+2020-12-10 14:41:23,476 Order execution 오스템임플란트(확인), order:40, executed:0, order number:169057, original number:168864
+2020-12-10 14:41:23,723 Order history information
+2020-12-10 14:41:40,674 Kiwoom initializing...
+2020-12-10 14:41:45,875 Kiwoom log in success
+2020-12-10 14:41:45,875 Account information
+2020-12-10 14:41:46,919 Deposit information
+2020-12-10 14:41:48,364 Portfolio information
+2020-12-10 14:41:51,433 Order history information
+2020-12-10 14:42:38,361 Order execution 오스템임플란트(접수), order:4, executed:0, order number:169610, original number:169314
+2020-12-10 14:43:08,327 Order execution 오스템임플란트(확인), order:4, executed:0, order number:169610, original number:169314
+2020-12-10 14:43:19,812 Order execution 오스템임플란트(확인), order:10, executed:0, order number:169314, original number:169057
+2020-12-10 14:43:41,392 Order history information
+2020-12-10 14:44:09,947 Kiwoom initializing...
+2020-12-10 14:44:16,506 Kiwoom log in success
+2020-12-10 14:44:16,506 Account information
+2020-12-10 14:44:17,562 Deposit information
+2020-12-10 14:44:20,110 Portfolio information
+2020-12-10 14:44:25,377 Order history information
+2020-12-10 15:12:41,725 Order execution 오스템임플란트(접수), order:6, executed:0, order number:170378, original number:169314
+2020-12-10 15:13:26,910 Order execution 오스템임플란트(확인), order:6, executed:0, order number:170378, original number:169314
+2020-12-10 15:15:44,723 Order execution 오스템임플란트(확인), order:10, executed:0, order number:169314, original number:169057
+2020-12-10 15:16:00,312 Order history information
+2020-12-10 15:19:58,566 market operation state 2 152000 001000
+2020-12-10 15:20:58,567 market operation state 2 152100 000900
+2020-12-10 15:21:58,565 market operation state 2 152200 000800
+2020-12-10 15:22:58,560 market operation state 2 152300 000700
+2020-12-10 15:23:58,557 market operation state 2 152400 000600
+2020-12-10 15:24:58,556 market operation state 2 152500 000500
+2020-12-10 15:25:58,558 market operation state 2 152600 000400
+2020-12-10 15:26:58,553 market operation state 2 152700 000300
+2020-12-10 15:27:58,551 market operation state 2 152800 000200
+2020-12-10 15:34:05,582 Order execution 오스템임플란트(접수), order:30, executed:0, order number:186553, original number:169057
+2020-12-10 15:35:04,110 Order execution 오스템임플란트(확인), order:30, executed:0, order number:186553, original number:169057
+2020-12-10 15:36:02,835 Order execution 오스템임플란트(확인), order:40, executed:0, order number:169057, original number:168864
+2020-12-10 15:36:52,361 market operation state 2 152900 000100
+2020-12-10 15:36:52,364 market operation state 2 152910 000050
+2020-12-10 15:36:52,365 market operation state 2 152920 000040
+2020-12-10 15:36:52,366 market operation state 2 152930 000030
+2020-12-10 15:36:52,366 market operation state 2 152940 000020
+2020-12-10 15:36:52,367 market operation state 2 152950 000010
+2020-12-10 15:36:52,368 market operation state 4 153000 000000
+2020-12-10 15:36:52,368 market operation state 8 888888 000000
+2020-12-10 15:36:52,369 market operation state s 153500 000000
+2020-12-10 15:36:52,370 market operation state s 153500 000000
+2020-12-10 15:36:52,370 market operation state s 153500 000000
+2020-12-10 15:36:52,371 market operation state s 153500 000000
+2020-12-10 15:36:52,372 market operation state s 153500 000000
+2020-12-10 15:36:52,372 market operation state s 153500 000000
+2020-12-10 15:36:52,373 market operation state s 153500 000000
+2020-12-10 15:36:52,373 market operation state s 153500 000000
+2020-12-10 15:36:52,374 market operation state s 153500 000000
+2020-12-10 15:36:52,419 market operation state s 153500 000000
+2020-12-10 15:36:52,420 market operation state s 153500 000000
+2020-12-10 15:36:52,420 market operation state s 153500 000000
+2020-12-10 15:36:52,421 market operation state s 153500 000000
+2020-12-10 15:36:52,421 market operation state s 153500 000000
+2020-12-10 15:36:52,422 market operation state s 153500 000000
+2020-12-10 15:36:52,422 market operation state s 153500 000000
+2020-12-10 15:36:52,423 market operation state s 153500 000000
+2020-12-10 15:36:52,441 Order history information
+2020-12-10 15:38:21,855 Kiwoom initializing...
+2020-12-10 15:38:26,320 Kiwoom log in success
+2020-12-10 15:38:26,320 Account information
+2020-12-10 15:38:26,574 Deposit information
+2020-12-10 15:38:27,467 Portfolio information
+2020-12-10 15:38:29,225 Order history information
+2020-12-10 15:38:57,297 오스템임플란트 trading information begins to be monitored
+2020-12-10 15:39:04,213 KODEX 레버리지 trading information begins to be monitored
+2020-12-10 15:39:12,312 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-10 15:39:59,288 market operation state a 154000 000000
+2020-12-10 15:44:59,073 market operation state e 154500 000000
+2020-12-10 15:44:59,166 market operation state e 154500 000000
+2020-12-10 15:44:59,167 market operation state e 154500 000000
+2020-12-10 15:44:59,167 market operation state e 154500 000000
+2020-12-10 15:44:59,276 market operation state e 154500 000000
+2020-12-10 15:44:59,277 market operation state e 154500 000000
+2020-12-10 15:44:59,368 market operation state e 154500 000000
+2020-12-10 15:44:59,369 market operation state e 154500 000000
+2020-12-10 15:44:59,475 market operation state e 154500 000000
+2020-12-10 15:44:59,476 market operation state e 154500 000000
+2020-12-10 15:44:59,567 market operation state e 154500 000000
+2020-12-10 15:44:59,674 market operation state e 154500 000000
+2020-12-10 15:44:59,886 market operation state e 154500 000000
+2020-12-10 15:45:00,069 market operation state e 154500 000000
+2020-12-10 15:45:00,266 market operation state e 154500 000000
+2020-12-10 15:45:00,478 market operation state e 154500 000000
+2020-12-10 15:45:00,479 market operation state e 154500 000000
+2020-12-10 15:51:11,523 Kiwoom initializing...
+2020-12-10 15:51:15,720 Kiwoom log in success
+2020-12-10 15:51:15,720 Account information
+2020-12-10 15:51:15,975 Deposit information
+2020-12-10 15:51:16,875 Portfolio information
+2020-12-10 15:51:19,702 오스템임플란트 trading information begins to be monitored
+2020-12-10 15:51:21,781 KODEX 레버리지 trading information begins to be monitored
+2020-12-10 15:51:24,704 KODEX 200선물인버스2X trading information begins to be monitored
+2020-12-10 15:52:25,412 Order history information
+2020-12-10 15:54:34,080 Kiwoom initializing...
+2020-12-10 15:54:41,555 Kiwoom initializing...
+2020-12-10 15:54:46,224 Kiwoom log in success
+2020-12-10 15:54:46,224 Account information
+2020-12-10 15:54:46,490 Deposit information
+2020-12-10 15:54:47,339 Portfolio information
+2020-12-10 15:59:46,178 Kiwoom initializing...
+2020-12-10 15:59:50,677 Kiwoom log in success
+2020-12-10 15:59:50,677 Account information
+2020-12-10 15:59:50,934 Deposit information
+2020-12-10 15:59:51,881 Portfolio information
+2020-12-10 15:59:59,177 market operation state b 160000 000000
+2020-12-10 15:59:59,177 market operation state c 160000 000000
+2020-12-10 17:59:58,986 market operation state d 180000 000000
+2020-12-10 18:01:18,273 market operation state 9 999999 000000
+2020-12-10 20:36:42,621 Order history information
+2020-12-10 20:41:21,596 Kiwoom initializing...
+2020-12-10 20:41:32,300 Kiwoom log in success
+2020-12-10 20:41:32,301 Account information
+2020-12-10 20:41:32,570 Deposit information
+2020-12-10 20:41:32,604 Portfolio information
+2020-12-10 20:45:50,202 Kiwoom initializing...
+2020-12-10 20:45:54,760 Kiwoom log in success
+2020-12-10 20:45:54,760 Account information
+2020-12-10 20:45:55,025 Deposit information
+2020-12-10 20:45:55,931 Portfolio information
+2020-12-10 20:46:30,441 Kiwoom initializing...
+2020-12-10 20:46:36,006 Kiwoom log in success
+2020-12-10 20:46:36,006 Account information
+2020-12-10 20:46:36,262 Deposit information
+2020-12-10 20:46:42,250 Portfolio information
+2020-12-10 20:47:50,745 Kiwoom initializing...
+2020-12-10 20:47:54,926 Kiwoom log in success
+2020-12-10 20:47:54,927 Account information
+2020-12-10 20:47:55,181 Deposit information
+2020-12-10 20:47:55,213 Portfolio information
+2020-12-10 20:51:23,916 Kiwoom initializing...
+2020-12-10 20:51:28,044 Kiwoom log in success
+2020-12-10 20:51:28,044 Account information
+2020-12-10 20:51:28,308 Deposit information
+2020-12-10 20:51:28,354 Portfolio information

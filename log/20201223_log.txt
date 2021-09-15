@@ -1,0 +1,904 @@
+2020-12-23 10:05:02,656 Kiwoom initializing...
+2020-12-23 13:05:13,733 Kiwoom initializing...
+2020-12-23 13:16:20,028 Kiwoom initializing...
+2020-12-23 13:16:54,596 Kiwoom log in success
+2020-12-23 13:16:54,597 Account information
+2020-12-23 13:16:55,113 Deposit information
+2020-12-23 13:16:55,747 Portfolio information
+2020-12-23 13:17:19,627 오스템임플란트 trading information begins to be monitored
+2020-12-23 13:17:46,688 Portfolio information
+2020-12-23 13:17:47,424 오스템임플란트 stock information monitoring is finished
+2020-12-23 13:17:47,570 Portfolio information
+2020-12-23 13:18:55,827 오스템임플란트 trading information begins to be monitored
+2020-12-23 13:18:58,724 Portfolio information
+2020-12-23 13:19:03,208 Portfolio information
+2020-12-23 13:19:05,217 오스템임플란트 stock information monitoring is finished
+2020-12-23 13:19:19,719 오스템임플란트 trading information begins to be monitored
+2020-12-23 13:19:26,036 Portfolio information
+2020-12-23 13:19:27,902 오스템임플란트 stock information monitoring is finished
+2020-12-23 13:19:48,078 오스템임플란트 trading information begins to be monitored
+2020-12-23 13:20:04,784 Portfolio information
+2020-12-23 13:20:06,727 오스템임플란트 stock information monitoring is finished
+2020-12-23 13:21:16,510 오스템임플란트 trading information begins to be monitored
+2020-12-23 13:21:26,628 Portfolio information
+2020-12-23 13:21:30,508 Portfolio information
+2020-12-23 13:21:33,159 Portfolio information
+2020-12-23 13:21:40,329 Portfolio information
+2020-12-23 13:21:48,007 Portfolio information
+2020-12-23 13:22:23,800 Portfolio information
+2020-12-23 13:22:25,552 Portfolio information
+2020-12-23 13:22:32,308 Portfolio information
+2020-12-23 13:22:38,499 Portfolio information
+2020-12-23 13:22:43,935 Portfolio information
+2020-12-23 13:22:59,906 Portfolio information
+2020-12-23 13:23:11,914 Portfolio information
+2020-12-23 13:23:14,716 Portfolio information
+2020-12-23 13:23:15,671 Portfolio information
+2020-12-23 13:23:17,458 Portfolio information
+2020-12-23 13:23:18,143 Portfolio information
+2020-12-23 13:23:30,769 Portfolio information
+2020-12-23 13:23:38,405 Portfolio information
+2020-12-23 13:23:46,918 Portfolio information
+2020-12-23 13:23:51,915 Portfolio information
+2020-12-23 13:24:01,205 Portfolio information
+2020-12-23 13:24:05,543 Portfolio information
+2020-12-23 13:24:14,406 Portfolio information
+2020-12-23 13:24:14,940 Portfolio information
+2020-12-23 13:24:15,871 Portfolio information
+2020-12-23 13:24:21,125 Portfolio information
+2020-12-23 13:24:22,973 Portfolio information
+2020-12-23 13:24:24,067 Portfolio information
+2020-12-23 13:24:32,079 Portfolio information
+2020-12-23 13:24:39,882 Portfolio information
+2020-12-23 13:24:44,238 Portfolio information
+2020-12-23 13:24:49,071 Portfolio information
+2020-12-23 13:24:57,207 Portfolio information
+2020-12-23 13:25:06,735 Portfolio information
+2020-12-23 13:25:11,025 Portfolio information
+2020-12-23 13:25:18,718 Portfolio information
+2020-12-23 13:25:22,114 Portfolio information
+2020-12-23 13:25:23,725 Portfolio information
+2020-12-23 13:25:36,636 Portfolio information
+2020-12-23 13:25:37,860 Portfolio information
+2020-12-23 13:25:51,954 Portfolio information
+2020-12-23 13:25:54,080 Portfolio information
+2020-12-23 13:26:00,468 Portfolio information
+2020-12-23 13:26:07,795 Portfolio information
+2020-12-23 13:26:13,187 Portfolio information
+2020-12-23 13:26:14,712 Portfolio information
+2020-12-23 13:26:24,514 Portfolio information
+2020-12-23 13:26:29,412 Portfolio information
+2020-12-23 13:26:37,720 Portfolio information
+2020-12-23 13:26:59,378 Portfolio information
+2020-12-23 13:27:11,727 Portfolio information
+2020-12-23 13:27:18,917 Portfolio information
+2020-12-23 13:27:29,956 Portfolio information
+2020-12-23 13:27:33,082 Portfolio information
+2020-12-23 13:27:41,047 Portfolio information
+2020-12-23 13:28:00,518 Portfolio information
+2020-12-23 13:28:06,269 Portfolio information
+2020-12-23 13:28:20,470 Portfolio information
+2020-12-23 13:28:30,338 Portfolio information
+2020-12-23 13:28:32,472 Portfolio information
+2020-12-23 13:28:38,792 Portfolio information
+2020-12-23 13:28:46,831 Portfolio information
+2020-12-23 13:28:50,628 Portfolio information
+2020-12-23 13:28:52,306 Portfolio information
+2020-12-23 13:28:55,151 Portfolio information
+2020-12-23 13:28:57,184 Portfolio information
+2020-12-23 13:29:02,216 Portfolio information
+2020-12-23 13:29:06,951 Portfolio information
+2020-12-23 13:29:08,727 Portfolio information
+2020-12-23 13:29:12,616 Portfolio information
+2020-12-23 13:29:14,417 Portfolio information
+2020-12-23 13:29:22,714 Portfolio information
+2020-12-23 13:29:30,693 Portfolio information
+2020-12-23 13:29:34,658 Portfolio information
+2020-12-23 13:29:38,136 Portfolio information
+2020-12-23 13:29:41,321 Portfolio information
+2020-12-23 13:29:46,806 Portfolio information
+2020-12-23 13:29:50,234 Portfolio information
+2020-12-23 13:29:55,877 Portfolio information
+2020-12-23 13:29:58,144 Portfolio information
+2020-12-23 13:30:13,939 Portfolio information
+2020-12-23 13:30:22,114 Portfolio information
+2020-12-23 13:30:23,148 Portfolio information
+2020-12-23 13:30:32,217 Portfolio information
+2020-12-23 13:30:36,908 Portfolio information
+2020-12-23 13:30:51,948 Portfolio information
+2020-12-23 13:30:58,220 Portfolio information
+2020-12-23 13:31:17,208 Portfolio information
+2020-12-23 13:31:42,581 Portfolio information
+2020-12-23 13:31:50,121 Portfolio information
+2020-12-23 13:31:57,293 Portfolio information
+2020-12-23 13:32:03,320 Portfolio information
+2020-12-23 13:32:12,865 Portfolio information
+2020-12-23 13:32:21,527 Portfolio information
+2020-12-23 13:32:25,255 Portfolio information
+2020-12-23 13:32:25,644 Portfolio information
+2020-12-23 13:32:40,062 Portfolio information
+2020-12-23 13:32:45,132 Portfolio information
+2020-12-23 13:32:49,412 Portfolio information
+2020-12-23 13:33:29,554 Portfolio information
+2020-12-23 13:33:43,473 Portfolio information
+2020-12-23 13:33:47,460 Portfolio information
+2020-12-23 13:33:52,608 Portfolio information
+2020-12-23 13:33:59,324 Portfolio information
+2020-12-23 13:34:09,010 Portfolio information
+2020-12-23 13:34:15,112 Portfolio information
+2020-12-23 13:34:20,503 Portfolio information
+2020-12-23 13:34:38,881 Portfolio information
+2020-12-23 13:34:43,892 Portfolio information
+2020-12-23 13:34:57,944 Portfolio information
+2020-12-23 13:35:00,693 Portfolio information
+2020-12-23 13:35:13,829 Portfolio information
+2020-12-23 13:35:22,516 Portfolio information
+2020-12-23 13:35:32,147 Portfolio information
+2020-12-23 13:35:36,663 Portfolio information
+2020-12-23 13:35:45,015 Portfolio information
+2020-12-23 13:35:55,202 Portfolio information
+2020-12-23 13:36:00,147 Portfolio information
+2020-12-23 13:36:04,075 Portfolio information
+2020-12-23 13:36:07,735 Portfolio information
+2020-12-23 13:36:11,029 Portfolio information
+2020-12-23 13:36:14,455 Portfolio information
+2020-12-23 13:36:25,952 Portfolio information
+2020-12-23 13:36:46,927 Portfolio information
+2020-12-23 13:37:13,767 Portfolio information
+2020-12-23 13:37:15,148 Portfolio information
+2020-12-23 13:37:21,346 Portfolio information
+2020-12-23 13:37:30,541 Portfolio information
+2020-12-23 13:37:44,230 Portfolio information
+2020-12-23 13:37:49,311 Portfolio information
+2020-12-23 13:37:59,646 Portfolio information
+2020-12-23 13:38:15,035 Portfolio information
+2020-12-23 13:38:22,868 Portfolio information
+2020-12-23 13:38:31,714 Portfolio information
+2020-12-23 13:38:35,940 Portfolio information
+2020-12-23 13:38:41,348 Portfolio information
+2020-12-23 13:38:44,292 Portfolio information
+2020-12-23 13:38:53,994 Portfolio information
+2020-12-23 13:39:01,347 Portfolio information
+2020-12-23 13:39:04,547 Portfolio information
+2020-12-23 13:39:08,266 Portfolio information
+2020-12-23 13:39:17,286 Portfolio information
+2020-12-23 13:39:26,268 Portfolio information
+2020-12-23 13:39:31,731 Portfolio information
+2020-12-23 13:39:44,406 Portfolio information
+2020-12-23 13:39:47,963 Portfolio information
+2020-12-23 13:39:53,798 Portfolio information
+2020-12-23 13:40:02,152 Portfolio information
+2020-12-23 13:40:14,988 Portfolio information
+2020-12-23 13:40:46,278 Portfolio information
+2020-12-23 13:40:52,064 Portfolio information
+2020-12-23 13:40:56,487 Portfolio information
+2020-12-23 13:41:12,715 Portfolio information
+2020-12-23 13:41:28,957 Portfolio information
+2020-12-23 13:41:41,403 Portfolio information
+2020-12-23 13:41:47,591 Portfolio information
+2020-12-23 13:42:33,587 Portfolio information
+2020-12-23 13:42:46,477 Portfolio information
+2020-12-23 13:42:53,973 Portfolio information
+2020-12-23 13:42:59,015 Portfolio information
+2020-12-23 13:43:07,605 Portfolio information
+2020-12-23 13:43:22,969 Portfolio information
+2020-12-23 13:43:27,452 Portfolio information
+2020-12-23 13:43:31,549 Portfolio information
+2020-12-23 13:43:35,440 Portfolio information
+2020-12-23 13:43:50,647 Portfolio information
+2020-12-23 13:43:56,236 Portfolio information
+2020-12-23 13:44:00,884 Portfolio information
+2020-12-23 13:44:12,506 Portfolio information
+2020-12-23 13:44:33,301 Portfolio information
+2020-12-23 13:44:45,791 Portfolio information
+2020-12-23 13:44:52,356 Portfolio information
+2020-12-23 13:44:59,820 Portfolio information
+2020-12-23 13:45:22,929 Portfolio information
+2020-12-23 13:46:15,027 Portfolio information
+2020-12-23 13:46:30,209 Portfolio information
+2020-12-23 13:46:40,020 Portfolio information
+2020-12-23 13:46:41,348 Portfolio information
+2020-12-23 13:46:51,428 Portfolio information
+2020-12-23 13:46:52,440 Portfolio information
+2020-12-23 13:46:52,931 Portfolio information
+2020-12-23 13:46:55,477 Portfolio information
+2020-12-23 13:47:05,905 Portfolio information
+2020-12-23 13:47:10,313 Portfolio information
+2020-12-23 13:47:11,267 Portfolio information
+2020-12-23 13:47:14,559 Portfolio information
+2020-12-23 13:47:30,995 Portfolio information
+2020-12-23 13:47:32,367 Portfolio information
+2020-12-23 13:47:35,112 Portfolio information
+2020-12-23 13:47:45,906 Portfolio information
+2020-12-23 13:47:46,990 Portfolio information
+2020-12-23 13:48:05,075 Portfolio information
+2020-12-23 13:48:19,419 Portfolio information
+2020-12-23 13:48:23,975 Portfolio information
+2020-12-23 13:48:28,828 Portfolio information
+2020-12-23 13:48:31,638 Portfolio information
+2020-12-23 13:48:36,414 Portfolio information
+2020-12-23 13:48:44,050 Portfolio information
+2020-12-23 13:48:49,896 Portfolio information
+2020-12-23 13:48:52,143 Portfolio information
+2020-12-23 13:48:54,921 Portfolio information
+2020-12-23 13:48:55,892 Portfolio information
+2020-12-23 13:48:57,326 Portfolio information
+2020-12-23 13:48:58,661 Portfolio information
+2020-12-23 13:49:01,927 Portfolio information
+2020-12-23 13:49:03,086 Portfolio information
+2020-12-23 13:49:06,277 Portfolio information
+2020-12-23 13:49:15,920 Portfolio information
+2020-12-23 13:49:24,036 Portfolio information
+2020-12-23 13:49:49,627 Portfolio information
+2020-12-23 13:49:57,977 Portfolio information
+2020-12-23 13:50:16,532 Portfolio information
+2020-12-23 13:50:45,616 Portfolio information
+2020-12-23 13:50:53,623 Portfolio information
+2020-12-23 13:50:56,621 Portfolio information
+2020-12-23 13:51:01,478 Portfolio information
+2020-12-23 13:51:03,037 Portfolio information
+2020-12-23 13:51:08,021 Portfolio information
+2020-12-23 13:51:14,237 Portfolio information
+2020-12-23 13:51:24,824 Portfolio information
+2020-12-23 13:51:39,232 Portfolio information
+2020-12-23 13:51:43,829 Portfolio information
+2020-12-23 13:51:46,605 Portfolio information
+2020-12-23 13:51:48,819 Portfolio information
+2020-12-23 13:52:06,921 Portfolio information
+2020-12-23 13:52:07,581 Portfolio information
+2020-12-23 13:52:11,953 Portfolio information
+2020-12-23 13:52:14,315 Portfolio information
+2020-12-23 13:52:19,279 Portfolio information
+2020-12-23 13:52:21,408 Portfolio information
+2020-12-23 13:52:23,294 Portfolio information
+2020-12-23 13:52:24,219 Portfolio information
+2020-12-23 13:52:33,179 Portfolio information
+2020-12-23 13:52:35,754 Portfolio information
+2020-12-23 13:52:36,924 Portfolio information
+2020-12-23 13:52:44,009 Portfolio information
+2020-12-23 13:52:45,738 Portfolio information
+2020-12-23 13:52:54,392 Portfolio information
+2020-12-23 13:52:56,874 Portfolio information
+2020-12-23 13:53:09,264 Portfolio information
+2020-12-23 13:53:13,601 Portfolio information
+2020-12-23 13:53:19,099 Portfolio information
+2020-12-23 13:53:25,750 Portfolio information
+2020-12-23 13:53:30,195 Portfolio information
+2020-12-23 13:53:35,732 Portfolio information
+2020-12-23 13:53:42,669 Portfolio information
+2020-12-23 13:53:46,075 Portfolio information
+2020-12-23 13:53:49,517 Portfolio information
+2020-12-23 13:53:58,190 Portfolio information
+2020-12-23 13:54:03,777 Portfolio information
+2020-12-23 13:54:10,146 Portfolio information
+2020-12-23 13:54:19,553 Portfolio information
+2020-12-23 13:54:28,311 Portfolio information
+2020-12-23 13:54:38,829 Portfolio information
+2020-12-23 13:54:53,098 Portfolio information
+2020-12-23 13:55:12,550 Portfolio information
+2020-12-23 13:55:34,268 Portfolio information
+2020-12-23 13:55:42,303 Portfolio information
+2020-12-23 13:55:55,001 Portfolio information
+2020-12-23 13:55:56,192 Portfolio information
+2020-12-23 13:55:59,396 Portfolio information
+2020-12-23 13:56:11,595 Portfolio information
+2020-12-23 13:56:15,590 Portfolio information
+2020-12-23 13:56:29,607 Portfolio information
+2020-12-23 13:56:50,256 Portfolio information
+2020-12-23 13:56:56,430 Portfolio information
+2020-12-23 13:56:59,418 Portfolio information
+2020-12-23 13:57:05,773 Portfolio information
+2020-12-23 13:57:17,166 Portfolio information
+2020-12-23 13:57:22,371 Portfolio information
+2020-12-23 13:57:23,892 Portfolio information
+2020-12-23 13:57:46,258 Portfolio information
+2020-12-23 13:57:49,813 Portfolio information
+2020-12-23 13:57:56,628 Portfolio information
+2020-12-23 13:58:06,909 Portfolio information
+2020-12-23 13:58:13,644 Portfolio information
+2020-12-23 13:58:17,629 Portfolio information
+2020-12-23 13:58:24,355 Portfolio information
+2020-12-23 13:58:30,295 Portfolio information
+2020-12-23 13:58:38,100 Portfolio information
+2020-12-23 13:58:42,394 Portfolio information
+2020-12-23 13:58:50,875 Portfolio information
+2020-12-23 13:58:57,615 Portfolio information
+2020-12-23 13:59:00,939 Portfolio information
+2020-12-23 13:59:05,594 Portfolio information
+2020-12-23 13:59:17,349 Portfolio information
+2020-12-23 13:59:32,824 Portfolio information
+2020-12-23 13:59:40,780 Portfolio information
+2020-12-23 13:59:59,818 Portfolio information
+2020-12-23 14:00:19,642 Portfolio information
+2020-12-23 14:00:23,893 Portfolio information
+2020-12-23 14:00:26,015 Portfolio information
+2020-12-23 14:00:47,670 Portfolio information
+2020-12-23 14:01:06,611 Portfolio information
+2020-12-23 14:01:08,829 Portfolio information
+2020-12-23 14:01:32,889 Portfolio information
+2020-12-23 14:01:40,381 Portfolio information
+2020-12-23 14:01:45,531 Portfolio information
+2020-12-23 14:01:45,844 Portfolio information
+2020-12-23 14:01:51,912 Portfolio information
+2020-12-23 14:01:54,387 Portfolio information
+2020-12-23 14:02:06,433 Portfolio information
+2020-12-23 14:02:10,599 Portfolio information
+2020-12-23 14:02:12,930 Portfolio information
+2020-12-23 14:02:20,721 Portfolio information
+2020-12-23 14:02:27,102 Portfolio information
+2020-12-23 14:02:38,284 Portfolio information
+2020-12-23 14:02:46,606 Portfolio information
+2020-12-23 14:02:55,624 Portfolio information
+2020-12-23 14:03:06,886 Portfolio information
+2020-12-23 14:03:11,673 Portfolio information
+2020-12-23 14:03:17,193 Portfolio information
+2020-12-23 14:03:21,965 Portfolio information
+2020-12-23 14:03:24,205 Portfolio information
+2020-12-23 14:03:34,617 Portfolio information
+2020-12-23 14:03:36,922 Portfolio information
+2020-12-23 14:03:40,397 Portfolio information
+2020-12-23 14:03:50,906 Portfolio information
+2020-12-23 14:04:09,759 Portfolio information
+2020-12-23 14:04:15,589 Portfolio information
+2020-12-23 14:04:16,209 Portfolio information
+2020-12-23 14:04:18,167 Portfolio information
+2020-12-23 14:04:23,134 Portfolio information
+2020-12-23 14:04:41,363 Portfolio information
+2020-12-23 14:04:46,765 Portfolio information
+2020-12-23 14:04:57,563 Portfolio information
+2020-12-23 14:05:07,128 Portfolio information
+2020-12-23 14:05:14,095 Portfolio information
+2020-12-23 14:05:26,631 Portfolio information
+2020-12-23 14:05:30,859 Portfolio information
+2020-12-23 14:05:46,996 Portfolio information
+2020-12-23 14:05:52,969 Portfolio information
+2020-12-23 14:06:08,654 Portfolio information
+2020-12-23 14:06:10,875 Portfolio information
+2020-12-23 14:06:17,605 Portfolio information
+2020-12-23 14:06:25,721 Portfolio information
+2020-12-23 14:06:32,094 Portfolio information
+2020-12-23 14:06:35,685 Portfolio information
+2020-12-23 14:06:41,672 Portfolio information
+2020-12-23 14:06:43,128 Portfolio information
+2020-12-23 14:06:44,864 Portfolio information
+2020-12-23 14:07:03,536 Portfolio information
+2020-12-23 14:07:16,182 Portfolio information
+2020-12-23 14:07:22,130 Portfolio information
+2020-12-23 14:07:25,339 Portfolio information
+2020-12-23 14:07:28,211 Portfolio information
+2020-12-23 14:07:35,300 Portfolio information
+2020-12-23 14:07:36,007 Portfolio information
+2020-12-23 14:07:42,587 Portfolio information
+2020-12-23 14:08:01,814 Portfolio information
+2020-12-23 14:08:04,522 Portfolio information
+2020-12-23 14:08:14,284 Portfolio information
+2020-12-23 14:08:16,626 Portfolio information
+2020-12-23 14:08:23,253 Portfolio information
+2020-12-23 14:08:26,777 Portfolio information
+2020-12-23 14:08:31,474 Portfolio information
+2020-12-23 14:08:39,211 Portfolio information
+2020-12-23 14:08:43,300 Portfolio information
+2020-12-23 14:08:47,868 Portfolio information
+2020-12-23 14:08:53,257 Portfolio information
+2020-12-23 14:08:56,450 Portfolio information
+2020-12-23 14:09:04,307 Portfolio information
+2020-12-23 14:09:07,146 Portfolio information
+2020-12-23 14:09:27,986 Portfolio information
+2020-12-23 14:09:34,601 Portfolio information
+2020-12-23 14:09:43,266 Order history information
+2020-12-23 14:09:46,317 Portfolio information
+2020-12-23 14:10:00,088 Order history information
+2020-12-23 14:10:00,617 Portfolio information
+2020-12-23 14:10:17,928 Portfolio information
+2020-12-23 14:10:23,600 Portfolio information
+2020-12-23 14:10:34,760 Portfolio information
+2020-12-23 14:10:37,077 Portfolio information
+2020-12-23 14:10:45,252 Portfolio information
+2020-12-23 14:10:47,807 Portfolio information
+2020-12-23 14:10:49,358 Portfolio information
+2020-12-23 14:10:55,168 Portfolio information
+2020-12-23 14:10:56,752 Portfolio information
+2020-12-23 14:11:17,978 Kiwoom initializing...
+2020-12-23 14:11:29,884 Kiwoom log in success
+2020-12-23 14:11:29,885 Account information
+2020-12-23 14:11:30,391 Deposit information
+2020-12-23 14:11:30,443 Portfolio information
+2020-12-23 14:11:40,570 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:11:44,707 Portfolio information
+2020-12-23 14:11:46,886 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:11:48,002 Portfolio information
+2020-12-23 14:12:16,989 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:12:20,215 Portfolio information
+2020-12-23 14:12:24,311 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:12:38,713 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:12:40,848 Portfolio information
+2020-12-23 14:12:44,320 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:12:58,453 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:13:03,119 Portfolio information
+2020-12-23 14:13:06,077 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:13:47,068 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:13:50,456 Portfolio information
+2020-12-23 14:13:51,267 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:14:16,189 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:14:23,709 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:14:24,800 Portfolio information
+2020-12-23 14:14:57,502 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:15:00,817 Portfolio information
+2020-12-23 14:15:01,394 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:15:23,191 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:15:32,072 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:15:32,197 Portfolio information
+2020-12-23 14:15:53,116 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:15:58,703 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:16:02,503 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:16:21,083 오스템임플란트 stock information monitoring is finished
+2020-12-23 14:16:26,870 Portfolio information
+2020-12-23 14:17:03,359 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:17:05,361 Portfolio information
+2020-12-23 14:17:05,920 Portfolio information
+2020-12-23 14:17:08,839 Portfolio information
+2020-12-23 14:17:17,951 Portfolio information
+2020-12-23 14:17:29,266 Portfolio information
+2020-12-23 14:17:48,748 Portfolio information
+2020-12-23 14:17:51,413 Portfolio information
+2020-12-23 14:17:56,438 Portfolio information
+2020-12-23 14:17:59,125 Portfolio information
+2020-12-23 14:18:03,204 Portfolio information
+2020-12-23 14:18:05,547 Portfolio information
+2020-12-23 14:18:13,685 Portfolio information
+2020-12-23 14:18:17,123 Portfolio information
+2020-12-23 14:18:32,381 Portfolio information
+2020-12-23 14:18:41,551 Portfolio information
+2020-12-23 14:18:43,160 Portfolio information
+2020-12-23 14:18:54,684 Portfolio information
+2020-12-23 14:18:57,897 Portfolio information
+2020-12-23 14:19:06,964 Portfolio information
+2020-12-23 14:19:09,648 Portfolio information
+2020-12-23 14:19:29,914 Portfolio information
+2020-12-23 14:19:35,043 Portfolio information
+2020-12-23 14:19:45,566 Portfolio information
+2020-12-23 14:20:01,654 Portfolio information
+2020-12-23 14:20:05,585 Portfolio information
+2020-12-23 14:20:14,557 Portfolio information
+2020-12-23 14:20:16,489 Portfolio information
+2020-12-23 14:20:27,490 Portfolio information
+2020-12-23 14:20:34,771 Portfolio information
+2020-12-23 14:20:36,973 Portfolio information
+2020-12-23 14:20:38,949 Portfolio information
+2020-12-23 14:20:46,023 Portfolio information
+2020-12-23 14:21:01,689 Portfolio information
+2020-12-23 14:21:10,254 Portfolio information
+2020-12-23 14:21:15,829 Portfolio information
+2020-12-23 14:21:26,211 Portfolio information
+2020-12-23 14:21:30,922 Portfolio information
+2020-12-23 14:21:38,030 Portfolio information
+2020-12-23 14:21:39,440 Portfolio information
+2020-12-23 14:21:48,670 Portfolio information
+2020-12-23 14:21:56,757 Portfolio information
+2020-12-23 14:22:18,945 Portfolio information
+2020-12-23 14:22:20,786 Portfolio information
+2020-12-23 14:22:24,551 Portfolio information
+2020-12-23 14:22:33,376 Portfolio information
+2020-12-23 14:22:37,555 Portfolio information
+2020-12-23 14:22:46,856 Portfolio information
+2020-12-23 14:22:49,610 Portfolio information
+2020-12-23 14:22:52,820 Portfolio information
+2020-12-23 14:23:00,852 Portfolio information
+2020-12-23 14:23:04,715 Portfolio information
+2020-12-23 14:23:26,620 Portfolio information
+2020-12-23 14:23:29,146 Portfolio information
+2020-12-23 14:23:29,833 Portfolio information
+2020-12-23 14:23:33,959 Portfolio information
+2020-12-23 14:23:38,446 Portfolio information
+2020-12-23 14:23:44,634 Portfolio information
+2020-12-23 14:23:45,742 Portfolio information
+2020-12-23 14:23:49,039 Portfolio information
+2020-12-23 14:23:50,785 Portfolio information
+2020-12-23 14:23:52,174 Portfolio information
+2020-12-23 14:23:54,847 Portfolio information
+2020-12-23 14:24:16,825 Portfolio information
+2020-12-23 14:24:22,032 Portfolio information
+2020-12-23 14:24:23,033 Portfolio information
+2020-12-23 14:24:33,860 Portfolio information
+2020-12-23 14:24:36,942 Portfolio information
+2020-12-23 14:24:45,936 Portfolio information
+2020-12-23 14:24:48,688 Portfolio information
+2020-12-23 14:24:49,635 Portfolio information
+2020-12-23 14:24:51,731 Portfolio information
+2020-12-23 14:25:37,267 Portfolio information
+2020-12-23 14:25:39,184 Portfolio information
+2020-12-23 14:25:43,994 Portfolio information
+2020-12-23 14:25:48,604 Portfolio information
+2020-12-23 14:25:54,770 Portfolio information
+2020-12-23 14:26:02,321 Portfolio information
+2020-12-23 14:26:08,874 Portfolio information
+2020-12-23 14:26:16,757 Portfolio information
+2020-12-23 14:26:17,828 Portfolio information
+2020-12-23 14:26:22,728 Portfolio information
+2020-12-23 14:26:31,414 Portfolio information
+2020-12-23 14:26:36,604 Portfolio information
+2020-12-23 14:26:58,013 Portfolio information
+2020-12-23 14:27:08,228 Portfolio information
+2020-12-23 14:27:12,666 Portfolio information
+2020-12-23 14:27:19,579 Portfolio information
+2020-12-23 14:27:25,034 Portfolio information
+2020-12-23 14:27:26,612 Portfolio information
+2020-12-23 14:27:28,049 Portfolio information
+2020-12-23 14:27:31,539 Portfolio information
+2020-12-23 14:27:32,549 Portfolio information
+2020-12-23 14:27:38,505 Portfolio information
+2020-12-23 14:27:39,973 Portfolio information
+2020-12-23 14:27:42,065 Portfolio information
+2020-12-23 14:27:59,597 Portfolio information
+2020-12-23 14:28:06,984 Portfolio information
+2020-12-23 14:28:09,001 Portfolio information
+2020-12-23 14:28:11,090 Portfolio information
+2020-12-23 14:28:14,588 Portfolio information
+2020-12-23 14:28:17,127 Portfolio information
+2020-12-23 14:28:22,162 Portfolio information
+2020-12-23 14:28:29,253 Portfolio information
+2020-12-23 14:28:34,906 Portfolio information
+2020-12-23 14:28:42,060 Portfolio information
+2020-12-23 14:28:49,221 Portfolio information
+2020-12-23 14:28:54,336 Portfolio information
+2020-12-23 14:28:59,588 Portfolio information
+2020-12-23 14:29:05,580 Portfolio information
+2020-12-23 14:29:18,533 Portfolio information
+2020-12-23 14:30:25,481 Order history information
+2020-12-23 14:31:09,863 Kiwoom initializing...
+2020-12-23 14:40:00,627 Something is wrong during log-in
+2020-12-23 14:40:00,628 Login error -100
+2020-12-23 14:40:00,629 Account information
+2020-12-23 14:40:00,710 Something is wrong during log-in
+2020-12-23 14:40:00,710 Login error -106
+2020-12-23 14:40:00,746 Something is wrong during log-in
+2020-12-23 14:40:00,746 Login error -106
+2020-12-23 14:40:09,491 Kiwoom initializing...
+2020-12-23 14:40:14,341 Kiwoom log in success
+2020-12-23 14:40:14,341 Account information
+2020-12-23 14:40:14,852 Deposit information
+2020-12-23 14:40:15,678 Portfolio information
+2020-12-23 14:40:29,419 오스템임플란트 trading information begins to be monitored
+2020-12-23 14:40:31,093 Portfolio information
+2020-12-23 14:40:44,115 Portfolio information
+2020-12-23 14:40:46,632 Portfolio information
+2020-12-23 14:40:54,227 Portfolio information
+2020-12-23 14:41:11,180 Portfolio information
+2020-12-23 14:41:13,090 Portfolio information
+2020-12-23 14:41:17,160 Portfolio information
+2020-12-23 14:41:18,021 Portfolio information
+2020-12-23 14:41:25,720 Portfolio information
+2020-12-23 14:41:30,928 Portfolio information
+2020-12-23 14:41:45,235 Portfolio information
+2020-12-23 14:41:46,400 Portfolio information
+2020-12-23 14:41:48,803 Portfolio information
+2020-12-23 14:41:55,368 Portfolio information
+2020-12-23 14:41:56,351 Portfolio information
+2020-12-23 14:42:06,285 Portfolio information
+2020-12-23 14:42:16,705 Portfolio information
+2020-12-23 14:42:17,556 Portfolio information
+2020-12-23 14:42:27,018 Portfolio information
+2020-12-23 14:42:28,505 Portfolio information
+2020-12-23 14:42:32,111 Portfolio information
+2020-12-23 14:42:41,938 Portfolio information
+2020-12-23 14:42:45,846 Portfolio information
+2020-12-23 14:42:49,103 Portfolio information
+2020-12-23 14:42:54,773 Portfolio information
+2020-12-23 14:43:01,890 Portfolio information
+2020-12-23 14:43:12,366 Portfolio information
+2020-12-23 14:43:15,455 Portfolio information
+2020-12-23 14:43:18,975 Portfolio information
+2020-12-23 14:43:24,485 Portfolio information
+2020-12-23 14:43:43,548 Portfolio information
+2020-12-23 14:43:57,314 Portfolio information
+2020-12-23 14:44:10,058 Portfolio information
+2020-12-23 14:44:36,045 Portfolio information
+2020-12-23 14:44:57,412 Portfolio information
+2020-12-23 14:45:03,573 Portfolio information
+2020-12-23 14:45:38,023 Portfolio information
+2020-12-23 14:45:43,220 Portfolio information
+2020-12-23 14:45:46,414 Portfolio information
+2020-12-23 14:46:01,725 Portfolio information
+2020-12-23 14:46:24,924 Portfolio information
+2020-12-23 14:46:32,813 Portfolio information
+2020-12-23 14:46:35,956 Portfolio information
+2020-12-23 14:46:41,533 Portfolio information
+2020-12-23 14:46:54,405 Portfolio information
+2020-12-23 14:47:04,215 Portfolio information
+2020-12-23 14:47:13,163 Portfolio information
+2020-12-23 14:47:16,332 Portfolio information
+2020-12-23 14:47:25,806 Portfolio information
+2020-12-23 14:47:27,907 Portfolio information
+2020-12-23 14:47:36,895 Portfolio information
+2020-12-23 14:47:39,465 Portfolio information
+2020-12-23 14:47:40,755 Portfolio information
+2020-12-23 14:47:44,307 Portfolio information
+2020-12-23 14:47:49,017 Portfolio information
+2020-12-23 14:47:52,005 Portfolio information
+2020-12-23 14:47:58,315 Portfolio information
+2020-12-23 14:48:02,662 Portfolio information
+2020-12-23 14:48:06,940 Portfolio information
+2020-12-23 14:48:09,882 Portfolio information
+2020-12-23 14:49:02,863 Portfolio information
+2020-12-23 14:49:07,818 Portfolio information
+2020-12-23 14:49:21,959 Portfolio information
+2020-12-23 14:49:26,034 Portfolio information
+2020-12-23 14:49:30,101 Portfolio information
+2020-12-23 14:49:35,752 Portfolio information
+2020-12-23 14:49:46,648 Portfolio information
+2020-12-23 14:49:57,580 Portfolio information
+2020-12-23 14:50:10,892 Portfolio information
+2020-12-23 14:50:15,346 Portfolio information
+2020-12-23 14:50:20,525 Portfolio information
+2020-12-23 14:50:32,256 Portfolio information
+2020-12-23 14:50:39,814 Portfolio information
+2020-12-23 14:50:42,934 Portfolio information
+2020-12-23 14:51:07,141 Portfolio information
+2020-12-23 14:51:13,900 Portfolio information
+2020-12-23 14:51:17,632 Portfolio information
+2020-12-23 14:51:23,100 Portfolio information
+2020-12-23 14:51:34,867 Portfolio information
+2020-12-23 14:51:44,207 Portfolio information
+2020-12-23 14:51:52,553 Portfolio information
+2020-12-23 14:52:06,517 Portfolio information
+2020-12-23 14:52:19,373 Portfolio information
+2020-12-23 14:52:21,165 Portfolio information
+2020-12-23 14:52:24,635 Portfolio information
+2020-12-23 14:52:30,977 Portfolio information
+2020-12-23 14:52:34,661 Portfolio information
+2020-12-23 14:52:39,158 Portfolio information
+2020-12-23 14:52:41,567 Portfolio information
+2020-12-23 14:52:46,574 Portfolio information
+2020-12-23 14:52:49,908 Portfolio information
+2020-12-23 14:52:56,343 Portfolio information
+2020-12-23 14:53:02,024 Portfolio information
+2020-12-23 14:53:05,231 Portfolio information
+2020-12-23 14:53:09,035 Portfolio information
+2020-12-23 14:53:11,617 Portfolio information
+2020-12-23 14:53:14,258 Portfolio information
+2020-12-23 14:53:24,045 Portfolio information
+2020-12-23 14:53:26,387 Portfolio information
+2020-12-23 14:53:36,952 Portfolio information
+2020-12-23 14:53:42,342 Portfolio information
+2020-12-23 14:53:53,219 Portfolio information
+2020-12-23 14:54:03,746 Portfolio information
+2020-12-23 14:54:09,903 Portfolio information
+2020-12-23 14:54:14,701 Portfolio information
+2020-12-23 14:54:20,175 Portfolio information
+2020-12-23 14:54:23,037 Portfolio information
+2020-12-23 14:54:50,692 Portfolio information
+2020-12-23 14:54:52,565 Portfolio information
+2020-12-23 14:54:56,531 Portfolio information
+2020-12-23 14:55:06,941 Portfolio information
+2020-12-23 14:55:08,975 Portfolio information
+2020-12-23 14:55:12,251 Portfolio information
+2020-12-23 14:55:13,883 Portfolio information
+2020-12-23 14:55:16,937 Portfolio information
+2020-12-23 14:55:23,002 Portfolio information
+2020-12-23 14:55:31,035 Portfolio information
+2020-12-23 14:55:34,590 Portfolio information
+2020-12-23 14:55:39,982 Portfolio information
+2020-12-23 14:55:45,567 Portfolio information
+2020-12-23 14:55:48,091 Portfolio information
+2020-12-23 14:55:54,781 Portfolio information
+2020-12-23 14:56:06,148 Portfolio information
+2020-12-23 14:56:16,513 Portfolio information
+2020-12-23 14:56:19,007 Portfolio information
+2020-12-23 14:56:20,805 Portfolio information
+2020-12-23 14:56:25,926 Portfolio information
+2020-12-23 14:56:37,909 Portfolio information
+2020-12-23 14:56:45,537 Portfolio information
+2020-12-23 14:56:51,010 Portfolio information
+2020-12-23 14:56:55,165 Portfolio information
+2020-12-23 14:56:57,215 Portfolio information
+2020-12-23 14:57:15,314 Portfolio information
+2020-12-23 14:57:16,318 Portfolio information
+2020-12-23 14:57:19,511 Portfolio information
+2020-12-23 14:57:21,662 Portfolio information
+2020-12-23 14:57:23,315 Portfolio information
+2020-12-23 14:57:24,713 Portfolio information
+2020-12-23 14:57:30,786 Portfolio information
+2020-12-23 14:57:41,772 Portfolio information
+2020-12-23 14:57:47,658 Portfolio information
+2020-12-23 14:57:49,323 Portfolio information
+2020-12-23 14:57:53,341 Portfolio information
+2020-12-23 14:58:05,527 Portfolio information
+2020-12-23 14:58:10,867 Portfolio information
+2020-12-23 14:58:13,393 Portfolio information
+2020-12-23 14:58:39,231 Portfolio information
+2020-12-23 14:58:42,280 Portfolio information
+2020-12-23 14:59:01,647 Portfolio information
+2020-12-23 14:59:08,803 Portfolio information
+2020-12-23 14:59:22,250 Portfolio information
+2020-12-23 15:01:44,307 Portfolio information
+2020-12-23 15:01:54,584 Portfolio information
+2020-12-23 15:02:06,360 Portfolio information
+2020-12-23 15:02:08,876 Portfolio information
+2020-12-23 15:02:12,121 Portfolio information
+2020-12-23 15:02:12,977 Portfolio information
+2020-12-23 15:02:19,989 Portfolio information
+2020-12-23 15:02:21,541 Portfolio information
+2020-12-23 15:02:24,246 Portfolio information
+2020-12-23 15:02:30,533 Portfolio information
+2020-12-23 15:02:33,004 Portfolio information
+2020-12-23 15:02:39,883 Portfolio information
+2020-12-23 15:02:45,953 Portfolio information
+2020-12-23 15:02:48,618 Portfolio information
+2020-12-23 15:02:59,685 Portfolio information
+2020-12-23 15:03:06,274 Portfolio information
+2020-12-23 15:03:08,640 Portfolio information
+2020-12-23 15:03:23,393 Portfolio information
+2020-12-23 15:03:29,371 Portfolio information
+2020-12-23 15:03:35,071 Portfolio information
+2020-12-23 15:03:52,622 Portfolio information
+2020-12-23 15:04:07,439 Portfolio information
+2020-12-23 15:04:12,931 Portfolio information
+2020-12-23 15:04:24,178 Portfolio information
+2020-12-23 15:04:38,728 Portfolio information
+2020-12-23 15:04:42,714 Portfolio information
+2020-12-23 15:04:49,465 Portfolio information
+2020-12-23 15:04:51,676 Portfolio information
+2020-12-23 15:04:54,642 Portfolio information
+2020-12-23 15:05:03,100 Portfolio information
+2020-12-23 15:05:06,455 Portfolio information
+2020-12-23 15:05:15,522 Portfolio information
+2020-12-23 15:05:20,262 Portfolio information
+2020-12-23 15:05:30,858 Portfolio information
+2020-12-23 15:05:34,277 Portfolio information
+2020-12-23 15:05:43,870 Portfolio information
+2020-12-23 15:05:48,901 Portfolio information
+2020-12-23 15:05:58,927 Portfolio information
+2020-12-23 15:06:12,005 Portfolio information
+2020-12-23 15:06:16,082 Portfolio information
+2020-12-23 15:06:21,429 Portfolio information
+2020-12-23 15:06:25,286 Portfolio information
+2020-12-23 15:06:34,238 Portfolio information
+2020-12-23 15:06:36,219 Portfolio information
+2020-12-23 15:06:46,859 Portfolio information
+2020-12-23 15:06:58,670 Portfolio information
+2020-12-23 15:07:02,492 Portfolio information
+2020-12-23 15:07:06,114 Portfolio information
+2020-12-23 15:07:12,712 Portfolio information
+2020-12-23 15:07:18,804 Portfolio information
+2020-12-23 15:07:22,937 Portfolio information
+2020-12-23 15:07:26,303 Portfolio information
+2020-12-23 15:07:30,296 Portfolio information
+2020-12-23 15:07:37,688 Portfolio information
+2020-12-23 15:07:40,020 Portfolio information
+2020-12-23 15:07:46,117 Portfolio information
+2020-12-23 15:07:53,018 Portfolio information
+2020-12-23 15:07:57,410 Portfolio information
+2020-12-23 15:08:19,996 Portfolio information
+2020-12-23 15:09:18,367 Portfolio information
+2020-12-23 15:09:25,325 Portfolio information
+2020-12-23 15:09:30,405 Portfolio information
+2020-12-23 15:09:35,298 Portfolio information
+2020-12-23 15:09:42,121 Portfolio information
+2020-12-23 15:09:57,771 Portfolio information
+2020-12-23 15:10:44,313 Portfolio information
+2020-12-23 15:12:36,782 Portfolio information
+2020-12-23 15:12:58,768 Portfolio information
+2020-12-23 15:13:13,958 Portfolio information
+2020-12-23 15:13:49,721 Portfolio information
+2020-12-23 15:14:04,941 Portfolio information
+2020-12-23 15:14:10,344 Portfolio information
+2020-12-23 15:14:14,103 Portfolio information
+2020-12-23 15:14:15,918 Portfolio information
+2020-12-23 15:14:18,855 Portfolio information
+2020-12-23 15:14:24,603 Portfolio information
+2020-12-23 15:14:30,142 Portfolio information
+2020-12-23 15:14:32,902 Portfolio information
+2020-12-23 15:14:43,277 Portfolio information
+2020-12-23 15:14:46,747 Portfolio information
+2020-12-23 15:14:52,762 Portfolio information
+2020-12-23 15:14:58,458 Portfolio information
+2020-12-23 15:15:05,722 Portfolio information
+2020-12-23 15:15:12,585 Portfolio information
+2020-12-23 15:15:39,529 Portfolio information
+2020-12-23 15:15:48,930 Portfolio information
+2020-12-23 15:15:56,550 Portfolio information
+2020-12-23 15:16:01,627 Portfolio information
+2020-12-23 15:16:12,106 Portfolio information
+2020-12-23 15:16:16,987 Portfolio information
+2020-12-23 15:16:24,984 Portfolio information
+2020-12-23 15:16:28,384 Portfolio information
+2020-12-23 15:16:30,833 Portfolio information
+2020-12-23 15:16:36,542 Portfolio information
+2020-12-23 15:16:45,853 Portfolio information
+2020-12-23 15:16:56,224 Portfolio information
+2020-12-23 15:16:59,689 Portfolio information
+2020-12-23 15:17:02,261 Portfolio information
+2020-12-23 15:17:32,797 Portfolio information
+2020-12-23 15:17:33,919 Portfolio information
+2020-12-23 15:17:40,872 Portfolio information
+2020-12-23 15:17:53,974 Portfolio information
+2020-12-23 15:18:02,696 Portfolio information
+2020-12-23 15:18:15,546 Portfolio information
+2020-12-23 15:18:19,736 Portfolio information
+2020-12-23 15:18:28,090 Portfolio information
+2020-12-23 15:18:31,969 Portfolio information
+2020-12-23 15:18:37,265 Kiwoom initializing...
+2020-12-23 15:19:00,133 Kiwoom log in success
+2020-12-23 15:19:00,133 Account information
+2020-12-23 15:19:01,110 Deposit information
+2020-12-23 15:19:07,117 오스템임플란트 trading information begins to be monitored
+2020-12-23 15:19:45,666 Portfolio information
+2020-12-23 15:19:55,031 Portfolio information
+2020-12-23 15:19:58,469 market operation state 2 152000 001000
+2020-12-23 15:19:59,825 Portfolio information
+2020-12-23 15:20:58,475 market operation state 2 152100 000900
+2020-12-23 15:21:58,483 market operation state 2 152200 000800
+2020-12-23 15:22:58,462 market operation state 2 152300 000700
+2020-12-23 15:23:58,477 market operation state 2 152400 000600
+2020-12-23 15:24:58,467 market operation state 2 152500 000500
+2020-12-23 15:25:58,470 market operation state 2 152600 000400
+2020-12-23 15:26:58,473 market operation state 2 152700 000300
+2020-12-23 15:27:58,457 market operation state 2 152800 000200
+2020-12-23 15:28:58,462 market operation state 2 152900 000100
+2020-12-23 15:29:08,457 market operation state 2 152910 000050
+2020-12-23 15:29:18,453 market operation state 2 152920 000040
+2020-12-23 15:29:28,453 market operation state 2 152930 000030
+2020-12-23 15:29:38,454 market operation state 2 152940 000020
+2020-12-23 15:29:48,454 market operation state 2 152950 000010
+2020-12-23 15:29:58,457 market operation state 4 153000 000000
+2020-12-23 15:30:09,534 Portfolio information
+2020-12-23 15:30:38,456 market operation state 8 888888 000000
+2020-12-23 15:34:58,943 market operation state s 153500 000000
+2020-12-23 15:34:58,943 market operation state s 153500 000000
+2020-12-23 15:34:58,943 market operation state s 153500 000000
+2020-12-23 15:34:58,944 market operation state s 153500 000000
+2020-12-23 15:34:58,944 market operation state s 153500 000000
+2020-12-23 15:34:58,944 market operation state s 153500 000000
+2020-12-23 15:34:58,944 market operation state s 153500 000000
+2020-12-23 15:34:58,945 market operation state s 153500 000000
+2020-12-23 15:34:58,945 market operation state s 153500 000000
+2020-12-23 15:34:59,048 market operation state s 153500 000000
+2020-12-23 15:34:59,049 market operation state s 153500 000000
+2020-12-23 15:34:59,049 market operation state s 153500 000000
+2020-12-23 15:34:59,049 market operation state s 153500 000000
+2020-12-23 15:34:59,049 market operation state s 153500 000000
+2020-12-23 15:34:59,050 market operation state s 153500 000000
+2020-12-23 15:34:59,050 market operation state s 153500 000000
+2020-12-23 15:34:59,050 market operation state s 153500 000000
+2020-12-23 15:39:58,877 Portfolio information
+2020-12-23 15:39:59,344 market operation state a 154000 000000
+2020-12-23 15:40:14,096 Portfolio information
+2020-12-23 15:40:20,397 Portfolio information
+2020-12-23 15:44:01,585 Portfolio information
+2020-12-23 15:44:48,891 Portfolio information
+2020-12-23 15:44:59,039 market operation state e 154500 000000
+2020-12-23 15:44:59,132 market operation state e 154500 000000
+2020-12-23 15:44:59,238 market operation state e 154500 000000
+2020-12-23 15:44:59,238 market operation state e 154500 000000
+2020-12-23 15:44:59,330 market operation state e 154500 000000
+2020-12-23 15:44:59,439 market operation state e 154500 000000
+2020-12-23 15:44:59,439 market operation state e 154500 000000
+2020-12-23 15:44:59,536 market operation state e 154500 000000
+2020-12-23 15:44:59,627 market operation state e 154500 000000
+2020-12-23 15:44:59,628 market operation state e 154500 000000
+2020-12-23 15:44:59,735 market operation state e 154500 000000
+2020-12-23 15:44:59,735 market operation state e 154500 000000
+2020-12-23 15:45:00,031 market operation state e 154500 000000
+2020-12-23 15:45:00,230 market operation state e 154500 000000
+2020-12-23 15:45:00,338 market operation state e 154500 000000
+2020-12-23 15:45:00,540 market operation state e 154500 000000
+2020-12-23 15:45:00,632 market operation state e 154500 000000
+2020-12-23 15:48:59,003 Portfolio information
+2020-12-23 15:50:08,396 Portfolio information
+2020-12-23 15:54:38,702 Portfolio information
+2020-12-23 15:55:22,462 Portfolio information
+2020-12-23 15:56:14,459 Portfolio information
+2020-12-23 15:59:59,310 market operation state b 160000 000000
+2020-12-23 15:59:59,310 market operation state c 160000 000000
+2020-12-23 17:59:59,112 market operation state d 180000 000000
+2020-12-23 18:01:18,208 market operation state 9 999999 000000
+2020-12-23 18:32:12,177 Kiwoom initializing...
+2020-12-23 18:32:22,666 Kiwoom log in success
+2020-12-23 18:32:22,666 Account information
+2020-12-23 18:32:23,175 Deposit information
+2020-12-23 18:32:23,221 Portfolio information
+2020-12-23 18:55:05,591 Kiwoom initializing...
+2020-12-23 18:55:11,743 Kiwoom log in success
+2020-12-23 18:55:11,744 Account information
+2020-12-23 18:55:12,254 Deposit information
+2020-12-23 18:55:12,299 Portfolio information

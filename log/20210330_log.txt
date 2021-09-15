@@ -1,0 +1,457 @@
+2021-03-30 09:37:43,761 Kiwoom initializing...
+2021-03-30 09:38:21,201 Kiwoom log in success
+2021-03-30 09:38:21,201 Account information
+2021-03-30 09:38:22,242 Order history information
+2021-03-30 09:38:22,555 Deposit information
+2021-03-30 09:38:24,582 Portfolio information
+2021-03-30 09:38:37,493 Send order (SELL) command committed successfully KOA_NORMAL_SELL_KP_ORD
+2021-03-30 09:38:37,510 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:467, executed_sum:0, open:467, number:53587, original:0
+2021-03-30 09:38:37,513 Balance information
+2021-03-30 09:38:38,720 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:467, executed_sum:467, open:0, number:53587, original:0
+2021-03-30 09:38:38,722 Balance information
+2021-03-30 09:39:13,468 Closing process initializing...
+2021-03-30 09:39:13,469 All screens are disconnected
+2021-03-30 09:39:22,963 Kiwoom initializing...
+2021-03-30 09:39:44,344 Kiwoom log in success
+2021-03-30 09:39:44,344 Account information
+2021-03-30 09:40:10,530 Deposit information
+2021-03-30 09:40:18,427 Portfolio information
+2021-03-30 09:43:03,640 [93mALGORITHM STARTED [97m
+2021-03-30 09:43:03,829 [96mALGORITHM (BUY) holding:0 price:2105 amount:475 [97m
+2021-03-30 09:43:17,909 Kiwoom initializing...
+2021-03-30 09:43:33,626 Kiwoom log in success
+2021-03-30 09:43:33,626 Account information
+2021-03-30 09:43:57,448 Deposit information
+2021-03-30 09:43:58,078 Portfolio information
+2021-03-30 09:44:00,225 Order history information
+2021-03-30 09:44:17,176 [93mALGORITHM STARTED [97m
+2021-03-30 09:44:17,993 [96mALGORITHM (BUY) holding:0 price:2105 amount:475 [97m
+2021-03-30 09:44:18,129 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 09:44:18,254 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:19438, original:0
+2021-03-30 09:44:18,262 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:475 executed_each:0 open:475 number:19438 purchase:0 executed:0 holding:0 [97m
+2021-03-30 09:44:18,273 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 09:48:44,688 [93mALGORITHM Situation 1 [97m
+2021-03-30 09:48:44,788 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 09:48:44,877 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:20395, original:19438
+2021-03-30 09:48:44,877 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:20395 purchase:0 executed:0 holding:0 [97m
+2021-03-30 09:48:44,877 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 09:48:44,881 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:20395, original:19438
+2021-03-30 09:48:44,882 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:20395 purchase:0 executed:0 holding:0 [97m
+2021-03-30 09:48:44,882 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 09:48:44,885 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:0, number:19438, original:0
+2021-03-30 09:51:14,966 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:475, executed_sum:475, open:0, number:20395, original:19438
+2021-03-30 09:51:14,967 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Ã¼°á order:475 executed_each:475 open:0 number:20395 purchase:0 executed:2110 holding:475 [97m
+2021-03-30 09:51:14,967 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 09:51:14,973 [96mALGORITHM (SELL) holding:475 price:2120 amount:475 [97m
+2021-03-30 09:51:15,057 Balance information
+2021-03-30 09:51:15,107 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 09:51:15,180 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:20932, original:0
+2021-03-30 09:51:15,181 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:475 executed_each:0 open:475 number:20932 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 09:51:15,181 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 09:51:15,267 Balance information
+2021-03-30 09:51:53,280 [93mALGORITHM Situation 4 [97m
+2021-03-30 09:51:53,636 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 09:51:53,647 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:21061, original:20932
+2021-03-30 09:51:53,647 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:21061 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 09:51:53,647 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 09:51:53,652 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:21061, original:20932
+2021-03-30 09:51:53,653 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:21061 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 09:51:53,653 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 09:51:53,658 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:0, number:20932, original:0
+2021-03-30 09:59:48,319 Kiwoom initializing...
+2021-03-30 09:59:57,643 Kiwoom log in success
+2021-03-30 09:59:57,643 Account information
+2021-03-30 09:59:58,221 Deposit information
+2021-03-30 09:59:58,672 Portfolio information
+2021-03-30 09:59:58,721 Order history information
+2021-03-30 10:00:08,349 Go Charting KODEX ·¹¹ö¸®Áö
+2021-03-30 10:00:14,003 Stop Charting KODEX ·¹¹ö¸®Áö
+2021-03-30 10:00:17,525 Go Charting KODEX 200¼±¹°ÀÎ¹ö½º2X
+2021-03-30 10:04:17,446 Go Charting KODEX 200¼±¹°ÀÎ¹ö½º2X
+2021-03-30 10:04:28,325 KODEX 200¼±¹°ÀÎ¹ö½º2X trading information begins to be monitored
+2021-03-30 10:08:41,767 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:475, executed_sum:475, open:0, number:21061, original:20932
+2021-03-30 10:08:41,770 Balance information
+2021-03-30 10:08:59,539 Kiwoom initializing...
+2021-03-30 10:09:08,612 Kiwoom log in success
+2021-03-30 10:09:08,612 Account information
+2021-03-30 10:09:09,179 Deposit information
+2021-03-30 10:09:09,635 Portfolio information
+2021-03-30 10:09:09,675 Order history information
+2021-03-30 10:09:31,044 [93mALGORITHM STARTED [97m
+2021-03-30 10:09:32,440 [96mALGORITHM (BUY) holding:0 price:2115 amount:472 [97m
+2021-03-30 10:09:32,566 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:09:32,597 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:472, executed_sum:0, open:472, number:24178, original:0
+2021-03-30 10:09:32,597 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:472 executed_each:0 open:472 number:24178 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:09:32,598 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 10:10:20,297 Send order (CANCEL BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:10:20,329 Order execution(¸Å¼öÃë¼Ò) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:472, executed_sum:0, open:472, number:24295, original:24178
+2021-03-30 10:10:20,329 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X ¸Å¼öÃë¼Ò Á¢¼ö order:472 executed_each:0 open:472 number:24295 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:10:20,329 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 10:10:20,420 Order execution(¸Å¼öÃë¼Ò) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:472, executed_sum:0, open:0, number:24295, original:24178
+2021-03-30 10:10:20,424 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X ¸Å¼öÃë¼Ò È®ÀÎ order:472 executed_each:0 open:0 number:24295 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:10:20,431 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 10:10:20,435 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:472, executed_sum:0, open:0, number:24178, original:0
+2021-03-30 10:10:22,253 [93mALGORITHM STOPPED [97m
+2021-03-30 10:10:26,486 Kiwoom initializing...
+2021-03-30 10:10:35,690 Kiwoom log in success
+2021-03-30 10:10:35,690 Account information
+2021-03-30 10:10:36,266 Deposit information
+2021-03-30 10:10:36,730 Portfolio information
+2021-03-30 10:10:36,763 Order history information
+2021-03-30 10:10:40,827 [93mALGORITHM STARTED [97m
+2021-03-30 10:10:46,564 [96mALGORITHM (BUY) holding:0 price:2110 amount:473 [97m
+2021-03-30 10:10:46,709 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:10:46,728 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:473, executed_sum:0, open:473, number:24369, original:0
+2021-03-30 10:10:46,728 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:473 executed_each:0 open:473 number:24369 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:10:46,728 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 10:16:55,357 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:473, executed_sum:473, open:0, number:24369, original:0
+2021-03-30 10:16:55,357 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Ã¼°á order:473 executed_each:473 open:0 number:24369 purchase:0 executed:2110 holding:473 [97m
+2021-03-30 10:16:55,357 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 10:16:55,357 [96mALGORITHM (SELL) holding:473 price:2120 amount:473 [97m
+2021-03-30 10:16:55,463 Balance information
+2021-03-30 10:16:55,562 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:16:55,566 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:473, executed_sum:0, open:473, number:25362, original:0
+2021-03-30 10:16:55,566 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:473 executed_each:0 open:473 number:25362 purchase:2110 executed:0 holding:473 [97m
+2021-03-30 10:16:55,566 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 10:16:55,632 Balance information
+2021-03-30 10:17:04,756 [93mALGORITHM Situation 4 [97m
+2021-03-30 10:17:04,916 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:17:04,919 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:473, executed_sum:0, open:473, number:25383, original:25362
+2021-03-30 10:17:04,919 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:473 executed_each:0 open:473 number:25383 purchase:2110 executed:0 holding:473 [97m
+2021-03-30 10:17:04,919 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 10:17:04,930 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:473, executed_sum:0, open:473, number:25383, original:25362
+2021-03-30 10:17:04,931 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:473 executed_each:0 open:473 number:25383 purchase:2110 executed:0 holding:473 [97m
+2021-03-30 10:17:04,931 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 10:17:04,935 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:473, executed_sum:0, open:0, number:25362, original:0
+2021-03-30 10:20:14,849 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:473, executed_sum:473, open:0, number:25383, original:25362
+2021-03-30 10:20:14,849 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Ã¼°á order:473 executed_each:473 open:0 number:25383 purchase:2110 executed:2115 holding:0 [97m
+2021-03-30 10:20:14,849 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 10:20:14,849 [96mALGORITHM (BUY) holding:0 price:2105 amount:475 [97m
+2021-03-30 10:20:14,999 Balance information
+2021-03-30 10:20:15,064 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:20:15,086 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:25872, original:0
+2021-03-30 10:20:15,086 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:475 executed_each:0 open:475 number:25872 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:20:15,086 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 10:26:18,441 [93mALGORITHM Situation 1 [97m
+2021-03-30 10:26:18,596 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:26:18,605 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:26811, original:25872
+2021-03-30 10:26:18,605 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:26811 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:26:18,605 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 10:26:18,609 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:26811, original:25872
+2021-03-30 10:26:18,609 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:26811 purchase:0 executed:0 holding:0 [97m
+2021-03-30 10:26:18,610 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 10:26:18,614 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:0, number:25872, original:0
+2021-03-30 10:46:37,648 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:475, executed_sum:475, open:0, number:26811, original:25872
+2021-03-30 10:46:37,649 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Ã¼°á order:475 executed_each:475 open:0 number:26811 purchase:0 executed:2110 holding:475 [97m
+2021-03-30 10:46:37,649 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 10:46:37,649 [96mALGORITHM (SELL) holding:475 price:2120 amount:475 [97m
+2021-03-30 10:46:37,787 Balance information
+2021-03-30 10:46:37,828 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:46:37,888 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:29780, original:0
+2021-03-30 10:46:37,888 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:475 executed_each:0 open:475 number:29780 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 10:46:37,888 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 10:46:37,965 Balance information
+2021-03-30 10:47:04,009 [93mALGORITHM Situation 4 [97m
+2021-03-30 10:47:04,121 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 10:47:04,140 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:29837, original:29780
+2021-03-30 10:47:04,145 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:29837 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 10:47:04,147 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 10:47:04,176 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:29837, original:29780
+2021-03-30 10:47:04,180 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:29837 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 10:47:04,181 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 10:47:04,185 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:0, number:29780, original:0
+2021-03-30 11:03:41,281 [93mALGORITHM Situation 4 [97m
+2021-03-30 11:03:41,425 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:03:41,451 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:32375, original:29837
+2021-03-30 11:03:41,452 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:32375 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:03:41,452 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:03:41,485 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:32375, original:29837
+2021-03-30 11:03:41,486 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:32375 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:03:41,486 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:03:41,491 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:0, number:29837, original:29780
+2021-03-30 11:14:20,056 [93mALGORITHM Situation 4 [97m
+2021-03-30 11:14:20,225 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:14:20,236 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:33743, original:32375
+2021-03-30 11:14:20,237 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:33743 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:14:20,237 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:14:20,242 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:33743, original:32375
+2021-03-30 11:14:20,242 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:33743 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:14:20,243 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:14:20,248 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:0, number:32375, original:29837
+2021-03-30 11:17:02,447 [93mALGORITHM Situation 4 [97m
+2021-03-30 11:17:02,617 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:17:02,621 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:34135, original:33743
+2021-03-30 11:17:02,621 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:34135 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:17:02,621 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:17:02,626 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:34135, original:33743
+2021-03-30 11:17:02,626 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:34135 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:17:02,626 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:17:02,633 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:0, number:33743, original:32375
+2021-03-30 11:19:36,153 [93mALGORITHM Situation 4 [97m
+2021-03-30 11:19:36,323 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:19:36,336 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:34449, original:34135
+2021-03-30 11:19:36,336 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:34449 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:19:36,336 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:19:36,343 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:34449, original:34135
+2021-03-30 11:19:36,343 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:34449 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:19:36,343 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:19:36,349 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:0, number:34135, original:33743
+2021-03-30 11:35:08,377 Portfolio information
+2021-03-30 11:35:18,853 Portfolio information
+2021-03-30 11:38:19,110 Portfolio information
+2021-03-30 11:38:31,683 Portfolio information
+2021-03-30 11:39:44,823 [93mALGORITHM Situation 4 [97m
+2021-03-30 11:39:45,005 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:39:45,033 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:475, executed_sum:0, open:475, number:36914, original:34449
+2021-03-30 11:39:45,033 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:475 executed_each:0 open:475 number:36914 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:39:45,033 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:39:45,043 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:475, number:36914, original:34449
+2021-03-30 11:39:45,044 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:475 executed_each:0 open:475 number:36914 purchase:2110 executed:0 holding:475 [97m
+2021-03-30 11:39:45,044 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 11:39:45,051 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:475, executed_sum:0, open:0, number:34449, original:34135
+2021-03-30 11:56:52,485 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:475, executed_sum:475, open:0, number:36914, original:34449
+2021-03-30 11:56:52,486 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Ã¼°á order:475 executed_each:475 open:0 number:36914 purchase:2110 executed:2090 holding:0 [97m
+2021-03-30 11:56:52,486 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 11:56:52,486 [96mALGORITHM (BUY) holding:0 price:2080 amount:480 [97m
+2021-03-30 11:56:52,597 Balance information
+2021-03-30 11:56:52,728 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:56:52,731 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:38853, original:0
+2021-03-30 11:56:52,731 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:480 executed_each:0 open:480 number:38853 purchase:0 executed:0 holding:0 [97m
+2021-03-30 11:56:52,731 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 11:58:07,677 [93mALGORITHM Situation 1 [97m
+2021-03-30 11:58:07,789 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 11:58:07,829 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:38961, original:38853
+2021-03-30 11:58:07,830 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:480 executed_each:0 open:480 number:38961 purchase:0 executed:0 holding:0 [97m
+2021-03-30 11:58:07,831 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 11:58:07,867 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:480, number:38961, original:38853
+2021-03-30 11:58:07,868 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:480 executed_each:0 open:480 number:38961 purchase:0 executed:0 holding:0 [97m
+2021-03-30 11:58:07,868 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 11:58:07,874 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:0, number:38853, original:0
+2021-03-30 12:16:23,053 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:480, executed_sum:480, open:0, number:38961, original:38853
+2021-03-30 12:16:23,053 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Ã¼°á order:480 executed_each:480 open:0 number:38961 purchase:0 executed:2085 holding:480 [97m
+2021-03-30 12:16:23,053 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 12:16:23,053 [96mALGORITHM (SELL) holding:480 price:2095 amount:480 [97m
+2021-03-30 12:16:23,205 Balance information
+2021-03-30 12:16:23,255 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:16:23,259 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:40773, original:0
+2021-03-30 12:16:23,260 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:480 executed_each:0 open:480 number:40773 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 12:16:23,260 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:16:23,266 Balance information
+2021-03-30 12:17:18,744 [93mALGORITHM Situation 4 [97m
+2021-03-30 12:17:18,885 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:17:18,929 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:40873, original:40773
+2021-03-30 12:17:18,929 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:480 executed_each:0 open:480 number:40873 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 12:17:18,929 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:17:18,937 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:480, number:40873, original:40773
+2021-03-30 12:17:18,937 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:480 executed_each:0 open:480 number:40873 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 12:17:18,937 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:17:18,945 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:0, number:40773, original:0
+2021-03-30 12:35:57,118 [93mALGORITHM Situation 4 [97m
+2021-03-30 12:35:57,319 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:35:57,330 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:42517, original:40873
+2021-03-30 12:35:57,330 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:480 executed_each:0 open:480 number:42517 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 12:35:57,330 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:35:57,339 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:480, number:42517, original:40873
+2021-03-30 12:35:57,340 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:480 executed_each:0 open:480 number:42517 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 12:35:57,344 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:35:57,358 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:0, number:40873, original:40773
+2021-03-30 12:47:28,005 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:480, executed_sum:480, open:0, number:42517, original:40873
+2021-03-30 12:47:28,005 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Ã¼°á order:480 executed_each:480 open:0 number:42517 purchase:2085 executed:2085 holding:0 [97m
+2021-03-30 12:47:28,005 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 12:47:28,005 [96mALGORITHM (BUY) holding:0 price:2075 amount:481 [97m
+2021-03-30 12:47:28,118 Balance information
+2021-03-30 12:47:28,274 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:47:28,277 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:43411, original:0
+2021-03-30 12:47:28,277 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:481 executed_each:0 open:481 number:43411 purchase:0 executed:0 holding:0 [97m
+2021-03-30 12:47:28,278 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 12:47:28,812 [93mALGORITHM Situation 1 [97m
+2021-03-30 12:47:28,964 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:47:29,002 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:43414, original:43411
+2021-03-30 12:47:29,002 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:481 executed_each:0 open:481 number:43414 purchase:0 executed:0 holding:0 [97m
+2021-03-30 12:47:29,002 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 12:47:29,011 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:481, executed_sum:0, open:481, number:43414, original:43411
+2021-03-30 12:47:29,012 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:481 executed_each:0 open:481 number:43414 purchase:0 executed:0 holding:0 [97m
+2021-03-30 12:47:29,012 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 12:47:29,019 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:0, number:43411, original:0
+2021-03-30 12:57:38,880 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:481, executed_sum:481, open:0, number:43414, original:43411
+2021-03-30 12:57:38,881 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Ã¼°á order:481 executed_each:481 open:0 number:43414 purchase:0 executed:2080 holding:481 [97m
+2021-03-30 12:57:38,881 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 12:57:38,881 [96mALGORITHM (SELL) holding:481 price:2090 amount:481 [97m
+2021-03-30 12:57:38,996 Balance information
+2021-03-30 12:57:39,150 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:57:39,153 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:44275, original:0
+2021-03-30 12:57:39,153 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:481 executed_each:0 open:481 number:44275 purchase:2080 executed:0 holding:481 [97m
+2021-03-30 12:57:39,153 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:57:39,229 Balance information
+2021-03-30 12:57:44,282 [93mALGORITHM Situation 4 [97m
+2021-03-30 12:57:44,421 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 12:57:44,452 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:44283, original:44275
+2021-03-30 12:57:44,464 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:481 executed_each:0 open:481 number:44283 purchase:2080 executed:0 holding:481 [97m
+2021-03-30 12:57:44,471 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:57:44,483 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:481, executed_sum:0, open:481, number:44283, original:44275
+2021-03-30 12:57:44,483 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:481 executed_each:0 open:481 number:44283 purchase:2080 executed:0 holding:481 [97m
+2021-03-30 12:57:44,483 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 12:57:44,491 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:0, number:44275, original:0
+2021-03-30 13:08:55,468 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:481, executed_sum:481, open:0, number:44283, original:44275
+2021-03-30 13:08:55,468 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Ã¼°á order:481 executed_each:481 open:0 number:44283 purchase:2080 executed:2085 holding:0 [97m
+2021-03-30 13:08:55,468 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 13:08:55,468 [96mALGORITHM (BUY) holding:0 price:2075 amount:481 [97m
+2021-03-30 13:08:55,617 Balance information
+2021-03-30 13:08:55,759 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 13:08:55,766 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:45216, original:0
+2021-03-30 13:08:55,767 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:481 executed_each:0 open:481 number:45216 purchase:0 executed:0 holding:0 [97m
+2021-03-30 13:08:55,767 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 13:27:49,933 [93mALGORITHM Situation 1 [97m
+2021-03-30 13:27:50,085 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 13:27:50,136 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:46850, original:45216
+2021-03-30 13:27:50,137 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:481 executed_each:0 open:481 number:46850 purchase:0 executed:0 holding:0 [97m
+2021-03-30 13:27:50,137 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 13:27:50,146 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:481, executed_sum:0, open:481, number:46850, original:45216
+2021-03-30 13:27:50,146 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:481 executed_each:0 open:481 number:46850 purchase:0 executed:0 holding:0 [97m
+2021-03-30 13:27:50,147 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 13:27:50,164 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:0, number:45216, original:0
+2021-03-30 14:02:43,469 [93mALGORITHM Situation 1 [97m
+2021-03-30 14:02:43,629 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:02:43,682 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:50892, original:46850
+2021-03-30 14:02:43,682 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:481 executed_each:0 open:481 number:50892 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:02:43,683 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:02:43,691 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:481, executed_sum:0, open:481, number:50892, original:46850
+2021-03-30 14:02:43,691 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:481 executed_each:0 open:481 number:50892 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:02:43,692 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:02:43,701 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:481, executed_sum:0, open:0, number:46850, original:45216
+2021-03-30 14:04:45,375 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:481, executed_sum:481, open:0, number:50892, original:46850
+2021-03-30 14:04:45,375 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Ã¼°á order:481 executed_each:481 open:0 number:50892 purchase:0 executed:2085 holding:481 [97m
+2021-03-30 14:04:45,375 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 14:04:45,375 [96mALGORITHM (SELL) holding:481 price:2095 amount:481 [97m
+2021-03-30 14:04:45,474 Balance information
+2021-03-30 14:04:45,691 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:04:45,694 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:51146, original:0
+2021-03-30 14:04:45,694 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:481 executed_each:0 open:481 number:51146 purchase:2085 executed:0 holding:481 [97m
+2021-03-30 14:04:45,694 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 14:04:45,787 Balance information
+2021-03-30 14:04:58,560 [93mALGORITHM Situation 4 [97m
+2021-03-30 14:04:58,766 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:04:58,770 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:481, number:51168, original:51146
+2021-03-30 14:04:58,770 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:481 executed_each:0 open:481 number:51168 purchase:2085 executed:0 holding:481 [97m
+2021-03-30 14:04:58,770 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 14:04:58,781 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:481, executed_sum:0, open:481, number:51168, original:51146
+2021-03-30 14:04:58,781 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:481 executed_each:0 open:481 number:51168 purchase:2085 executed:0 holding:481 [97m
+2021-03-30 14:04:58,781 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 14:04:58,798 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:481, executed_sum:0, open:0, number:51146, original:0
+2021-03-30 14:13:04,552 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:481, executed_sum:481, open:0, number:51168, original:51146
+2021-03-30 14:13:04,552 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Ã¼°á order:481 executed_each:481 open:0 number:51168 purchase:2085 executed:2090 holding:0 [97m
+2021-03-30 14:13:04,552 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 14:13:04,553 [96mALGORITHM (BUY) holding:0 price:2080 amount:480 [97m
+2021-03-30 14:13:04,667 Balance information
+2021-03-30 14:13:04,721 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:13:04,776 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:52053, original:0
+2021-03-30 14:13:04,777 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:480 executed_each:0 open:480 number:52053 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:13:04,777 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:13:07,151 [93mALGORITHM Situation 1 [97m
+2021-03-30 14:13:07,307 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:13:07,350 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:52059, original:52053
+2021-03-30 14:13:07,350 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:480 executed_each:0 open:480 number:52059 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:13:07,351 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:13:07,360 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:480, number:52059, original:52053
+2021-03-30 14:13:07,361 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:480 executed_each:0 open:480 number:52059 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:13:07,361 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:13:07,370 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:0, number:52053, original:0
+2021-03-30 14:34:39,523 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:480, executed_sum:480, open:0, number:52059, original:52053
+2021-03-30 14:34:39,523 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Ã¼°á order:480 executed_each:480 open:0 number:52059 purchase:0 executed:2085 holding:480 [97m
+2021-03-30 14:34:39,524 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 14:34:39,524 [96mALGORITHM (SELL) holding:480 price:2095 amount:480 [97m
+2021-03-30 14:34:39,642 Balance information
+2021-03-30 14:34:39,737 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:34:39,751 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:54591, original:0
+2021-03-30 14:34:39,751 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸Åµµ Á¢¼ö order:480 executed_each:0 open:480 number:54591 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 14:34:39,751 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 14:34:39,761 Balance information
+2021-03-30 14:34:55,719 [93mALGORITHM Situation 4 [97m
+2021-03-30 14:34:55,970 Send order (CORRECT SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:34:55,974 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:54615, original:54591
+2021-03-30 14:34:55,974 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Á¢¼ö order:480 executed_each:0 open:480 number:54615 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 14:34:55,974 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 14:34:55,986 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:480, number:54615, original:54591
+2021-03-30 14:34:55,986 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ È®ÀÎ order:480 executed_each:0 open:480 number:54615 purchase:2085 executed:0 holding:480 [97m
+2021-03-30 14:34:55,986 [94mALGORITHM (DEBUG) Purchases 0 Sales 1 [97m
+2021-03-30 14:34:55,996 Order execution(-¸Åµµ) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:0, number:54591, original:0
+2021-03-30 14:55:07,382 Order execution(-¸ÅµµÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Ã¼°á), order:480, executed_sum:480, open:0, number:54615, original:54591
+2021-03-30 14:55:07,382 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X -¸ÅµµÁ¤Á¤ Ã¼°á order:480 executed_each:480 open:0 number:54615 purchase:2085 executed:2090 holding:0 [97m
+2021-03-30 14:55:07,382 [94mALGORITHM (DEBUG) Purchases 0 Sales 0 [97m
+2021-03-30 14:55:07,382 [96mALGORITHM (BUY) holding:0 price:2080 amount:480 [97m
+2021-03-30 14:55:07,546 Balance information
+2021-03-30 14:55:07,623 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:55:07,628 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:56755, original:0
+2021-03-30 14:55:07,629 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼ö Á¢¼ö order:480 executed_each:0 open:480 number:56755 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:55:07,629 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:55:19,292 [93mALGORITHM Situation 1 [97m
+2021-03-30 14:55:19,453 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 14:55:19,501 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:56779, original:56755
+2021-03-30 14:55:19,501 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ Á¢¼ö order:480 executed_each:0 open:480 number:56779 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:55:19,501 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:55:19,512 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:480, number:56779, original:56755
+2021-03-30 14:55:19,512 [92mALGORITHM (EXECUTION) KODEX 200¼±¹°ÀÎ¹ö½º2X +¸Å¼öÁ¤Á¤ È®ÀÎ order:480 executed_each:0 open:480 number:56779 purchase:0 executed:0 holding:0 [97m
+2021-03-30 14:55:19,513 [94mALGORITHM (DEBUG) Purchases 1 Sales 0 [97m
+2021-03-30 14:55:19,523 Order execution(+¸Å¼ö) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:0, number:56755, original:0
+2021-03-30 15:00:05,052 [93mALGORITHM STOPPED [97m
+2021-03-30 15:00:05,136 Send order (CANCEL BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-03-30 15:00:05,182 Order execution(¸Å¼öÃë¼Ò) KODEX 200¼±¹°ÀÎ¹ö½º2X(Á¢¼ö), order:480, executed_sum:0, open:480, number:57365, original:56779
+2021-03-30 15:00:05,188 Order execution(¸Å¼öÃë¼Ò) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:0, number:57365, original:56779
+2021-03-30 15:00:05,195 Order execution(+¸Å¼öÁ¤Á¤) KODEX 200¼±¹°ÀÎ¹ö½º2X(È®ÀÎ), order:480, executed_sum:0, open:0, number:56779, original:56755
+2021-03-30 15:19:58,837 market operation state 2 152000 001000
+2021-03-30 15:20:58,832 market operation state 2 152100 000900
+2021-03-30 15:21:58,848 market operation state 2 152200 000800
+2021-03-30 15:22:58,830 market operation state 2 152300 000700
+2021-03-30 15:23:58,826 market operation state 2 152400 000600
+2021-03-30 15:24:58,833 market operation state 2 152500 000500
+2021-03-30 15:25:58,833 market operation state 2 152600 000400
+2021-03-30 15:26:58,825 market operation state 2 152700 000300
+2021-03-30 15:27:58,831 market operation state 2 152800 000200
+2021-03-30 15:28:58,821 market operation state 2 152900 000100
+2021-03-30 15:29:08,828 market operation state 2 152910 000050
+2021-03-30 15:29:18,833 market operation state 2 152920 000040
+2021-03-30 15:29:28,828 market operation state 2 152930 000030
+2021-03-30 15:29:38,819 market operation state 2 152940 000020
+2021-03-30 15:29:48,819 market operation state 2 152950 000010
+2021-03-30 15:29:58,826 market operation state 4 153000 000000
+2021-03-30 15:30:38,820 market operation state 8 888888 000000
+2021-03-30 15:34:58,815 market operation state s 153500 000000
+2021-03-30 15:34:58,922 market operation state s 153500 000000
+2021-03-30 15:34:58,922 market operation state s 153500 000000
+2021-03-30 15:34:58,923 market operation state s 153500 000000
+2021-03-30 15:34:58,923 market operation state s 153500 000000
+2021-03-30 15:34:58,923 market operation state s 153500 000000
+2021-03-30 15:34:58,924 market operation state s 153500 000000
+2021-03-30 15:34:58,924 market operation state s 153500 000000
+2021-03-30 15:34:59,015 market operation state s 153500 000000
+2021-03-30 15:34:59,016 market operation state s 153500 000000
+2021-03-30 15:34:59,016 market operation state s 153500 000000
+2021-03-30 15:34:59,016 market operation state s 153500 000000
+2021-03-30 15:34:59,016 market operation state s 153500 000000
+2021-03-30 15:34:59,017 market operation state s 153500 000000
+2021-03-30 15:34:59,017 market operation state s 153500 000000
+2021-03-30 15:34:59,018 market operation state s 153500 000000
+2021-03-30 15:34:59,018 market operation state s 153500 000000
+2021-03-30 15:39:49,157 Stop Charting KODEX 200¼±¹°ÀÎ¹ö½º2X
+2021-03-30 15:39:59,711 market operation state a 154000 000000
+2021-03-30 15:44:59,002 market operation state e 154500 000000
+2021-03-30 15:44:59,093 market operation state e 154500 000000
+2021-03-30 15:44:59,094 market operation state e 154500 000000
+2021-03-30 15:44:59,201 market operation state e 154500 000000
+2021-03-30 15:44:59,202 market operation state e 154500 000000
+2021-03-30 15:44:59,291 market operation state e 154500 000000
+2021-03-30 15:44:59,400 market operation state e 154500 000000
+2021-03-30 15:44:59,400 market operation state e 154500 000000
+2021-03-30 15:44:59,492 market operation state e 154500 000000
+2021-03-30 15:44:59,598 market operation state e 154500 000000
+2021-03-30 15:44:59,599 market operation state e 154500 000000
+2021-03-30 15:44:59,691 market operation state e 154500 000000
+2021-03-30 15:45:00,097 market operation state e 154500 000000
+2021-03-30 15:45:00,192 market operation state e 154500 000000
+2021-03-30 15:45:00,392 market operation state e 154500 000000
+2021-03-30 15:45:00,599 market operation state e 154500 000000
+2021-03-30 15:45:00,692 market operation state e 154500 000000
+2021-03-30 15:59:59,677 market operation state b 160000 000000
+2021-03-30 15:59:59,679 market operation state c 160000 000000
+2021-03-30 17:59:59,468 market operation state d 180000 000000
+2021-03-30 18:01:18,565 market operation state 9 999999 000000

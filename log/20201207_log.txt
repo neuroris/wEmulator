@@ -1,0 +1,653 @@
+2020-12-07 09:48:45,780 Kiwoom log in success
+2020-12-07 09:48:45,780 Account information acquired
+2020-12-07 09:48:46,037 Deposit information acquired
+2020-12-07 09:48:47,261 Portfolio information acquired
+2020-12-07 10:02:25,789 Kiwoom log in success
+2020-12-07 10:02:25,790 Account information acquired
+2020-12-07 10:02:26,051 Deposit information acquired
+2020-12-07 10:02:26,175 Portfolio information acquired
+2020-12-07 10:23:43,541 녹십자 stock information begins to be monitored
+2020-12-07 10:23:48,186 Portfolio information acquired
+2020-12-07 10:23:50,554 Portfolio information acquired
+2020-12-07 10:23:52,175 Portfolio information acquired
+2020-12-07 10:23:52,664 Portfolio information acquired
+2020-12-07 10:23:52,957 Portfolio information acquired
+2020-12-07 10:23:54,696 Portfolio information acquired
+2020-12-07 10:23:57,793 Portfolio information acquired
+2020-12-07 10:24:00,407 Portfolio information acquired
+2020-12-07 10:24:02,414 Portfolio information acquired
+2020-12-07 10:24:05,482 Portfolio information acquired
+2020-12-07 10:24:07,175 Portfolio information acquired
+2020-12-07 10:24:10,626 Portfolio information acquired
+2020-12-07 10:26:20,291 Kiwoom log in success
+2020-12-07 10:26:20,292 Account information acquired
+2020-12-07 10:26:20,548 Deposit information acquired
+2020-12-07 10:26:22,788 Portfolio information acquired
+2020-12-07 10:28:59,671 Kiwoom log in success
+2020-12-07 10:28:59,671 Account information acquired
+2020-12-07 10:28:59,927 Deposit information acquired
+2020-12-07 10:48:36,325 Kiwoom log in success
+2020-12-07 10:48:36,325 Account information acquired
+2020-12-07 10:48:36,578 Deposit information acquired
+2020-12-07 10:48:38,847 Portfolio information acquired
+2020-12-07 10:49:28,328 Kiwoom log in success
+2020-12-07 10:49:28,329 Account information acquired
+2020-12-07 10:49:28,593 Deposit information acquired
+2020-12-07 10:49:29,091 Portfolio information acquired
+2020-12-07 10:50:07,203 대한항공 stock information begins to be monitored
+2020-12-07 10:50:11,229 Portfolio information acquired
+2020-12-07 10:50:13,004 now waiting 0.2001328468322754s... for request block interval
+2020-12-07 10:50:22,502 now waiting 0.2977161407470703s... for request block interval
+2020-12-07 10:50:23,077 now waiting 0.9293680191040039s... for request block interval
+2020-12-07 10:50:24,281 Portfolio information acquired
+2020-12-07 10:50:24,962 now waiting 0.14665794372558594s... for request block interval
+2020-12-07 10:50:25,379 now waiting 0.2312939167022705s... for request block interval
+2020-12-07 10:50:26,146 now waiting 0.5661838054656982s... for request block interval
+2020-12-07 10:50:26,974 now waiting 0.003101825714111328s... for request block interval
+2020-12-07 10:50:26,998 Portfolio information acquired
+2020-12-07 10:50:27,517 now waiting 0.2952885627746582s... for request block interval
+2020-12-07 10:50:28,083 now waiting 0.929412841796875s... for request block interval
+2020-12-07 10:50:29,552 now waiting 0.15161466598510742s... for request block interval
+2020-12-07 10:50:29,970 now waiting 0.14826011657714844s... for request block interval
+2020-12-07 10:50:30,385 now waiting 0.23730254173278809s... for request block interval
+2020-12-07 10:50:30,635 Portfolio information acquired
+2020-12-07 10:50:31,149 now waiting 0.5646123886108398s... for request block interval
+2020-12-07 10:50:31,987 now waiting 0.003559112548828125s... for request block interval
+2020-12-07 10:50:32,011 Portfolio information acquired
+2020-12-07 10:50:32,671 now waiting 0.15422606468200684s... for request block interval
+2020-12-07 10:50:33,102 now waiting 0.9254932403564453s... for request block interval
+2020-12-07 10:50:34,560 now waiting 0.1462712287902832s... for request block interval
+2020-12-07 10:50:34,981 now waiting 0.14331412315368652s... for request block interval
+2020-12-07 10:50:35,386 now waiting 0.24329566955566406s... for request block interval
+2020-12-07 10:50:36,146 now waiting 0.5814580917358398s... for request block interval
+2020-12-07 10:50:36,747 Portfolio information acquired
+2020-12-07 10:50:37,000 now waiting 0.0024559497833251953s... for request block interval
+2020-12-07 10:50:37,278 now waiting 0.1353754997253418s... for request block interval
+2020-12-07 10:50:37,675 now waiting 0.16565823554992676s... for request block interval
+2020-12-07 10:50:38,106 now waiting 0.9290745258331299s... for request block interval
+2020-12-07 10:50:39,565 now waiting 0.15032720565795898s... for request block interval
+2020-12-07 10:50:39,981 now waiting 0.15255331993103027s... for request block interval
+2020-12-07 10:50:40,399 now waiting 0.23584580421447754s... for request block interval
+2020-12-07 10:50:40,915 Portfolio information acquired
+2020-12-07 10:50:41,160 now waiting 0.5814352035522461s... for request block interval
+2020-12-07 10:50:42,012 now waiting 0.0036132335662841797s... for request block interval
+2020-12-07 10:50:42,283 now waiting 0.13228821754455566s... for request block interval
+2020-12-07 10:50:42,678 now waiting 0.16592168807983398s... for request block interval
+2020-12-07 10:50:43,108 now waiting 0.9309971332550049s... for request block interval
+2020-12-07 10:50:44,570 now waiting 0.15028667449951172s... for request block interval
+2020-12-07 10:50:44,731 Portfolio information acquired
+2020-12-07 10:50:44,985 now waiting 0.1518111228942871s... for request block interval
+2020-12-07 10:50:45,405 now waiting 0.2393343448638916s... for request block interval
+2020-12-07 10:50:46,701 now waiting 0.04910159111022949s... for request block interval
+2020-12-07 10:50:47,027 now waiting 2.6464462280273438e-05s... for request block interval
+2020-12-07 10:50:47,125 Portfolio information acquired
+2020-12-07 10:50:48,830 Portfolio information acquired
+2020-12-07 10:50:51,066 Portfolio information acquired
+2020-12-07 10:50:52,606 Portfolio information acquired
+2020-12-07 10:50:54,378 Portfolio information acquired
+2020-12-07 10:50:54,386 now waiting 0.11427831649780273s... for request block interval
+2020-12-07 10:50:54,773 now waiting 0.43287158012390137s... for request block interval
+2020-12-07 10:50:58,946 대한항공 stock information monitoring is finished
+2020-12-07 12:33:24,655 Kiwoom log in success
+2020-12-07 12:33:24,655 Account information acquired
+2020-12-07 12:33:24,911 Deposit information acquired
+2020-12-07 12:33:25,681 Portfolio information acquired
+2020-12-07 12:33:34,466 오스템임플란트 stock information begins to be monitored
+2020-12-07 12:34:26,833 오스템임플란트 stock information monitoring is finished
+2020-12-07 12:34:43,913 대한항공 stock information begins to be monitored
+2020-12-07 12:34:55,367 대한항공 stock information monitoring is finished
+2020-12-07 12:35:03,177 대한항공 stock information begins to be monitored
+2020-12-07 12:35:09,038 Order history information acquired
+2020-12-07 12:35:16,131 대한항공 stock information monitoring is finished
+2020-12-07 12:40:53,929 Deposit information acquired
+2020-12-07 12:46:11,523 Kiwoom log in success
+2020-12-07 12:46:11,523 Account information acquired
+2020-12-07 12:46:11,779 Deposit information acquired
+2020-12-07 12:46:13,510 Portfolio information acquired
+2020-12-07 12:46:17,538 Order history information acquired
+2020-12-07 12:47:10,171 Kiwoom log in success
+2020-12-07 12:47:10,172 Account information acquired
+2020-12-07 12:47:10,427 Deposit information acquired
+2020-12-07 12:47:12,782 Portfolio information acquired
+2020-12-07 12:49:19,768 Kiwoom log in success
+2020-12-07 12:49:19,769 Account information acquired
+2020-12-07 12:49:20,022 Deposit information acquired
+2020-12-07 12:49:20,124 Portfolio information acquired
+2020-12-07 12:49:26,261 오스템임플란트 order information is acquired
+2020-12-07 12:49:26,403 Deposit information acquired
+2020-12-07 12:49:35,764 오스템임플란트 order information is acquired
+2020-12-07 12:49:35,903 Deposit information acquired
+2020-12-07 12:49:38,969 오스템임플란트 order information is acquired
+2020-12-07 12:49:38,996 Deposit information acquired
+2020-12-07 12:49:43,627 Order history information acquired
+2020-12-07 12:50:00,139 Kiwoom log in success
+2020-12-07 12:50:00,139 Account information acquired
+2020-12-07 12:50:00,394 Deposit information acquired
+2020-12-07 12:50:01,712 Portfolio information acquired
+2020-12-07 12:50:10,109 오스템임플란트 order information is acquired
+2020-12-07 12:50:10,205 Deposit information acquired
+2020-12-07 12:50:22,318 오스템임플란트 order information is acquired
+2020-12-07 12:50:22,349 Deposit information acquired
+2020-12-07 12:50:31,211 오스템임플란트 order information is acquired
+2020-12-07 12:50:31,243 Deposit information acquired
+2020-12-07 12:50:34,025 오스템임플란트 order information is acquired
+2020-12-07 12:50:34,056 Deposit information acquired
+2020-12-07 12:50:42,344 Order history information acquired
+2020-12-07 12:50:44,026 오스템임플란트 order information is acquired
+2020-12-07 12:50:44,058 Deposit information acquired
+2020-12-07 12:50:49,222 오스템임플란트 order information is acquired
+2020-12-07 12:50:49,283 Deposit information acquired
+2020-12-07 12:50:51,018 오스템임플란트 order information is acquired
+2020-12-07 12:50:51,049 Deposit information acquired
+2020-12-07 12:51:04,423 오스템임플란트 order information is acquired
+2020-12-07 12:51:04,469 Deposit information acquired
+2020-12-07 12:51:16,621 오스템임플란트 order information is acquired
+2020-12-07 12:51:16,713 오스템임플란트 order information is acquired
+2020-12-07 12:51:16,962 Deposit information acquired
+2020-12-07 12:53:38,468 Kiwoom log in success
+2020-12-07 12:53:38,469 Account information acquired
+2020-12-07 12:53:38,731 Deposit information acquired
+2020-12-07 12:53:39,922 Portfolio information acquired
+2020-12-07 12:53:55,137 Order history information acquired
+2020-12-07 12:54:08,487 오스템임플란트 order execution result is acquired
+2020-12-07 12:54:15,690 오스템임플란트 order execution result is acquired
+2020-12-07 12:57:35,145 Kiwoom log in success
+2020-12-07 12:57:35,145 Account information acquired
+2020-12-07 12:57:35,407 Deposit information acquired
+2020-12-07 12:57:36,534 Portfolio information acquired
+2020-12-07 12:57:45,345 Order history information acquired
+2020-12-07 12:58:25,743 Kiwoom log in success
+2020-12-07 12:58:25,744 Account information acquired
+2020-12-07 12:58:26,004 Deposit information acquired
+2020-12-07 12:58:26,326 Portfolio information acquired
+2020-12-07 12:58:30,745 Order history information acquired
+2020-12-07 12:59:08,962 Kiwoom log in success
+2020-12-07 12:59:08,963 Account information acquired
+2020-12-07 12:59:09,225 Deposit information acquired
+2020-12-07 12:59:09,431 Portfolio information acquired
+2020-12-07 13:00:13,605 Kiwoom log in success
+2020-12-07 13:00:13,605 Account information acquired
+2020-12-07 13:00:13,872 Deposit information acquired
+2020-12-07 13:02:49,660 Portfolio information acquired
+2020-12-07 13:03:56,687 Kiwoom log in success
+2020-12-07 13:03:56,688 Account information acquired
+2020-12-07 13:03:56,949 Deposit information acquired
+2020-12-07 13:03:58,430 Portfolio information acquired
+2020-12-07 13:04:07,962 Order history information acquired
+2020-12-07 13:04:18,575 오스템임플란트 stock information begins to be monitored
+2020-12-07 13:13:56,991 Kiwoom log in success
+2020-12-07 13:13:56,991 Account information acquired
+2020-12-07 13:13:57,258 Deposit information acquired
+2020-12-07 13:13:57,887 Portfolio information acquired
+2020-12-07 13:14:09,828 Order history information acquired
+2020-12-07 13:14:13,847 오스템임플란트 stock information begins to be monitored
+2020-12-07 13:14:48,835 Kiwoom log in success
+2020-12-07 13:14:48,836 Account information acquired
+2020-12-07 13:14:49,093 Deposit information acquired
+2020-12-07 13:14:49,135 Portfolio information acquired
+2020-12-07 13:14:50,363 Order history information acquired
+2020-12-07 13:15:06,431 Kiwoom log in success
+2020-12-07 13:15:06,432 Account information acquired
+2020-12-07 13:15:06,700 Deposit information acquired
+2020-12-07 13:15:07,857 Portfolio information acquired
+2020-12-07 13:15:12,132 Order history information acquired
+2020-12-07 13:15:26,742 오스템임플란트 stock information begins to be monitored
+2020-12-07 14:02:48,480 Kiwoom log in success
+2020-12-07 14:02:48,481 Account information acquired
+2020-12-07 14:02:49,210 Deposit information acquired
+2020-12-07 14:03:13,464 Kiwoom log in success
+2020-12-07 14:03:13,465 Account information acquired
+2020-12-07 14:03:13,726 Deposit information acquired
+2020-12-07 14:03:49,682 Kiwoom log in success
+2020-12-07 14:03:49,682 Account information acquired
+2020-12-07 14:03:49,942 Deposit information acquired
+2020-12-07 14:03:51,548 Portfolio information acquired
+2020-12-07 14:04:05,120 Kiwoom log in success
+2020-12-07 14:04:05,121 Account information acquired
+2020-12-07 14:04:05,387 Deposit information acquired
+2020-12-07 14:04:06,738 Portfolio information acquired
+2020-12-07 14:05:10,497 Kiwoom log in success
+2020-12-07 14:05:10,498 Account information acquired
+2020-12-07 14:05:10,777 Deposit information acquired
+2020-12-07 14:05:12,569 Portfolio information acquired
+2020-12-07 14:05:46,615 Kiwoom log in success
+2020-12-07 14:05:46,615 Account information acquired
+2020-12-07 14:05:46,882 Deposit information acquired
+2020-12-07 14:05:48,049 Portfolio information acquired
+2020-12-07 14:06:01,850 Kiwoom log in success
+2020-12-07 14:06:01,851 Account information acquired
+2020-12-07 14:06:02,109 Deposit information acquired
+2020-12-07 14:06:03,020 Portfolio information acquired
+2020-12-07 14:06:28,295 Kiwoom log in success
+2020-12-07 14:06:28,296 Account information acquired
+2020-12-07 14:06:29,073 Deposit information acquired
+2020-12-07 14:06:30,620 Portfolio information acquired
+2020-12-07 14:06:31,622 Order history information acquired
+2020-12-07 14:07:26,532 Kiwoom log in success
+2020-12-07 14:07:26,533 Account information acquired
+2020-12-07 14:07:26,832 Deposit information acquired
+2020-12-07 14:07:29,305 Portfolio information acquired
+2020-12-07 14:09:24,975 Kiwoom log in success
+2020-12-07 14:09:24,975 Account information acquired
+2020-12-07 14:09:25,230 Deposit information acquired
+2020-12-07 14:09:26,534 Order history information acquired
+2020-12-07 14:09:26,835 Portfolio information acquired
+2020-12-07 14:10:24,590 Kiwoom log in success
+2020-12-07 14:10:24,590 Account information acquired
+2020-12-07 14:10:24,860 Deposit information acquired
+2020-12-07 14:10:25,892 Portfolio information acquired
+2020-12-07 14:10:27,518 Order history information acquired
+2020-12-07 14:10:49,535 Kiwoom log in success
+2020-12-07 14:10:49,536 Account information acquired
+2020-12-07 14:10:49,798 Deposit information acquired
+2020-12-07 14:10:50,591 Portfolio information acquired
+2020-12-07 14:10:53,375 Order history information acquired
+2020-12-07 14:13:16,694 Kiwoom log in success
+2020-12-07 14:13:16,694 Account information acquired
+2020-12-07 14:13:16,959 Deposit information acquired
+2020-12-07 14:13:18,671 Portfolio information acquired
+2020-12-07 14:13:23,451 Order history information acquired
+2020-12-07 14:14:15,908 Kiwoom log in success
+2020-12-07 14:14:15,909 Account information acquired
+2020-12-07 14:14:16,169 Deposit information acquired
+2020-12-07 14:14:17,829 Portfolio information acquired
+2020-12-07 14:14:29,330 오스템임플란트 order execution result is acquired
+2020-12-07 14:15:13,113 Kiwoom log in success
+2020-12-07 14:15:13,113 Account information acquired
+2020-12-07 14:15:13,379 Deposit information acquired
+2020-12-07 14:15:14,542 Portfolio information acquired
+2020-12-07 14:15:41,910 오스템임플란트 order execution result is acquired
+2020-12-07 14:17:48,060 Kiwoom log in success
+2020-12-07 14:17:48,060 Account information acquired
+2020-12-07 14:17:48,328 Deposit information acquired
+2020-12-07 14:17:49,923 Portfolio information acquired
+2020-12-07 14:17:55,404 오스템임플란트 order execution result is acquired
+2020-12-07 14:17:55,505 Order history information acquired
+2020-12-07 14:17:56,903 오스템임플란트 order execution result is acquired
+2020-12-07 14:17:56,940 Order history information acquired
+2020-12-07 14:18:13,407 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:13,520 Order history information acquired
+2020-12-07 14:18:28,511 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:28,547 Order history information acquired
+2020-12-07 14:18:30,905 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:30,941 Order history information acquired
+2020-12-07 14:18:35,101 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:35,139 Order history information acquired
+2020-12-07 14:18:35,603 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:35,639 Order history information acquired
+2020-12-07 14:18:37,012 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:37,048 Order history information acquired
+2020-12-07 14:18:39,709 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:39,745 Order history information acquired
+2020-12-07 14:18:44,201 오스템임플란트 order execution result is acquired
+2020-12-07 14:18:44,237 Order history information acquired
+2020-12-07 14:19:12,310 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:12,344 Order history information acquired
+2020-12-07 14:19:15,104 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:15,141 Order history information acquired
+2020-12-07 14:19:19,502 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:19,540 Order history information acquired
+2020-12-07 14:19:26,202 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:26,240 Order history information acquired
+2020-12-07 14:19:29,198 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:29,233 Order history information acquired
+2020-12-07 14:19:38,005 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:38,044 Order history information acquired
+2020-12-07 14:19:44,398 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:44,436 Order history information acquired
+2020-12-07 14:19:45,899 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:45,937 Order history information acquired
+2020-12-07 14:19:53,512 오스템임플란트 order execution result is acquired
+2020-12-07 14:19:53,548 Order history information acquired
+2020-12-07 14:20:00,007 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:00,045 Order history information acquired
+2020-12-07 14:20:02,302 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:02,337 Order history information acquired
+2020-12-07 14:20:05,911 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:05,946 Order history information acquired
+2020-12-07 14:20:06,510 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:06,547 Order history information acquired
+2020-12-07 14:20:15,101 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:15,138 Order history information acquired
+2020-12-07 14:20:19,005 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:19,041 Order history information acquired
+2020-12-07 14:20:20,204 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:20,241 Order history information acquired
+2020-12-07 14:20:21,004 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:21,033 Order history information acquired
+2020-12-07 14:20:24,904 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:24,941 Order history information acquired
+2020-12-07 14:20:28,500 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:28,528 Order history information acquired
+2020-12-07 14:20:29,202 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:29,240 Order history information acquired
+2020-12-07 14:20:33,604 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:33,640 Order history information acquired
+2020-12-07 14:20:37,303 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:37,339 Order history information acquired
+2020-12-07 14:20:41,205 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:41,242 Order history information acquired
+2020-12-07 14:20:56,401 오스템임플란트 order execution result is acquired
+2020-12-07 14:20:56,439 Order history information acquired
+2020-12-07 14:21:01,300 오스템임플란트 order execution result is acquired
+2020-12-07 14:21:01,335 Order history information acquired
+2020-12-07 14:21:06,806 오스템임플란트 order execution result is acquired
+2020-12-07 14:21:06,843 Order history information acquired
+2020-12-07 14:21:12,100 오스템임플란트 order execution result is acquired
+2020-12-07 14:21:12,136 Order history information acquired
+2020-12-07 14:22:23,499 오스템임플란트 order execution result is acquired
+2020-12-07 14:22:23,535 Order history information acquired
+2020-12-07 14:22:25,108 오스템임플란트 order execution result is acquired
+2020-12-07 14:22:25,145 Order history information acquired
+2020-12-07 14:27:48,190 Kiwoom log in success
+2020-12-07 14:27:48,191 Account information acquired
+2020-12-07 14:27:48,459 Deposit information acquired
+2020-12-07 14:27:50,679 Portfolio information acquired
+2020-12-07 14:28:05,921 Kiwoom log in success
+2020-12-07 14:28:05,921 Account information acquired
+2020-12-07 14:28:06,187 Deposit information acquired
+2020-12-07 14:28:07,872 Portfolio information acquired
+2020-12-07 14:43:50,673 Kiwoom log in success
+2020-12-07 14:43:50,673 Account information acquired
+2020-12-07 14:43:50,934 Deposit information acquired
+2020-12-07 14:43:51,668 Portfolio information acquired
+2020-12-07 14:44:11,311 Kiwoom log in success
+2020-12-07 14:44:11,311 Account information acquired
+2020-12-07 14:44:11,566 Deposit information acquired
+2020-12-07 14:44:12,487 Portfolio information acquired
+2020-12-07 14:44:27,441 Kiwoom log in success
+2020-12-07 14:44:27,441 Account information acquired
+2020-12-07 14:44:27,696 Deposit information acquired
+2020-12-07 14:44:28,777 Portfolio information acquired
+2020-12-07 14:51:35,566 Kiwoom log in success
+2020-12-07 14:51:35,566 Account information acquired
+2020-12-07 14:51:35,835 Deposit information acquired
+2020-12-07 14:51:38,400 Portfolio information acquired
+2020-12-07 14:51:47,084 오스템임플란트 order execution result is acquired
+2020-12-07 14:51:47,112 Order history information acquired
+2020-12-07 14:51:47,391 오스템임플란트 order execution result is acquired
+2020-12-07 14:52:50,125 Kiwoom log in success
+2020-12-07 14:52:50,126 Account information acquired
+2020-12-07 14:52:50,390 Deposit information acquired
+2020-12-07 14:52:50,425 Portfolio information acquired
+2020-12-07 14:52:59,850 오스템임플란트 order execution result is acquired
+2020-12-07 14:52:59,917 Order history information acquired
+2020-12-07 14:53:00,362 오스템임플란트 order execution result is acquired
+2020-12-07 14:53:00,401 Order history information acquired
+2020-12-07 14:55:50,276 Kiwoom log in success
+2020-12-07 14:55:50,276 Account information acquired
+2020-12-07 14:55:50,530 Deposit information acquired
+2020-12-07 14:55:51,410 Portfolio information acquired
+2020-12-07 14:55:56,425 오스템임플란트 order execution result is acquired
+2020-12-07 14:55:56,537 Order history information acquired
+2020-12-07 14:55:58,627 오스템임플란트 order execution result is acquired
+2020-12-07 14:55:58,667 Order history information acquired
+2020-12-07 15:00:18,317 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:18,507 Order history information acquired
+2020-12-07 15:00:22,320 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:22,359 Order history information acquired
+2020-12-07 15:00:23,917 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:23,956 Order history information acquired
+2020-12-07 15:00:27,525 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:27,565 Order history information acquired
+2020-12-07 15:00:33,624 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:33,663 Order history information acquired
+2020-12-07 15:00:35,819 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:35,860 Order history information acquired
+2020-12-07 15:00:37,923 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:37,961 Order history information acquired
+2020-12-07 15:00:40,012 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:40,050 Order history information acquired
+2020-12-07 15:00:40,814 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:40,854 Order history information acquired
+2020-12-07 15:00:47,718 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:47,757 Order history information acquired
+2020-12-07 15:00:50,017 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:50,057 Order history information acquired
+2020-12-07 15:00:51,312 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:51,350 Order history information acquired
+2020-12-07 15:00:52,024 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:52,065 Order history information acquired
+2020-12-07 15:00:54,826 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:54,868 Order history information acquired
+2020-12-07 15:00:57,113 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:57,151 Order history information acquired
+2020-12-07 15:00:58,916 오스템임플란트 order execution result is acquired
+2020-12-07 15:00:58,955 Order history information acquired
+2020-12-07 15:01:49,516 오스템임플란트 order execution result is acquired
+2020-12-07 15:01:49,556 Order history information acquired
+2020-12-07 15:01:51,822 오스템임플란트 order execution result is acquired
+2020-12-07 15:01:51,861 Order history information acquired
+2020-12-07 15:01:52,521 오스템임플란트 order execution result is acquired
+2020-12-07 15:01:52,561 Order history information acquired
+2020-12-07 15:01:54,916 오스템임플란트 order execution result is acquired
+2020-12-07 15:01:54,958 Order history information acquired
+2020-12-07 15:02:05,526 Kiwoom log in success
+2020-12-07 15:02:05,527 Account information acquired
+2020-12-07 15:02:05,785 Deposit information acquired
+2020-12-07 15:02:07,699 Portfolio information acquired
+2020-12-07 15:02:08,770 오스템임플란트 order execution result is acquired
+2020-12-07 15:03:50,367 Order history information acquired
+2020-12-07 15:03:50,376 오스템임플란트 order execution result is acquired
+2020-12-07 15:04:02,237 Kiwoom log in success
+2020-12-07 15:04:02,238 Account information acquired
+2020-12-07 15:04:02,497 Deposit information acquired
+2020-12-07 15:04:02,528 Portfolio information acquired
+2020-12-07 15:04:11,063 오스템임플란트 order execution result is acquired
+2020-12-07 15:04:11,103 Order history information acquired
+2020-12-07 15:04:11,356 오스템임플란트 order execution result is acquired
+2020-12-07 15:04:11,394 Order history information acquired
+2020-12-07 15:04:32,083 Kiwoom log in success
+2020-12-07 15:04:32,084 Account information acquired
+2020-12-07 15:04:32,354 Deposit information acquired
+2020-12-07 15:04:33,138 Portfolio information acquired
+2020-12-07 15:04:44,808 오스템임플란트 order execution result is acquired
+2020-12-07 15:04:44,926 Order history information acquired
+2020-12-07 15:04:45,003 오스템임플란트 order execution result is acquired
+2020-12-07 15:05:35,615 Kiwoom log in success
+2020-12-07 15:05:35,616 Account information acquired
+2020-12-07 15:05:35,881 Deposit information acquired
+2020-12-07 15:05:37,202 Portfolio information acquired
+2020-12-07 15:05:44,432 오스템임플란트 order execution result is acquired
+2020-12-07 15:05:44,472 Order history information acquired
+2020-12-07 15:05:56,430 오스템임플란트 order execution result is acquired
+2020-12-07 15:05:56,473 Order history information acquired
+2020-12-07 15:17:18,925 오스템임플란트 order execution result is acquired
+2020-12-07 15:17:18,964 Order history information acquired
+2020-12-07 15:17:20,521 오스템임플란트 order execution result is acquired
+2020-12-07 15:17:20,562 Order history information acquired
+2020-12-07 15:17:21,921 오스템임플란트 order execution result is acquired
+2020-12-07 15:17:21,962 Order history information acquired
+2020-12-07 15:17:26,011 오스템임플란트 order execution result is acquired
+2020-12-07 15:17:26,052 Order history information acquired
+2020-12-07 15:17:28,415 오스템임플란트 order execution result is acquired
+2020-12-07 15:17:28,429 오스템임플란트 order execution result is acquired
+2020-12-07 15:17:28,696 Order history information acquired
+2020-12-07 15:35:08,366 Kiwoom log in success
+2020-12-07 15:35:08,367 Account information acquired
+2020-12-07 15:35:08,627 Deposit information acquired
+2020-12-07 15:35:08,658 Portfolio information acquired
+2020-12-07 15:35:11,216 Order history information acquired
+2020-12-07 15:39:58,775 market operation state a 15:40:00 00:00:00
+2020-12-07 15:44:58,467 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,556 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,661 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,662 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,770 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,770 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,859 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,965 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:58,965 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:59,071 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:59,072 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:59,163 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:59,457 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:59,655 market operation state e 15:45:00 00:00:00
+2020-12-07 15:44:59,872 market operation state e 15:45:00 00:00:00
+2020-12-07 15:45:00,070 market operation state e 15:45:00 00:00:00
+2020-12-07 15:45:00,162 market operation state e 15:45:00 00:00:00
+2020-12-07 15:59:58,742 market operation state b 16:00:00 00:00:00
+2020-12-07 15:59:58,743 market operation state c 16:00:00 00:00:00
+2020-12-07 16:19:11,770 Kiwoom log in success
+2020-12-07 16:19:11,770 Account information acquired
+2020-12-07 16:19:12,024 Deposit information acquired
+2020-12-07 16:19:12,051 Portfolio information acquired
+2020-12-07 16:19:34,956 Order history information acquired
+2020-12-07 16:23:08,542 Kiwoom log in success
+2020-12-07 16:23:08,543 Account information acquired
+2020-12-07 16:23:08,807 Deposit information acquired
+2020-12-07 16:23:08,849 Portfolio information acquired
+2020-12-07 16:29:23,983 Order history information acquired
+2020-12-07 16:29:35,902 Kiwoom log in success
+2020-12-07 16:29:35,902 Account information acquired
+2020-12-07 16:29:36,166 Deposit information acquired
+2020-12-07 16:29:36,201 Portfolio information acquired
+2020-12-07 16:29:38,720 Order history information acquired
+2020-12-07 17:08:08,837 Kiwoom log in success
+2020-12-07 17:08:08,837 Account information acquired
+2020-12-07 17:08:09,096 Deposit information acquired
+2020-12-07 17:08:09,777 Portfolio information acquired
+2020-12-07 17:08:11,798 Order history information acquired
+2020-12-07 17:08:49,260 Kiwoom log in success
+2020-12-07 17:08:49,261 Account information acquired
+2020-12-07 17:08:49,527 Deposit information acquired
+2020-12-07 17:08:49,568 Portfolio information acquired
+2020-12-07 17:08:51,614 Order history information acquired
+2020-12-07 17:21:06,440 Kiwoom log in success
+2020-12-07 17:21:06,441 Account information acquired
+2020-12-07 17:21:06,708 Deposit information acquired
+2020-12-07 17:21:07,595 Portfolio information acquired
+2020-12-07 17:21:14,063 Order history information acquired
+2020-12-07 17:22:59,824 Kiwoom log in success
+2020-12-07 17:22:59,825 Account information acquired
+2020-12-07 17:23:00,082 Deposit information acquired
+2020-12-07 17:23:01,436 Portfolio information acquired
+2020-12-07 17:23:02,038 Order history information acquired
+2020-12-07 17:23:21,822 Kiwoom log in success
+2020-12-07 17:23:21,823 Account information acquired
+2020-12-07 17:23:22,087 Deposit information acquired
+2020-12-07 17:23:22,124 Portfolio information acquired
+2020-12-07 17:23:25,596 Order history information acquired
+2020-12-07 17:25:29,075 Kiwoom log in success
+2020-12-07 17:25:29,075 Account information acquired
+2020-12-07 17:25:29,334 Deposit information acquired
+2020-12-07 17:25:29,367 Portfolio information acquired
+2020-12-07 17:25:30,837 Order history information acquired
+2020-12-07 17:27:53,099 Kiwoom log in success
+2020-12-07 17:27:53,100 Account information acquired
+2020-12-07 17:27:53,355 Deposit information acquired
+2020-12-07 17:27:54,202 Portfolio information acquired
+2020-12-07 17:27:54,300 Order history information acquired
+2020-12-07 17:31:23,537 Kiwoom log in success
+2020-12-07 17:31:23,538 Account information acquired
+2020-12-07 17:31:24,603 Portfolio information acquired
+2020-12-07 17:31:29,302 Order history information acquired
+2020-12-07 17:33:01,833 Kiwoom log in success
+2020-12-07 17:33:01,833 Account information acquired
+2020-12-07 17:33:02,100 Deposit information acquired
+2020-12-07 17:33:02,133 Portfolio information acquired
+2020-12-07 17:33:02,952 Order history information acquired
+2020-12-07 17:33:51,408 Kiwoom log in success
+2020-12-07 17:33:51,409 Account information acquired
+2020-12-07 17:33:51,676 Deposit information acquired
+2020-12-07 17:33:52,465 Portfolio information acquired
+2020-12-07 17:34:01,248 Order history information acquired
+2020-12-07 17:35:58,678 Kiwoom log in success
+2020-12-07 17:35:58,679 Account information acquired
+2020-12-07 17:35:58,945 Deposit information acquired
+2020-12-07 17:35:59,078 Portfolio information acquired
+2020-12-07 17:36:03,526 Order history information acquired
+2020-12-07 17:36:46,111 Kiwoom log in success
+2020-12-07 17:36:46,112 Account information acquired
+2020-12-07 17:36:46,370 Deposit information acquired
+2020-12-07 17:36:47,956 Portfolio information acquired
+2020-12-07 17:36:49,180 Order history information acquired
+2020-12-07 17:37:14,610 Kiwoom log in success
+2020-12-07 17:37:14,610 Account information acquired
+2020-12-07 17:37:14,866 Deposit information acquired
+2020-12-07 17:37:14,899 Portfolio information acquired
+2020-12-07 17:37:15,863 Order history information acquired
+2020-12-07 17:38:45,577 Kiwoom log in success
+2020-12-07 17:38:45,577 Account information acquired
+2020-12-07 17:38:45,845 Deposit information acquired
+2020-12-07 17:38:46,641 Portfolio information acquired
+2020-12-07 17:38:55,812 Order history information acquired
+2020-12-07 18:03:55,135 Kiwoom log in success
+2020-12-07 18:03:55,136 Account information acquired
+2020-12-07 18:03:55,406 Deposit information acquired
+2020-12-07 18:03:55,443 Portfolio information acquired
+2020-12-07 20:07:18,720 Kiwoom log in success
+2020-12-07 20:07:18,721 Account information acquired
+2020-12-07 20:07:18,989 Deposit information acquired
+2020-12-07 20:07:19,021 Portfolio information acquired
+2020-12-07 20:07:27,337 Order history information acquired
+2020-12-07 20:08:09,204 Kiwoom log in success
+2020-12-07 20:08:09,204 Account information acquired
+2020-12-07 20:08:09,474 Deposit information acquired
+2020-12-07 20:08:09,512 Portfolio information acquired
+2020-12-07 20:08:14,473 Order history information acquired
+2020-12-07 20:32:37,237 Kiwoom log in success
+2020-12-07 20:32:37,238 Account information acquired
+2020-12-07 20:32:37,503 Deposit information acquired
+2020-12-07 20:32:37,536 Portfolio information acquired
+2020-12-07 20:32:42,402 Order history information acquired
+2020-12-07 20:33:59,368 Kiwoom log in success
+2020-12-07 20:33:59,369 Account information acquired
+2020-12-07 20:33:59,627 Deposit information acquired
+2020-12-07 20:33:59,658 Portfolio information acquired
+2020-12-07 20:34:16,477 Kiwoom log in success
+2020-12-07 20:34:16,478 Account information acquired
+2020-12-07 20:34:16,744 Deposit information acquired
+2020-12-07 20:34:16,777 Portfolio information acquired
+2020-12-07 20:35:21,710 Kiwoom log in success
+2020-12-07 20:35:21,711 Account information acquired
+2020-12-07 20:35:21,978 Deposit information acquired
+2020-12-07 20:35:22,015 Portfolio information acquired
+2020-12-07 20:36:12,806 Order history information acquired
+2020-12-07 20:37:40,991 Kiwoom log in success
+2020-12-07 20:37:40,991 Account information acquired
+2020-12-07 20:37:41,245 Deposit information acquired
+2020-12-07 20:37:41,281 Portfolio information acquired
+2020-12-07 20:37:42,379 Order history information acquired
+2020-12-07 20:41:39,443 Kiwoom log in success
+2020-12-07 20:41:39,444 Account information acquired
+2020-12-07 20:41:39,698 Deposit information acquired
+2020-12-07 20:41:39,731 Portfolio information acquired
+2020-12-07 20:41:41,352 Order history information acquired
+2020-12-07 20:49:49,052 Kiwoom log in success
+2020-12-07 20:49:49,053 Account information acquired
+2020-12-07 20:49:49,315 Deposit information acquired
+2020-12-07 20:49:49,352 Portfolio information acquired
+2020-12-07 20:50:18,291 Kiwoom log in success
+2020-12-07 20:50:18,291 Account information acquired
+2020-12-07 20:50:18,548 Deposit information acquired
+2020-12-07 20:50:18,581 Portfolio information acquired
+2020-12-07 20:50:42,343 Kiwoom log in success
+2020-12-07 20:50:42,344 Account information acquired
+2020-12-07 20:50:42,605 Deposit information acquired
+2020-12-07 20:50:42,635 Portfolio information acquired
+2020-12-07 20:59:42,957 Kiwoom log in success
+2020-12-07 20:59:42,957 Account information acquired
+2020-12-07 20:59:43,216 Deposit information acquired
+2020-12-07 20:59:43,251 Portfolio information acquired
+2020-12-07 21:00:56,639 Kiwoom log in success
+2020-12-07 21:00:56,640 Account information acquired
+2020-12-07 21:00:56,897 Deposit information acquired
+2020-12-07 21:00:56,932 Portfolio information acquired
+2020-12-07 21:02:21,381 Order history information acquired
+2020-12-07 21:04:30,424 Kiwoom log in success
+2020-12-07 21:04:30,424 Account information acquired
+2020-12-07 21:04:30,680 Deposit information acquired
+2020-12-07 21:04:30,711 Portfolio information acquired
+2020-12-07 21:04:57,088 Kiwoom log in success
+2020-12-07 21:04:57,089 Account information acquired
+2020-12-07 21:04:57,348 Deposit information acquired
+2020-12-07 21:04:57,397 Portfolio information acquired
+2020-12-07 21:16:39,356 Kiwoom log in success
+2020-12-07 21:16:39,356 Account information acquired
+2020-12-07 21:16:39,616 Deposit information acquired
+2020-12-07 21:16:39,649 Portfolio information acquired
+2020-12-07 21:17:16,630 Kiwoom log in success
+2020-12-07 21:17:16,631 Account information acquired
+2020-12-07 21:17:16,898 Deposit information acquired
+2020-12-07 21:17:16,932 Portfolio information acquired

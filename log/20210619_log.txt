@@ -1,0 +1,7 @@
+2021-06-19 09:47:24,460 Kiwoom initializing...
+2021-06-19 09:47:54,020 Kiwoom log in success
+2021-06-19 09:47:54,021 Account information
+2021-06-19 09:47:54,535 Deposit information (Futures)
+2021-06-19 09:47:54,564 Portfolio information (Futures)
+2021-06-19 10:50:57,589 Something is wrong during log-in
+2021-06-19 10:50:57,589 Login error -106

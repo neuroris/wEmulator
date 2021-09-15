@@ -1,0 +1,167 @@
+2021-01-20 09:57:11,164 Kiwoom initializing...
+2021-01-20 09:57:52,149 Kiwoom log in success
+2021-01-20 09:57:52,149 Account information
+2021-01-20 09:57:52,654 Deposit information
+2021-01-20 09:57:53,197 Order history information
+2021-01-20 09:57:54,173 Portfolio information
+2021-01-20 10:01:30,761 Running algorithm started
+2021-01-20 10:51:58,962 Kiwoom initializing...
+2021-01-20 10:52:12,678 Kiwoom log in success
+2021-01-20 10:52:12,678 Account information
+2021-01-20 10:52:13,190 Deposit information
+2021-01-20 10:52:13,802 Order history information
+2021-01-20 10:52:14,825 Portfolio information
+2021-01-20 10:53:00,012 Running algorithm started
+2021-01-20 12:02:44,491 Kiwoom initializing...
+2021-01-20 12:02:53,640 Kiwoom log in success
+2021-01-20 12:02:53,641 Account information
+2021-01-20 12:02:54,148 Deposit information
+2021-01-20 12:02:54,683 Order history information
+2021-01-20 12:02:55,582 Portfolio information
+2021-01-20 12:02:59,483 Running algorithm started
+2021-01-20 12:09:59,428 Kiwoom initializing...
+2021-01-20 12:10:07,835 Kiwoom log in success
+2021-01-20 12:10:07,836 Account information
+2021-01-20 12:10:08,349 Deposit information
+2021-01-20 12:10:08,861 Portfolio information
+2021-01-20 12:10:08,906 Order history information
+2021-01-20 12:10:12,468 Running algorithm started
+2021-01-20 12:18:12,417 Kiwoom initializing...
+2021-01-20 12:18:17,157 Kiwoom log in success
+2021-01-20 12:18:17,157 Account information
+2021-01-20 12:18:17,670 Deposit information
+2021-01-20 12:18:18,221 Order history information
+2021-01-20 12:18:19,091 Portfolio information
+2021-01-20 12:18:21,520 Running algorithm started
+2021-01-20 12:20:33,855 Kiwoom initializing...
+2021-01-20 12:20:38,281 Kiwoom log in success
+2021-01-20 12:20:38,281 Account information
+2021-01-20 12:20:38,787 Deposit information
+2021-01-20 12:20:39,321 Order history information
+2021-01-20 12:20:40,169 Portfolio information
+2021-01-20 12:20:42,730 Running algorithm started
+2021-01-20 12:22:36,900 Kiwoom initializing...
+2021-01-20 12:22:41,275 Kiwoom log in success
+2021-01-20 12:22:41,276 Account information
+2021-01-20 12:22:41,794 Deposit information
+2021-01-20 12:22:42,332 Order history information
+2021-01-20 12:22:43,279 Portfolio information
+2021-01-20 12:22:44,509 Running algorithm started
+2021-01-20 12:30:55,709 Kiwoom initializing...
+2021-01-20 12:31:04,155 Kiwoom log in success
+2021-01-20 12:31:04,155 Account information
+2021-01-20 12:31:04,664 Deposit information
+2021-01-20 12:31:05,173 Portfolio information
+2021-01-20 12:31:05,217 Order history information
+2021-01-20 12:31:06,313 Running algorithm started
+2021-01-20 12:49:55,195 Kiwoom initializing...
+2021-01-20 12:50:04,096 Kiwoom log in success
+2021-01-20 12:50:04,096 Account information
+2021-01-20 12:50:04,605 Deposit information
+2021-01-20 12:50:05,140 Order history information
+2021-01-20 12:50:06,056 Portfolio information
+2021-01-20 12:50:20,361 Running algorithm started
+2021-01-20 12:53:24,782 Kiwoom initializing...
+2021-01-20 12:53:29,903 Kiwoom log in success
+2021-01-20 12:53:29,903 Account information
+2021-01-20 12:53:30,409 Deposit information
+2021-01-20 12:53:30,941 Order history information
+2021-01-20 12:53:31,800 Portfolio information
+2021-01-20 12:53:58,045 Kiwoom initializing...
+2021-01-20 12:54:02,700 Kiwoom log in success
+2021-01-20 12:54:02,700 Account information
+2021-01-20 12:54:03,212 Deposit information
+2021-01-20 12:54:03,743 Order history information
+2021-01-20 12:54:04,596 Portfolio information
+2021-01-20 12:56:26,281 Kiwoom initializing...
+2021-01-20 12:56:30,681 Kiwoom log in success
+2021-01-20 12:56:30,681 Account information
+2021-01-20 12:56:31,186 Deposit information
+2021-01-20 12:56:31,697 Portfolio information
+2021-01-20 12:56:31,732 Order history information
+2021-01-20 12:56:48,213 Running algorithm started
+2021-01-20 15:19:59,083 market operation state 2 152000 001000
+2021-01-20 15:20:59,079 market operation state 2 152100 000900
+2021-01-20 15:21:59,083 market operation state 2 152200 000800
+2021-01-20 15:22:59,089 market operation state 2 152300 000700
+2021-01-20 15:23:59,083 market operation state 2 152400 000600
+2021-01-20 15:24:59,084 market operation state 2 152500 000500
+2021-01-20 15:25:59,080 market operation state 2 152600 000400
+2021-01-20 15:26:59,076 market operation state 2 152700 000300
+2021-01-20 15:27:59,074 market operation state 2 152800 000200
+2021-01-20 15:28:59,071 market operation state 2 152900 000100
+2021-01-20 15:29:09,077 market operation state 2 152910 000050
+2021-01-20 15:29:19,071 market operation state 2 152920 000040
+2021-01-20 15:29:29,077 market operation state 2 152930 000030
+2021-01-20 15:29:39,081 market operation state 2 152940 000020
+2021-01-20 15:29:49,077 market operation state 2 152950 000010
+2021-01-20 15:29:59,070 market operation state 4 153000 000000
+2021-01-20 15:32:49,071 market operation state 8 888888 000000
+2021-01-20 15:34:59,260 market operation state s 153500 000000
+2021-01-20 15:34:59,261 market operation state s 153500 000000
+2021-01-20 15:34:59,261 market operation state s 153500 000000
+2021-01-20 15:34:59,261 market operation state s 153500 000000
+2021-01-20 15:34:59,262 market operation state s 153500 000000
+2021-01-20 15:34:59,262 market operation state s 153500 000000
+2021-01-20 15:34:59,366 market operation state s 153500 000000
+2021-01-20 15:34:59,367 market operation state s 153500 000000
+2021-01-20 15:34:59,367 market operation state s 153500 000000
+2021-01-20 15:34:59,367 market operation state s 153500 000000
+2021-01-20 15:34:59,367 market operation state s 153500 000000
+2021-01-20 15:34:59,368 market operation state s 153500 000000
+2021-01-20 15:34:59,368 market operation state s 153500 000000
+2021-01-20 15:34:59,368 market operation state s 153500 000000
+2021-01-20 15:34:59,368 market operation state s 153500 000000
+2021-01-20 15:34:59,459 market operation state s 153500 000000
+2021-01-20 15:34:59,460 market operation state s 153500 000000
+2021-01-20 15:39:58,955 market operation state a 154000 000000
+2021-01-20 15:41:06,335 Stop Charting KODEX 레버리지
+2021-01-20 15:44:59,446 market operation state e 154500 000000
+2021-01-20 15:44:59,447 market operation state e 154500 000000
+2021-01-20 15:44:59,551 market operation state e 154500 000000
+2021-01-20 15:44:59,552 market operation state e 154500 000000
+2021-01-20 15:44:59,658 market operation state e 154500 000000
+2021-01-20 15:44:59,658 market operation state e 154500 000000
+2021-01-20 15:44:59,748 market operation state e 154500 000000
+2021-01-20 15:44:59,854 market operation state e 154500 000000
+2021-01-20 15:44:59,854 market operation state e 154500 000000
+2021-01-20 15:44:59,960 market operation state e 154500 000000
+2021-01-20 15:44:59,961 market operation state e 154500 000000
+2021-01-20 15:45:00,052 market operation state e 154500 000000
+2021-01-20 15:45:00,249 market operation state e 154500 000000
+2021-01-20 15:45:00,446 market operation state e 154500 000000
+2021-01-20 15:45:00,645 market operation state e 154500 000000
+2021-01-20 15:45:00,841 market operation state e 154500 000000
+2021-01-20 15:45:00,949 market operation state e 154500 000000
+2021-01-20 15:59:58,932 market operation state b 160000 000000
+2021-01-20 15:59:58,932 market operation state c 160000 000000
+2021-01-20 17:59:58,838 market operation state d 180000 000000
+2021-01-20 18:01:18,830 market operation state 9 999999 000000
+2021-01-20 18:42:00,496 Kiwoom initializing...
+2021-01-20 18:42:09,887 Kiwoom log in success
+2021-01-20 18:42:09,887 Account information
+2021-01-20 18:42:10,400 Deposit information
+2021-01-20 18:42:10,915 Portfolio information
+2021-01-20 18:42:10,964 Order history information
+2021-01-20 18:42:20,029 Running algorithm started
+2021-01-20 18:42:52,856 Kiwoom initializing...
+2021-01-20 18:42:57,207 Kiwoom log in success
+2021-01-20 18:42:57,207 Account information
+2021-01-20 18:42:57,725 Deposit information
+2021-01-20 18:42:58,249 Portfolio information
+2021-01-20 18:42:58,294 Order history information
+2021-01-20 18:43:02,832 Running algorithm started
+2021-01-20 18:44:05,381 Kiwoom initializing...
+2021-01-20 18:44:09,646 Kiwoom log in success
+2021-01-20 18:44:09,647 Account information
+2021-01-20 18:44:10,162 Deposit information
+2021-01-20 18:44:10,677 Portfolio information
+2021-01-20 18:44:10,724 Order history information
+2021-01-20 18:44:16,950 Running algorithm started
+2021-01-20 18:44:32,955 Kiwoom initializing...
+2021-01-20 18:44:37,244 Kiwoom log in success
+2021-01-20 18:44:37,244 Account information
+2021-01-20 18:44:37,752 Deposit information
+2021-01-20 18:44:38,275 Portfolio information
+2021-01-20 18:44:38,321 Order history information
+2021-01-20 18:44:40,817 Running algorithm started

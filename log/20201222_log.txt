@@ -1,0 +1,286 @@
+2020-12-22 10:09:24,622 Kiwoom initializing...
+2020-12-22 10:11:21,159 Kiwoom initializing...
+2020-12-22 10:21:24,246 Kiwoom initializing...
+2020-12-22 10:22:18,440 Account information
+2020-12-22 10:49:33,432 Kiwoom initializing...
+2020-12-22 11:51:15,486 Kiwoom initializing...
+2020-12-22 11:55:24,484 Kiwoom initializing...
+2020-12-22 11:55:35,190 Kiwoom initializing...
+2020-12-22 11:57:24,228 Kiwoom initializing...
+2020-12-22 12:00:57,242 Kiwoom initializing...
+2020-12-22 12:01:02,441 Kiwoom log in success
+2020-12-22 12:01:02,441 Account information
+2020-12-22 12:01:02,950 Deposit information
+2020-12-22 12:01:03,774 Portfolio information
+2020-12-22 12:01:09,766 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:01:20,160 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:01:20,203 Portfolio information
+2020-12-22 12:08:37,629 Kiwoom initializing...
+2020-12-22 12:08:42,160 Kiwoom log in success
+2020-12-22 12:08:42,160 Account information
+2020-12-22 12:08:43,054 Deposit information
+2020-12-22 12:08:44,110 Portfolio information
+2020-12-22 12:09:48,828 Kiwoom initializing...
+2020-12-22 12:09:53,243 Kiwoom log in success
+2020-12-22 12:09:53,243 Account information
+2020-12-22 12:09:53,757 Deposit information
+2020-12-22 12:09:53,805 Portfolio information
+2020-12-22 12:09:58,106 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:10:23,744 Portfolio information
+2020-12-22 12:10:26,447 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:10:57,139 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:10:59,622 Portfolio information
+2020-12-22 12:11:04,652 Portfolio information
+2020-12-22 12:11:08,176 Portfolio information
+2020-12-22 12:11:10,120 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:12:00,063 Kiwoom initializing...
+2020-12-22 12:12:04,635 Kiwoom log in success
+2020-12-22 12:12:04,635 Account information
+2020-12-22 12:12:05,151 Deposit information
+2020-12-22 12:12:06,266 Portfolio information
+2020-12-22 12:12:07,210 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:12:19,606 Portfolio information
+2020-12-22 12:12:20,577 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:15:27,161 Running algorithm
+2020-12-22 12:18:48,847 Kiwoom initializing...
+2020-12-22 12:18:53,290 Kiwoom log in success
+2020-12-22 12:18:53,290 Account information
+2020-12-22 12:18:53,804 Deposit information
+2020-12-22 12:18:55,930 Portfolio information
+2020-12-22 12:19:12,829 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:19:45,419 Portfolio information
+2020-12-22 12:19:50,146 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:23:58,149 Running algorithm
+2020-12-22 12:24:23,700 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:168451, original number:0
+2020-12-22 12:24:23,743 Order history information
+2020-12-22 12:27:47,803 Kiwoom initializing...
+2020-12-22 12:27:52,272 Kiwoom log in success
+2020-12-22 12:27:52,273 Account information
+2020-12-22 12:27:52,792 Deposit information
+2020-12-22 12:27:53,783 Portfolio information
+2020-12-22 12:27:56,445 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:27:59,095 Portfolio information
+2020-12-22 12:28:00,089 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:28:15,935 Running algorithm
+2020-12-22 12:35:06,592 Kiwoom initializing...
+2020-12-22 12:35:15,630 Kiwoom log in success
+2020-12-22 12:35:15,631 Account information
+2020-12-22 12:35:16,413 Deposit information
+2020-12-22 12:35:18,911 Portfolio information
+2020-12-22 12:35:53,866 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:36:05,395 Portfolio information
+2020-12-22 12:36:05,497 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:37:45,487 Running algorithm
+2020-12-22 12:37:47,587 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:173171, original number:0
+2020-12-22 12:37:47,636 Order history information
+2020-12-22 12:38:28,971 Kiwoom initializing...
+2020-12-22 12:38:33,596 Kiwoom log in success
+2020-12-22 12:38:33,596 Account information
+2020-12-22 12:38:34,113 Deposit information
+2020-12-22 12:38:35,094 Portfolio information
+2020-12-22 12:38:41,336 오스템임플란트 trading information begins to be monitored
+2020-12-22 12:38:44,425 Portfolio information
+2020-12-22 12:38:44,545 오스템임플란트 stock information monitoring is finished
+2020-12-22 12:39:18,495 Running algorithm
+2020-12-22 12:40:42,751 Kiwoom initializing...
+2020-12-22 12:40:47,284 Kiwoom log in success
+2020-12-22 12:40:47,285 Account information
+2020-12-22 12:40:47,796 Deposit information
+2020-12-22 12:40:57,863 Portfolio information
+2020-12-22 12:41:11,520 Running algorithm
+2020-12-22 12:41:13,696 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:174344, original number:0
+2020-12-22 12:41:13,745 Order history information
+2020-12-22 12:41:14,282 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:174344, original number:0
+2020-12-22 12:41:14,284 Balance information
+2020-12-22 12:41:15,321 Deposit information
+2020-12-22 12:41:15,362 Order history information
+2020-12-22 12:41:15,500 Portfolio information
+2020-12-22 12:42:20,560 Kiwoom initializing...
+2020-12-22 12:42:25,134 Kiwoom log in success
+2020-12-22 12:42:25,135 Account information
+2020-12-22 12:42:25,640 Deposit information
+2020-12-22 12:42:26,024 Portfolio information
+2020-12-22 12:42:29,397 Running algorithm
+2020-12-22 13:10:30,988 Kiwoom initializing...
+2020-12-22 13:10:35,621 Kiwoom log in success
+2020-12-22 13:10:35,622 Account information
+2020-12-22 13:10:36,130 Deposit information
+2020-12-22 13:10:36,496 Portfolio information
+2020-12-22 13:10:37,860 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:11:03,342 Portfolio information
+2020-12-22 13:11:04,277 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:12:40,385 Running algorithm
+2020-12-22 13:13:11,322 Kiwoom initializing...
+2020-12-22 13:13:15,854 Kiwoom log in success
+2020-12-22 13:13:15,855 Account information
+2020-12-22 13:13:16,366 Deposit information
+2020-12-22 13:13:17,068 Portfolio information
+2020-12-22 13:13:18,221 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:13:26,499 Portfolio information
+2020-12-22 13:13:27,334 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:15:31,849 Running algorithm
+2020-12-22 13:15:32,067 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:189328, original number:0
+2020-12-22 13:15:32,108 Order history information
+2020-12-22 13:15:34,572 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:189328, original number:0
+2020-12-22 13:15:34,574 Balance information
+2020-12-22 13:15:35,611 Deposit information
+2020-12-22 13:15:35,638 Order history information
+2020-12-22 13:15:35,941 Portfolio information
+2020-12-22 13:16:00,184 Running algorithm
+2020-12-22 13:16:00,467 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:189607, original number:0
+2020-12-22 13:16:00,503 Order history information
+2020-12-22 13:16:01,956 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:189607, original number:0
+2020-12-22 13:16:01,958 Balance information
+2020-12-22 13:16:02,996 Deposit information
+2020-12-22 13:16:03,014 Portfolio information
+2020-12-22 13:16:03,024 Order history information
+2020-12-22 13:16:05,305 Running algorithm
+2020-12-22 13:16:05,575 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:189649, original number:0
+2020-12-22 13:16:05,611 Order history information
+2020-12-22 13:16:06,565 Order execution KODEX 레버리지(체결), order:100, executed:2, order number:189649, original number:0
+2020-12-22 13:16:06,569 Balance information
+2020-12-22 13:16:07,087 Deposit information
+2020-12-22 13:16:07,627 Order history information
+2020-12-22 13:16:07,652 Order execution KODEX 레버리지(체결), order:100, executed:4, order number:189649, original number:0
+2020-12-22 13:16:07,654 Balance information
+2020-12-22 13:16:08,608 Portfolio information
+2020-12-22 13:16:09,122 Deposit information
+2020-12-22 13:16:09,152 Order history information
+2020-12-22 13:16:09,269 Order execution KODEX 레버리지(체결), order:100, executed:14, order number:189649, original number:0
+2020-12-22 13:16:09,272 Balance information
+2020-12-22 13:16:10,133 Deposit information
+2020-12-22 13:16:10,645 Portfolio information
+2020-12-22 13:16:10,670 Order history information
+2020-12-22 13:16:11,169 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:189649, original number:0
+2020-12-22 13:16:11,171 Balance information
+2020-12-22 13:16:11,678 Deposit information
+2020-12-22 13:16:12,210 Order history information
+2020-12-22 13:16:12,317 Portfolio information
+2020-12-22 13:16:15,022 Running algorithm
+2020-12-22 13:16:15,162 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:189712, original number:0
+2020-12-22 13:16:15,195 Order history information
+2020-12-22 13:16:16,068 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:189712, original number:0
+2020-12-22 13:16:16,070 Balance information
+2020-12-22 13:16:17,098 Deposit information
+2020-12-22 13:16:17,125 Order history information
+2020-12-22 13:16:17,411 Portfolio information
+2020-12-22 13:16:23,386 Kiwoom initializing...
+2020-12-22 13:16:27,850 Kiwoom log in success
+2020-12-22 13:16:27,850 Account information
+2020-12-22 13:16:28,359 Deposit information
+2020-12-22 13:16:29,536 Portfolio information
+2020-12-22 13:16:39,836 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:16:52,129 Portfolio information
+2020-12-22 13:16:53,104 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:17:24,438 Kiwoom initializing...
+2020-12-22 13:17:28,889 Kiwoom log in success
+2020-12-22 13:17:28,889 Account information
+2020-12-22 13:17:29,396 Deposit information
+2020-12-22 13:17:30,220 Portfolio information
+2020-12-22 13:17:43,906 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:17:51,360 Portfolio information
+2020-12-22 13:17:52,134 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:18:13,008 Kiwoom initializing...
+2020-12-22 13:18:17,464 Kiwoom log in success
+2020-12-22 13:18:17,465 Account information
+2020-12-22 13:18:17,979 Deposit information
+2020-12-22 13:18:19,264 Portfolio information
+2020-12-22 13:18:25,165 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:18:38,176 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:18:38,268 Portfolio information
+2020-12-22 13:18:58,382 Kiwoom initializing...
+2020-12-22 13:19:02,920 Kiwoom log in success
+2020-12-22 13:19:02,921 Account information
+2020-12-22 13:19:03,433 Deposit information
+2020-12-22 13:19:04,132 Portfolio information
+2020-12-22 13:19:15,247 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:19:18,539 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:19:19,770 Portfolio information
+2020-12-22 13:19:54,138 Kiwoom initializing...
+2020-12-22 13:19:58,604 Kiwoom log in success
+2020-12-22 13:19:58,605 Account information
+2020-12-22 13:19:59,119 Deposit information
+2020-12-22 13:19:59,166 Portfolio information
+2020-12-22 13:20:14,919 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:20:24,842 Portfolio information
+2020-12-22 13:20:25,427 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:20:44,071 Kiwoom initializing...
+2020-12-22 13:20:48,554 Kiwoom log in success
+2020-12-22 13:20:48,554 Account information
+2020-12-22 13:20:49,060 Deposit information
+2020-12-22 13:20:49,874 Portfolio information
+2020-12-22 13:20:53,481 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:21:06,493 Portfolio information
+2020-12-22 13:21:06,550 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:21:41,616 Kiwoom initializing...
+2020-12-22 13:21:46,072 Kiwoom log in success
+2020-12-22 13:21:46,073 Account information
+2020-12-22 13:21:46,590 Deposit information
+2020-12-22 13:21:46,915 Portfolio information
+2020-12-22 13:21:56,635 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:22:14,307 Portfolio information
+2020-12-22 13:22:15,204 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:22:36,227 Kiwoom initializing...
+2020-12-22 13:22:40,593 Kiwoom log in success
+2020-12-22 13:22:40,594 Account information
+2020-12-22 13:22:41,102 Deposit information
+2020-12-22 13:22:42,084 Portfolio information
+2020-12-22 13:22:43,600 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:22:44,951 Portfolio information
+2020-12-22 13:22:49,010 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:23:04,114 Kiwoom initializing...
+2020-12-22 13:23:09,441 Kiwoom log in success
+2020-12-22 13:23:09,442 Account information
+2020-12-22 13:23:09,958 Deposit information
+2020-12-22 13:23:10,696 Portfolio information
+2020-12-22 13:23:11,502 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:23:24,423 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:23:29,159 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:23:46,812 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:23:46,831 Portfolio information
+2020-12-22 13:24:05,907 Kiwoom initializing...
+2020-12-22 13:24:11,331 Kiwoom log in success
+2020-12-22 13:24:11,331 Account information
+2020-12-22 13:24:12,837 Deposit information
+2020-12-22 13:24:14,446 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:24:16,127 Portfolio information
+2020-12-22 13:24:25,868 오스템임플란트 stock information monitoring is finished
+2020-12-22 13:24:28,416 Portfolio information
+2020-12-22 13:24:58,163 Kiwoom initializing...
+2020-12-22 13:25:02,589 Kiwoom log in success
+2020-12-22 13:25:02,589 Account information
+2020-12-22 13:25:03,095 Deposit information
+2020-12-22 13:25:03,142 Portfolio information
+2020-12-22 13:25:13,858 오스템임플란트 trading information begins to be monitored
+2020-12-22 13:25:28,767 Portfolio information
+2020-12-22 13:25:29,475 오스템임플란트 stock information monitoring is finished
+2020-12-22 14:34:38,593 Something is wrong during log-in
+2020-12-22 14:34:38,593 Login error -106
+2020-12-22 14:39:54,043 오스템임플란트 trading information begins to be monitored
+2020-12-22 14:40:14,070 Kiwoom initializing...
+2020-12-22 14:41:28,560 Something is wrong during log-in
+2020-12-22 14:41:28,560 Login error -100
+2020-12-22 14:41:28,562 Account information
+2020-12-22 14:41:28,590 Something is wrong during log-in
+2020-12-22 14:41:28,591 Login error -106
+2020-12-22 14:41:28,615 Something is wrong during log-in
+2020-12-22 14:41:28,615 Login error -106
+2020-12-22 14:41:38,191 Kiwoom initializing...
+2020-12-22 14:44:54,421 Kiwoom initializing...
+2020-12-22 15:57:12,157 Kiwoom initializing...
+2020-12-22 16:05:28,941 Kiwoom initializing...
+2020-12-22 17:10:37,739 Kiwoom initializing...
+2020-12-22 18:32:44,539 Kiwoom initializing...
+2020-12-22 18:33:13,543 Kiwoom initializing...
+2020-12-22 18:33:40,437 Kiwoom initializing...
+2020-12-22 18:49:35,578 Kiwoom initializing...
+2020-12-22 18:50:47,115 Kiwoom initializing...
+2020-12-22 18:51:47,554 Kiwoom initializing...
+2020-12-22 18:52:28,266 Kiwoom initializing...
+2020-12-22 18:53:29,818 Kiwoom initializing...
+2020-12-22 18:53:43,013 Kiwoom initializing...
+2020-12-22 19:17:27,947 Kiwoom initializing...
+2020-12-22 19:17:53,114 Kiwoom initializing...
+2020-12-22 19:19:11,822 Kiwoom initializing...
+2020-12-22 19:19:52,823 Kiwoom initializing...
+2020-12-22 19:20:07,634 Kiwoom initializing...

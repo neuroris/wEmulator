@@ -1,0 +1,3 @@
+2020-11-25 18:58:43,058 Kiwoom log in success
+2020-11-25 18:58:43,059 Account information acquired
+2020-11-25 18:58:43,087 Deposit information acquired

@@ -1,0 +1,236 @@
+2021-01-15 10:13:00,553 Kiwoom initializing...
+2021-01-15 10:13:46,488 Kiwoom log in success
+2021-01-15 10:13:46,488 Account information
+2021-01-15 10:13:46,998 Deposit information
+2021-01-15 10:13:47,518 Portfolio information
+2021-01-15 10:13:47,565 Order history information
+2021-01-15 10:39:55,258 Kiwoom initializing...
+2021-01-15 10:40:04,300 Kiwoom log in success
+2021-01-15 10:40:04,300 Account information
+2021-01-15 10:40:04,815 Deposit information
+2021-01-15 10:40:05,340 Portfolio information
+2021-01-15 10:40:05,382 Order history information
+2021-01-15 10:40:18,428 Go Charting KODEX 레버리지
+2021-01-15 10:41:05,069 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 10:44:14,218 Kiwoom initializing...
+2021-01-15 10:44:18,742 Kiwoom log in success
+2021-01-15 10:44:18,742 Account information
+2021-01-15 10:44:19,260 Deposit information
+2021-01-15 10:44:19,787 Portfolio information
+2021-01-15 10:44:19,826 Order history information
+2021-01-15 10:44:23,770 Go Charting KODEX 레버리지
+2021-01-15 10:44:29,762 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 10:45:30,672 Kiwoom initializing...
+2021-01-15 10:45:35,493 Kiwoom log in success
+2021-01-15 10:45:35,493 Account information
+2021-01-15 10:45:36,004 Deposit information
+2021-01-15 10:45:37,236 Portfolio information
+2021-01-15 10:45:37,380 Order history information
+2021-01-15 10:46:00,250 Go Charting KODEX 레버리지
+2021-01-15 10:46:07,089 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 11:05:47,064 Kiwoom initializing...
+2021-01-15 11:05:56,100 Kiwoom log in success
+2021-01-15 11:05:56,101 Account information
+2021-01-15 11:05:56,607 Deposit information
+2021-01-15 11:05:57,125 Portfolio information
+2021-01-15 11:05:57,187 Order history information
+2021-01-15 11:05:59,552 Go Charting KODEX 레버리지
+2021-01-15 11:06:01,792 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 11:06:27,807 Kiwoom initializing...
+2021-01-15 11:06:32,322 Kiwoom log in success
+2021-01-15 11:06:32,323 Account information
+2021-01-15 11:06:32,835 Deposit information
+2021-01-15 11:06:33,380 Order history information
+2021-01-15 11:06:34,248 Portfolio information
+2021-01-15 11:06:40,184 Go Charting KODEX 레버리지
+2021-01-15 11:07:12,791 Kiwoom initializing...
+2021-01-15 11:07:17,333 Kiwoom log in success
+2021-01-15 11:07:17,333 Account information
+2021-01-15 11:07:17,850 Deposit information
+2021-01-15 11:07:18,368 Portfolio information
+2021-01-15 11:07:18,419 Order history information
+2021-01-15 11:07:19,453 Go Charting KODEX 레버리지
+2021-01-15 11:08:11,455 Kiwoom initializing...
+2021-01-15 11:08:16,046 Kiwoom log in success
+2021-01-15 11:08:16,046 Account information
+2021-01-15 11:08:16,561 Deposit information
+2021-01-15 11:08:17,088 Portfolio information
+2021-01-15 11:08:17,124 Order history information
+2021-01-15 11:08:18,055 Go Charting KODEX 레버리지
+2021-01-15 11:16:24,973 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 11:16:28,033 Go Charting KODEX 레버리지
+2021-01-15 11:17:13,631 Go Charting 오스템임플란트
+2021-01-15 11:17:18,886 오스템임플란트 trading information begins to be monitored
+2021-01-15 11:18:16,249 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-15 11:18:20,844 Go Charting KODEX 200선물인버스2X
+2021-01-15 11:21:51,141 Kiwoom initializing...
+2021-01-15 11:21:59,770 Kiwoom log in success
+2021-01-15 11:21:59,770 Account information
+2021-01-15 11:22:00,275 Deposit information
+2021-01-15 11:22:00,798 Portfolio information
+2021-01-15 11:22:00,839 Order history information
+2021-01-15 11:22:03,339 Go Charting KODEX 레버리지
+2021-01-15 11:22:05,111 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 11:24:50,155 Kiwoom initializing...
+2021-01-15 11:24:55,080 Kiwoom log in success
+2021-01-15 11:24:55,080 Account information
+2021-01-15 11:24:55,589 Deposit information
+2021-01-15 11:24:56,115 Portfolio information
+2021-01-15 11:24:56,170 Order history information
+2021-01-15 11:25:04,733 Go Charting KODEX 레버리지
+2021-01-15 11:35:35,372 Kiwoom initializing...
+2021-01-15 11:35:44,176 Kiwoom log in success
+2021-01-15 11:35:44,176 Account information
+2021-01-15 11:35:44,690 Deposit information
+2021-01-15 11:35:45,202 Portfolio information
+2021-01-15 11:35:45,244 Order history information
+2021-01-15 11:35:51,347 Go Charting KODEX 레버리지
+2021-01-15 11:36:25,075 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 11:37:24,344 Kiwoom initializing...
+2021-01-15 11:37:29,416 Kiwoom log in success
+2021-01-15 11:37:29,416 Account information
+2021-01-15 11:37:29,931 Deposit information
+2021-01-15 11:37:30,452 Portfolio information
+2021-01-15 11:37:30,496 Order history information
+2021-01-15 11:57:51,741 Go Charting KODEX 레버리지
+2021-01-15 11:59:05,590 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 12:04:08,906 Kiwoom initializing...
+2021-01-15 12:04:13,656 Kiwoom log in success
+2021-01-15 12:04:13,657 Account information
+2021-01-15 12:04:14,170 Deposit information
+2021-01-15 12:04:14,682 Portfolio information
+2021-01-15 12:04:14,726 Order history information
+2021-01-15 12:04:20,045 Go Charting KODEX 레버리지
+2021-01-15 12:04:47,118 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 12:05:27,247 Go Charting 오스템임플란트
+2021-01-15 12:05:35,841 오스템임플란트 trading information begins to be monitored
+2021-01-15 12:05:59,905 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-15 12:06:17,973 Go Charting KODEX 200선물인버스2X
+2021-01-15 12:06:37,000 Kiwoom initializing...
+2021-01-15 12:06:41,537 Kiwoom log in success
+2021-01-15 12:06:41,537 Account information
+2021-01-15 12:06:42,054 Deposit information
+2021-01-15 12:06:42,577 Portfolio information
+2021-01-15 12:06:42,625 Order history information
+2021-01-15 12:06:54,676 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 12:06:56,301 Go Charting KODEX 레버리지
+2021-01-15 12:54:28,421 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-15 12:54:29,984 Go Charting KODEX 200선물인버스2X
+2021-01-15 12:54:59,236 Go Charting 오스템임플란트
+2021-01-15 12:55:00,285 오스템임플란트 trading information begins to be monitored
+2021-01-15 12:55:07,165 Go Charting KODEX 레버리지
+2021-01-15 12:58:19,060 Running algorithm started
+2021-01-15 12:58:43,334 Kiwoom initializing...
+2021-01-15 12:58:48,172 Kiwoom log in success
+2021-01-15 12:58:48,173 Account information
+2021-01-15 12:58:48,687 Deposit information
+2021-01-15 12:58:49,208 Portfolio information
+2021-01-15 12:58:49,253 Order history information
+2021-01-15 12:58:57,488 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 12:58:58,445 Go Charting KODEX 레버리지
+2021-01-15 12:59:14,848 Go Charting KODEX 200선물인버스2X
+2021-01-15 12:59:27,079 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-15 12:59:39,647 오스템임플란트 trading information begins to be monitored
+2021-01-15 12:59:41,251 Go Charting 오스템임플란트
+2021-01-15 12:59:52,287 Go Charting KODEX 레버리지
+2021-01-15 13:01:01,187 Kiwoom initializing...
+2021-01-15 13:01:05,707 Kiwoom log in success
+2021-01-15 13:01:05,707 Account information
+2021-01-15 13:01:06,216 Deposit information
+2021-01-15 13:01:06,741 Portfolio information
+2021-01-15 13:01:06,785 Order history information
+2021-01-15 13:01:22,984 Go Charting KODEX 레버리지
+2021-01-15 13:01:44,822 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 13:02:55,736 Kiwoom initializing...
+2021-01-15 13:03:00,356 Kiwoom log in success
+2021-01-15 13:03:00,356 Account information
+2021-01-15 13:03:00,873 Deposit information
+2021-01-15 13:03:01,388 Portfolio information
+2021-01-15 13:03:01,433 Order history information
+2021-01-15 13:03:11,107 Go Charting KODEX 레버리지
+2021-01-15 13:03:17,114 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 13:05:12,154 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-15 13:05:15,381 오스템임플란트 trading information begins to be monitored
+2021-01-15 13:05:21,957 Go Charting KODEX 200선물인버스2X
+2021-01-15 13:06:01,889 Go Charting KODEX 레버리지
+2021-01-15 13:15:02,587 Kiwoom initializing...
+2021-01-15 13:15:07,000 Kiwoom log in success
+2021-01-15 13:15:07,000 Account information
+2021-01-15 13:15:07,506 Deposit information
+2021-01-15 13:15:08,032 Portfolio information
+2021-01-15 13:15:08,080 Order history information
+2021-01-15 13:20:12,952 Kiwoom initializing...
+2021-01-15 13:20:17,464 Kiwoom log in success
+2021-01-15 13:20:17,465 Account information
+2021-01-15 13:20:17,977 Deposit information
+2021-01-15 13:20:18,502 Portfolio information
+2021-01-15 13:20:18,543 Order history information
+2021-01-15 13:21:38,096 Kiwoom initializing...
+2021-01-15 13:21:42,548 Kiwoom log in success
+2021-01-15 13:21:42,548 Account information
+2021-01-15 13:21:43,052 Deposit information
+2021-01-15 13:21:43,565 Portfolio information
+2021-01-15 13:21:43,615 Order history information
+2021-01-15 13:21:46,053 KODEX 레버리지 trading information begins to be monitored
+2021-01-15 13:21:48,010 Go Charting KODEX 레버리지
+2021-01-15 13:26:41,531 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-15 13:26:43,867 오스템임플란트 trading information begins to be monitored
+2021-01-15 13:26:47,044 F 202103 trading information begins to be monitored
+2021-01-15 14:29:01,543 Go Charting KODEX 레버리지
+2021-01-15 14:59:00,713 Go Charting F 202103
+2021-01-15 15:19:52,944 market operation state 2 152000 001000
+2021-01-15 15:20:52,900 market operation state 2 152100 000900
+2021-01-15 15:21:52,892 market operation state 2 152200 000800
+2021-01-15 15:22:52,900 market operation state 2 152300 000700
+2021-01-15 15:23:52,892 market operation state 2 152400 000600
+2021-01-15 15:24:52,950 market operation state 2 152500 000500
+2021-01-15 15:25:52,891 market operation state 2 152600 000400
+2021-01-15 15:26:52,886 market operation state 2 152700 000300
+2021-01-15 15:27:53,040 market operation state 2 152800 000200
+2021-01-15 15:28:52,895 market operation state 2 152900 000100
+2021-01-15 15:29:02,883 market operation state 2 152910 000050
+2021-01-15 15:29:12,882 market operation state 2 152920 000040
+2021-01-15 15:29:22,890 market operation state 2 152930 000030
+2021-01-15 15:29:32,910 market operation state 2 152940 000020
+2021-01-15 15:29:42,933 market operation state 2 152950 000010
+2021-01-15 15:29:53,060 market operation state 4 153000 000000
+2021-01-15 15:32:22,881 market operation state 8 888888 000000
+2021-01-15 15:34:52,968 market operation state s 153500 000000
+2021-01-15 15:34:52,969 market operation state s 153500 000000
+2021-01-15 15:34:52,969 market operation state s 153500 000000
+2021-01-15 15:34:52,969 market operation state s 153500 000000
+2021-01-15 15:34:52,969 market operation state s 153500 000000
+2021-01-15 15:34:53,074 market operation state s 153500 000000
+2021-01-15 15:34:53,075 market operation state s 153500 000000
+2021-01-15 15:34:53,075 market operation state s 153500 000000
+2021-01-15 15:34:53,075 market operation state s 153500 000000
+2021-01-15 15:34:53,076 market operation state s 153500 000000
+2021-01-15 15:34:53,076 market operation state s 153500 000000
+2021-01-15 15:34:53,076 market operation state s 153500 000000
+2021-01-15 15:34:53,076 market operation state s 153500 000000
+2021-01-15 15:34:53,077 market operation state s 153500 000000
+2021-01-15 15:34:53,077 market operation state s 153500 000000
+2021-01-15 15:34:53,077 market operation state s 153500 000000
+2021-01-15 15:34:53,078 market operation state s 153500 000000
+2021-01-15 15:39:53,462 market operation state a 154000 000000
+2021-01-15 15:44:53,253 market operation state e 154500 000000
+2021-01-15 15:44:53,359 market operation state e 154500 000000
+2021-01-15 15:44:53,360 market operation state e 154500 000000
+2021-01-15 15:44:53,360 market operation state e 154500 000000
+2021-01-15 15:44:53,360 market operation state e 154500 000000
+2021-01-15 15:44:53,464 market operation state e 154500 000000
+2021-01-15 15:44:53,465 market operation state e 154500 000000
+2021-01-15 15:44:53,555 market operation state e 154500 000000
+2021-01-15 15:44:53,662 market operation state e 154500 000000
+2021-01-15 15:44:53,662 market operation state e 154500 000000
+2021-01-15 15:44:53,754 market operation state e 154500 000000
+2021-01-15 15:44:53,754 market operation state e 154500 000000
+2021-01-15 15:44:54,057 market operation state e 154500 000000
+2021-01-15 15:44:54,255 market operation state e 154500 000000
+2021-01-15 15:44:54,450 market operation state e 154500 000000
+2021-01-15 15:44:54,666 market operation state e 154500 000000
+2021-01-15 15:44:54,667 market operation state e 154500 000000
+2021-01-15 15:59:53,437 market operation state b 160000 000000
+2021-01-15 15:59:53,437 market operation state c 160000 000000
+2021-01-15 17:59:53,242 market operation state d 180000 000000
+2021-01-15 18:03:22,527 market operation state 9 999999 000000

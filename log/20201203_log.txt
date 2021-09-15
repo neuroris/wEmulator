@@ -1,0 +1,343 @@
+2020-12-03 09:48:57,227 Kiwoom log in success
+2020-12-03 09:48:57,228 Account information acquired
+2020-12-03 09:48:57,259 Deposit information acquired
+2020-12-03 09:48:59,119 Portfolio information acquired
+2020-12-03 09:49:15,810 Open order information acquired
+2020-12-03 09:49:50,045 market operation state 0 09:50:00 00:10:00
+2020-12-03 09:51:09,030 Kiwoom log in success
+2020-12-03 09:51:09,031 Account information acquired
+2020-12-03 09:51:09,898 Deposit information acquired
+2020-12-03 09:51:12,138 Portfolio information acquired
+2020-12-03 09:51:42,465 Kiwoom log in success
+2020-12-03 09:51:42,466 Account information acquired
+2020-12-03 09:51:43,329 Deposit information acquired
+2020-12-03 09:51:46,061 Portfolio information acquired
+2020-12-03 09:51:50,020 market operation state 0 09:52:00 00:08:00
+2020-12-03 09:54:14,581 Kiwoom log in success
+2020-12-03 09:54:14,581 Account information acquired
+2020-12-03 09:54:15,444 Deposit information acquired
+2020-12-03 09:54:16,827 Portfolio information acquired
+2020-12-03 09:57:57,560 Kiwoom log in success
+2020-12-03 09:57:57,561 Account information acquired
+2020-12-03 09:57:58,441 Deposit information acquired
+2020-12-03 09:58:00,946 Portfolio information acquired
+2020-12-03 09:58:41,969 Kiwoom log in success
+2020-12-03 09:58:41,970 Account information acquired
+2020-12-03 09:58:43,000 Deposit information acquired
+2020-12-03 09:58:45,826 Portfolio information acquired
+2020-12-03 09:58:50,054 market operation state 0 09:59:00 00:01:00
+2020-12-03 09:59:18,086 Kiwoom log in success
+2020-12-03 09:59:18,086 Account information acquired
+2020-12-03 09:59:18,114 Deposit information acquired
+2020-12-03 09:59:20,033 market operation state 0 09:59:30 00:00:30
+2020-12-03 09:59:20,222 Portfolio information acquired
+2020-12-03 09:59:30,021 market operation state 0 09:59:40 00:00:20
+2020-12-03 10:00:19,052 Kiwoom log in success
+2020-12-03 10:00:19,052 Account information acquired
+2020-12-03 10:00:20,047 Deposit information acquired
+2020-12-03 10:00:22,543 Portfolio information acquired
+2020-12-03 10:01:31,063 Kiwoom log in success
+2020-12-03 10:01:31,064 Account information acquired
+2020-12-03 10:01:31,091 Deposit information acquired
+2020-12-03 10:01:33,164 Portfolio information acquired
+2020-12-03 10:09:28,171 Kiwoom log in success
+2020-12-03 10:09:28,172 Account information acquired
+2020-12-03 10:09:29,935 Deposit information acquired
+2020-12-03 10:09:34,269 Portfolio information acquired
+2020-12-03 10:10:28,668 Kiwoom log in success
+2020-12-03 10:10:28,669 Account information acquired
+2020-12-03 10:10:29,535 Deposit information acquired
+2020-12-03 10:10:31,750 Portfolio information acquired
+2020-12-03 10:11:18,079 Kiwoom log in success
+2020-12-03 10:11:18,112 Account information acquired
+2020-12-03 10:11:20,164 Deposit information acquired
+2020-12-03 10:11:24,722 Portfolio information acquired
+2020-12-03 10:53:12,424 Kiwoom log in success
+2020-12-03 10:53:12,424 Account information acquired
+2020-12-03 10:53:14,140 Deposit information acquired
+2020-12-03 10:53:18,339 Portfolio information acquired
+2020-12-03 11:16:43,832 Open order information acquired
+2020-12-03 11:17:23,719 Kiwoom log in success
+2020-12-03 11:17:23,720 Account information acquired
+2020-12-03 11:17:24,729 Deposit information acquired
+2020-12-03 11:17:26,996 Portfolio information acquired
+2020-12-03 11:17:32,321 Open order information acquired
+2020-12-03 11:19:14,949 Kiwoom log in success
+2020-12-03 11:19:14,949 Account information acquired
+2020-12-03 11:19:16,084 Deposit information acquired
+2020-12-03 11:19:19,209 Portfolio information acquired
+2020-12-03 11:19:22,165 Open order information acquired
+2020-12-03 11:22:37,187 Kiwoom log in success
+2020-12-03 11:22:37,188 Account information acquired
+2020-12-03 11:22:38,642 Deposit information acquired
+2020-12-03 11:22:41,591 Portfolio information acquired
+2020-12-03 11:22:43,578 Open order information acquired
+2020-12-03 11:26:41,192 Kiwoom log in success
+2020-12-03 11:26:41,192 Account information acquired
+2020-12-03 11:26:42,829 Deposit information acquired
+2020-12-03 11:26:45,452 Portfolio information acquired
+2020-12-03 11:26:57,476 Open order information acquired
+2020-12-03 11:32:58,664 Open order information acquired
+2020-12-03 11:36:05,790 Open order information acquired
+2020-12-03 11:36:21,155 Kiwoom log in success
+2020-12-03 11:36:21,156 Account information acquired
+2020-12-03 11:36:21,225 Deposit information acquired
+2020-12-03 11:36:23,966 Portfolio information acquired
+2020-12-03 11:38:07,545 Open order information acquired
+2020-12-03 11:38:39,114 Open order information acquired
+2020-12-03 11:40:37,751 Kiwoom log in success
+2020-12-03 11:40:37,751 Account information acquired
+2020-12-03 11:40:39,215 Deposit information acquired
+2020-12-03 11:43:16,017 Kiwoom log in success
+2020-12-03 11:43:16,018 Account information acquired
+2020-12-03 11:43:16,042 Deposit information acquired
+2020-12-03 11:43:18,829 Portfolio information acquired
+2020-12-03 11:43:21,627 Open order information acquired
+2020-12-03 11:43:29,010 Open order information acquired
+2020-12-03 11:45:18,270 Open order information acquired
+2020-12-03 11:47:13,011 Kiwoom log in success
+2020-12-03 11:47:13,011 Account information acquired
+2020-12-03 11:47:13,951 Deposit information acquired
+2020-12-03 11:47:16,570 Portfolio information acquired
+2020-12-03 11:47:21,340 Open order information acquired
+2020-12-03 11:47:33,930 Open order information acquired
+2020-12-03 11:47:50,133 Kiwoom log in success
+2020-12-03 11:47:50,134 Account information acquired
+2020-12-03 11:47:52,759 Deposit information acquired
+2020-12-03 11:47:56,078 Portfolio information acquired
+2020-12-03 11:48:19,771 Open order information acquired
+2020-12-03 11:53:53,615 Kiwoom log in success
+2020-12-03 11:53:53,615 Account information acquired
+2020-12-03 11:53:55,404 Deposit information acquired
+2020-12-03 11:53:59,069 Portfolio information acquired
+2020-12-03 11:54:19,599 Open order information acquired
+2020-12-03 11:56:27,663 Kiwoom log in success
+2020-12-03 11:56:27,664 Account information acquired
+2020-12-03 11:56:28,527 Deposit information acquired
+2020-12-03 11:56:31,806 Portfolio information acquired
+2020-12-03 11:56:34,502 Open order information acquired
+2020-12-03 11:56:46,354 오스템임플란트 stock information begins to be monitored
+2020-12-03 11:56:53,454 오스템임플란트 stock information monitoring is finished
+2020-12-03 11:57:52,092 Kiwoom log in success
+2020-12-03 11:57:52,093 Account information acquired
+2020-12-03 11:57:53,966 Deposit information acquired
+2020-12-03 11:57:57,538 Portfolio information acquired
+2020-12-03 11:58:02,750 Open order information acquired
+2020-12-03 11:58:11,717 Open order information acquired
+2020-12-03 12:00:46,041 Kiwoom log in success
+2020-12-03 12:00:46,041 Account information acquired
+2020-12-03 12:00:47,047 Deposit information acquired
+2020-12-03 12:00:49,889 Portfolio information acquired
+2020-12-03 12:01:00,316 Open order information acquired
+2020-12-03 12:01:05,237 Open order information acquired
+2020-12-03 12:04:41,854 오스템임플란트 stock information begins to be monitored
+2020-12-03 12:04:44,488 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-03 12:04:54,787 KODEX 레버리지 stock information begins to be monitored
+2020-12-03 12:12:47,831 Kiwoom log in success
+2020-12-03 12:12:47,832 Account information acquired
+2020-12-03 12:12:48,738 Deposit information acquired
+2020-12-03 12:12:51,853 Portfolio information acquired
+2020-12-03 12:12:53,500 Open order information acquired
+2020-12-03 12:12:57,094 Open order information acquired
+2020-12-03 12:14:40,826 Kiwoom log in success
+2020-12-03 12:14:40,827 Account information acquired
+2020-12-03 12:14:42,460 Deposit information acquired
+2020-12-03 12:14:46,177 Portfolio information acquired
+2020-12-03 12:14:48,009 Open order information acquired
+2020-12-03 12:14:53,049 Open order information acquired
+2020-12-03 12:15:39,981 Open order information acquired
+2020-12-03 12:16:04,049 Kiwoom log in success
+2020-12-03 12:16:04,050 Account information acquired
+2020-12-03 12:16:05,493 Deposit information acquired
+2020-12-03 12:16:09,452 Portfolio information acquired
+2020-12-03 12:16:11,068 Open order information acquired
+2020-12-03 12:16:15,074 Open order information acquired
+2020-12-03 12:16:46,775 Kiwoom log in success
+2020-12-03 12:16:46,776 Account information acquired
+2020-12-03 12:16:47,827 Deposit information acquired
+2020-12-03 12:16:51,117 Portfolio information acquired
+2020-12-03 12:17:19,928 Open order information acquired
+2020-12-03 12:18:17,133 Kiwoom log in success
+2020-12-03 12:18:17,133 Account information acquired
+2020-12-03 12:18:18,201 Deposit information acquired
+2020-12-03 12:18:22,588 Portfolio information acquired
+2020-12-03 12:18:23,681 Open order information acquired
+2020-12-03 12:18:28,127 Open order information acquired
+2020-12-03 12:18:31,613 Open order information acquired
+2020-12-03 12:19:48,571 Kiwoom log in success
+2020-12-03 12:19:48,571 Account information acquired
+2020-12-03 12:19:49,985 Deposit information acquired
+2020-12-03 12:19:54,755 Portfolio information acquired
+2020-12-03 12:20:01,816 Open order information acquired
+2020-12-03 12:21:06,132 Open order information acquired
+2020-12-03 12:21:44,595 Open order information acquired
+2020-12-03 12:22:42,437 Open order information acquired
+2020-12-03 12:23:04,449 Open order information acquired
+2020-12-03 12:23:12,389 Open order information acquired
+2020-12-03 12:23:19,356 Open order information acquired
+2020-12-03 12:23:20,922 Open order information acquired
+2020-12-03 12:23:31,183 Open order information acquired
+2020-12-03 12:23:47,404 Open order information acquired
+2020-12-03 12:23:49,933 Open order information acquired
+2020-12-03 12:23:54,998 Open order information acquired
+2020-12-03 12:23:57,183 Open order information acquired
+2020-12-03 12:23:58,409 Open order information acquired
+2020-12-03 12:23:59,587 Open order information acquired
+2020-12-03 12:24:01,553 Open order information acquired
+2020-12-03 12:24:03,128 Open order information acquired
+2020-12-03 12:24:04,946 Open order information acquired
+2020-12-03 12:24:10,141 Open order information acquired
+2020-12-03 12:24:27,465 Open order information acquired
+2020-12-03 12:24:29,846 Open order information acquired
+2020-12-03 12:25:36,657 Kiwoom log in success
+2020-12-03 12:25:36,657 Account information acquired
+2020-12-03 12:25:37,603 Deposit information acquired
+2020-12-03 12:25:39,918 Portfolio information acquired
+2020-12-03 12:26:23,135 Open order information acquired
+2020-12-03 12:29:37,685 Kiwoom log in success
+2020-12-03 12:29:37,685 Account information acquired
+2020-12-03 12:29:39,606 Deposit information acquired
+2020-12-03 12:29:43,140 Portfolio information acquired
+2020-12-03 12:30:22,774 Open order information acquired
+2020-12-03 12:38:16,868 Open order information acquired
+2020-12-03 12:41:53,325 Open order information acquired
+2020-12-03 12:47:58,523 Kiwoom log in success
+2020-12-03 12:47:58,523 Account information acquired
+2020-12-03 12:47:58,547 Deposit information acquired
+2020-12-03 12:47:59,654 Portfolio information acquired
+2020-12-03 12:49:09,690 Kiwoom log in success
+2020-12-03 12:49:09,690 Account information acquired
+2020-12-03 12:49:09,732 Deposit information acquired
+2020-12-03 12:49:11,260 Portfolio information acquired
+2020-12-03 12:50:45,162 Kiwoom log in success
+2020-12-03 12:50:45,162 Account information acquired
+2020-12-03 12:50:45,199 Deposit information acquired
+2020-12-03 12:50:46,900 Portfolio information acquired
+2020-12-03 12:50:55,219 Open order information acquired
+2020-12-03 12:54:02,981 Kiwoom log in success
+2020-12-03 12:54:02,982 Account information acquired
+2020-12-03 12:54:04,383 Deposit information acquired
+2020-12-03 12:54:08,464 Portfolio information acquired
+2020-12-03 12:58:34,358 Kiwoom log in success
+2020-12-03 12:58:34,358 Account information acquired
+2020-12-03 12:58:34,417 Deposit information acquired
+2020-12-03 12:58:37,387 Portfolio information acquired
+2020-12-03 12:59:03,793 Open order information acquired
+2020-12-03 13:10:19,195 Kiwoom log in success
+2020-12-03 13:10:19,195 Account information acquired
+2020-12-03 13:10:20,443 Deposit information acquired
+2020-12-03 13:12:28,575 Kiwoom log in success
+2020-12-03 13:12:28,575 Account information acquired
+2020-12-03 13:12:29,454 Deposit information acquired
+2020-12-03 13:12:32,820 Portfolio information acquired
+2020-12-03 13:12:35,727 오스템임플란트 stock information begins to be monitored
+2020-12-03 13:12:38,960 KODEX 레버리지 stock information begins to be monitored
+2020-12-03 13:12:41,665 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-03 13:12:47,213 Open order information acquired
+2020-12-03 13:13:16,342 Open order information acquired
+2020-12-03 13:14:21,843 Kiwoom log in success
+2020-12-03 13:14:21,844 Account information acquired
+2020-12-03 13:14:24,431 Deposit information acquired
+2020-12-03 13:14:28,499 Portfolio information acquired
+2020-12-03 13:15:28,491 Open order information acquired
+2020-12-03 13:15:52,940 Kiwoom log in success
+2020-12-03 13:15:52,941 Account information acquired
+2020-12-03 13:15:52,973 Deposit information acquired
+2020-12-03 13:15:55,505 Portfolio information acquired
+2020-12-03 13:16:00,360 Open order information acquired
+2020-12-03 13:18:30,962 오스템임플란트 stock information begins to be monitored
+2020-12-03 13:18:32,921 KODEX 레버리지 stock information begins to be monitored
+2020-12-03 13:18:34,663 KODEX 200선물인버스2X stock information begins to be monitored
+2020-12-03 14:09:26,558 KODEX 200선물인버스2X stock information monitoring is finished
+2020-12-03 14:09:29,513 KODEX 레버리지 stock information monitoring is finished
+2020-12-03 14:09:32,381 오스템임플란트 stock information monitoring is finished
+2020-12-03 14:10:04,517 Open order information acquired
+2020-12-03 14:23:04,379 Kiwoom log in success
+2020-12-03 14:23:04,379 Account information acquired
+2020-12-03 14:23:05,152 Deposit information acquired
+2020-12-03 14:23:08,948 Portfolio information acquired
+2020-12-03 14:23:21,760 Open order information acquired
+2020-12-03 14:23:23,435 Send order command committed KOA_NORMAL_BUY_KP_ORD
+2020-12-03 14:25:30,613 Open order information acquired
+2020-12-03 14:26:02,970 Open order information acquired
+2020-12-03 14:26:03,290 Send order command committed KOA_NORMAL_BUY_KP_ORD
+2020-12-03 14:30:18,164 Kiwoom log in success
+2020-12-03 14:30:18,164 Account information acquired
+2020-12-03 14:30:18,972 Deposit information acquired
+2020-12-03 14:30:20,614 Portfolio information acquired
+2020-12-03 14:30:43,256 Open order information acquired
+2020-12-03 14:30:43,519 Send order command committed KOA_NORMAL_SELL_KQ_ORD
+2020-12-03 14:35:06,837 Kiwoom log in success
+2020-12-03 14:35:06,837 Account information acquired
+2020-12-03 14:35:07,793 Deposit information acquired
+2020-12-03 14:35:10,269 Portfolio information acquired
+2020-12-03 14:35:43,888 Open order information acquired
+2020-12-03 14:35:44,598 Send order command committed KOA_NORMAL_BUY_KQ_ORD
+2020-12-03 15:13:09,101 Kiwoom log in success
+2020-12-03 15:13:09,101 Account information acquired
+2020-12-03 15:13:10,425 Deposit information acquired
+2020-12-03 15:13:14,795 Portfolio information acquired
+2020-12-03 15:13:21,245 Open order information acquired
+2020-12-03 15:14:08,824 Kiwoom log in success
+2020-12-03 15:14:08,825 Account information acquired
+2020-12-03 15:14:08,867 Deposit information acquired
+2020-12-03 15:14:10,999 Portfolio information acquired
+2020-12-03 15:14:18,061 Open order information acquired
+2020-12-03 15:14:55,584 Kiwoom log in success
+2020-12-03 15:14:55,584 Account information acquired
+2020-12-03 15:14:55,614 Deposit information acquired
+2020-12-03 15:14:57,458 Portfolio information acquired
+2020-12-03 15:15:01,932 Open order information acquired
+2020-12-03 15:15:34,210 Kiwoom log in success
+2020-12-03 15:15:34,211 Account information acquired
+2020-12-03 15:15:34,265 Deposit information acquired
+2020-12-03 15:15:36,196 Portfolio information acquired
+2020-12-03 15:15:44,986 Open order information acquired
+2020-12-03 16:49:05,534 Kiwoom log in success
+2020-12-03 16:49:05,535 Account information acquired
+2020-12-03 16:50:10,129 Kiwoom log in success
+2020-12-03 16:50:10,130 Account information acquired
+2020-12-03 16:51:07,556 Kiwoom log in success
+2020-12-03 16:51:07,557 Account information acquired
+2020-12-03 16:51:34,072 Kiwoom log in success
+2020-12-03 16:51:34,073 Account information acquired
+2020-12-03 17:21:32,837 Kiwoom log in success
+2020-12-03 17:21:36,377 Account information acquired
+2020-12-03 17:22:38,551 Kiwoom log in success
+2020-12-03 17:22:38,553 Account information acquired
+2020-12-03 17:22:38,585 Deposit information acquired
+2020-12-03 17:22:39,776 Portfolio information acquired
+2020-12-03 17:22:44,142 Open order information acquired
+2020-12-03 17:25:38,307 Kiwoom log in success
+2020-12-03 17:25:38,307 Account information acquired
+2020-12-03 17:25:38,333 Deposit information acquired
+2020-12-03 17:25:39,455 Portfolio information acquired
+2020-12-03 17:26:01,775 Kiwoom log in success
+2020-12-03 17:26:01,776 Account information acquired
+2020-12-03 17:26:01,805 Deposit information acquired
+2020-12-03 17:26:02,932 Portfolio information acquired
+2020-12-03 17:26:20,912 Kiwoom log in success
+2020-12-03 17:26:20,912 Account information acquired
+2020-12-03 17:26:20,942 Deposit information acquired
+2020-12-03 17:26:34,437 Kiwoom log in success
+2020-12-03 17:26:34,438 Account information acquired
+2020-12-03 17:26:34,466 Deposit information acquired
+2020-12-03 17:26:34,726 Portfolio information acquired
+2020-12-03 17:27:13,876 Kiwoom log in success
+2020-12-03 17:27:13,876 Account information acquired
+2020-12-03 17:27:13,919 Deposit information acquired
+2020-12-03 17:27:14,178 Portfolio information acquired
+2020-12-03 17:27:22,506 Kiwoom log in success
+2020-12-03 17:27:22,507 Account information acquired
+2020-12-03 17:27:22,549 Deposit information acquired
+2020-12-03 17:27:22,855 Portfolio information acquired
+2020-12-03 17:46:34,595 Kiwoom log in success
+2020-12-03 17:46:34,595 Account information acquired
+2020-12-03 17:46:34,629 Deposit information acquired
+2020-12-03 17:46:34,889 Portfolio information acquired
+2020-12-03 17:59:50,079 market operation state d 18:00:00 00:00:00
+2020-12-03 18:01:09,272 market operation state 9 99:99:99 00:00:00
+2020-12-03 19:12:39,234 Kiwoom log in success
+2020-12-03 19:12:39,235 Account information acquired
+2020-12-03 19:12:39,266 Deposit information acquired
+2020-12-03 19:12:39,528 Portfolio information acquired

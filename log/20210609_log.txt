@@ -1,0 +1,929 @@
+2021-06-09 09:42:44,338 Kiwoom initializing...
+2021-06-09 09:43:31,039 Kiwoom log in success
+2021-06-09 09:43:31,039 Account information
+2021-06-09 09:43:32,575 Deposit information (Futures)
+2021-06-09 09:43:32,575 No deposit information
+2021-06-09 09:43:33,646 Portfolio information (Futures)
+2021-06-09 09:43:34,095 Deposit information (Futures)
+2021-06-09 09:43:51,061 F 202106 trading information begins to be monitored
+2021-06-09 09:43:51,062 Go Charting F 202106
+2021-06-09 09:47:16,095 Kiwoom initializing...
+2021-06-09 09:47:25,090 Kiwoom log in success
+2021-06-09 09:47:25,091 Account information
+2021-06-09 09:47:27,139 Deposit information (Futures)
+2021-06-09 09:47:27,139 No deposit information
+2021-06-09 09:47:27,672 Portfolio information (Futures)
+2021-06-09 10:00:02,289 F 202106 trading information begins to be monitored
+2021-06-09 10:00:02,289 Go Charting F 202106
+2021-06-09 10:01:17,320 Kiwoom initializing...
+2021-06-09 10:01:25,509 Kiwoom log in success
+2021-06-09 10:01:25,509 Account information
+2021-06-09 10:01:26,517 Deposit information (Futures)
+2021-06-09 10:01:26,517 No deposit information
+2021-06-09 10:01:28,302 Portfolio information (Futures)
+2021-06-09 10:01:28,522 Deposit information (Futures)
+2021-06-09 10:01:40,738 F 202106 trading information begins to be monitored
+2021-06-09 10:01:40,738 Go Charting F 202106
+2021-06-09 10:02:52,902 Kiwoom initializing...
+2021-06-09 10:03:01,837 Kiwoom log in success
+2021-06-09 10:03:01,837 Account information
+2021-06-09 10:03:03,874 Deposit information (Futures)
+2021-06-09 10:03:03,874 No deposit information
+2021-06-09 10:03:04,645 Portfolio information (Futures)
+2021-06-09 10:03:20,943 F 202106 trading information begins to be monitored
+2021-06-09 10:03:20,943 Go Charting F 202106
+2021-06-09 10:03:38,149 Kiwoom initializing...
+2021-06-09 10:03:47,337 Kiwoom log in success
+2021-06-09 10:03:47,337 Account information
+2021-06-09 10:03:48,368 Deposit information (Futures)
+2021-06-09 10:03:48,368 No deposit information
+2021-06-09 10:03:50,124 Portfolio information
+2021-06-09 10:03:50,341 Deposit information (Futures)
+2021-06-09 10:04:41,515 F 202106 trading information begins to be monitored
+2021-06-09 10:04:41,515 Go Charting F 202106
+2021-06-09 10:05:21,579 Kiwoom initializing...
+2021-06-09 10:05:28,771 Kiwoom log in success
+2021-06-09 10:05:28,771 Account information
+2021-06-09 10:05:30,294 Deposit information (Futures)
+2021-06-09 10:05:30,295 No deposit information
+2021-06-09 10:05:31,623 Portfolio information
+2021-06-09 10:05:31,966 Deposit information (Futures)
+2021-06-09 10:05:34,417 F 202106 trading information begins to be monitored
+2021-06-09 10:05:34,417 Go Charting F 202106
+2021-06-09 10:06:22,220 Kiwoom initializing...
+2021-06-09 10:06:30,864 Kiwoom log in success
+2021-06-09 10:06:30,864 Account information
+2021-06-09 10:06:32,910 Deposit information (Futures)
+2021-06-09 10:06:32,910 No deposit information
+2021-06-09 10:06:33,454 Portfolio information (Futures)
+2021-06-09 10:18:57,902 F 202106 trading information begins to be monitored
+2021-06-09 10:18:57,902 Go Charting F 202106
+2021-06-09 10:19:59,780 Kiwoom initializing...
+2021-06-09 10:20:20,079 Kiwoom log in success
+2021-06-09 10:20:20,080 Account information
+2021-06-09 10:20:21,592 Deposit information (Futures)
+2021-06-09 10:20:21,592 No deposit information
+2021-06-09 10:20:23,138 Portfolio information (Futures)
+2021-06-09 10:20:23,565 Deposit information (Futures)
+2021-06-09 10:20:25,162 F 202106 trading information begins to be monitored
+2021-06-09 10:20:25,163 Go Charting F 202106
+2021-06-09 10:25:48,414 Kiwoom initializing...
+2021-06-09 10:25:54,857 Kiwoom log in success
+2021-06-09 10:25:54,857 Account information
+2021-06-09 10:25:55,870 Deposit information (Futures)
+2021-06-09 10:25:55,870 No deposit information
+2021-06-09 10:25:57,482 Portfolio information
+2021-06-09 10:25:57,856 Deposit information (Futures)
+2021-06-09 10:26:02,619 F 202106 trading information begins to be monitored
+2021-06-09 10:26:02,619 Go Charting F 202106
+2021-06-09 10:26:56,774 Kiwoom initializing...
+2021-06-09 10:27:06,357 Kiwoom log in success
+2021-06-09 10:27:06,357 Account information
+2021-06-09 10:27:07,891 Deposit information (Futures)
+2021-06-09 10:27:07,891 No deposit information
+2021-06-09 10:27:09,289 Portfolio information (Futures)
+2021-06-09 10:27:10,249 Deposit information (Futures)
+2021-06-09 10:27:56,135 [93mALGORITHM STARTED [97m
+2021-06-09 10:27:59,187 [93mALGORITHM STOPPED [97m
+2021-06-09 10:27:59,196 Go Charting F 202106
+2021-06-09 10:28:01,013 Go Charting F 202106
+2021-06-09 10:28:06,037 Kiwoom initializing...
+2021-06-09 10:28:14,945 Kiwoom log in success
+2021-06-09 10:28:14,946 Account information
+2021-06-09 10:28:15,966 Deposit information (Futures)
+2021-06-09 10:28:15,966 No deposit information
+2021-06-09 10:28:17,627 Portfolio information
+2021-06-09 10:28:18,545 Deposit information (Futures)
+2021-06-09 10:28:30,287 F 202106 trading information begins to be monitored
+2021-06-09 10:28:30,287 Go Charting F 202106
+2021-06-09 10:30:43,371 Kiwoom initializing...
+2021-06-09 10:30:54,043 Kiwoom log in success
+2021-06-09 10:30:54,043 Account information
+2021-06-09 10:30:55,565 Deposit information (Futures)
+2021-06-09 10:30:55,566 No deposit information
+2021-06-09 10:30:56,614 Portfolio information (Futures)
+2021-06-09 10:30:56,977 Deposit information (Futures)
+2021-06-09 10:31:02,866 F 202106 trading information begins to be monitored
+2021-06-09 10:31:02,866 Go Charting F 202106
+2021-06-09 10:32:41,490 Kiwoom initializing...
+2021-06-09 10:32:49,617 Kiwoom log in success
+2021-06-09 10:32:49,618 Account information
+2021-06-09 10:32:51,666 Deposit information (Futures)
+2021-06-09 10:32:51,666 No deposit information
+2021-06-09 10:32:52,239 Portfolio information (Futures)
+2021-06-09 10:32:59,187 F 202106 trading information begins to be monitored
+2021-06-09 10:32:59,187 Go Charting F 202106
+2021-06-09 10:44:40,125 Kiwoom initializing...
+2021-06-09 10:44:50,460 Kiwoom log in success
+2021-06-09 10:44:50,461 Account information
+2021-06-09 10:44:52,499 Deposit information (Futures)
+2021-06-09 10:44:52,499 No deposit information
+2021-06-09 10:44:53,093 Portfolio information (Futures)
+2021-06-09 10:44:56,367 F 202106 trading information begins to be monitored
+2021-06-09 10:44:56,367 Go Charting F 202106
+2021-06-09 10:46:03,244 Kiwoom initializing...
+2021-06-09 10:46:10,261 Kiwoom log in success
+2021-06-09 10:46:10,261 Account information
+2021-06-09 10:46:11,788 Deposit information (Futures)
+2021-06-09 10:46:11,788 No deposit information
+2021-06-09 10:46:13,219 Portfolio information (Futures)
+2021-06-09 10:46:13,835 Deposit information (Futures)
+2021-06-09 10:52:06,983 F 202106 trading information begins to be monitored
+2021-06-09 10:52:06,983 Go Charting F 202106
+2021-06-09 10:54:26,529 Kiwoom initializing...
+2021-06-09 10:54:39,715 Kiwoom log in success
+2021-06-09 10:54:39,715 Account information
+2021-06-09 10:54:40,740 Deposit information (Futures)
+2021-06-09 10:54:40,740 No deposit information
+2021-06-09 10:54:42,714 Portfolio information
+2021-06-09 10:54:43,087 Deposit information (Futures)
+2021-06-09 10:54:45,308 F 202106 trading information begins to be monitored
+2021-06-09 10:54:45,308 Go Charting F 202106
+2021-06-09 10:54:55,752 Kiwoom initializing...
+2021-06-09 10:55:05,250 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-06-09 10:55:05,250 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 10:55:30,928 Kiwoom initializing...
+2021-06-09 10:55:38,707 Kiwoom log in success
+2021-06-09 10:55:38,707 Account information
+2021-06-09 10:55:40,714 Deposit information (Futures)
+2021-06-09 10:55:40,714 No deposit information
+2021-06-09 10:55:41,639 Portfolio information (Futures)
+2021-06-09 10:55:48,226 F 202106 trading information begins to be monitored
+2021-06-09 10:55:48,226 Go Charting F 202106
+2021-06-09 10:56:33,616 Kiwoom initializing...
+2021-06-09 10:56:43,915 Kiwoom log in success
+2021-06-09 10:56:43,915 Account information
+2021-06-09 10:56:45,442 Deposit information (Futures)
+2021-06-09 10:56:45,443 No deposit information
+2021-06-09 10:56:46,871 Portfolio information (Futures)
+2021-06-09 10:56:47,433 Deposit information (Futures)
+2021-06-09 10:56:56,582 F 202106 trading information begins to be monitored
+2021-06-09 10:56:56,582 Go Charting F 202106
+2021-06-09 11:07:25,162 Kiwoom initializing...
+2021-06-09 11:07:37,677 Kiwoom log in success
+2021-06-09 11:07:37,677 Account information
+2021-06-09 11:07:39,731 Deposit information (Futures)
+2021-06-09 11:07:39,731 No deposit information
+2021-06-09 11:07:40,524 Portfolio information (Futures)
+2021-06-09 11:07:45,954 F 202106 trading information begins to be monitored
+2021-06-09 11:07:45,954 Go Charting F 202106
+2021-06-09 11:08:00,502 Stop Charting
+2021-06-09 11:08:04,058 Deposit information
+2021-06-09 11:08:05,861 Portfolio information
+2021-06-09 11:08:11,232 ¿À½ºÅÛÀÓÇÃ¶õÆ® trading information begins to be monitored
+2021-06-09 11:08:11,232 Go Charting ¿À½ºÅÛÀÓÇÃ¶õÆ®
+2021-06-09 11:08:32,699 Kiwoom initializing...
+2021-06-09 11:08:39,789 Kiwoom log in success
+2021-06-09 11:08:39,789 Account information
+2021-06-09 11:08:41,312 Deposit information (Futures)
+2021-06-09 11:08:41,312 No deposit information
+2021-06-09 11:08:42,403 Portfolio information (Futures)
+2021-06-09 11:08:42,729 Deposit information (Futures)
+2021-06-09 11:08:55,581 Deposit information
+2021-06-09 11:08:57,498 ¿À½ºÅÛÀÓÇÃ¶õÆ® trading information begins to be monitored
+2021-06-09 11:08:57,498 Go Charting ¿À½ºÅÛÀÓÇÃ¶õÆ®
+2021-06-09 11:08:57,652 Portfolio information
+2021-06-09 11:09:15,226 Kiwoom initializing...
+2021-06-09 11:09:22,311 Kiwoom log in success
+2021-06-09 11:09:22,311 Account information
+2021-06-09 11:09:23,336 Deposit information (Futures)
+2021-06-09 11:09:23,336 No deposit information
+2021-06-09 11:09:24,870 Portfolio information (Futures)
+2021-06-09 11:09:25,649 Deposit information (Futures)
+2021-06-09 11:09:30,311 Deposit information
+2021-06-09 11:09:32,529 Portfolio information
+2021-06-09 11:09:37,282 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-06-09 11:09:37,282 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 11:09:52,782 Kiwoom initializing...
+2021-06-09 11:10:01,139 Kiwoom log in success
+2021-06-09 11:10:01,140 Account information
+2021-06-09 11:10:02,169 Deposit information (Futures)
+2021-06-09 11:10:02,169 No deposit information
+2021-06-09 11:10:03,686 Portfolio information
+2021-06-09 11:10:03,923 Deposit information (Futures)
+2021-06-09 11:10:07,129 F 202106 trading information begins to be monitored
+2021-06-09 11:10:07,129 Go Charting F 202106
+2021-06-09 11:11:25,092 Kiwoom initializing...
+2021-06-09 11:11:33,143 Kiwoom log in success
+2021-06-09 11:11:33,143 Account information
+2021-06-09 11:11:34,252 Deposit information (Futures)
+2021-06-09 11:11:34,252 No deposit information
+2021-06-09 11:11:35,991 Portfolio information
+2021-06-09 11:11:36,302 Deposit information (Futures)
+2021-06-09 11:15:18,654 Kiwoom initializing...
+2021-06-09 11:15:25,602 Kiwoom log in success
+2021-06-09 11:15:25,602 Account information
+2021-06-09 11:15:26,615 Deposit information (Futures)
+2021-06-09 11:15:26,616 No deposit information
+2021-06-09 11:15:28,153 Portfolio information
+2021-06-09 11:15:28,531 Deposit information (Futures)
+2021-06-09 11:15:34,986 F 202106 trading information begins to be monitored
+2021-06-09 11:15:34,987 Go Charting F 202106
+2021-06-09 11:40:43,639 Kiwoom initializing...
+2021-06-09 11:40:50,170 Kiwoom log in success
+2021-06-09 11:40:50,170 Account information
+2021-06-09 11:40:51,197 Deposit information (Futures)
+2021-06-09 11:40:51,197 No deposit information
+2021-06-09 11:40:52,853 Portfolio information
+2021-06-09 11:40:53,348 Deposit information (Futures)
+2021-06-09 11:40:58,361 F 202106 trading information begins to be monitored
+2021-06-09 11:40:58,362 Go Charting F 202106
+2021-06-09 11:41:41,669 Kiwoom initializing...
+2021-06-09 11:41:47,926 Kiwoom log in success
+2021-06-09 11:41:47,927 Account information
+2021-06-09 11:41:48,438 Deposit information
+2021-06-09 11:41:50,485 Deposit information (Futures)
+2021-06-09 11:41:50,534 Portfolio information (Futures)
+2021-06-09 11:41:53,712 F 202106 trading information begins to be monitored
+2021-06-09 11:41:53,712 Go Charting F 202106
+2021-06-09 11:50:17,351 Kiwoom initializing...
+2021-06-09 11:50:29,531 Kiwoom log in success
+2021-06-09 11:50:29,531 Account information
+2021-06-09 11:50:30,555 Deposit information (Futures)
+2021-06-09 11:50:30,555 No deposit information
+2021-06-09 11:50:32,089 Portfolio information
+2021-06-09 11:50:32,137 Deposit information (Futures)
+2021-06-09 11:51:16,334 F 202106 trading information begins to be monitored
+2021-06-09 11:51:16,334 Go Charting F 202106
+2021-06-09 12:47:52,209 Kiwoom initializing...
+2021-06-09 12:48:01,500 Kiwoom log in success
+2021-06-09 12:48:01,500 Account information
+2021-06-09 12:48:03,044 Deposit information (Futures)
+2021-06-09 12:48:03,044 No deposit information
+2021-06-09 12:48:04,245 Portfolio information
+2021-06-09 12:48:04,400 Deposit information (Futures)
+2021-06-09 12:48:08,363 F 202106 trading information begins to be monitored
+2021-06-09 12:48:08,363 Go Charting F 202106
+2021-06-09 12:52:21,688 Kiwoom initializing...
+2021-06-09 12:52:34,014 Kiwoom log in success
+2021-06-09 12:52:34,014 Account information
+2021-06-09 12:52:35,031 Deposit information (Futures)
+2021-06-09 12:52:35,031 No deposit information
+2021-06-09 12:52:36,556 Portfolio information (Futures)
+2021-06-09 12:52:36,661 Deposit information (Futures)
+2021-06-09 12:52:44,720 F 202106 trading information begins to be monitored
+2021-06-09 12:52:44,721 Go Charting F 202106
+2021-06-09 12:55:11,762 Kiwoom initializing...
+2021-06-09 12:55:20,039 Kiwoom log in success
+2021-06-09 12:55:20,039 Account information
+2021-06-09 12:55:21,569 Deposit information (Futures)
+2021-06-09 12:55:21,570 No deposit information
+2021-06-09 12:55:23,047 Portfolio information (Futures)
+2021-06-09 12:55:23,354 Deposit information (Futures)
+2021-06-09 12:55:25,483 F 202106 trading information begins to be monitored
+2021-06-09 12:55:25,484 Go Charting F 202106
+2021-06-09 12:56:09,446 Kiwoom initializing...
+2021-06-09 12:56:16,149 Kiwoom log in success
+2021-06-09 12:56:16,149 Account information
+2021-06-09 12:56:17,159 Deposit information (Futures)
+2021-06-09 12:56:17,159 No deposit information
+2021-06-09 12:56:18,890 Portfolio information (Futures)
+2021-06-09 12:56:19,045 Deposit information (Futures)
+2021-06-09 12:56:31,348 F 202106 trading information begins to be monitored
+2021-06-09 12:56:31,349 Go Charting F 202106
+2021-06-09 13:03:37,357 Kiwoom initializing...
+2021-06-09 13:03:49,858 Kiwoom log in success
+2021-06-09 13:03:49,858 Account information
+2021-06-09 13:03:51,378 Deposit information (Futures)
+2021-06-09 13:03:51,379 No deposit information
+2021-06-09 13:03:52,784 Portfolio information
+2021-06-09 13:03:53,254 Deposit information (Futures)
+2021-06-09 13:04:02,340 F 202106 trading information begins to be monitored
+2021-06-09 13:04:02,340 Go Charting F 202106
+2021-06-09 13:05:11,831 Kiwoom initializing...
+2021-06-09 13:05:21,937 Kiwoom log in success
+2021-06-09 13:05:21,938 Account information
+2021-06-09 13:05:22,960 Deposit information (Futures)
+2021-06-09 13:05:22,960 No deposit information
+2021-06-09 13:05:24,508 Portfolio information (Futures)
+2021-06-09 13:05:24,932 Deposit information (Futures)
+2021-06-09 13:06:27,785 F 202106 trading information begins to be monitored
+2021-06-09 13:06:27,785 Go Charting F 202106
+2021-06-09 13:07:08,430 Kiwoom initializing...
+2021-06-09 13:07:18,956 Kiwoom log in success
+2021-06-09 13:07:18,956 Account information
+2021-06-09 13:07:20,478 Deposit information (Futures)
+2021-06-09 13:07:20,478 No deposit information
+2021-06-09 13:07:22,086 Portfolio information
+2021-06-09 13:07:22,528 Deposit information (Futures)
+2021-06-09 13:08:56,723 F 202106 trading information begins to be monitored
+2021-06-09 13:08:56,723 Go Charting F 202106
+2021-06-09 13:09:12,413 Kiwoom initializing...
+2021-06-09 13:09:22,077 Kiwoom log in success
+2021-06-09 13:09:22,077 Account information
+2021-06-09 13:09:23,100 Deposit information (Futures)
+2021-06-09 13:09:23,100 No deposit information
+2021-06-09 13:09:24,636 Portfolio information (Futures)
+2021-06-09 13:09:24,708 Deposit information (Futures)
+2021-06-09 13:09:45,660 F 202106 trading information begins to be monitored
+2021-06-09 13:09:45,661 Go Charting F 202106
+2021-06-09 13:17:44,873 Kiwoom initializing...
+2021-06-09 13:17:57,066 Kiwoom log in success
+2021-06-09 13:17:57,067 Account information
+2021-06-09 13:17:58,597 Deposit information (Futures)
+2021-06-09 13:17:58,597 No deposit information
+2021-06-09 13:18:00,009 Portfolio information
+2021-06-09 13:18:00,225 Deposit information (Futures)
+2021-06-09 13:18:58,018 F 202106 trading information begins to be monitored
+2021-06-09 13:18:58,019 Go Charting F 202106
+2021-06-09 14:24:05,410 Kiwoom initializing...
+2021-06-09 14:24:16,510 Kiwoom log in success
+2021-06-09 14:24:16,510 Account information
+2021-06-09 14:24:18,016 Deposit information (Futures)
+2021-06-09 14:24:18,016 No deposit information
+2021-06-09 14:24:19,271 Portfolio information (Futures)
+2021-06-09 14:24:19,979 Deposit information (Futures)
+2021-06-09 14:24:22,207 F 202106 trading information begins to be monitored
+2021-06-09 14:24:22,207 Go Charting F 202106
+2021-06-09 14:25:03,729 Kiwoom initializing...
+2021-06-09 14:25:10,642 Kiwoom log in success
+2021-06-09 14:25:10,642 Account information
+2021-06-09 14:25:11,652 Deposit information (Futures)
+2021-06-09 14:25:11,653 No deposit information
+2021-06-09 14:25:13,465 Portfolio information
+2021-06-09 14:25:13,573 Deposit information (Futures)
+2021-06-09 14:25:20,059 F 202106 trading information begins to be monitored
+2021-06-09 14:25:20,059 Go Charting F 202106
+2021-06-09 14:25:37,224 Stop Charting
+2021-06-09 14:25:39,694 Deposit information
+2021-06-09 14:25:41,310 Portfolio information
+2021-06-09 14:25:44,615 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-06-09 14:25:44,616 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 14:26:26,140 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 14:26:30,439 Stop Charting
+2021-06-09 14:26:32,238 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 14:26:51,545 Deposit information (Futures)
+2021-06-09 14:26:51,993 Portfolio information (Futures)
+2021-06-09 14:26:53,159 F 202106 stock information monitoring is finished
+2021-06-09 14:26:55,303 Stop Charting
+2021-06-09 14:26:58,336 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 14:26:58,570 Deposit information
+2021-06-09 14:27:00,372 Portfolio information
+2021-06-09 14:30:24,780 Kiwoom initializing...
+2021-06-09 14:30:32,428 Kiwoom log in success
+2021-06-09 14:30:32,428 Account information
+2021-06-09 14:30:33,442 Deposit information (Futures)
+2021-06-09 14:30:33,443 No deposit information
+2021-06-09 14:30:34,987 Portfolio information (Futures)
+2021-06-09 14:30:35,351 Deposit information (Futures)
+2021-06-09 14:31:06,723 F 202106 trading information begins to be monitored
+2021-06-09 14:31:06,723 Go Charting F 202106
+2021-06-09 14:31:14,025 Deposit information
+2021-06-09 14:31:16,048 Portfolio information
+2021-06-09 14:31:17,166 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-06-09 14:31:17,167 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 14:31:33,780 Go Charting KODEX ·¹¹ö¸®Áö
+2021-06-09 14:48:32,760 OUT
+2021-06-09 14:48:32,760 OUT
+2021-06-09 14:48:44,028 Kiwoom initializing...
+2021-06-09 14:48:51,701 Kiwoom log in success
+2021-06-09 14:48:51,702 Account information
+2021-06-09 14:48:52,713 Deposit information (Futures)
+2021-06-09 14:48:52,713 No deposit information
+2021-06-09 14:48:54,552 Portfolio information (Futures)
+2021-06-09 14:48:54,939 Deposit information (Futures)
+2021-06-09 14:49:08,170 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-09 14:49:08,174 Order execution(-¸Åµµ) F 202106(Á¢¼ö), order:1, executed_sum:0, open:1, price:398.35, number:51903, original:0
+2021-06-09 14:49:08,176 Balance information
+2021-06-09 14:49:12,280 Order execution(-¸Åµµ) F 202106(Ã¼°á), order:1, executed_sum:1, open:0, price:398.35, number:51903, original:0
+2021-06-09 14:49:12,281 Balance information
+2021-06-09 14:49:17,946 [93mALGORITHM STARTED [97m
+2021-06-09 14:49:24,088 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,088 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,090 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,090 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,091 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,091 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,093 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,093 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,094 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,094 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,096 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,096 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,099 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:24,099 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:25,486 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:25,487 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:25,773 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:25,773 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:35,787 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:35,787 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:36,182 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:36,182 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,881 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,882 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,883 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,883 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,885 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,885 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,974 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,974 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,975 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,975 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,977 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:37,977 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:39,273 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:39,274 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:39,275 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:39,275 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:42,477 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:42,477 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:47,282 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:47,282 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:52,579 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:52,580 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:52,986 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:52,986 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:55,585 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:55,585 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:56,887 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:56,888 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:57,580 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:57,580 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:57,675 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:57,675 Diff5: -0.009999999999990905, DiffDifff5[-1]:-0.019999999999990907, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:59,980 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:49:59,980 Diff5: 0.0, DiffDifff5[-1]:-0.01, DiffDiff10[-1]: 0.01, DiffDiff10[-2]: -0.02
+2021-06-09 14:50:00,014 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,021 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,088 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,088 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,181 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,181 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,275 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,275 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,276 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,277 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,278 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,278 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,280 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:00,280 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,485 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,485 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,684 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,684 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,783 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,785 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,789 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,789 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,791 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,791 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,792 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,792 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,794 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,795 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,796 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,796 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,808 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,808 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,810 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:02,810 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:03,478 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:03,478 Diff5: -0.01999999999998181, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.009999999999990905, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,078 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,083 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,106 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,107 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,202 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,205 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,478 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,478 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,492 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,493 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,500 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,501 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,503 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,505 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,523 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,530 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,595 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,595 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,597 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,597 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,690 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,690 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,691 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,691 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,878 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,879 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,880 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,881 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,882 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,882 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,883 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,884 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,885 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:04,885 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,171 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,171 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,576 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,576 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,578 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,578 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,977 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,978 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,979 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:05,980 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,085 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,085 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,086 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,086 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,088 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,088 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,478 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,479 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,480 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:06,480 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:08,085 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:08,085 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:12,176 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:12,176 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:13,880 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:13,881 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:16,280 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:16,281 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,486 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,486 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,972 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,973 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,974 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,974 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,975 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,975 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,976 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,977 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,978 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,978 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,979 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:24,979 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:29,178 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:29,178 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:32,480 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.05000000000001137, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:32,480 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.05000000000001137, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,180 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,181 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,216 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,221 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,273 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,273 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,277 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,277 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,285 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:33,285 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:36,780 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:36,780 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:42,483 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:42,483 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:47,882 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:47,882 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:48,979 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:48,980 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.03999999999996362, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,684 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,684 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,728 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,729 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,773 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,774 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,783 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,783 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,785 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,785 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,788 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,788 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,790 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,790 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,794 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,801 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,804 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,805 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,808 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:49,808 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:51,980 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:51,980 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,181 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,181 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,183 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,183 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,184 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,185 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,878 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:52,879 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:55,875 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:55,876 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:55,877 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:55,877 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:55,878 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:55,879 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:59,781 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:50:59,781 Diff5: -0.029999999999972715, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.01
+2021-06-09 14:51:04,184 Diff5: 0.0, DiffDifff5[-1]:0.029999999999972715, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.0
+2021-06-09 14:51:04,184 Diff5: 0.0, DiffDifff5[-1]:0.029999999999972715, DiffDiff10[-1]: 0.029999999999972715, DiffDiff10[-2]: 0.0
+2021-06-09 14:51:04,186 [96mALGORITHM (BUY) holding:0 price:0 amount:2331.0 [97m
+2021-06-09 15:00:17,972 Kiwoom initializing...
+2021-06-09 15:00:26,387 Kiwoom log in success
+2021-06-09 15:00:26,387 Account information
+2021-06-09 15:00:27,413 Deposit information (Futures)
+2021-06-09 15:00:27,413 No deposit information
+2021-06-09 15:00:28,940 Portfolio information
+2021-06-09 15:00:29,078 Deposit information (Futures)
+2021-06-09 15:00:38,038 [93mALGORITHM STARTED [97m
+2021-06-09 15:00:45,502 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,502 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,504 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,505 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,507 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,507 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,609 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,609 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,611 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,611 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,613 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,613 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,615 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:45,616 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,203 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,203 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,205 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,206 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,208 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,208 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,210 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,210 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,212 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,212 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,214 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,214 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,215 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,216 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,401 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,401 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,403 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,403 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,405 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,406 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,408 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,408 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,597 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:50,597 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:53,209 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:53,209 Diff5: -0.03, DiffDifff5[-1]:0.0, DiffDiff10[-1]: -0.01, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:53,502 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:53,502 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,694 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,694 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,801 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,802 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,804 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,804 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,806 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,806 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,895 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:57,896 Diff5: -0.040000000000020464, DiffDifff5[-1]:-0.010000000000020465, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,599 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,599 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,798 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,798 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,801 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,801 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,803 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,803 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,905 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:00:58,906 Diff5: -0.03000000000002956, DiffDifff5[-1]:-2.955968803064479e-14, DiffDiff10[-1]: -0.020000000000029557, DiffDiff10[-2]: 0.02
+2021-06-09 15:01:02,703 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:02,703 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:03,705 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:03,705 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:04,797 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:04,797 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:06,397 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:06,398 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:07,498 Diff5: -0.060000000000002274, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.010000000000047748, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:07,498 Diff5: -0.060000000000002274, DiffDifff5[-1]:-0.029999999999972715, DiffDiff10[-1]: 0.010000000000047748, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:08,110 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:08,110 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,006 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,006 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,007 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,008 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,009 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,010 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,204 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:10,204 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,902 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,902 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,904 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,905 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,907 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,907 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,908 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,909 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,910 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,911 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,913 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,913 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,914 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,915 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,918 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,918 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,920 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,920 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,922 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,922 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,924 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,924 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,926 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:15,926 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,008 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,008 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,010 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,011 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,013 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,013 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,016 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,016 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,020 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,020 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,022 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,025 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,028 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,028 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,031 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,031 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,104 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,105 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,107 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,107 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,401 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,402 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,404 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,404 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,406 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,406 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,408 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,409 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,410 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,410 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,412 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,413 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,601 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:16,601 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,098 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,098 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,101 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,101 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,103 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,103 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,295 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,295 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,602 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:18,602 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,497 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,497 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,499 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,499 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,501 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,501 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,905 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,905 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,907 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,908 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,996 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:21,996 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:22,895 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:22,895 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:22,897 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:22,898 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:22,899 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:22,900 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:23,002 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:23,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:26,704 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:26,704 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:28,800 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:28,800 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:28,802 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:28,802 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:28,896 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:28,896 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,001 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,001 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,904 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,904 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,906 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,906 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,995 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,996 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,998 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,998 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:29,999 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,000 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,001 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,002 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,003 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,394 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,394 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,700 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:30,701 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:31,298 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:31,298 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:33,408 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:33,409 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:33,893 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:33,893 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:35,101 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:35,101 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:37,393 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:37,393 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:38,397 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:38,398 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:40,298 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:40,298 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:42,894 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:42,894 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:45,698 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:45,699 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:47,802 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:47,802 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:58,495 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:58,495 Diff5: -0.03999999999996362, DiffDifff5[-1]:-0.009999999999934062, DiffDiff10[-1]: 0.03000000000002956, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,608 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,608 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,641 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,642 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,709 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,711 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,717 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,718 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,723 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,723 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,724 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,725 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,727 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,727 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,730 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:01:59,730 Diff5: -0.05000000000001137, DiffDifff5[-1]:-0.01999999999998181, DiffDiff10[-1]: 0.020000000000038654, DiffDiff10[-2]: -0.020000000000029557
+2021-06-09 15:02:00,205 Diff5: -0.03999999999996362, DiffDifff5[-1]:0.010000000000047748, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:00,205 Diff5: -0.03999999999996362, DiffDifff5[-1]:0.010000000000047748, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:00,248 Diff5: -0.03999999999996362, DiffDifff5[-1]:0.010000000000047748, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:00,255 Diff5: -0.03999999999996362, DiffDifff5[-1]:0.010000000000047748, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:00,793 Diff5: -0.03999999999996362, DiffDifff5[-1]:0.010000000000047748, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:00,793 Diff5: -0.03999999999996362, DiffDifff5[-1]:0.010000000000047748, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:06,195 Diff5: -0.049999999999954525, DiffDifff5[-1]:5.684341886080802e-14, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:06,195 Diff5: -0.049999999999954525, DiffDifff5[-1]:5.684341886080802e-14, DiffDiff10[-1]: 0.0, DiffDiff10[-2]: 0.020000000000038654
+2021-06-09 15:02:06,195 [96mALGORITHM (SELL) holding:0 price:0 amount:2331.0 [97m
+2021-06-09 16:58:42,370 Kiwoom initializing...
+2021-06-09 16:58:59,909 Kiwoom log in success
+2021-06-09 16:58:59,910 Account information
+2021-06-09 16:59:00,417 Deposit information
+2021-06-09 16:59:00,923 Portfolio information
+2021-06-09 16:59:01,423 Deposit information (Futures)
+2021-06-09 16:59:02,433 Deposit information (Futures)
+2021-06-09 16:59:04,436 Portfolio information (NO ITEM)
+2021-06-09 16:59:05,450 Portfolio information (NO ITEM)
+2021-06-09 17:00:43,865 [93mALGORITHM STARTED [97m
+2021-06-09 17:03:37,603 Kiwoom initializing...
+2021-06-09 17:03:52,397 Something is wrong during log-in
+2021-06-09 17:03:52,397 Login error -100
+2021-06-09 17:03:52,398 Account information
+2021-06-09 17:03:52,435 Something is wrong during log-in
+2021-06-09 17:03:52,435 Login error -106
+2021-06-09 17:03:52,455 Something is wrong during log-in
+2021-06-09 17:03:52,455 Login error -106
+2021-06-09 17:03:58,063 Kiwoom initializing...
+2021-06-09 17:04:12,279 Kiwoom initializing...
+2021-06-09 17:04:19,235 Kiwoom log in success
+2021-06-09 17:04:19,235 Account information
+2021-06-09 17:04:22,267 Deposit information (Futures)
+2021-06-09 17:04:22,267 No deposit information
+2021-06-09 17:04:22,437 Portfolio information
+2021-06-09 17:04:31,416 F 202106 trading information begins to be monitored
+2021-06-09 17:04:33,185 F 202106 stock information monitoring is finished
+2021-06-09 17:04:34,934 [93mALGORITHM STARTED [97m
+2021-06-09 17:05:57,720 [93mALGORITHM STOPPED [97m
+2021-06-09 17:05:57,730 Go Charting F 202106
+2021-06-09 17:06:05,070 Kiwoom initializing...
+2021-06-09 17:06:33,742 Something is wrong during log-in
+2021-06-09 17:06:33,742 Login error -100
+2021-06-09 17:06:33,743 Account information
+2021-06-09 17:06:33,768 Something is wrong during log-in
+2021-06-09 17:06:33,768 Login error -106
+2021-06-09 17:06:33,783 Something is wrong during log-in
+2021-06-09 17:06:33,783 Login error -106
+2021-06-09 17:07:35,561 F 202106 trading information begins to be monitored
+2021-06-09 17:14:06,930 [93mALGORITHM STARTED [97m
+2021-06-09 17:14:17,530 Kiwoom initializing...
+2021-06-09 17:14:23,760 Kiwoom log in success
+2021-06-09 17:14:23,760 Account information
+2021-06-09 17:14:24,268 Deposit information
+2021-06-09 17:14:24,769 Portfolio information
+2021-06-09 17:14:25,283 Deposit information (Futures)
+2021-06-09 17:14:25,784 Portfolio information (NO ITEM)
+2021-06-09 17:14:26,295 Deposit information (Futures)
+2021-06-09 17:14:26,342 Portfolio information (NO ITEM)
+2021-06-09 17:59:58,388 market operation state d 180000 000000
+2021-06-09 18:03:18,190 market operation state 9 999999 000000

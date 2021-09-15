@@ -1,0 +1,792 @@
+2021-07-19 09:49:33,904 Kiwoom initializing...
+2021-07-19 09:50:19,531 Kiwoom log in success
+2021-07-19 09:50:19,532 Account information
+2021-07-19 09:50:20,036 Deposit information (Futures)
+2021-07-19 09:50:20,062 Portfolio information (Futures) (No item found)
+2021-07-19 09:50:29,192 [93mALGORITHM STARTED [97m
+2021-07-19 09:50:30,138 [96mALGORITHM (BUY) holding:0 price:0 amount:2 [97m
+2021-07-19 09:50:30,140 [96mALGORITHM (SELL) holding:0 price:0 amount:2 [97m
+2021-07-19 09:50:30,418 [95mSend order failed. Please check order variables[0m
+2021-07-19 09:50:30,418 [95m Order Variables 0 2 SELL LIMIT  [0m
+2021-07-19 09:50:30,478 [95mSend order failed. Please check order variables[0m
+2021-07-19 09:50:30,478 [95m Order Variables 0 2 SELL LIMIT  [0m
+2021-07-19 10:06:34,836 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:06:34,837 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:06:34,837 [96mALGORITHM (BUY_OFF) holding:0 purchases:0 [97m
+2021-07-19 10:06:34,926 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:06:34,943 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:06:35,031 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:18026, original:0
+2021-07-19 10:06:35,034 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:18026 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:06:35,034 [94mALGORITHM (DEBUG) 10:06:36 Purchases 0 Sales 0 [97m
+2021-07-19 10:06:35,036 Balance information
+2021-07-19 10:06:36,011 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:07:05,123 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:07:05,123 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:07:05,146 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:07:05,408 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:18186, original:0
+2021-07-19 10:07:05,408 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:18186 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:07:05,408 [94mALGORITHM (DEBUG) 10:07:07 Purchases 0 Sales 0 [97m
+2021-07-19 10:07:05,477 Balance information
+2021-07-19 10:07:05,613 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:07:36,322 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:07:36,322 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:07:36,346 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:07:36,606 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:18320, original:0
+2021-07-19 10:07:36,606 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:18320 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:07:36,607 [94mALGORITHM (DEBUG) 10:07:38 Purchases 0 Sales 0 [97m
+2021-07-19 10:07:36,715 Balance information
+2021-07-19 10:07:41,505 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:08:07,056 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:08:07,061 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:08:07,090 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:08:07,201 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:08:07,207 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:18385, original:0
+2021-07-19 10:08:07,207 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:18385 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:08:07,207 [94mALGORITHM (DEBUG) 10:08:09 Purchases 0 Sales 0 [97m
+2021-07-19 10:08:07,210 Balance information
+2021-07-19 10:08:07,213 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:08:38,217 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:08:38,217 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:08:38,239 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:08:38,409 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:18434, original:0
+2021-07-19 10:08:38,410 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:18434 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:08:38,410 [94mALGORITHM (DEBUG) 10:08:40 Purchases 0 Sales 0 [97m
+2021-07-19 10:08:38,474 Balance information
+2021-07-19 10:08:41,905 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:15:28,327 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:15:28,328 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:15:28,404 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:15:28,462 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:15:28,505 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:19760, original:0
+2021-07-19 10:15:28,505 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:19760 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:15:28,505 [94mALGORITHM (DEBUG) 10:15:30 Purchases 0 Sales 0 [97m
+2021-07-19 10:15:28,508 Balance information
+2021-07-19 10:15:28,524 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:15:58,703 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:15:58,703 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:15:58,726 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:15:59,003 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:19885, original:0
+2021-07-19 10:15:59,003 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:19885 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:15:59,004 [94mALGORITHM (DEBUG) 10:16:00 Purchases 0 Sales 0 [97m
+2021-07-19 10:15:59,047 Balance information
+2021-07-19 10:15:59,127 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:16:29,502 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:16:29,503 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:16:29,525 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:16:29,788 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20014, original:0
+2021-07-19 10:16:29,788 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20014 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:16:29,789 [94mALGORITHM (DEBUG) 10:16:31 Purchases 0 Sales 0 [97m
+2021-07-19 10:16:29,830 Balance information
+2021-07-19 10:16:30,399 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:16:59,692 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:16:59,692 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:16:59,696 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:16:59,776 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:16:59,989 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20145, original:0
+2021-07-19 10:16:59,990 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20145 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:16:59,990 [94mALGORITHM (DEBUG) 10:17:01 Purchases 0 Sales 0 [97m
+2021-07-19 10:17:00,036 Balance information
+2021-07-19 10:17:00,136 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:17:34,011 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:17:34,020 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:17:34,084 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:17:34,190 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20271, original:0
+2021-07-19 10:17:34,190 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20271 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:17:34,190 [94mALGORITHM (DEBUG) 10:17:36 Purchases 0 Sales 0 [97m
+2021-07-19 10:17:34,194 Balance information
+2021-07-19 10:17:34,198 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:18:05,505 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:18:05,514 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:18:05,549 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:18:05,592 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:18:05,793 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20399, original:0
+2021-07-19 10:18:05,793 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20399 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:18:05,793 [94mALGORITHM (DEBUG) 10:18:07 Purchases 0 Sales 0 [97m
+2021-07-19 10:18:05,796 Balance information
+2021-07-19 10:18:07,197 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:18:35,611 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:18:35,611 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:18:35,659 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:18:35,791 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20512, original:0
+2021-07-19 10:18:35,791 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20512 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:18:35,791 [94mALGORITHM (DEBUG) 10:18:37 Purchases 0 Sales 0 [97m
+2021-07-19 10:18:35,826 Balance information
+2021-07-19 10:18:35,837 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:19:24,808 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:19:24,817 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:19:24,871 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:19:25,011 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20609, original:0
+2021-07-19 10:19:25,012 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20609 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:19:25,012 [94mALGORITHM (DEBUG) 10:19:26 Purchases 0 Sales 0 [97m
+2021-07-19 10:19:25,016 Balance information
+2021-07-19 10:19:27,283 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:19:58,594 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:19:58,594 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:19:58,598 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:19:58,631 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:19:58,786 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20688, original:0
+2021-07-19 10:19:58,786 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20688 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:19:58,786 [94mALGORITHM (DEBUG) 10:20:00 Purchases 0 Sales 0 [97m
+2021-07-19 10:19:58,800 Balance information
+2021-07-19 10:19:58,833 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:22:15,910 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:22:15,910 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:22:15,980 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:22:16,081 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:20914, original:0
+2021-07-19 10:22:16,081 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:20914 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:22:16,082 [94mALGORITHM (DEBUG) 10:22:18 Purchases 0 Sales 0 [97m
+2021-07-19 10:22:16,085 Balance information
+2021-07-19 10:22:16,100 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:22:46,009 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:22:46,009 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:22:46,074 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:22:46,177 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:21046, original:0
+2021-07-19 10:22:46,178 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:21046 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:22:46,178 [94mALGORITHM (DEBUG) 10:22:48 Purchases 0 Sales 0 [97m
+2021-07-19 10:22:46,229 Balance information
+2021-07-19 10:22:46,255 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:23:16,089 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:23:16,089 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:23:16,113 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:23:16,387 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:21129, original:0
+2021-07-19 10:23:16,388 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:21129 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:23:16,388 [94mALGORITHM (DEBUG) 10:23:18 Purchases 0 Sales 0 [97m
+2021-07-19 10:23:16,446 Balance information
+2021-07-19 10:23:16,478 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:23:49,998 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:23:49,998 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:23:50,015 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:23:50,094 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:23:50,186 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:21218, original:0
+2021-07-19 10:23:50,186 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:21218 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:23:50,187 [94mALGORITHM (DEBUG) 10:23:52 Purchases 0 Sales 0 [97m
+2021-07-19 10:23:50,191 Balance information
+2021-07-19 10:23:50,207 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:24:20,585 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:24:20,586 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:24:20,608 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:24:20,774 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:21309, original:0
+2021-07-19 10:24:20,774 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:21309 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:24:20,774 [94mALGORITHM (DEBUG) 10:24:22 Purchases 0 Sales 0 [97m
+2021-07-19 10:24:20,803 Balance information
+2021-07-19 10:24:23,379 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:52:38,977 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:52:38,994 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:52:39,064 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:52:39,122 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:52:39,133 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26243, original:0
+2021-07-19 10:52:39,133 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26243 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:52:39,133 [94mALGORITHM (DEBUG) 10:52:41 Purchases 0 Sales 0 [97m
+2021-07-19 10:52:39,137 Balance information
+2021-07-19 10:52:39,191 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:53:09,245 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:53:09,245 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:53:09,249 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:53:09,266 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:53:09,540 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26380, original:0
+2021-07-19 10:53:09,540 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26380 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:53:09,540 [94mALGORITHM (DEBUG) 10:53:11 Purchases 0 Sales 0 [97m
+2021-07-19 10:53:09,583 Balance information
+2021-07-19 10:53:09,726 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:53:39,436 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:53:39,436 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:53:39,458 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:53:39,536 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:53:39,737 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26450, original:0
+2021-07-19 10:53:39,737 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26450 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:53:39,737 [94mALGORITHM (DEBUG) 10:53:41 Purchases 0 Sales 0 [97m
+2021-07-19 10:53:39,778 Balance information
+2021-07-19 10:53:40,424 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:54:09,741 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:54:09,741 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:54:09,745 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:54:09,763 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:54:09,931 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26511, original:0
+2021-07-19 10:54:09,931 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26511 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:54:09,931 [94mALGORITHM (DEBUG) 10:54:11 Purchases 0 Sales 0 [97m
+2021-07-19 10:54:09,971 Balance information
+2021-07-19 10:54:10,727 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:54:40,032 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:54:40,032 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:54:40,070 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:54:40,331 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26607, original:0
+2021-07-19 10:54:40,331 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26607 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:54:40,331 [94mALGORITHM (DEBUG) 10:54:42 Purchases 0 Sales 0 [97m
+2021-07-19 10:54:40,347 Balance information
+2021-07-19 10:54:42,647 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:55:20,354 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:55:20,360 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:55:20,417 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:55:20,449 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:55:20,468 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26695, original:0
+2021-07-19 10:55:20,469 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26695 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:55:20,469 [94mALGORITHM (DEBUG) 10:55:22 Purchases 0 Sales 0 [97m
+2021-07-19 10:55:20,485 Balance information
+2021-07-19 10:55:20,509 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:55:52,341 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:55:52,341 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:55:52,361 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:55:52,529 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26782, original:0
+2021-07-19 10:55:52,530 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26782 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:55:52,530 [94mALGORITHM (DEBUG) 10:55:54 Purchases 0 Sales 0 [97m
+2021-07-19 10:55:52,569 Balance information
+2021-07-19 10:55:53,824 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:56:22,637 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:56:22,637 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:56:22,672 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:56:22,931 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26827, original:0
+2021-07-19 10:56:22,931 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26827 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:56:22,931 [94mALGORITHM (DEBUG) 10:56:24 Purchases 0 Sales 0 [97m
+2021-07-19 10:56:23,004 Balance information
+2021-07-19 10:56:23,333 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:56:55,338 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:56:55,338 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:56:55,375 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:56:55,526 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26877, original:0
+2021-07-19 10:56:55,527 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26877 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:56:55,527 [94mALGORITHM (DEBUG) 10:56:57 Purchases 0 Sales 0 [97m
+2021-07-19 10:56:55,574 Balance information
+2021-07-19 10:56:55,924 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:57:26,428 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:57:26,429 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:57:26,468 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:57:26,623 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:57:26,731 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:26960, original:0
+2021-07-19 10:57:26,731 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:26960 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:57:26,731 [94mALGORITHM (DEBUG) 10:57:28 Purchases 0 Sales 0 [97m
+2021-07-19 10:57:26,759 Balance information
+2021-07-19 10:57:32,737 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:57:58,741 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:57:58,746 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:57:58,835 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:57:58,917 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27044, original:0
+2021-07-19 10:57:58,917 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27044 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:57:58,917 [94mALGORITHM (DEBUG) 10:58:00 Purchases 0 Sales 0 [97m
+2021-07-19 10:57:58,923 Balance information
+2021-07-19 10:57:58,925 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:58:31,846 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:58:31,846 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:58:31,918 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:58:31,947 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:58:32,037 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27131, original:0
+2021-07-19 10:58:32,037 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27131 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:58:32,037 [94mALGORITHM (DEBUG) 10:58:34 Purchases 0 Sales 0 [97m
+2021-07-19 10:58:32,042 Balance information
+2021-07-19 10:58:32,046 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 10:59:53,142 [96mALGORITHM Overshooting!! [97m
+2021-07-19 10:59:53,150 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 10:59:53,195 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 10:59:53,285 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 10:59:53,331 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27286, original:0
+2021-07-19 10:59:53,333 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27286 purchase:0 executed:0 holding:0 [97m
+2021-07-19 10:59:53,334 [94mALGORITHM (DEBUG) 10:59:55 Purchases 0 Sales 0 [97m
+2021-07-19 10:59:53,347 Balance information
+2021-07-19 10:59:53,732 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:01:13,735 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:01:13,758 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:01:13,800 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:01:13,918 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27490, original:0
+2021-07-19 11:01:13,918 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27490 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:01:13,919 [94mALGORITHM (DEBUG) 11:01:15 Purchases 0 Sales 0 [97m
+2021-07-19 11:01:13,923 Balance information
+2021-07-19 11:01:18,723 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:02:09,548 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:02:09,552 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:02:09,611 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:02:09,727 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27697, original:0
+2021-07-19 11:02:09,727 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27697 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:02:09,727 [94mALGORITHM (DEBUG) 11:02:11 Purchases 0 Sales 0 [97m
+2021-07-19 11:02:09,733 Balance information
+2021-07-19 11:02:13,236 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:02:51,936 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:02:51,942 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:02:52,011 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:02:52,110 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27791, original:0
+2021-07-19 11:02:52,110 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27791 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:02:52,110 [94mALGORITHM (DEBUG) 11:02:54 Purchases 0 Sales 0 [97m
+2021-07-19 11:02:52,116 Balance information
+2021-07-19 11:02:53,426 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:03:22,156 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:03:22,166 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:03:22,249 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:03:22,298 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:03:22,508 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27851, original:0
+2021-07-19 11:03:22,508 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27851 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:03:22,508 [94mALGORITHM (DEBUG) 11:03:24 Purchases 0 Sales 0 [97m
+2021-07-19 11:03:22,551 Balance information
+2021-07-19 11:03:22,825 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:03:53,525 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:03:53,525 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:03:53,562 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:03:53,565 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:03:53,716 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:27986, original:0
+2021-07-19 11:03:53,716 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:27986 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:03:53,716 [94mALGORITHM (DEBUG) 11:03:55 Purchases 0 Sales 0 [97m
+2021-07-19 11:03:53,771 Balance information
+2021-07-19 11:03:57,306 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:04:25,832 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:04:25,840 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:04:25,903 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:04:25,970 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:04:26,120 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:28052, original:0
+2021-07-19 11:04:26,120 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:28052 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:04:26,120 [94mALGORITHM (DEBUG) 11:04:28 Purchases 0 Sales 0 [97m
+2021-07-19 11:04:26,126 Balance information
+2021-07-19 11:04:26,413 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:04:57,111 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:04:57,111 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:04:57,134 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:04:57,317 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:28120, original:0
+2021-07-19 11:04:57,317 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:28120 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:04:57,317 [94mALGORITHM (DEBUG) 11:04:59 Purchases 0 Sales 0 [97m
+2021-07-19 11:04:57,332 Balance information
+2021-07-19 11:04:58,817 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:05:27,528 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:05:27,538 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:05:27,616 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:05:27,910 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:28193, original:0
+2021-07-19 11:05:27,911 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:28193 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:05:27,911 [94mALGORITHM (DEBUG) 11:05:29 Purchases 0 Sales 0 [97m
+2021-07-19 11:05:27,967 Balance information
+2021-07-19 11:05:28,329 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:06:41,832 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:06:41,833 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:06:41,917 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:06:41,936 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:06:42,123 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:28310, original:0
+2021-07-19 11:06:42,123 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:28310 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:06:42,124 [94mALGORITHM (DEBUG) 11:06:44 Purchases 0 Sales 0 [97m
+2021-07-19 11:06:42,130 Balance information
+2021-07-19 11:06:46,904 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:14:04,033 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:14:04,033 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:14:04,092 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:14:04,121 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:14:04,308 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:29166, original:0
+2021-07-19 11:14:04,309 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:29166 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:14:04,309 [94mALGORITHM (DEBUG) 11:14:06 Purchases 0 Sales 0 [97m
+2021-07-19 11:14:04,326 Balance information
+2021-07-19 11:14:04,330 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:14:34,410 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:14:34,410 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:14:34,433 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:14:34,695 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:29283, original:0
+2021-07-19 11:14:34,695 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:29283 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:14:34,695 [94mALGORITHM (DEBUG) 11:14:36 Purchases 0 Sales 0 [97m
+2021-07-19 11:14:34,709 Balance information
+2021-07-19 11:14:36,310 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:27:40,956 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:27:40,957 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:27:40,967 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:27:41,005 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:27:41,179 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:30852, original:0
+2021-07-19 11:27:41,180 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:30852 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:27:41,180 [94mALGORITHM (DEBUG) 11:27:43 Purchases 0 Sales 0 [97m
+2021-07-19 11:27:41,218 Balance information
+2021-07-19 11:27:41,245 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:37:50,735 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:37:50,735 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:37:50,752 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:37:50,778 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:37:50,864 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:31951, original:0
+2021-07-19 11:37:50,865 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:31951 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:37:50,865 [94mALGORITHM (DEBUG) 11:37:52 Purchases 0 Sales 0 [97m
+2021-07-19 11:37:50,872 Balance information
+2021-07-19 11:37:50,875 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:55:39,148 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:55:39,157 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:55:39,282 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:55:39,289 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:55:39,343 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:33713, original:0
+2021-07-19 11:55:39,343 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:33713 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:55:39,344 [94mALGORITHM (DEBUG) 11:55:41 Purchases 0 Sales 0 [97m
+2021-07-19 11:55:39,419 Balance information
+2021-07-19 11:55:44,625 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 11:57:42,049 [96mALGORITHM Overshooting!! [97m
+2021-07-19 11:57:42,086 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 11:57:42,192 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 11:57:42,239 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 11:57:42,429 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:33935, original:0
+2021-07-19 11:57:42,429 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:33935 purchase:0 executed:0 holding:0 [97m
+2021-07-19 11:57:42,429 [94mALGORITHM (DEBUG) 11:57:44 Purchases 0 Sales 0 [97m
+2021-07-19 11:57:42,451 Balance information
+2021-07-19 11:57:43,119 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:00:34,751 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:00:34,761 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:00:34,818 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:00:35,012 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:34278, original:0
+2021-07-19 12:00:35,012 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:34278 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:00:35,012 [94mALGORITHM (DEBUG) 12:00:37 Purchases 0 Sales 0 [97m
+2021-07-19 12:00:35,019 Balance information
+2021-07-19 12:00:35,320 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:01:05,031 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:01:05,031 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:01:05,053 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:01:05,220 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:34402, original:0
+2021-07-19 12:01:05,220 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:34402 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:01:05,220 [94mALGORITHM (DEBUG) 12:01:07 Purchases 0 Sales 0 [97m
+2021-07-19 12:01:05,252 Balance information
+2021-07-19 12:01:06,221 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:01:35,222 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:01:35,222 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:01:35,245 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:01:35,416 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:34521, original:0
+2021-07-19 12:01:35,416 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:34521 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:01:35,416 [94mALGORITHM (DEBUG) 12:01:37 Purchases 0 Sales 0 [97m
+2021-07-19 12:01:35,446 Balance information
+2021-07-19 12:01:36,017 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:02:07,032 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:02:07,047 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:02:07,101 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 12:02:07,198 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:02:07,246 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:34607, original:0
+2021-07-19 12:02:07,246 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:34607 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:02:07,246 [94mALGORITHM (DEBUG) 12:02:09 Purchases 0 Sales 0 [97m
+2021-07-19 12:02:07,253 Balance information
+2021-07-19 12:02:08,722 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:02:38,648 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:02:38,649 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:02:38,755 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:02:38,829 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:34678, original:0
+2021-07-19 12:02:38,830 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:34678 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:02:38,830 [94mALGORITHM (DEBUG) 12:02:40 Purchases 0 Sales 0 [97m
+2021-07-19 12:02:38,837 Balance information
+2021-07-19 12:02:38,936 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:03:30,061 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:03:30,065 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:03:30,145 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 12:03:30,162 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:03:30,225 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:34769, original:0
+2021-07-19 12:03:30,226 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:34769 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:03:30,226 [94mALGORITHM (DEBUG) 12:03:32 Purchases 0 Sales 0 [97m
+2021-07-19 12:03:30,233 Balance information
+2021-07-19 12:03:30,714 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:30:04,615 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:30:04,615 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:30:04,692 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:30:04,763 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:37413, original:0
+2021-07-19 12:30:04,764 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:37413 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:30:04,764 [94mALGORITHM (DEBUG) 12:30:06 Purchases 0 Sales 0 [97m
+2021-07-19 12:30:04,786 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:30:04,977 Balance information
+2021-07-19 12:30:34,869 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:30:34,869 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:30:34,909 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:30:35,167 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:37518, original:0
+2021-07-19 12:30:35,167 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:37518 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:30:35,167 [94mALGORITHM (DEBUG) 12:30:37 Purchases 0 Sales 0 [97m
+2021-07-19 12:30:35,249 Balance information
+2021-07-19 12:30:35,376 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:31:05,885 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:31:05,886 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:31:05,955 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:31:06,180 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:37645, original:0
+2021-07-19 12:31:06,180 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:37645 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:31:06,180 [94mALGORITHM (DEBUG) 12:31:08 Purchases 0 Sales 0 [97m
+2021-07-19 12:31:06,188 Balance information
+2021-07-19 12:31:07,674 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:31:36,168 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:31:36,169 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:31:36,191 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:31:36,358 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:37727, original:0
+2021-07-19 12:31:36,358 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:37727 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:31:36,358 [94mALGORITHM (DEBUG) 12:31:38 Purchases 0 Sales 0 [97m
+2021-07-19 12:31:36,376 Balance information
+2021-07-19 12:31:38,183 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:32:20,919 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:32:20,919 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:32:20,957 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:32:21,161 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:37818, original:0
+2021-07-19 12:32:21,161 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:37818 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:32:21,161 [94mALGORITHM (DEBUG) 12:32:23 Purchases 0 Sales 0 [97m
+2021-07-19 12:32:21,207 Balance information
+2021-07-19 12:32:23,083 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:32:54,771 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:32:54,771 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:32:54,808 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 12:32:54,869 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:32:54,905 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:37882, original:0
+2021-07-19 12:32:54,905 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:37882 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:32:54,905 [94mALGORITHM (DEBUG) 12:32:57 Purchases 0 Sales 0 [97m
+2021-07-19 12:32:55,029 Balance information
+2021-07-19 12:32:55,058 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:35:56,177 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:35:56,180 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:35:56,228 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:35:56,322 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 12:35:56,380 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:38111, original:0
+2021-07-19 12:35:56,380 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:38111 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:35:56,380 [94mALGORITHM (DEBUG) 12:35:58 Purchases 0 Sales 0 [97m
+2021-07-19 12:35:56,389 Balance information
+2021-07-19 12:35:56,393 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:36:29,691 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:36:29,710 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:36:29,754 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:36:29,967 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:38179, original:0
+2021-07-19 12:36:29,968 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:38179 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:36:29,968 [94mALGORITHM (DEBUG) 12:36:32 Purchases 0 Sales 0 [97m
+2021-07-19 12:36:29,985 Balance information
+2021-07-19 12:36:34,160 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 12:37:00,891 [96mALGORITHM Overshooting!! [97m
+2021-07-19 12:37:00,891 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 12:37:00,943 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 12:37:01,174 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:38252, original:0
+2021-07-19 12:37:01,175 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:38252 purchase:0 executed:0 holding:0 [97m
+2021-07-19 12:37:01,175 [94mALGORITHM (DEBUG) 12:37:03 Purchases 0 Sales 0 [97m
+2021-07-19 12:37:01,183 Balance information
+2021-07-19 12:37:01,260 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 13:12:16,818 [96mALGORITHM Overshooting!! [97m
+2021-07-19 13:12:16,828 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 13:12:16,871 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 13:12:16,909 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 13:12:17,106 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:40616, original:0
+2021-07-19 13:12:17,106 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:40616 purchase:0 executed:0 holding:0 [97m
+2021-07-19 13:12:17,106 [94mALGORITHM (DEBUG) 13:12:19 Purchases 0 Sales 0 [97m
+2021-07-19 13:12:17,114 Balance information
+2021-07-19 13:12:17,308 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 13:12:49,634 [96mALGORITHM Overshooting!! [97m
+2021-07-19 13:12:49,639 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 13:12:49,715 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 13:12:49,908 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:40713, original:0
+2021-07-19 13:12:49,911 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:40713 purchase:0 executed:0 holding:0 [97m
+2021-07-19 13:12:49,911 [94mALGORITHM (DEBUG) 13:12:52 Purchases 0 Sales 0 [97m
+2021-07-19 13:12:49,925 Balance information
+2021-07-19 13:12:49,928 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 13:13:23,106 [96mALGORITHM Overshooting!! [97m
+2021-07-19 13:13:23,106 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 13:13:23,129 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 13:13:23,190 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 13:13:23,297 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:40804, original:0
+2021-07-19 13:13:23,297 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:40804 purchase:0 executed:0 holding:0 [97m
+2021-07-19 13:13:23,297 [94mALGORITHM (DEBUG) 13:13:25 Purchases 0 Sales 0 [97m
+2021-07-19 13:13:23,329 Balance information
+2021-07-19 13:13:23,381 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 13:13:53,331 [96mALGORITHM Overshooting!! [97m
+2021-07-19 13:13:53,344 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 13:13:53,405 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 13:13:53,422 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 13:13:53,516 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:40878, original:0
+2021-07-19 13:13:53,517 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:40878 purchase:0 executed:0 holding:0 [97m
+2021-07-19 13:13:53,517 [94mALGORITHM (DEBUG) 13:13:55 Purchases 0 Sales 0 [97m
+2021-07-19 13:13:53,525 Balance information
+2021-07-19 13:13:53,529 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 13:59:31,283 [96mALGORITHM Overshooting!! [97m
+2021-07-19 13:59:31,283 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 13:59:31,440 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 13:59:31,525 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 13:59:31,634 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44189, original:0
+2021-07-19 13:59:31,634 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44189 purchase:0 executed:0 holding:0 [97m
+2021-07-19 13:59:31,634 [94mALGORITHM (DEBUG) 13:59:33 Purchases 0 Sales 0 [97m
+2021-07-19 13:59:31,643 Balance information
+2021-07-19 13:59:31,645 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:04:13,650 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:04:13,654 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:04:13,711 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 14:04:13,802 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:04:13,841 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44582, original:0
+2021-07-19 14:04:13,842 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44582 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:04:13,847 [94mALGORITHM (DEBUG) 14:04:16 Purchases 0 Sales 0 [97m
+2021-07-19 14:04:13,856 Balance information
+2021-07-19 14:04:13,860 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:04:45,418 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:04:45,419 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:04:45,442 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:04:45,612 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44649, original:0
+2021-07-19 14:04:45,612 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44649 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:04:45,612 [94mALGORITHM (DEBUG) 14:04:47 Purchases 0 Sales 0 [97m
+2021-07-19 14:04:45,670 Balance information
+2021-07-19 14:04:46,223 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:05:19,819 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:05:19,819 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:05:19,857 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:05:20,012 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44716, original:0
+2021-07-19 14:05:20,012 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44716 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:05:20,013 [94mALGORITHM (DEBUG) 14:05:22 Purchases 0 Sales 0 [97m
+2021-07-19 14:05:20,090 Balance information
+2021-07-19 14:05:20,914 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:05:58,367 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:05:58,367 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:05:58,384 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 14:05:58,406 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:05:58,602 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44788, original:0
+2021-07-19 14:05:58,602 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44788 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:05:58,602 [94mALGORITHM (DEBUG) 14:06:00 Purchases 0 Sales 0 [97m
+2021-07-19 14:05:58,630 Balance information
+2021-07-19 14:05:58,689 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:06:29,228 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:06:29,232 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:06:29,255 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:06:29,409 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44868, original:0
+2021-07-19 14:06:29,409 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44868 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:06:29,409 [94mALGORITHM (DEBUG) 14:06:31 Purchases 0 Sales 0 [97m
+2021-07-19 14:06:29,418 Balance information
+2021-07-19 14:06:31,115 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:06:59,429 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:06:59,431 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:06:59,461 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:06:59,502 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 14:06:59,637 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:44959, original:0
+2021-07-19 14:06:59,637 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:44959 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:06:59,638 [94mALGORITHM (DEBUG) 14:07:01 Purchases 0 Sales 0 [97m
+2021-07-19 14:06:59,655 Balance information
+2021-07-19 14:06:59,657 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:07:29,712 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:07:29,712 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:07:29,734 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:07:30,011 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:45082, original:0
+2021-07-19 14:07:30,011 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:45082 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:07:30,011 [94mALGORITHM (DEBUG) 14:07:32 Purchases 0 Sales 0 [97m
+2021-07-19 14:07:30,084 Balance information
+2021-07-19 14:07:34,314 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:08:01,630 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:08:01,634 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:08:01,679 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:08:01,818 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:45154, original:0
+2021-07-19 14:08:01,819 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:45154 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:08:01,819 [94mALGORITHM (DEBUG) 14:08:04 Purchases 0 Sales 0 [97m
+2021-07-19 14:08:01,840 Balance information
+2021-07-19 14:08:03,913 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 14:08:31,929 [96mALGORITHM Overshooting!! [97m
+2021-07-19 14:08:31,929 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 14:08:31,950 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 14:08:31,986 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 14:08:32,141 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:45227, original:0
+2021-07-19 14:08:32,141 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:45227 purchase:0 executed:0 holding:0 [97m
+2021-07-19 14:08:32,143 [94mALGORITHM (DEBUG) 14:08:34 Purchases 0 Sales 0 [97m
+2021-07-19 14:08:32,161 Balance information
+2021-07-19 14:08:32,183 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:06:29,282 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:06:29,282 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:06:29,342 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:06:29,520 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:49795, original:0
+2021-07-19 15:06:29,521 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:49795 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:06:29,524 [94mALGORITHM (DEBUG) 15:06:31 Purchases 0 Sales 0 [97m
+2021-07-19 15:06:29,545 Balance information
+2021-07-19 15:06:29,561 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:07:59,126 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:07:59,128 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:07:59,186 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:07:59,247 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 15:07:59,317 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:49970, original:0
+2021-07-19 15:07:59,317 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:49970 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:07:59,320 [94mALGORITHM (DEBUG) 15:08:01 Purchases 0 Sales 0 [97m
+2021-07-19 15:07:59,338 Balance information
+2021-07-19 15:07:59,340 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:08:32,107 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:08:32,107 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:08:32,132 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:08:32,300 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:50027, original:0
+2021-07-19 15:08:32,300 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:50027 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:08:32,300 [94mALGORITHM (DEBUG) 15:08:34 Purchases 0 Sales 0 [97m
+2021-07-19 15:08:32,349 Balance information
+2021-07-19 15:08:32,900 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:09:02,207 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:09:02,208 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:09:02,211 [93mALGORITHM (BLOCK) stop loss ordered [97m
+2021-07-19 15:09:02,224 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:09:02,503 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:50115, original:0
+2021-07-19 15:09:02,503 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:50115 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:09:02,503 [94mALGORITHM (DEBUG) 15:09:04 Purchases 0 Sales 0 [97m
+2021-07-19 15:09:02,577 Balance information
+2021-07-19 15:09:03,017 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:09:35,500 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:09:35,501 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:09:35,522 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:09:35,704 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:50231, original:0
+2021-07-19 15:09:35,704 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:50231 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:09:35,704 [94mALGORITHM (DEBUG) 15:09:38 Purchases 0 Sales 0 [97m
+2021-07-19 15:09:35,751 Balance information
+2021-07-19 15:09:36,598 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:10:07,218 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:10:07,223 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:10:07,313 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:10:07,513 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:50330, original:0
+2021-07-19 15:10:07,513 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:50330 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:10:07,513 [94mALGORITHM (DEBUG) 15:10:09 Purchases 0 Sales 0 [97m
+2021-07-19 15:10:07,526 Balance information
+2021-07-19 15:10:09,399 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:10:55,218 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:10:55,232 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:10:55,304 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:10:55,506 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:50402, original:0
+2021-07-19 15:10:55,508 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:50402 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:10:55,508 [94mALGORITHM (DEBUG) 15:10:57 Purchases 0 Sales 0 [97m
+2021-07-19 15:10:55,530 Balance information
+2021-07-19 15:10:57,605 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:11:28,109 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:11:28,111 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:11:28,162 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:11:28,306 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:50473, original:0
+2021-07-19 15:11:28,311 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:50473 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:11:28,311 [94mALGORITHM (DEBUG) 15:11:30 Purchases 0 Sales 0 [97m
+2021-07-19 15:11:28,321 Balance information
+2021-07-19 15:11:28,704 [93mALGORITHM (BLOCK) time off [97m
+2021-07-19 15:19:57,592 market operation state 2 152000 001000
+2021-07-19 15:20:57,571 market operation state 2 152100 000900
+2021-07-19 15:21:57,581 market operation state 2 152200 000800
+2021-07-19 15:22:57,578 market operation state 2 152300 000700
+2021-07-19 15:23:57,568 market operation state 2 152400 000600
+2021-07-19 15:24:57,565 market operation state 2 152500 000500
+2021-07-19 15:25:57,570 market operation state 2 152600 000400
+2021-07-19 15:26:57,759 market operation state 2 152700 000300
+2021-07-19 15:27:57,572 market operation state 2 152800 000200
+2021-07-19 15:28:57,566 market operation state 2 152900 000100
+2021-07-19 15:29:07,563 market operation state 2 152910 000050
+2021-07-19 15:29:17,562 market operation state 2 152920 000040
+2021-07-19 15:29:27,565 market operation state 2 152930 000030
+2021-07-19 15:29:37,565 market operation state 2 152940 000020
+2021-07-19 15:29:47,565 market operation state 2 152950 000010
+2021-07-19 15:29:57,632 market operation state 4 153000 000000
+2021-07-19 15:30:37,559 market operation state 8 888888 000000
+2021-07-19 15:34:57,650 market operation state s 153500 000000
+2021-07-19 15:34:57,650 market operation state s 153500 000000
+2021-07-19 15:34:57,650 market operation state s 153500 000000
+2021-07-19 15:34:57,755 market operation state s 153500 000000
+2021-07-19 15:34:57,755 market operation state s 153500 000000
+2021-07-19 15:34:57,756 market operation state s 153500 000000
+2021-07-19 15:34:57,756 market operation state s 153500 000000
+2021-07-19 15:34:57,756 market operation state s 153500 000000
+2021-07-19 15:34:57,756 market operation state s 153500 000000
+2021-07-19 15:34:57,757 market operation state s 153500 000000
+2021-07-19 15:34:57,757 market operation state s 153500 000000
+2021-07-19 15:34:57,757 market operation state s 153500 000000
+2021-07-19 15:34:57,758 market operation state s 153500 000000
+2021-07-19 15:34:57,847 market operation state s 153500 000000
+2021-07-19 15:34:57,848 market operation state s 153500 000000
+2021-07-19 15:34:57,848 market operation state s 153500 000000
+2021-07-19 15:34:57,848 market operation state s 153500 000000
+2021-07-19 15:34:57,848 market operation state s 153500 000000
+2021-07-19 15:34:57,849 market operation state s 153500 000000
+2021-07-19 15:34:57,849 market operation state s 153500 000000
+2021-07-19 15:39:57,840 market operation state a 154000 000000
+2021-07-19 15:44:57,671 [96mALGORITHM Overshooting!! [97m
+2021-07-19 15:44:57,717 [93mALGORITHM STOP LOSS BY OVERSHOOTING! [97m
+2021-07-19 15:44:57,750 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-19 15:44:57,857 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:0, executed_sum:0, open:0, price:0.0, number:52501, original:0
+2021-07-19 15:44:57,861 [92mALGORITHM (EXECUTION) F 202109 +¸Å¼ö Á¢¼ö order:0 executed_each:0 open:0 number:52501 purchase:0 executed:0 holding:0 [97m
+2021-07-19 15:44:57,861 [94mALGORITHM (DEBUG) 15:45:00 Purchases 0 Sales 0 [97m
+2021-07-19 15:44:57,877 Balance information
+2021-07-19 15:44:58,040 market operation state e 154500 000000
+2021-07-19 15:44:58,131 market operation state e 154500 000000
+2021-07-19 15:44:58,132 market operation state e 154500 000000
+2021-07-19 15:44:58,132 market operation state e 154500 000000
+2021-07-19 15:44:58,132 market operation state e 154500 000000
+2021-07-19 15:44:58,238 market operation state e 154500 000000
+2021-07-19 15:44:58,238 market operation state e 154500 000000
+2021-07-19 15:44:58,239 market operation state e 154500 000000
+2021-07-19 15:44:58,345 market operation state e 154500 000000
+2021-07-19 15:44:58,346 market operation state e 154500 000000
+2021-07-19 15:44:58,439 market operation state e 154500 000000
+2021-07-19 15:44:58,439 market operation state e 154500 000000
+2021-07-19 15:44:58,543 market operation state e 154500 000000
+2021-07-19 15:44:58,633 market operation state e 154500 000000
+2021-07-19 15:44:58,634 market operation state e 154500 000000
+2021-07-19 15:44:58,934 market operation state e 154500 000000
+2021-07-19 15:44:59,042 market operation state e 154500 000000
+2021-07-19 15:44:59,132 market operation state e 154500 000000
+2021-07-19 15:44:59,344 market operation state e 154500 000000
+2021-07-19 15:44:59,434 market operation state e 154500 000000
+2021-07-19 15:59:57,812 market operation state b 160000 000000
+2021-07-19 15:59:57,812 market operation state c 160000 000000
+2021-07-19 17:59:57,606 market operation state d 180000 000000
+2021-07-19 18:01:17,204 market operation state 9 999999 000000

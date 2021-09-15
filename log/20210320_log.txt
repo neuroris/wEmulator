@@ -1,0 +1,7 @@
+2021-03-20 09:39:52,524 Kiwoom initializing...
+2021-03-20 09:44:00,184 Kiwoom initializing...
+2021-03-20 09:44:12,480 Kiwoom log in success
+2021-03-20 09:44:12,480 Account information
+2021-03-20 09:44:12,994 Deposit information
+2021-03-20 09:44:14,314 Portfolio information
+2021-03-20 09:44:18,683 Order history information

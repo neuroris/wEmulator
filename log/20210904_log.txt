@@ -1,0 +1,37 @@
+2021-09-04 09:32:51,925 Kiwoom initializing...
+2021-09-04 09:33:24,416 Kiwoom log in success
+2021-09-04 09:33:24,417 Account information
+2021-09-04 09:33:24,937 Deposit information (Futures)
+2021-09-04 09:33:24,968 Portfolio information (Futures)
+2021-09-04 09:50:31,273 F 202109 trading information begins to be monitored
+2021-09-04 09:50:31,273 Go Charting F 202109
+2021-09-04 09:52:46,829 Kiwoom initializing...
+2021-09-04 09:52:52,235 Kiwoom log in success
+2021-09-04 09:52:52,235 Account information
+2021-09-04 09:52:52,753 Deposit information (Futures)
+2021-09-04 09:52:52,782 Portfolio information (Futures)
+2021-09-04 09:52:57,132 F 202109 trading information begins to be monitored
+2021-09-04 09:52:57,133 Go Charting F 202109
+2021-09-04 09:53:11,559 test2 button clicked
+2021-09-04 09:53:46,903 Kiwoom initializing...
+2021-09-04 09:53:52,136 Kiwoom log in success
+2021-09-04 09:53:52,136 Account information
+2021-09-04 09:53:52,643 Deposit information (Futures)
+2021-09-04 09:53:52,668 Portfolio information (Futures)
+2021-09-04 09:53:59,483 F 202109 trading information begins to be monitored
+2021-09-04 09:53:59,484 Go Charting F 202109
+2021-09-04 09:54:06,141 test2 button clicked
+2021-09-04 09:54:30,615 Kiwoom initializing...
+2021-09-04 09:54:35,751 Kiwoom log in success
+2021-09-04 09:54:35,752 Account information
+2021-09-04 09:54:36,257 Deposit information (Futures)
+2021-09-04 09:54:36,289 Portfolio information (Futures)
+2021-09-04 09:54:44,413 [93mALGORITHM STARTED [97m
+2021-09-04 09:54:54,141 test2 button clicked
+2021-09-04 09:56:36,857 Kiwoom initializing...
+2021-09-04 09:56:42,215 Kiwoom log in success
+2021-09-04 09:56:42,215 Account information
+2021-09-04 09:56:42,722 Deposit information (Futures)
+2021-09-04 09:56:42,748 Portfolio information (Futures)
+2021-09-04 09:56:45,545 [93mALGORITHM STARTED [97m
+2021-09-04 09:56:57,659 test2 button clicked

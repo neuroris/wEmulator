@@ -1,0 +1,272 @@
+2021-06-02 09:45:17,282 Kiwoom initializing...
+2021-06-02 09:46:02,259 Kiwoom log in success
+2021-06-02 09:46:02,259 Account information
+2021-06-02 09:46:03,801 Deposit information (Futures)
+2021-06-02 09:46:03,801 No deposit information
+2021-06-02 09:46:17,393 Kiwoom initializing...
+2021-06-02 09:46:28,741 Kiwoom log in success
+2021-06-02 09:46:28,741 Account information
+2021-06-02 09:46:30,287 Deposit information (Futures)
+2021-06-02 09:46:30,288 No deposit information
+2021-06-02 09:49:18,101 Kiwoom initializing...
+2021-06-02 09:49:27,125 Kiwoom log in success
+2021-06-02 09:49:27,126 Account information
+2021-06-02 09:49:28,647 Deposit information (Futures)
+2021-06-02 09:49:28,648 No deposit information
+2021-06-02 09:53:47,405 Kiwoom initializing...
+2021-06-02 09:53:55,054 Kiwoom log in success
+2021-06-02 09:53:55,054 Account information
+2021-06-02 09:53:56,574 Deposit information (Futures)
+2021-06-02 09:53:56,575 No deposit information
+2021-06-02 09:53:58,178 Portfolio information (Futures)
+2021-06-02 09:55:42,297 Deposit information (Futures)
+2021-06-02 09:57:35,136 Kiwoom initializing...
+2021-06-02 09:58:12,850 Kiwoom initializing...
+2021-06-02 09:58:23,016 Kiwoom log in success
+2021-06-02 09:58:23,016 Account information
+2021-06-02 09:58:25,047 Deposit information (Futures)
+2021-06-02 09:58:25,047 No deposit information
+2021-06-02 09:58:26,422 Portfolio information (Futures)
+2021-06-02 09:58:42,677 Deposit information (Futures)
+2021-06-02 10:16:50,890 Kiwoom initializing...
+2021-06-02 10:17:04,880 Kiwoom log in success
+2021-06-02 10:17:04,880 Account information
+2021-06-02 10:17:05,908 Deposit information (Futures)
+2021-06-02 10:17:05,908 No deposit information
+2021-06-02 10:17:07,920 Portfolio information (Futures)
+2021-06-02 10:35:42,310 Portfolio information (Futures)
+2021-06-02 10:35:54,637 Deposit information (Futures)
+2021-06-02 10:37:58,399 Kiwoom initializing...
+2021-06-02 10:38:11,792 Kiwoom log in success
+2021-06-02 10:38:11,793 Account information
+2021-06-02 10:38:12,820 Deposit information (Futures)
+2021-06-02 10:38:12,820 No deposit information
+2021-06-02 10:38:14,281 Portfolio information (Futures)
+2021-06-02 10:41:11,979 Portfolio information (Futures)
+2021-06-02 10:41:16,007 Portfolio information (Futures)
+2021-06-02 11:05:51,051 Kiwoom initializing...
+2021-06-02 11:06:05,699 Kiwoom log in success
+2021-06-02 11:06:05,700 Account information
+2021-06-02 11:06:06,718 Deposit information (Futures)
+2021-06-02 11:06:06,718 No deposit information
+2021-06-02 11:06:08,171 Portfolio information
+2021-06-02 11:06:14,502 Deposit information (Futures)
+2021-06-02 11:09:32,202 Kiwoom initializing...
+2021-06-02 11:09:41,088 Kiwoom log in success
+2021-06-02 11:09:41,088 Account information
+2021-06-02 11:09:42,616 Deposit information (Futures)
+2021-06-02 11:09:42,617 No deposit information
+2021-06-02 11:09:43,624 Portfolio information (Futures)
+2021-06-02 11:09:45,967 Deposit information (Futures)
+2021-06-02 11:43:52,329 Kiwoom initializing...
+2021-06-02 11:44:04,790 Kiwoom log in success
+2021-06-02 11:44:04,790 Account information
+2021-06-02 11:44:06,341 Deposit information (Futures)
+2021-06-02 11:44:06,341 No deposit information
+2021-06-02 11:44:07,293 Portfolio information (Futures)
+2021-06-02 11:44:11,886 Deposit information (Futures)
+2021-06-02 11:52:44,003 Kiwoom initializing...
+2021-06-02 11:52:57,002 Kiwoom log in success
+2021-06-02 11:52:57,003 Account information
+2021-06-02 11:52:58,011 Deposit information (Futures)
+2021-06-02 11:52:58,012 No deposit information
+2021-06-02 11:52:59,558 Portfolio information
+2021-06-02 11:53:06,124 Deposit information (Futures)
+2021-06-02 11:53:08,287 Portfolio information (Futures)
+2021-06-02 12:03:33,131 Kiwoom initializing...
+2021-06-02 12:03:40,350 Kiwoom log in success
+2021-06-02 12:03:40,351 Account information
+2021-06-02 12:03:41,369 Deposit information (Futures)
+2021-06-02 12:03:41,369 No deposit information
+2021-06-02 12:03:42,543 Portfolio information
+2021-06-02 12:03:48,517 Deposit information (Futures)
+2021-06-02 12:03:50,643 Portfolio information (Futures)
+2021-06-02 12:04:32,248 OUT
+2021-06-02 12:04:32,248 OUT
+2021-06-02 12:04:32,399 OUT
+2021-06-02 12:04:32,399 OUT
+2021-06-02 12:04:32,803 OUT
+2021-06-02 12:04:32,804 OUT
+2021-06-02 12:04:32,844 OUT
+2021-06-02 12:04:32,845 OUT
+2021-06-02 12:04:33,070 OUT
+2021-06-02 12:04:33,071 OUT
+2021-06-02 12:04:33,121 OUT
+2021-06-02 12:04:33,122 OUT
+2021-06-02 12:04:33,592 OUT
+2021-06-02 12:04:33,592 OUT
+2021-06-02 12:04:33,615 OUT
+2021-06-02 12:04:33,616 OUT
+2021-06-02 12:04:34,284 OUT
+2021-06-02 12:04:34,284 OUT
+2021-06-02 12:04:34,350 OUT
+2021-06-02 12:04:34,350 OUT
+2021-06-02 12:04:34,462 OUT
+2021-06-02 12:04:34,462 OUT
+2021-06-02 12:04:47,338 OUT
+2021-06-02 12:04:47,339 OUT
+2021-06-02 12:10:20,250 Kiwoom initializing...
+2021-06-02 12:10:27,904 Kiwoom log in success
+2021-06-02 12:10:27,905 Account information
+2021-06-02 12:10:29,421 Deposit information (Futures)
+2021-06-02 12:10:29,422 No deposit information
+2021-06-02 12:10:30,381 Portfolio information (Futures)
+2021-06-02 12:10:41,647 OUT
+2021-06-02 12:10:41,648 OUT
+2021-06-02 12:10:41,671 OUT
+2021-06-02 12:10:41,672 OUT
+2021-06-02 12:10:41,695 OUT
+2021-06-02 12:10:41,695 OUT
+2021-06-02 12:10:42,096 OUT
+2021-06-02 12:10:42,096 OUT
+2021-06-02 12:10:42,144 OUT
+2021-06-02 12:10:42,144 OUT
+2021-06-02 12:13:10,243 Kiwoom initializing...
+2021-06-02 12:13:17,877 Kiwoom log in success
+2021-06-02 12:13:17,877 Account information
+2021-06-02 12:13:18,915 Deposit information (Futures)
+2021-06-02 12:13:18,915 No deposit information
+2021-06-02 12:13:20,829 Portfolio information
+2021-06-02 12:13:33,279 Kiwoom initializing...
+2021-06-02 12:13:39,698 Kiwoom log in success
+2021-06-02 12:13:39,699 Account information
+2021-06-02 12:13:40,727 Deposit information (Futures)
+2021-06-02 12:13:40,727 No deposit information
+2021-06-02 12:13:42,616 Portfolio information
+2021-06-02 12:13:47,985 Deposit information (Futures)
+2021-06-02 12:13:50,268 Portfolio information (Futures)
+2021-06-02 12:13:58,156 OUT
+2021-06-02 12:13:58,157 OUT
+2021-06-02 12:13:58,181 OUT
+2021-06-02 12:13:58,182 OUT
+2021-06-02 12:13:58,206 OUT
+2021-06-02 12:13:58,206 OUT
+2021-06-02 12:13:58,459 OUT
+2021-06-02 12:13:58,459 OUT
+2021-06-02 12:13:58,484 OUT
+2021-06-02 12:13:58,484 OUT
+2021-06-02 12:14:06,680 OUT
+2021-06-02 12:14:06,680 OUT
+2021-06-02 12:14:06,705 OUT
+2021-06-02 12:14:06,705 OUT
+2021-06-02 12:14:06,745 OUT
+2021-06-02 12:14:06,745 OUT
+2021-06-02 12:14:06,809 OUT
+2021-06-02 12:14:06,809 OUT
+2021-06-02 12:14:07,116 OUT
+2021-06-02 12:14:07,116 OUT
+2021-06-02 12:14:07,132 OUT
+2021-06-02 12:14:07,132 OUT
+2021-06-02 12:14:07,163 OUT
+2021-06-02 12:14:07,164 OUT
+2021-06-02 12:15:57,426 Kiwoom initializing...
+2021-06-02 12:16:04,265 Kiwoom log in success
+2021-06-02 12:16:04,265 Account information
+2021-06-02 12:16:05,805 Deposit information (Futures)
+2021-06-02 12:16:05,805 No deposit information
+2021-06-02 12:16:06,789 Portfolio information (Futures)
+2021-06-02 12:16:49,767 Kiwoom initializing...
+2021-06-02 12:16:56,622 Kiwoom log in success
+2021-06-02 12:16:56,622 Account information
+2021-06-02 12:16:57,653 Deposit information (Futures)
+2021-06-02 12:16:57,653 No deposit information
+2021-06-02 12:16:58,867 Portfolio information (Futures)
+2021-06-02 12:17:48,723 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-02 12:17:48,754 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:395.7, number:38190, original:0
+2021-06-02 12:17:48,756 Balance information
+2021-06-02 12:17:48,757 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:395.7, number:38190, original:0
+2021-06-02 12:18:11,279 Kiwoom initializing...
+2021-06-02 12:18:19,448 Kiwoom log in success
+2021-06-02 12:18:19,448 Account information
+2021-06-02 12:18:20,466 Deposit information (Futures)
+2021-06-02 12:18:20,467 No deposit information
+2021-06-02 12:18:21,954 Portfolio information (Futures)
+2021-06-02 12:24:23,946 Deposit information
+2021-06-02 12:24:26,247 Portfolio information
+2021-06-02 12:26:33,386 Kiwoom initializing...
+2021-06-02 12:26:40,584 Kiwoom log in success
+2021-06-02 12:26:40,585 Account information
+2021-06-02 12:26:41,091 Deposit information
+2021-06-02 12:26:42,102 Deposit information (Futures)
+2021-06-02 12:26:42,788 Portfolio information (Futures)
+2021-06-02 12:27:33,098 Kiwoom initializing...
+2021-06-02 12:27:39,779 Kiwoom log in success
+2021-06-02 12:27:39,779 Account information
+2021-06-02 12:27:41,297 Deposit information (Futures)
+2021-06-02 12:27:41,297 No deposit information
+2021-06-02 12:27:42,608 Portfolio information (Futures)
+2021-06-02 12:28:08,218 Kiwoom initializing...
+2021-06-02 12:28:15,770 Kiwoom log in success
+2021-06-02 12:28:15,771 Account information
+2021-06-02 12:28:16,784 Deposit information (Futures)
+2021-06-02 12:28:16,784 No deposit information
+2021-06-02 12:28:18,452 Portfolio information
+2021-06-02 12:28:31,701 Kiwoom initializing...
+2021-06-02 12:28:37,819 Kiwoom log in success
+2021-06-02 12:28:37,819 Account information
+2021-06-02 12:28:38,842 Deposit information (Futures)
+2021-06-02 12:28:38,842 No deposit information
+2021-06-02 12:28:40,408 Portfolio information (Futures)
+2021-06-02 12:29:15,303 Kiwoom initializing...
+2021-06-02 12:29:24,990 Kiwoom log in success
+2021-06-02 12:29:24,991 Account information
+2021-06-02 12:29:26,503 Deposit information (Futures)
+2021-06-02 12:29:26,504 No deposit information
+2021-06-02 12:29:27,050 Portfolio information (Futures)
+2021-06-02 12:29:58,970 Kiwoom initializing...
+2021-06-02 12:30:05,858 Kiwoom log in success
+2021-06-02 12:30:05,858 Account information
+2021-06-02 12:30:06,890 Deposit information (Futures)
+2021-06-02 12:30:06,890 No deposit information
+2021-06-02 12:30:07,991 Portfolio information (Futures)
+2021-06-02 12:30:32,376 Kiwoom initializing...
+2021-06-02 12:30:38,561 Kiwoom log in success
+2021-06-02 12:30:38,561 Account information
+2021-06-02 12:30:39,574 Deposit information (Futures)
+2021-06-02 12:30:39,574 No deposit information
+2021-06-02 12:30:40,809 Portfolio information (Futures)
+2021-06-02 12:41:21,290 F 202106 trading information begins to be monitored
+2021-06-02 12:41:21,290 Go Charting F 202106
+2021-06-02 12:58:17,225 Kiwoom initializing...
+2021-06-02 12:58:28,959 Kiwoom log in success
+2021-06-02 12:58:28,959 Account information
+2021-06-02 12:58:29,979 Deposit information (Futures)
+2021-06-02 12:58:29,979 No deposit information
+2021-06-02 12:58:31,596 Portfolio information (Futures)
+2021-06-02 12:58:48,480 F 202106 trading information begins to be monitored
+2021-06-02 12:58:48,481 Go Charting F 202106
+2021-06-02 12:59:08,647 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-02 12:59:08,725 Order execution(-매도) F 202106(접수), order:4, executed_sum:0, open:4, price:430.0, number:42092, original:0
+2021-06-02 12:59:08,727 Balance information
+2021-06-02 12:59:10,235 Order execution(-매도) F 202106(체결), order:4, executed_sum:4, open:0, price:430.0, number:42092, original:0
+2021-06-02 12:59:31,587 Kiwoom initializing...
+2021-06-02 12:59:38,293 Kiwoom log in success
+2021-06-02 12:59:38,294 Account information
+2021-06-02 12:59:39,313 Deposit information (Futures)
+2021-06-02 12:59:39,314 No deposit information
+2021-06-02 12:59:40,542 Portfolio information
+2021-06-02 12:59:45,568 Deposit information (Futures)
+2021-06-02 12:59:48,028 Portfolio information (Futures)
+2021-06-02 13:00:10,548 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-06-02 13:00:10,654 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:464.5, number:42184, original:0
+2021-06-02 13:00:10,656 Balance information
+2021-06-02 13:00:13,753 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:464.5, number:42184, original:0
+2021-06-02 13:00:13,756 Balance information
+2021-06-02 13:00:26,487 Portfolio information (Futures)
+2021-06-02 14:47:25,412 F 202106 trading information begins to be monitored
+2021-06-02 14:47:25,413 Go Charting F 202106
+2021-06-02 14:50:01,262 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-02 14:50:01,369 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:395.7, number:52800, original:0
+2021-06-02 14:50:01,371 Balance information
+2021-06-02 14:50:02,157 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:395.7, number:52800, original:0
+2021-06-02 14:50:02,160 Balance information
+2021-06-02 14:50:05,960 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-06-02 14:50:06,066 Order execution(-매도) F 202106(접수), order:1, executed_sum:0, open:1, price:395.7, number:52807, original:0
+2021-06-02 14:50:06,069 Balance information
+2021-06-02 14:50:06,754 Order execution(-매도) F 202106(체결), order:1, executed_sum:1, open:0, price:395.7, number:52807, original:0
+2021-06-02 14:50:06,757 Balance information
+2021-06-02 14:50:13,655 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-06-02 14:50:13,660 Order execution(+매수) F 202106(접수), order:1, executed_sum:0, open:1, price:464.5, number:52821, original:0
+2021-06-02 14:50:13,663 Balance information
+2021-06-02 14:50:15,964 Order execution(+매수) F 202106(체결), order:1, executed_sum:1, open:0, price:464.5, number:52821, original:0
+2021-06-02 14:50:15,967 Balance information

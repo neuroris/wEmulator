@@ -1,0 +1,1438 @@
+2020-12-14 09:46:46,290 Kiwoom initializing...
+2020-12-14 09:47:20,370 Kiwoom log in success
+2020-12-14 09:47:20,371 Account information
+2020-12-14 09:47:20,633 Deposit information
+2020-12-14 09:47:23,300 Portfolio information
+2020-12-14 09:48:11,689 Portfolio information
+2020-12-14 09:48:14,790 Order history information
+2020-12-14 09:49:00,562 Order execution 오스템임플란트(접수), order:100, executed:0, order number:73880, original number:0
+2020-12-14 09:49:00,674 Order history information
+2020-12-14 09:49:22,972 Order execution 오스템임플란트(접수), order:60, executed:0, order number:74123, original number:73880
+2020-12-14 09:49:23,071 Order execution 오스템임플란트(확인), order:60, executed:0, order number:74123, original number:73880
+2020-12-14 09:49:23,073 Order execution 오스템임플란트(접수), order:100, executed:0, order number:73880, original number:0
+2020-12-14 09:49:23,076 Order history information
+2020-12-14 09:50:06,069 Order execution 오스템임플란트(접수), order:40, executed:0, order number:74597, original number:74123
+2020-12-14 09:50:06,188 Order execution 오스템임플란트(확인), order:40, executed:0, order number:74597, original number:74123
+2020-12-14 09:50:06,190 Order execution 오스템임플란트(확인), order:60, executed:0, order number:74123, original number:73880
+2020-12-14 09:50:06,194 Order history information
+2020-12-14 09:50:46,616 Order history information
+2020-12-14 09:52:48,266 Order execution 오스템임플란트(접수), order:30, executed:0, order number:77138, original number:74597
+2020-12-14 09:52:48,379 Order execution 오스템임플란트(확인), order:30, executed:0, order number:77138, original number:74597
+2020-12-14 09:52:48,382 Order execution 오스템임플란트(확인), order:40, executed:0, order number:74597, original number:74123
+2020-12-14 09:52:48,386 Order history information
+2020-12-14 09:53:22,523 Order history information
+2020-12-14 09:54:47,165 Order execution 오스템임플란트(접수), order:30, executed:0, order number:78811, original number:77138
+2020-12-14 09:54:47,295 Order execution 오스템임플란트(확인), order:30, executed:0, order number:78811, original number:77138
+2020-12-14 09:54:47,297 Order execution 오스템임플란트(확인), order:30, executed:0, order number:77138, original number:74597
+2020-12-14 09:54:47,304 Order history information
+2020-12-14 09:55:19,360 Order execution 오스템임플란트(접수), order:10, executed:0, order number:79119, original number:74597
+2020-12-14 09:55:19,372 Order execution 오스템임플란트(확인), order:10, executed:0, order number:79119, original number:74597
+2020-12-14 09:55:19,374 Order execution 오스템임플란트(확인), order:40, executed:0, order number:74597, original number:74123
+2020-12-14 09:55:19,379 Order history information
+2020-12-14 09:55:36,355 Order execution 오스템임플란트(접수), order:20, executed:0, order number:79332, original number:74123
+2020-12-14 09:55:36,487 Order execution 오스템임플란트(확인), order:20, executed:0, order number:79332, original number:74123
+2020-12-14 09:55:36,489 Order execution 오스템임플란트(확인), order:60, executed:0, order number:74123, original number:73880
+2020-12-14 09:55:36,495 Order history information
+2020-12-14 09:55:47,061 Order execution 오스템임플란트(접수), order:40, executed:0, order number:79465, original number:73880
+2020-12-14 09:55:47,180 Order execution 오스템임플란트(확인), order:40, executed:0, order number:79465, original number:73880
+2020-12-14 09:55:47,183 Order execution 오스템임플란트(접수), order:100, executed:0, order number:73880, original number:0
+2020-12-14 09:55:47,204 Order history information
+2020-12-14 09:56:50,990 Order history information
+2020-12-14 10:00:00,959 Kiwoom initializing...
+2020-12-14 10:00:07,496 Kiwoom log in success
+2020-12-14 10:00:07,497 Account information
+2020-12-14 10:00:13,450 Deposit information
+2020-12-14 10:00:16,413 Portfolio information
+2020-12-14 10:02:31,401 Kiwoom initializing...
+2020-12-14 10:02:35,699 Kiwoom log in success
+2020-12-14 10:02:35,700 Account information
+2020-12-14 10:02:35,743 Deposit information
+2020-12-14 10:02:38,614 Portfolio information
+2020-12-14 10:08:59,921 Portfolio information
+2020-12-14 10:09:31,922 Order execution 오스템임플란트(접수), order:100, executed:0, order number:88901, original number:0
+2020-12-14 10:09:31,976 Order history information
+2020-12-14 10:09:41,928 Order execution 오스템임플란트(체결), order:100, executed:1, order number:88901, original number:0
+2020-12-14 10:09:41,939 Balance information
+2020-12-14 10:11:57,009 Kiwoom initializing...
+2020-12-14 10:12:01,179 Kiwoom log in success
+2020-12-14 10:12:01,179 Account information
+2020-12-14 10:12:01,229 Deposit information
+2020-12-14 10:12:03,731 Portfolio information
+2020-12-14 10:12:18,007 Kiwoom initializing...
+2020-12-14 10:12:33,387 Something is wrong during log-in
+2020-12-14 10:12:33,388 Login error -100
+2020-12-14 10:12:33,389 Account information
+2020-12-14 10:12:33,416 Something is wrong during log-in
+2020-12-14 10:12:33,416 Login error -106
+2020-12-14 10:12:33,437 Something is wrong during log-in
+2020-12-14 10:12:33,437 Login error -106
+2020-12-14 10:12:41,967 Kiwoom log in success
+2020-12-14 10:13:12,302 Kiwoom initializing...
+2020-12-14 10:13:16,615 Kiwoom log in success
+2020-12-14 10:13:16,615 Account information
+2020-12-14 10:13:16,648 Deposit information
+2020-12-14 10:13:17,451 Portfolio information
+2020-12-14 10:13:23,790 Order history information
+2020-12-14 10:13:41,521 Order execution 오스템임플란트(접수), order:200, executed:0, order number:91937, original number:0
+2020-12-14 10:13:41,618 Order history information
+2020-12-14 10:13:44,030 Order execution 오스템임플란트(체결), order:200, executed:1, order number:91937, original number:0
+2020-12-14 10:13:44,041 Balance information
+2020-12-14 10:23:39,635 Kiwoom initializing...
+2020-12-14 10:23:46,425 Kiwoom log in success
+2020-12-14 10:23:46,426 Account information
+2020-12-14 10:23:46,481 Deposit information
+2020-12-14 10:23:48,595 Portfolio information
+2020-12-14 10:24:00,241 Order history information
+2020-12-14 10:24:10,543 Order execution 오스템임플란트(접수), order:300, executed:0, order number:98877, original number:0
+2020-12-14 10:24:13,444 Order execution 오스템임플란트(체결), order:300, executed:10, order number:98877, original number:0
+2020-12-14 10:24:13,454 Balance information
+2020-12-14 10:25:08,796 Kiwoom initializing...
+2020-12-14 10:25:13,208 Kiwoom log in success
+2020-12-14 10:25:13,209 Account information
+2020-12-14 10:25:13,723 Deposit information
+2020-12-14 10:25:16,370 Portfolio information
+2020-12-14 10:26:01,914 Order execution 오스템임플란트(체결), order:300, executed:173, order number:98877, original number:0
+2020-12-14 10:26:31,406 Balance information
+2020-12-14 10:29:09,710 Kiwoom initializing...
+2020-12-14 10:29:17,258 Kiwoom log in success
+2020-12-14 10:29:17,259 Account information
+2020-12-14 10:29:17,451 Deposit information
+2020-12-14 10:29:19,845 Portfolio information
+2020-12-14 10:29:21,446 Order history information
+2020-12-14 10:29:53,494 Order execution 오스템임플란트(접수), order:400, executed:0, order number:102418, original number:0
+2020-12-14 10:29:59,795 Order execution 오스템임플란트(체결), order:400, executed:4, order number:102418, original number:0
+2020-12-14 10:29:59,805 Balance information
+2020-12-14 10:31:07,430 Kiwoom initializing...
+2020-12-14 10:31:15,058 Kiwoom log in success
+2020-12-14 10:31:15,059 Account information
+2020-12-14 10:31:16,219 Order execution 오스템임플란트(체결), order:400, executed:125, order number:102418, original number:0
+2020-12-14 10:31:16,228 Balance information
+2020-12-14 10:31:16,741 Order history information
+2020-12-14 10:31:17,173 Deposit information
+2020-12-14 10:31:19,416 Portfolio information
+2020-12-14 10:31:21,105 Order execution 오스템임플란트(체결), order:400, executed:131, order number:102418, original number:0
+2020-12-14 10:31:21,135 Balance information
+2020-12-14 10:31:21,630 Order history information
+2020-12-14 10:31:22,835 Deposit information
+2020-12-14 10:31:24,588 Portfolio information
+2020-12-14 10:31:32,705 Order execution 오스템임플란트(체결), order:400, executed:138, order number:102418, original number:0
+2020-12-14 10:31:32,715 Balance information
+2020-12-14 10:31:33,227 Order history information
+2020-12-14 10:31:33,342 Deposit information
+2020-12-14 10:31:35,120 Portfolio information
+2020-12-14 10:31:35,405 Order execution 오스템임플란트(체결), order:400, executed:139, order number:102418, original number:0
+2020-12-14 10:31:35,415 Balance information
+2020-12-14 10:31:35,928 Order history information
+2020-12-14 10:31:36,466 Deposit information
+2020-12-14 10:31:38,406 Order execution 오스템임플란트(체결), order:400, executed:152, order number:102418, original number:0
+2020-12-14 10:31:38,416 Balance information
+2020-12-14 10:31:38,929 Order history information
+2020-12-14 10:31:39,027 Portfolio information
+2020-12-14 10:31:39,955 Deposit information
+2020-12-14 10:31:41,107 Order execution 오스템임플란트(체결), order:400, executed:157, order number:102418, original number:0
+2020-12-14 10:31:41,117 Balance information
+2020-12-14 10:31:41,629 Order history information
+2020-12-14 10:31:42,167 Deposit information
+2020-12-14 10:31:44,199 Portfolio information
+2020-12-14 10:31:46,108 Order execution 오스템임플란트(체결), order:400, executed:158, order number:102418, original number:0
+2020-12-14 10:31:46,118 Balance information
+2020-12-14 10:31:46,633 Order history information
+2020-12-14 10:31:46,960 Deposit information
+2020-12-14 10:31:48,706 Order execution 오스템임플란트(체결), order:400, executed:188, order number:102418, original number:0
+2020-12-14 10:31:48,716 Balance information
+2020-12-14 10:31:49,234 Order history information
+2020-12-14 10:31:49,671 Deposit information
+2020-12-14 10:31:50,225 Portfolio information
+2020-12-14 10:31:50,407 Order execution 오스템임플란트(체결), order:400, executed:189, order number:102418, original number:0
+2020-12-14 10:31:50,417 Balance information
+2020-12-14 10:31:50,929 Order history information
+2020-12-14 10:31:52,809 Order execution 오스템임플란트(체결), order:400, executed:197, order number:102418, original number:0
+2020-12-14 10:31:52,819 Balance information
+2020-12-14 10:31:53,388 Order history information
+2020-12-14 10:31:53,439 Deposit information
+2020-12-14 10:31:55,802 Order execution 오스템임플란트(체결), order:400, executed:217, order number:102418, original number:0
+2020-12-14 10:31:55,813 Balance information
+2020-12-14 10:31:56,337 Order history information
+2020-12-14 10:31:56,355 Portfolio information
+2020-12-14 10:32:01,013 Order execution 오스템임플란트(체결), order:400, executed:237, order number:102418, original number:0
+2020-12-14 10:32:01,022 Balance information
+2020-12-14 10:32:01,540 Order history information
+2020-12-14 10:32:01,542 Order execution 오스템임플란트(체결), order:400, executed:239, order number:102418, original number:0
+2020-12-14 10:32:01,797 Balance information
+2020-12-14 10:32:02,331 Order history information
+2020-12-14 10:32:02,343 Deposit information
+2020-12-14 10:32:02,351 Portfolio information
+2020-12-14 10:32:02,708 Order execution 오스템임플란트(체결), order:400, executed:263, order number:102418, original number:0
+2020-12-14 10:32:02,718 Balance information
+2020-12-14 10:32:03,236 Order history information
+2020-12-14 10:32:03,240 Deposit information
+2020-12-14 10:32:03,259 Portfolio information
+2020-12-14 10:32:03,702 Order execution 오스템임플란트(체결), order:400, executed:266, order number:102418, original number:0
+2020-12-14 10:32:03,711 Balance information
+2020-12-14 10:32:03,962 now waiting 2.051072359085083s... for request block interval
+2020-12-14 10:32:06,288 Order history information
+2020-12-14 10:32:06,291 Order execution 오스템임플란트(체결), order:400, executed:295, order number:102418, original number:0
+2020-12-14 10:32:06,546 Balance information
+2020-12-14 10:32:07,058 Deposit information
+2020-12-14 10:32:07,076 Portfolio information
+2020-12-14 10:32:07,098 Order history information
+2020-12-14 10:32:07,411 Order execution 오스템임플란트(체결), order:400, executed:300, order number:102418, original number:0
+2020-12-14 10:32:07,421 Balance information
+2020-12-14 10:32:07,669 now waiting 0.03911709785461426s... for request block interval
+2020-12-14 10:32:07,985 Order history information
+2020-12-14 10:32:07,988 Deposit information
+2020-12-14 10:32:08,024 Portfolio information
+2020-12-14 10:32:14,408 Order execution 오스템임플란트(체결), order:400, executed:330, order number:102418, original number:0
+2020-12-14 10:32:14,419 Balance information
+2020-12-14 10:32:14,943 Order history information
+2020-12-14 10:32:14,958 Deposit information
+2020-12-14 10:32:15,398 Portfolio information
+2020-12-14 10:32:16,612 Order execution 오스템임플란트(체결), order:400, executed:333, order number:102418, original number:0
+2020-12-14 10:32:16,622 Balance information
+2020-12-14 10:32:17,145 Order history information
+2020-12-14 10:32:17,162 Deposit information
+2020-12-14 10:32:17,217 Portfolio information
+2020-12-14 10:32:19,005 Order execution 오스템임플란트(체결), order:400, executed:335, order number:102418, original number:0
+2020-12-14 10:32:19,014 Balance information
+2020-12-14 10:32:19,537 Order history information
+2020-12-14 10:32:19,539 Deposit information
+2020-12-14 10:32:19,559 Portfolio information
+2020-12-14 10:32:28,509 Order execution 오스템임플란트(체결), order:400, executed:337, order number:102418, original number:0
+2020-12-14 10:32:28,518 Balance information
+2020-12-14 10:32:29,036 Order history information
+2020-12-14 10:32:29,052 Deposit information
+2020-12-14 10:32:30,511 Order execution 오스템임플란트(체결), order:400, executed:340, order number:102418, original number:0
+2020-12-14 10:32:30,521 Balance information
+2020-12-14 10:32:31,041 Order history information
+2020-12-14 10:32:31,046 Portfolio information
+2020-12-14 10:32:31,074 Deposit information
+2020-12-14 10:32:40,611 Order execution 오스템임플란트(체결), order:400, executed:348, order number:102418, original number:0
+2020-12-14 10:32:40,621 Balance information
+2020-12-14 10:32:41,137 Order history information
+2020-12-14 10:32:41,153 Deposit information
+2020-12-14 10:32:41,482 Portfolio information
+2020-12-14 10:32:42,802 Order execution 오스템임플란트(체결), order:400, executed:349, order number:102418, original number:0
+2020-12-14 10:32:42,813 Balance information
+2020-12-14 10:32:43,328 Order history information
+2020-12-14 10:32:43,331 Deposit information
+2020-12-14 10:32:43,353 Portfolio information
+2020-12-14 10:32:50,898 Order execution 오스템임플란트(체결), order:400, executed:350, order number:102418, original number:0
+2020-12-14 10:32:50,908 Balance information
+2020-12-14 10:32:51,424 Order history information
+2020-12-14 10:32:51,429 Deposit information
+2020-12-14 10:32:51,679 Portfolio information
+2020-12-14 10:32:55,509 Order execution 오스템임플란트(체결), order:400, executed:351, order number:102418, original number:0
+2020-12-14 10:32:55,519 Balance information
+2020-12-14 10:32:56,043 Order history information
+2020-12-14 10:32:56,047 Deposit information
+2020-12-14 10:32:56,100 Portfolio information
+2020-12-14 10:33:02,607 Order execution 오스템임플란트(체결), order:400, executed:352, order number:102418, original number:0
+2020-12-14 10:33:02,616 Balance information
+2020-12-14 10:33:03,131 Order history information
+2020-12-14 10:33:03,147 Deposit information
+2020-12-14 10:33:03,353 Portfolio information
+2020-12-14 10:33:09,005 Order execution 오스템임플란트(체결), order:400, executed:400, order number:102418, original number:0
+2020-12-14 10:33:09,016 Balance information
+2020-12-14 10:33:09,544 Order history information
+2020-12-14 10:33:09,547 Deposit information
+2020-12-14 10:33:09,574 Portfolio information
+2020-12-14 10:33:30,894 Kiwoom initializing...
+2020-12-14 10:33:35,131 Kiwoom log in success
+2020-12-14 10:33:35,131 Account information
+2020-12-14 10:33:35,397 Deposit information
+2020-12-14 10:33:36,444 Portfolio information
+2020-12-14 10:34:02,134 Order execution 오스템임플란트(접수), order:500, executed:0, order number:104950, original number:0
+2020-12-14 10:34:02,171 Order history information
+2020-12-14 10:34:02,647 Order execution 오스템임플란트(체결), order:500, executed:32, order number:104950, original number:0
+2020-12-14 10:34:02,657 Balance information
+2020-12-14 10:34:03,178 Order history information
+2020-12-14 10:34:06,033 Order execution 오스템임플란트(체결), order:500, executed:34, order number:104950, original number:0
+2020-12-14 10:34:06,042 Balance information
+2020-12-14 10:34:06,559 Order history information
+2020-12-14 10:34:06,575 Deposit information
+2020-12-14 10:34:06,582 Portfolio information
+2020-12-14 10:34:09,644 Order execution 오스템임플란트(체결), order:500, executed:212, order number:104950, original number:0
+2020-12-14 10:34:09,654 Balance information
+2020-12-14 10:34:10,170 Order history information
+2020-12-14 10:34:10,186 Deposit information
+2020-12-14 10:34:10,239 Portfolio information
+2020-12-14 10:34:21,539 Order execution 오스템임플란트(체결), order:500, executed:213, order number:104950, original number:0
+2020-12-14 10:34:21,549 Balance information
+2020-12-14 10:34:22,068 Order history information
+2020-12-14 10:34:22,071 Deposit information
+2020-12-14 10:34:22,336 Portfolio information
+2020-12-14 10:34:30,338 Order execution 오스템임플란트(체결), order:500, executed:214, order number:104950, original number:0
+2020-12-14 10:34:30,349 Balance information
+2020-12-14 10:34:30,867 Order history information
+2020-12-14 10:34:30,869 Deposit information
+2020-12-14 10:34:30,894 Portfolio information
+2020-12-14 10:34:31,938 Order execution 오스템임플란트(체결), order:500, executed:216, order number:104950, original number:0
+2020-12-14 10:34:31,947 Balance information
+2020-12-14 10:34:32,465 Order history information
+2020-12-14 10:34:32,468 Deposit information
+2020-12-14 10:34:32,533 Portfolio information
+2020-12-14 10:34:52,235 Order execution 오스템임플란트(체결), order:500, executed:217, order number:104950, original number:0
+2020-12-14 10:34:52,246 Balance information
+2020-12-14 10:34:52,758 Order history information
+2020-12-14 10:34:52,777 Deposit information
+2020-12-14 10:34:52,982 Portfolio information
+2020-12-14 10:35:10,338 Order execution 오스템임플란트(체결), order:500, executed:221, order number:104950, original number:0
+2020-12-14 10:35:10,348 Balance information
+2020-12-14 10:35:10,861 Order history information
+2020-12-14 10:35:10,878 Deposit information
+2020-12-14 10:35:11,343 Order execution 오스템임플란트(체결), order:500, executed:227, order number:104950, original number:0
+2020-12-14 10:35:11,351 Balance information
+2020-12-14 10:35:11,868 Order history information
+2020-12-14 10:35:11,886 Deposit information
+2020-12-14 10:35:12,028 Portfolio information
+2020-12-14 10:35:14,143 Order execution 오스템임플란트(체결), order:500, executed:230, order number:104950, original number:0
+2020-12-14 10:35:14,173 Balance information
+2020-12-14 10:35:14,674 Order history information
+2020-12-14 10:35:14,690 Deposit information
+2020-12-14 10:35:16,735 Portfolio information
+2020-12-14 10:35:18,036 Order execution 오스템임플란트(체결), order:500, executed:231, order number:104950, original number:0
+2020-12-14 10:35:18,045 Balance information
+2020-12-14 10:35:18,563 Order history information
+2020-12-14 10:35:18,566 Deposit information
+2020-12-14 10:35:18,940 Order execution 오스템임플란트(체결), order:500, executed:331, order number:104950, original number:0
+2020-12-14 10:35:18,970 Balance information
+2020-12-14 10:35:19,466 Order history information
+2020-12-14 10:35:19,489 Deposit information
+2020-12-14 10:35:20,413 Portfolio information
+2020-12-14 10:35:28,233 Order execution 오스템임플란트(체결), order:500, executed:340, order number:104950, original number:0
+2020-12-14 10:35:28,245 Balance information
+2020-12-14 10:35:28,762 Order history information
+2020-12-14 10:35:28,780 Deposit information
+2020-12-14 10:35:28,784 Order execution 오스템임플란트(체결), order:500, executed:342, order number:104950, original number:0
+2020-12-14 10:35:29,020 Balance information
+2020-12-14 10:35:29,547 Order history information
+2020-12-14 10:35:29,568 Deposit information
+2020-12-14 10:35:29,631 Order execution 오스템임플란트(체결), order:500, executed:374, order number:104950, original number:0
+2020-12-14 10:35:29,809 Balance information
+2020-12-14 10:35:30,333 Order history information
+2020-12-14 10:35:30,335 Deposit information
+2020-12-14 10:35:30,360 Portfolio information
+2020-12-14 10:35:30,936 Order execution 오스템임플란트(체결), order:500, executed:378, order number:104950, original number:0
+2020-12-14 10:35:30,945 Balance information
+2020-12-14 10:35:31,197 now waiting 2.036914110183716s... for request block interval
+2020-12-14 10:35:33,507 Order history information
+2020-12-14 10:35:33,524 Order execution 오스템임플란트(체결), order:500, executed:380, order number:104950, original number:0
+2020-12-14 10:35:33,768 Balance information
+2020-12-14 10:35:34,287 Order execution 오스템임플란트(체결), order:500, executed:400, order number:104950, original number:0
+2020-12-14 10:35:34,551 Balance information
+2020-12-14 10:35:35,073 Deposit information
+2020-12-14 10:35:35,086 Order history information
+2020-12-14 10:35:35,101 Portfolio information
+2020-12-14 10:35:35,113 Order execution 오스템임플란트(체결), order:500, executed:500, order number:104950, original number:0
+2020-12-14 10:35:35,320 now waiting 0.0005106925964355469s... for request block interval
+2020-12-14 10:35:35,345 Balance information
+2020-12-14 10:35:35,593 now waiting 0.3422679901123047s... for request block interval
+2020-12-14 10:35:36,204 now waiting 2.03389310836792s... for request block interval
+2020-12-14 10:36:09,404 Kiwoom initializing...
+2020-12-14 10:36:13,678 Kiwoom log in success
+2020-12-14 10:36:13,678 Account information
+2020-12-14 10:36:13,932 Deposit information
+2020-12-14 10:36:14,816 Portfolio information
+2020-12-14 10:36:17,817 Order history information
+2020-12-14 10:37:19,873 Order execution 오스템임플란트(접수), order:100, executed:0, order number:106746, original number:0
+2020-12-14 10:37:19,903 Order history information
+2020-12-14 10:37:23,270 Order execution 오스템임플란트(체결), order:100, executed:3, order number:106746, original number:0
+2020-12-14 10:37:23,280 Balance information
+2020-12-14 10:37:23,793 Order history information
+2020-12-14 10:37:24,411 Deposit information
+2020-12-14 10:37:24,578 Order execution 오스템임플란트(체결), order:100, executed:5, order number:106746, original number:0
+2020-12-14 10:37:24,588 Balance information
+2020-12-14 10:37:25,103 Order history information
+2020-12-14 10:37:26,397 Deposit information
+2020-12-14 10:37:26,932 Portfolio information
+2020-12-14 10:37:27,082 Order execution 오스템임플란트(체결), order:100, executed:45, order number:106746, original number:0
+2020-12-14 10:37:27,091 Balance information
+2020-12-14 10:37:27,606 Order history information
+2020-12-14 10:37:29,313 Deposit information
+2020-12-14 10:37:30,585 Order execution 오스템임플란트(체결), order:100, executed:90, order number:106746, original number:0
+2020-12-14 10:37:30,594 Balance information
+2020-12-14 10:37:31,112 Order history information
+2020-12-14 10:37:31,761 Portfolio information
+2020-12-14 10:37:31,774 Deposit information
+2020-12-14 10:37:33,273 Order execution 오스템임플란트(체결), order:100, executed:91, order number:106746, original number:0
+2020-12-14 10:37:33,282 Balance information
+2020-12-14 10:37:33,797 Order history information
+2020-12-14 10:37:36,769 Order execution 오스템임플란트(체결), order:100, executed:100, order number:106746, original number:0
+2020-12-14 10:37:36,779 Balance information
+2020-12-14 10:37:37,295 Order history information
+2020-12-14 10:37:38,002 Deposit information
+2020-12-14 10:37:38,033 Portfolio information
+2020-12-14 10:38:09,095 Portfolio information
+2020-12-14 10:41:03,267 Order execution 오스템임플란트(접수), order:100, executed:0, order number:108800, original number:0
+2020-12-14 10:41:03,277 Balance information
+2020-12-14 10:41:03,795 Order history information
+2020-12-14 10:41:03,799 Deposit information
+2020-12-14 10:41:05,072 Order execution 오스템임플란트(체결), order:100, executed:6, order number:108800, original number:0
+2020-12-14 10:41:05,081 Balance information
+2020-12-14 10:41:05,598 Order history information
+2020-12-14 10:41:05,877 Deposit information
+2020-12-14 10:41:06,018 Portfolio information
+2020-12-14 10:41:07,565 Order execution 오스템임플란트(체결), order:100, executed:7, order number:108800, original number:0
+2020-12-14 10:41:07,575 Balance information
+2020-12-14 10:41:08,097 Order history information
+2020-12-14 10:41:08,163 Deposit information
+2020-12-14 10:41:10,618 Portfolio information
+2020-12-14 10:41:12,765 Order execution 오스템임플란트(체결), order:100, executed:27, order number:108800, original number:0
+2020-12-14 10:41:12,775 Balance information
+2020-12-14 10:41:13,297 Order history information
+2020-12-14 10:41:13,486 Deposit information
+2020-12-14 10:41:16,030 Portfolio information
+2020-12-14 10:41:18,667 Order execution 오스템임플란트(체결), order:100, executed:73, order number:108800, original number:0
+2020-12-14 10:41:18,676 Balance information
+2020-12-14 10:41:19,196 Order history information
+2020-12-14 10:41:19,718 Deposit information
+2020-12-14 10:41:21,903 Portfolio information
+2020-12-14 10:41:22,675 Order execution 오스템임플란트(체결), order:100, executed:100, order number:108800, original number:0
+2020-12-14 10:41:22,685 Balance information
+2020-12-14 10:41:23,203 Order history information
+2020-12-14 10:41:23,405 Deposit information
+2020-12-14 10:41:25,400 Portfolio information
+2020-12-14 10:47:23,449 Kiwoom initializing...
+2020-12-14 10:47:34,253 Kiwoom log in success
+2020-12-14 10:47:34,253 Account information
+2020-12-14 10:47:34,766 Deposit information
+2020-12-14 10:47:38,745 Portfolio information
+2020-12-14 10:47:44,093 Order history information
+2020-12-14 10:47:57,207 Order execution 오스템임플란트(접수), order:100, executed:0, order number:113061, original number:0
+2020-12-14 10:47:57,216 Balance information
+2020-12-14 10:47:57,731 Order history information
+2020-12-14 10:47:59,242 Deposit information
+2020-12-14 10:48:02,342 Portfolio information
+2020-12-14 10:48:05,207 Order execution 오스템임플란트(체결), order:100, executed:1, order number:113061, original number:0
+2020-12-14 10:48:05,216 Balance information
+2020-12-14 10:48:05,736 Order history information
+2020-12-14 10:48:07,125 Deposit information
+2020-12-14 10:48:08,496 Order execution 오스템임플란트(체결), order:100, executed:2, order number:113061, original number:0
+2020-12-14 10:48:08,505 Balance information
+2020-12-14 10:48:09,018 Order history information
+2020-12-14 10:48:09,752 Deposit information
+2020-12-14 10:48:09,758 Portfolio information
+2020-12-14 10:48:12,099 Order execution 오스템임플란트(체결), order:100, executed:9, order number:113061, original number:0
+2020-12-14 10:48:12,109 Balance information
+2020-12-14 10:48:12,624 Order history information
+2020-12-14 10:48:13,619 Deposit information
+2020-12-14 10:48:16,408 Order execution 오스템임플란트(체결), order:100, executed:12, order number:113061, original number:0
+2020-12-14 10:48:16,417 Balance information
+2020-12-14 10:48:16,932 Order history information
+2020-12-14 10:48:16,951 Portfolio information
+2020-12-14 10:48:17,978 Deposit information
+2020-12-14 10:48:28,405 Order execution 오스템임플란트(체결), order:100, executed:13, order number:113061, original number:0
+2020-12-14 10:48:28,414 Balance information
+2020-12-14 10:48:28,926 Order history information
+2020-12-14 10:48:30,468 Deposit information
+2020-12-14 10:48:31,896 Order execution 오스템임플란트(체결), order:100, executed:17, order number:113061, original number:0
+2020-12-14 10:48:31,905 Balance information
+2020-12-14 10:48:32,425 Order history information
+2020-12-14 10:48:33,399 Deposit information
+2020-12-14 10:48:33,476 Portfolio information
+2020-12-14 10:48:34,901 Order execution 오스템임플란트(체결), order:100, executed:20, order number:113061, original number:0
+2020-12-14 10:48:34,911 Balance information
+2020-12-14 10:48:35,431 Order history information
+2020-12-14 10:48:35,906 Order execution 오스템임플란트(체결), order:100, executed:21, order number:113061, original number:0
+2020-12-14 10:48:35,916 Balance information
+2020-12-14 10:48:36,432 Order history information
+2020-12-14 10:48:37,002 Deposit information
+2020-12-14 10:48:38,502 Order execution 오스템임플란트(체결), order:100, executed:23, order number:113061, original number:0
+2020-12-14 10:48:38,511 Balance information
+2020-12-14 10:48:39,025 Order history information
+2020-12-14 10:48:39,043 Portfolio information
+2020-12-14 10:48:40,358 Deposit information
+2020-12-14 10:48:40,602 Order execution 오스템임플란트(체결), order:100, executed:24, order number:113061, original number:0
+2020-12-14 10:48:40,611 Balance information
+2020-12-14 10:48:41,126 Order history information
+2020-12-14 10:48:41,647 Deposit information
+2020-12-14 10:48:41,691 Order execution 오스템임플란트(체결), order:100, executed:100, order number:113061, original number:0
+2020-12-14 10:48:41,701 Balance information
+2020-12-14 10:48:42,216 Order history information
+2020-12-14 10:49:14,814 Portfolio information
+2020-12-14 10:53:48,717 Kiwoom initializing...
+2020-12-14 10:53:52,851 Kiwoom log in success
+2020-12-14 10:53:52,852 Account information
+2020-12-14 10:53:53,112 Deposit information
+2020-12-14 10:53:54,629 Portfolio information
+2020-12-14 10:54:19,479 Order execution KODEX 레버리지(접수), order:100, executed:0, order number:116614, original number:0
+2020-12-14 10:54:19,502 Balance information
+2020-12-14 10:54:20,022 Order history information
+2020-12-14 10:54:20,025 Deposit information
+2020-12-14 10:54:21,641 Portfolio information
+2020-12-14 10:54:22,977 Order execution KODEX 레버리지(체결), order:100, executed:100, order number:116614, original number:0
+2020-12-14 10:54:23,008 Balance information
+2020-12-14 10:54:23,509 Order history information
+2020-12-14 10:54:23,513 Deposit information
+2020-12-14 10:54:25,654 Portfolio information
+2020-12-14 10:54:34,669 Order execution 오스템임플란트(접수), order:200, executed:0, order number:116775, original number:0
+2020-12-14 10:54:34,679 Balance information
+2020-12-14 10:54:35,188 Order history information
+2020-12-14 10:54:35,191 Deposit information
+2020-12-14 10:54:36,912 Portfolio information
+2020-12-14 10:54:37,476 Order execution 오스템임플란트(체결), order:200, executed:33, order number:116775, original number:0
+2020-12-14 10:54:37,485 Balance information
+2020-12-14 10:54:38,009 Order history information
+2020-12-14 10:54:38,025 Deposit information
+2020-12-14 10:54:39,962 Portfolio information
+2020-12-14 10:54:58,875 Order execution 오스템임플란트(체결), order:200, executed:34, order number:116775, original number:0
+2020-12-14 10:54:58,885 Balance information
+2020-12-14 10:54:59,408 Order history information
+2020-12-14 10:54:59,788 Deposit information
+2020-12-14 10:55:01,972 Portfolio information
+2020-12-14 10:55:02,974 Order execution 오스템임플란트(체결), order:200, executed:200, order number:116775, original number:0
+2020-12-14 10:55:02,984 Balance information
+2020-12-14 10:55:03,503 Order history information
+2020-12-14 10:55:04,024 Deposit information
+2020-12-14 10:55:05,991 Portfolio information
+2020-12-14 10:58:14,083 Kiwoom initializing...
+2020-12-14 10:58:22,970 Kiwoom log in success
+2020-12-14 10:58:22,970 Account information
+2020-12-14 10:58:23,226 Deposit information
+2020-12-14 10:58:25,040 Portfolio information
+2020-12-14 10:59:11,326 Order execution 오스템임플란트(접수), order:200, executed:0, order number:119499, original number:0
+2020-12-14 10:59:11,441 Balance information
+2020-12-14 10:59:11,963 Order history information
+2020-12-14 10:59:11,965 Deposit information
+2020-12-14 10:59:13,336 Portfolio information
+2020-12-14 10:59:21,328 Order execution 오스템임플란트(체결), order:200, executed:6, order number:119499, original number:0
+2020-12-14 10:59:21,337 Balance information
+2020-12-14 10:59:21,856 Order history information
+2020-12-14 10:59:21,860 Deposit information
+2020-12-14 10:59:24,138 Portfolio information
+2020-12-14 10:59:25,331 Order execution 오스템임플란트(체결), order:200, executed:7, order number:119499, original number:0
+2020-12-14 10:59:25,340 Balance information
+2020-12-14 10:59:25,858 Order history information
+2020-12-14 10:59:25,861 Deposit information
+2020-12-14 10:59:28,187 Portfolio information
+2020-12-14 10:59:32,035 Order execution 오스템임플란트(체결), order:200, executed:8, order number:119499, original number:0
+2020-12-14 10:59:32,045 Balance information
+2020-12-14 10:59:32,567 Order history information
+2020-12-14 10:59:32,570 Deposit information
+2020-12-14 10:59:34,799 Portfolio information
+2020-12-14 10:59:42,529 Order execution 오스템임플란트(체결), order:200, executed:39, order number:119499, original number:0
+2020-12-14 10:59:42,538 Balance information
+2020-12-14 10:59:43,060 Order history information
+2020-12-14 10:59:43,064 Deposit information
+2020-12-14 10:59:44,880 Portfolio information
+2020-12-14 10:59:47,230 Order execution 오스템임플란트(체결), order:200, executed:42, order number:119499, original number:0
+2020-12-14 10:59:47,241 Balance information
+2020-12-14 10:59:47,762 Order history information
+2020-12-14 10:59:47,779 Order execution 오스템임플란트(체결), order:200, executed:44, order number:119499, original number:0
+2020-12-14 10:59:48,016 Balance information
+2020-12-14 10:59:48,528 Deposit information
+2020-12-14 10:59:48,539 Order execution 오스템임플란트(체결), order:200, executed:47, order number:119499, original number:0
+2020-12-14 10:59:48,790 Balance information
+2020-12-14 10:59:49,312 Order history information
+2020-12-14 10:59:59,058 Kiwoom initializing...
+2020-12-14 11:00:03,852 Kiwoom log in success
+2020-12-14 11:00:03,853 Account information
+2020-12-14 11:00:04,111 Deposit information
+2020-12-14 11:00:06,622 Portfolio information
+2020-12-14 11:00:20,441 Order history information
+2020-12-14 11:00:24,099 Order execution 오스템임플란트(체결), order:200, executed:62, order number:119499, original number:0
+2020-12-14 11:00:24,109 Balance information
+2020-12-14 11:00:24,626 Order history information
+2020-12-14 11:00:24,905 Deposit information
+2020-12-14 11:00:28,377 Portfolio information
+2020-12-14 11:00:38,500 Order execution 오스템임플란트(체결), order:200, executed:63, order number:119499, original number:0
+2020-12-14 11:00:38,510 Balance information
+2020-12-14 11:00:39,026 Order history information
+2020-12-14 11:00:39,077 Deposit information
+2020-12-14 11:00:39,488 Order execution 오스템임플란트(체결), order:200, executed:66, order number:119499, original number:0
+2020-12-14 11:00:39,497 Balance information
+2020-12-14 11:00:40,017 Order history information
+2020-12-14 11:00:40,370 Deposit information
+2020-12-14 11:00:41,678 Portfolio information
+2020-12-14 11:00:41,995 Order execution 오스템임플란트(체결), order:200, executed:68, order number:119499, original number:0
+2020-12-14 11:00:42,004 Balance information
+2020-12-14 11:00:42,521 Order history information
+2020-12-14 11:00:42,601 Deposit information
+2020-12-14 11:00:44,587 Portfolio information
+2020-12-14 11:00:50,995 Order execution 오스템임플란트(체결), order:200, executed:69, order number:119499, original number:0
+2020-12-14 11:00:51,004 Balance information
+2020-12-14 11:00:51,525 Order history information
+2020-12-14 11:00:52,310 Deposit information
+2020-12-14 11:00:54,844 Portfolio information
+2020-12-14 11:00:55,796 Order execution 오스템임플란트(체결), order:200, executed:79, order number:119499, original number:0
+2020-12-14 11:00:55,806 Balance information
+2020-12-14 11:00:56,327 Order history information
+2020-12-14 11:00:56,511 Deposit information
+2020-12-14 11:00:56,997 Order execution 오스템임플란트(체결), order:200, executed:81, order number:119499, original number:0
+2020-12-14 11:00:57,005 Balance information
+2020-12-14 11:00:57,523 Order history information
+2020-12-14 11:00:58,167 Deposit information
+2020-12-14 11:00:58,700 Portfolio information
+2020-12-14 11:01:03,788 Order execution 오스템임플란트(체결), order:200, executed:82, order number:119499, original number:0
+2020-12-14 11:01:03,798 Balance information
+2020-12-14 11:01:04,317 Order history information
+2020-12-14 11:01:04,472 Deposit information
+2020-12-14 11:01:06,952 Portfolio information
+2020-12-14 11:01:09,294 Order execution 오스템임플란트(체결), order:200, executed:83, order number:119499, original number:0
+2020-12-14 11:01:09,303 Balance information
+2020-12-14 11:01:09,821 Order history information
+2020-12-14 11:01:09,965 Deposit information
+2020-12-14 11:01:10,193 Order execution 오스템임플란트(체결), order:200, executed:84, order number:119499, original number:0
+2020-12-14 11:01:10,202 Balance information
+2020-12-14 11:01:10,725 Order history information
+2020-12-14 11:01:10,914 Deposit information
+2020-12-14 11:01:12,231 Portfolio information
+2020-12-14 11:01:14,288 Order execution 오스템임플란트(체결), order:200, executed:86, order number:119499, original number:0
+2020-12-14 11:01:14,297 Balance information
+2020-12-14 11:01:14,817 Order history information
+2020-12-14 11:01:14,928 Deposit information
+2020-12-14 11:01:15,888 Order execution 오스템임플란트(체결), order:200, executed:87, order number:119499, original number:0
+2020-12-14 11:01:15,898 Balance information
+2020-12-14 11:01:16,435 Order history information
+2020-12-14 11:01:16,451 Deposit information
+2020-12-14 11:01:17,204 Portfolio information
+2020-12-14 11:01:21,001 Order execution 오스템임플란트(체결), order:200, executed:91, order number:119499, original number:0
+2020-12-14 11:01:21,014 Balance information
+2020-12-14 11:01:21,532 Order history information
+2020-12-14 11:01:22,082 Deposit information
+2020-12-14 11:01:23,602 Order execution 오스템임플란트(체결), order:200, executed:109, order number:119499, original number:0
+2020-12-14 11:01:23,611 Balance information
+2020-12-14 11:01:24,132 Order history information
+2020-12-14 11:01:24,137 Portfolio information
+2020-12-14 11:01:24,261 Deposit information
+2020-12-14 11:01:24,898 Order execution 오스템임플란트(체결), order:200, executed:110, order number:119499, original number:0
+2020-12-14 11:01:24,907 Balance information
+2020-12-14 11:01:25,426 Order history information
+2020-12-14 11:01:26,162 Deposit information
+2020-12-14 11:01:28,022 Portfolio information
+2020-12-14 11:01:28,025 Order execution 오스템임플란트(체결), order:200, executed:111, order number:119499, original number:0
+2020-12-14 11:01:28,035 Balance information
+2020-12-14 11:01:28,555 Order history information
+2020-12-14 11:01:29,382 Deposit information
+2020-12-14 11:01:29,386 Order execution 오스템임플란트(체결), order:200, executed:136, order number:119499, original number:0
+2020-12-14 11:01:29,397 Balance information
+2020-12-14 11:01:29,927 Order history information
+2020-12-14 11:01:30,445 Deposit information
+2020-12-14 11:01:30,447 Order execution 오스템임플란트(체결), order:200, executed:200, order number:119499, original number:0
+2020-12-14 11:01:30,457 Balance information
+2020-12-14 11:01:30,970 Order history information
+2020-12-14 11:01:31,189 Deposit information
+2020-12-14 11:01:31,405 Portfolio information
+2020-12-14 11:04:01,282 Order execution 오스템임플란트(접수), order:200, executed:0, order number:122126, original number:0
+2020-12-14 11:04:01,469 Balance information
+2020-12-14 11:04:01,990 Order history information
+2020-12-14 11:04:01,994 Deposit information
+2020-12-14 11:04:02,851 Portfolio information
+2020-12-14 11:04:47,088 Order execution 오스템임플란트(접수), order:140, executed:0, order number:122462, original number:122126
+2020-12-14 11:04:47,099 Order execution 오스템임플란트(확인), order:140, executed:0, order number:122462, original number:122126
+2020-12-14 11:04:47,101 Order execution 오스템임플란트(접수), order:200, executed:0, order number:122126, original number:0
+2020-12-14 11:04:47,114 Order history information
+2020-12-14 11:05:35,182 Order execution 오스템임플란트(접수), order:80, executed:0, order number:122828, original number:122462
+2020-12-14 11:05:35,193 Order execution 오스템임플란트(확인), order:80, executed:0, order number:122828, original number:122462
+2020-12-14 11:05:35,195 Order execution 오스템임플란트(확인), order:140, executed:0, order number:122462, original number:122126
+2020-12-14 11:05:35,211 Order history information
+2020-12-14 11:05:46,386 Order execution 오스템임플란트(접수), order:80, executed:0, order number:122916, original number:122828
+2020-12-14 11:05:46,396 Order execution 오스템임플란트(확인), order:80, executed:0, order number:122916, original number:122828
+2020-12-14 11:05:46,398 Order execution 오스템임플란트(확인), order:80, executed:0, order number:122828, original number:122462
+2020-12-14 11:05:46,400 Balance information
+2020-12-14 11:05:46,918 Order history information
+2020-12-14 11:05:46,921 Deposit information
+2020-12-14 11:05:49,090 Portfolio information
+2020-12-14 11:05:59,189 Order execution 오스템임플란트(접수), order:60, executed:0, order number:123000, original number:122462
+2020-12-14 11:05:59,199 Order execution 오스템임플란트(확인), order:60, executed:0, order number:123000, original number:122462
+2020-12-14 11:05:59,201 Order execution 오스템임플란트(확인), order:140, executed:0, order number:122462, original number:122126
+2020-12-14 11:05:59,202 Balance information
+2020-12-14 11:05:59,725 Order history information
+2020-12-14 11:06:00,197 Deposit information
+2020-12-14 11:06:02,034 Portfolio information
+2020-12-14 11:06:07,283 Order execution 오스템임플란트(접수), order:60, executed:0, order number:123042, original number:122126
+2020-12-14 11:06:07,293 Order execution 오스템임플란트(확인), order:60, executed:0, order number:123042, original number:122126
+2020-12-14 11:06:07,294 Order execution 오스템임플란트(접수), order:200, executed:0, order number:122126, original number:0
+2020-12-14 11:06:07,296 Balance information
+2020-12-14 11:06:07,818 Order history information
+2020-12-14 11:06:07,821 Deposit information
+2020-12-14 11:06:10,056 Portfolio information
+2020-12-14 11:25:26,615 Kiwoom initializing...
+2020-12-14 11:25:30,950 Kiwoom log in success
+2020-12-14 11:25:30,951 Account information
+2020-12-14 11:25:31,215 Deposit information
+2020-12-14 11:25:33,293 Portfolio information
+2020-12-14 11:25:40,478 Order history information
+2020-12-14 11:26:10,130 Order execution 오스템임플란트(접수), order:10, executed:0, order number:132544, original number:0
+2020-12-14 11:26:10,246 Order history information
+2020-12-14 11:26:12,333 Order execution 오스템임플란트(체결), order:10, executed:7, order number:132544, original number:0
+2020-12-14 11:26:12,344 Balance information
+2020-12-14 11:26:12,866 Order history information
+2020-12-14 11:26:13,003 Deposit information
+2020-12-14 11:26:14,810 Portfolio information
+2020-12-14 11:26:20,734 Order execution 오스템임플란트(체결), order:10, executed:10, order number:132544, original number:0
+2020-12-14 11:26:20,745 Balance information
+2020-12-14 11:26:21,264 Order history information
+2020-12-14 11:26:21,519 Deposit information
+2020-12-14 11:26:23,793 Portfolio information
+2020-12-14 11:33:39,618 Order execution 오스템임플란트(접수), order:500, executed:0, order number:136099, original number:0
+2020-12-14 11:33:39,711 Balance information
+2020-12-14 11:33:40,207 Order execution 오스템임플란트(체결), order:500, executed:3, order number:136099, original number:0
+2020-12-14 11:33:40,463 Balance information
+2020-12-14 11:33:40,978 Order history information
+2020-12-14 11:33:40,980 Deposit information
+2020-12-14 11:33:51,110 Kiwoom initializing...
+2020-12-14 11:34:00,085 Kiwoom log in success
+2020-12-14 11:34:00,085 Account information
+2020-12-14 11:34:00,346 Deposit information
+2020-12-14 11:34:01,397 Portfolio information
+2020-12-14 11:34:02,278 Order execution 오스템임플란트(체결), order:500, executed:24, order number:136099, original number:0
+2020-12-14 11:34:02,288 Balance information
+2020-12-14 11:34:02,815 Order history information
+2020-12-14 11:34:02,817 Deposit information
+2020-12-14 11:34:03,789 Portfolio information
+2020-12-14 11:34:07,375 Order execution 오스템임플란트(체결), order:500, executed:27, order number:136099, original number:0
+2020-12-14 11:34:07,384 Balance information
+2020-12-14 11:34:07,911 Order history information
+2020-12-14 11:34:07,913 Deposit information
+2020-12-14 11:34:08,416 Portfolio information
+2020-12-14 11:34:08,978 Order execution 오스템임플란트(체결), order:500, executed:28, order number:136099, original number:0
+2020-12-14 11:34:08,988 Balance information
+2020-12-14 11:34:09,509 Order history information
+2020-12-14 11:34:09,511 Deposit information
+2020-12-14 11:34:10,239 Portfolio information
+2020-12-14 11:34:11,378 Order execution 오스템임플란트(체결), order:500, executed:30, order number:136099, original number:0
+2020-12-14 11:34:11,388 Balance information
+2020-12-14 11:34:11,911 Order history information
+2020-12-14 11:34:11,929 Deposit information
+2020-12-14 11:34:12,170 Portfolio information
+2020-12-14 11:34:12,470 Order execution 오스템임플란트(체결), order:500, executed:82, order number:136099, original number:0
+2020-12-14 11:34:12,480 Balance information
+2020-12-14 11:34:13,005 Order history information
+2020-12-14 11:34:13,008 Deposit information
+2020-12-14 11:34:13,617 Portfolio information
+2020-12-14 11:34:18,978 Order execution 오스템임플란트(체결), order:500, executed:83, order number:136099, original number:0
+2020-12-14 11:34:18,988 Balance information
+2020-12-14 11:34:19,511 Order history information
+2020-12-14 11:34:19,514 Deposit information
+2020-12-14 11:34:20,696 Portfolio information
+2020-12-14 11:34:25,176 Order execution 오스템임플란트(체결), order:500, executed:85, order number:136099, original number:0
+2020-12-14 11:34:25,185 Balance information
+2020-12-14 11:34:25,712 Order history information
+2020-12-14 11:34:25,730 Deposit information
+2020-12-14 11:34:26,278 Portfolio information
+2020-12-14 11:34:31,372 Order execution 오스템임플란트(체결), order:500, executed:86, order number:136099, original number:0
+2020-12-14 11:34:31,381 Balance information
+2020-12-14 11:34:31,904 Order history information
+2020-12-14 11:34:31,906 Deposit information
+2020-12-14 11:34:33,373 Portfolio information
+2020-12-14 11:34:33,879 Order execution 오스템임플란트(체결), order:500, executed:88, order number:136099, original number:0
+2020-12-14 11:34:33,908 Balance information
+2020-12-14 11:34:34,413 Order history information
+2020-12-14 11:34:34,416 Deposit information
+2020-12-14 11:34:35,941 Portfolio information
+2020-12-14 11:34:37,379 Order execution 오스템임플란트(체결), order:500, executed:91, order number:136099, original number:0
+2020-12-14 11:34:37,388 Balance information
+2020-12-14 11:34:37,909 Order history information
+2020-12-14 11:34:37,926 Deposit information
+2020-12-14 11:34:39,581 Order execution 오스템임플란트(체결), order:500, executed:94, order number:136099, original number:0
+2020-12-14 11:34:39,591 Balance information
+2020-12-14 11:34:40,116 Order history information
+2020-12-14 11:34:40,120 Portfolio information
+2020-12-14 11:34:40,144 Deposit information
+2020-12-14 11:34:41,075 Order execution 오스템임플란트(체결), order:500, executed:272, order number:136099, original number:0
+2020-12-14 11:34:41,084 Balance information
+2020-12-14 11:34:41,606 Order history information
+2020-12-14 11:34:41,624 Deposit information
+2020-12-14 11:34:42,611 Portfolio information
+2020-12-14 11:34:42,884 Order execution 오스템임플란트(체결), order:500, executed:274, order number:136099, original number:0
+2020-12-14 11:34:42,894 Balance information
+2020-12-14 11:34:43,421 Order history information
+2020-12-14 11:34:43,425 Deposit information
+2020-12-14 11:34:45,317 Portfolio information
+2020-12-14 11:34:50,485 Order execution 오스템임플란트(체결), order:500, executed:276, order number:136099, original number:0
+2020-12-14 11:34:50,495 Balance information
+2020-12-14 11:34:51,020 Order history information
+2020-12-14 11:34:51,023 Deposit information
+2020-12-14 11:34:52,693 Portfolio information
+2020-12-14 11:35:01,477 Order execution 오스템임플란트(체결), order:500, executed:277, order number:136099, original number:0
+2020-12-14 11:35:01,486 Balance information
+2020-12-14 11:35:02,008 Order history information
+2020-12-14 11:35:02,024 Deposit information
+2020-12-14 11:35:03,610 Portfolio information
+2020-12-14 11:35:25,072 Order execution 오스템임플란트(체결), order:500, executed:279, order number:136099, original number:0
+2020-12-14 11:35:25,081 Balance information
+2020-12-14 11:35:25,605 Order history information
+2020-12-14 11:35:25,832 Deposit information
+2020-12-14 11:35:26,678 Order execution 오스템임플란트(체결), order:500, executed:282, order number:136099, original number:0
+2020-12-14 11:35:26,688 Balance information
+2020-12-14 11:35:27,212 Order history information
+2020-12-14 11:35:27,215 Deposit information
+2020-12-14 11:35:27,606 Portfolio information
+2020-12-14 11:35:28,683 Order execution 오스템임플란트(체결), order:500, executed:283, order number:136099, original number:0
+2020-12-14 11:35:28,692 Balance information
+2020-12-14 11:35:29,217 Order history information
+2020-12-14 11:35:29,536 Deposit information
+2020-12-14 11:35:30,372 Order execution 오스템임플란트(체결), order:500, executed:285, order number:136099, original number:0
+2020-12-14 11:35:30,382 Balance information
+2020-12-14 11:35:30,904 Order history information
+2020-12-14 11:35:30,979 Deposit information
+2020-12-14 11:35:31,270 Portfolio information
+2020-12-14 11:35:32,781 Order execution 오스템임플란트(체결), order:500, executed:287, order number:136099, original number:0
+2020-12-14 11:35:32,791 Balance information
+2020-12-14 11:35:33,314 Order history information
+2020-12-14 11:35:33,649 Deposit information
+2020-12-14 11:35:33,876 Order execution 오스템임플란트(체결), order:500, executed:288, order number:136099, original number:0
+2020-12-14 11:35:33,886 Balance information
+2020-12-14 11:35:34,413 Order history information
+2020-12-14 11:35:34,609 Deposit information
+2020-12-14 11:35:35,749 Portfolio information
+2020-12-14 11:35:36,482 Order execution 오스템임플란트(체결), order:500, executed:292, order number:136099, original number:0
+2020-12-14 11:35:36,491 Balance information
+2020-12-14 11:35:37,015 Order history information
+2020-12-14 11:35:37,032 Deposit information
+2020-12-14 11:35:39,015 Portfolio information
+2020-12-14 11:35:39,377 Order execution 오스템임플란트(체결), order:500, executed:293, order number:136099, original number:0
+2020-12-14 11:35:39,386 Balance information
+2020-12-14 11:35:39,905 Order history information
+2020-12-14 11:35:39,907 Deposit information
+2020-12-14 11:35:40,478 Order execution 오스템임플란트(체결), order:500, executed:294, order number:136099, original number:0
+2020-12-14 11:35:40,488 Balance information
+2020-12-14 11:35:41,012 Order history information
+2020-12-14 11:35:41,015 Deposit information
+2020-12-14 11:35:41,196 Portfolio information
+2020-12-14 11:35:43,174 Order execution 오스템임플란트(체결), order:500, executed:295, order number:136099, original number:0
+2020-12-14 11:35:43,184 Balance information
+2020-12-14 11:35:43,708 Order history information
+2020-12-14 11:35:43,711 Deposit information
+2020-12-14 11:35:45,543 Portfolio information
+2020-12-14 11:35:52,968 Order execution 오스템임플란트(체결), order:500, executed:302, order number:136099, original number:0
+2020-12-14 11:35:52,977 Balance information
+2020-12-14 11:35:53,499 Order history information
+2020-12-14 11:35:53,502 Deposit information
+2020-12-14 11:35:55,429 Portfolio information
+2020-12-14 11:36:05,969 Order execution 오스템임플란트(체결), order:500, executed:303, order number:136099, original number:0
+2020-12-14 11:36:05,978 Balance information
+2020-12-14 11:36:06,506 Order history information
+2020-12-14 11:36:06,524 Deposit information
+2020-12-14 11:36:08,229 Portfolio information
+2020-12-14 11:36:19,270 Order execution 오스템임플란트(체결), order:500, executed:319, order number:136099, original number:0
+2020-12-14 11:36:19,280 Balance information
+2020-12-14 11:36:19,797 Order history information
+2020-12-14 11:36:20,341 Deposit information
+2020-12-14 11:36:21,909 Portfolio information
+2020-12-14 11:36:22,575 Order execution 오스템임플란트(체결), order:500, executed:350, order number:136099, original number:0
+2020-12-14 11:36:22,584 Balance information
+2020-12-14 11:36:23,107 Order history information
+2020-12-14 11:36:23,110 Deposit information
+2020-12-14 11:36:25,285 Portfolio information
+2020-12-14 11:36:27,268 Order execution 오스템임플란트(체결), order:500, executed:355, order number:136099, original number:0
+2020-12-14 11:36:27,278 Balance information
+2020-12-14 11:36:27,800 Order history information
+2020-12-14 11:36:27,802 Deposit information
+2020-12-14 11:36:28,274 Order execution 오스템임플란트(체결), order:500, executed:356, order number:136099, original number:0
+2020-12-14 11:36:28,284 Balance information
+2020-12-14 11:36:28,807 Order history information
+2020-12-14 11:36:28,823 Deposit information
+2020-12-14 11:36:29,248 Portfolio information
+2020-12-14 11:36:29,252 Order execution 오스템임플란트(체결), order:500, executed:373, order number:136099, original number:0
+2020-12-14 11:36:29,273 Balance information
+2020-12-14 11:36:29,793 Order history information
+2020-12-14 11:36:29,837 Deposit information
+2020-12-14 11:36:30,173 Order execution 오스템임플란트(체결), order:500, executed:374, order number:136099, original number:0
+2020-12-14 11:36:30,183 Balance information
+2020-12-14 11:36:30,426 now waiting 1.8418257236480713s... for request block interval
+2020-12-14 11:36:32,548 Order history information
+2020-12-14 11:36:32,551 Order execution 오스템임플란트(체결), order:500, executed:375, order number:136099, original number:0
+2020-12-14 11:36:32,797 Balance information
+2020-12-14 11:36:33,044 now waiting 0.23001527786254883s... for request block interval
+2020-12-14 11:36:33,549 Order execution 오스템임플란트(체결), order:500, executed:383, order number:136099, original number:0
+2020-12-14 11:36:33,813 Balance information
+2020-12-14 11:36:34,061 now waiting 0.19212889671325684s... for request block interval
+2020-12-14 11:36:34,516 now waiting 3.695487976074219e-05s... for request block interval
+2020-12-14 11:36:34,535 Portfolio information
+2020-12-14 11:36:34,554 Order history information
+2020-12-14 11:36:34,557 Order execution 오스템임플란트(체결), order:500, executed:390, order number:136099, original number:0
+2020-12-14 11:36:34,801 Balance information
+2020-12-14 11:36:35,049 now waiting 0.12343120574951172s... for request block interval
+2020-12-14 11:36:35,447 now waiting 1.8256447315216064s... for request block interval
+2020-12-14 11:36:37,285 Deposit information
+2020-12-14 12:11:45,672 Kiwoom initializing...
+2020-12-14 12:11:53,130 Kiwoom log in success
+2020-12-14 12:11:53,130 Account information
+2020-12-14 12:11:53,696 Deposit information
+2020-12-14 12:11:56,225 Portfolio information
+2020-12-14 12:11:57,753 오스템임플란트 trading information begins to be monitored
+2020-12-14 12:14:59,817 Kiwoom initializing...
+2020-12-14 12:15:05,429 Kiwoom log in success
+2020-12-14 12:15:05,429 Account information
+2020-12-14 12:15:06,180 Deposit information
+2020-12-14 12:15:07,731 Portfolio information
+2020-12-14 12:15:47,011 Kiwoom initializing...
+2020-12-14 12:15:51,362 Kiwoom log in success
+2020-12-14 12:15:51,362 Account information
+2020-12-14 12:15:51,617 Deposit information
+2020-12-14 12:15:53,453 Portfolio information
+2020-12-14 12:18:04,070 Kiwoom initializing...
+2020-12-14 12:18:13,638 Kiwoom log in success
+2020-12-14 12:18:13,638 Account information
+2020-12-14 12:18:14,714 Deposit information
+2020-12-14 12:18:17,928 Portfolio information
+2020-12-14 12:19:50,646 Kiwoom initializing...
+2020-12-14 12:19:56,318 Kiwoom log in success
+2020-12-14 12:19:56,319 Account information
+2020-12-14 12:19:57,061 Deposit information
+2020-12-14 12:19:58,768 Portfolio information
+2020-12-14 12:20:19,957 Kiwoom initializing...
+2020-12-14 12:20:24,236 Kiwoom log in success
+2020-12-14 12:20:24,237 Account information
+2020-12-14 12:20:24,505 Deposit information
+2020-12-14 12:20:27,329 Portfolio information
+2020-12-14 12:20:33,624 Order execution 오스템임플란트(접수), order:10, executed:0, order number:154812, original number:0
+2020-12-14 12:20:33,671 Order history information
+2020-12-14 12:20:38,423 Order execution 오스템임플란트(체결), order:10, executed:1, order number:154812, original number:0
+2020-12-14 12:20:38,433 Balance information
+2020-12-14 12:20:38,961 Order history information
+2020-12-14 12:20:39,418 Order execution 오스템임플란트(체결), order:10, executed:2, order number:154812, original number:0
+2020-12-14 12:20:39,427 Balance information
+2020-12-14 12:20:39,954 Order history information
+2020-12-14 12:20:39,972 Deposit information
+2020-12-14 12:20:42,736 Portfolio information
+2020-12-14 12:20:45,018 Order execution 오스템임플란트(체결), order:10, executed:4, order number:154812, original number:0
+2020-12-14 12:20:45,028 Balance information
+2020-12-14 12:20:45,562 Order history information
+2020-12-14 12:20:46,026 Deposit information
+2020-12-14 12:20:46,317 Order execution 오스템임플란트(체결), order:10, executed:6, order number:154812, original number:0
+2020-12-14 12:20:46,327 Balance information
+2020-12-14 12:20:46,852 Order history information
+2020-12-14 12:20:47,019 Deposit information
+2020-12-14 12:20:48,207 Portfolio information
+2020-12-14 12:20:51,515 Order execution 오스템임플란트(체결), order:10, executed:10, order number:154812, original number:0
+2020-12-14 12:20:51,524 Balance information
+2020-12-14 12:20:52,045 Order history information
+2020-12-14 12:20:52,639 Deposit information
+2020-12-14 12:20:54,737 Portfolio information
+2020-12-14 12:21:09,488 Kiwoom initializing...
+2020-12-14 12:21:14,846 Kiwoom log in success
+2020-12-14 12:21:14,846 Account information
+2020-12-14 12:21:15,284 Deposit information
+2020-12-14 12:21:17,259 Portfolio information
+2020-12-14 12:22:05,338 Kiwoom initializing...
+2020-12-14 12:22:11,505 Kiwoom log in success
+2020-12-14 12:22:11,505 Account information
+2020-12-14 12:22:11,768 Deposit information
+2020-12-14 12:22:14,202 Portfolio information
+2020-12-14 12:26:56,607 Kiwoom initializing...
+2020-12-14 12:27:01,608 Kiwoom log in success
+2020-12-14 12:27:01,609 Account information
+2020-12-14 12:27:02,652 Deposit information
+2020-12-14 12:27:03,349 Portfolio information
+2020-12-14 12:27:42,811 Kiwoom initializing...
+2020-12-14 12:27:51,439 Kiwoom log in success
+2020-12-14 12:27:51,440 Account information
+2020-12-14 12:27:53,015 Deposit information
+2020-12-14 12:27:55,538 Portfolio information
+2020-12-14 12:32:41,964 Kiwoom initializing...
+2020-12-14 12:32:52,159 Kiwoom log in success
+2020-12-14 12:32:52,159 Account information
+2020-12-14 12:32:53,464 Deposit information
+2020-12-14 12:32:56,274 Portfolio information
+2020-12-14 12:38:07,260 Kiwoom initializing...
+2020-12-14 12:38:16,040 Kiwoom log in success
+2020-12-14 12:38:16,041 Account information
+2020-12-14 12:38:17,120 Deposit information
+2020-12-14 12:38:20,405 Portfolio information
+2020-12-14 12:42:56,572 Kiwoom initializing...
+2020-12-14 12:43:09,728 Kiwoom log in success
+2020-12-14 12:43:09,728 Account information
+2020-12-14 12:43:09,987 Deposit information
+2020-12-14 12:43:10,049 Portfolio information
+2020-12-14 12:44:16,234 Kiwoom initializing...
+2020-12-14 12:44:20,418 Kiwoom log in success
+2020-12-14 12:44:20,418 Account information
+2020-12-14 12:44:20,675 Deposit information
+2020-12-14 12:44:22,279 Portfolio information
+2020-12-14 12:44:26,547 Order history information
+2020-12-14 12:44:43,373 Kiwoom initializing...
+2020-12-14 12:44:48,322 Kiwoom log in success
+2020-12-14 12:44:48,323 Account information
+2020-12-14 12:44:48,580 Deposit information
+2020-12-14 12:44:50,325 Portfolio information
+2020-12-14 12:45:59,173 Kiwoom initializing...
+2020-12-14 12:46:03,619 Kiwoom log in success
+2020-12-14 12:46:03,620 Account information
+2020-12-14 12:46:03,894 Deposit information
+2020-12-14 12:46:06,190 Portfolio information
+2020-12-14 12:49:27,387 Kiwoom initializing...
+2020-12-14 12:49:32,943 Kiwoom log in success
+2020-12-14 12:49:32,943 Account information
+2020-12-14 12:49:33,322 Deposit information
+2020-12-14 12:49:35,030 Portfolio information
+2020-12-14 12:50:10,783 Kiwoom initializing...
+2020-12-14 12:50:15,561 Kiwoom log in success
+2020-12-14 12:50:15,562 Account information
+2020-12-14 12:50:16,186 Deposit information
+2020-12-14 12:50:18,231 Portfolio information
+2020-12-14 12:50:39,088 Kiwoom initializing...
+2020-12-14 12:50:44,021 Kiwoom log in success
+2020-12-14 12:50:44,021 Account information
+2020-12-14 12:50:44,648 Deposit information
+2020-12-14 12:50:46,550 Portfolio information
+2020-12-14 12:51:05,816 Order history information
+2020-12-14 12:51:23,289 Order execution KODEX 레버리지(접수), order:10, executed:0, order number:164261, original number:0
+2020-12-14 12:51:23,337 Order history information
+2020-12-14 12:51:23,884 Order execution KODEX 레버리지(체결), order:10, executed:10, order number:164261, original number:0
+2020-12-14 12:51:23,894 Balance information
+2020-12-14 12:51:24,421 Order history information
+2020-12-14 12:51:25,441 Deposit information
+2020-12-14 12:51:26,939 Portfolio information
+2020-12-14 12:51:41,299 KODEX 레버리지 trading information begins to be monitored
+2020-12-14 12:53:48,763 Kiwoom initializing...
+2020-12-14 12:53:57,029 Kiwoom log in success
+2020-12-14 12:53:57,030 Account information
+2020-12-14 12:54:21,338 Portfolio information
+2020-12-14 12:56:02,359 Kiwoom initializing...
+2020-12-14 12:56:06,751 Kiwoom log in success
+2020-12-14 12:56:06,752 Account information
+2020-12-14 12:56:07,010 Deposit information
+2020-12-14 12:56:08,678 Portfolio information
+2020-12-14 14:19:21,300 Kiwoom initializing...
+2020-12-14 14:19:30,687 Kiwoom log in success
+2020-12-14 14:19:30,687 Account information
+2020-12-14 14:19:30,942 Deposit information
+2020-12-14 14:19:32,297 Portfolio information
+2020-12-14 14:20:12,686 Kiwoom initializing...
+2020-12-14 14:20:17,256 Kiwoom log in success
+2020-12-14 14:20:17,257 Account information
+2020-12-14 14:20:17,516 Deposit information
+2020-12-14 14:20:19,156 Portfolio information
+2020-12-14 14:20:22,471 Portfolio information
+2020-12-14 14:20:55,937 Kiwoom initializing...
+2020-12-14 14:21:03,015 Kiwoom log in success
+2020-12-14 14:21:03,015 Account information
+2020-12-14 14:21:03,864 Deposit information
+2020-12-14 14:21:05,021 Portfolio information
+2020-12-14 14:21:11,265 Portfolio information
+2020-12-14 14:21:44,605 Order history information
+2020-12-14 14:22:08,854 Portfolio information
+2020-12-14 14:22:16,731 Portfolio information
+2020-12-14 14:22:27,030 Order history information
+2020-12-14 14:22:33,198 Portfolio information
+2020-12-14 14:22:40,549 Order history information
+2020-12-14 14:23:14,091 Kiwoom initializing...
+2020-12-14 14:23:28,632 Kiwoom log in success
+2020-12-14 14:23:28,632 Account information
+2020-12-14 14:23:29,556 Deposit information
+2020-12-14 14:23:32,985 Portfolio information
+2020-12-14 14:23:59,020 Portfolio information
+2020-12-14 14:24:39,792 Kiwoom initializing...
+2020-12-14 14:24:44,490 Kiwoom log in success
+2020-12-14 14:24:44,490 Account information
+2020-12-14 14:24:44,758 Deposit information
+2020-12-14 14:24:45,426 Portfolio information
+2020-12-14 14:24:48,700 Portfolio information
+2020-12-14 14:25:05,127 Kiwoom initializing...
+2020-12-14 14:25:09,641 Kiwoom log in success
+2020-12-14 14:25:09,642 Account information
+2020-12-14 14:25:09,909 Deposit information
+2020-12-14 14:25:10,892 Portfolio information
+2020-12-14 14:25:22,032 Portfolio information
+2020-12-14 14:26:06,908 Kiwoom initializing...
+2020-12-14 14:26:11,647 Kiwoom log in success
+2020-12-14 14:26:11,647 Account information
+2020-12-14 14:26:11,911 Deposit information
+2020-12-14 14:26:13,378 Portfolio information
+2020-12-14 14:26:18,918 Portfolio information
+2020-12-14 14:28:16,138 Kiwoom initializing...
+2020-12-14 14:28:32,764 Kiwoom log in success
+2020-12-14 14:28:32,764 Account information
+2020-12-14 14:28:33,668 Deposit information
+2020-12-14 14:28:35,999 Portfolio information
+2020-12-14 14:28:59,476 Portfolio information
+2020-12-14 14:29:58,141 Kiwoom initializing...
+2020-12-14 14:30:04,121 Kiwoom log in success
+2020-12-14 14:30:04,122 Account information
+2020-12-14 14:30:04,384 Deposit information
+2020-12-14 14:30:06,549 Portfolio information
+2020-12-14 14:30:13,491 Portfolio information
+2020-12-14 14:32:28,067 Kiwoom initializing...
+2020-12-14 14:32:36,284 Kiwoom log in success
+2020-12-14 14:32:36,284 Account information
+2020-12-14 14:32:47,854 Kiwoom initializing...
+2020-12-14 14:33:11,369 Kiwoom log in success
+2020-12-14 14:33:11,370 Account information
+2020-12-14 14:33:12,454 Deposit information
+2020-12-14 14:33:15,600 Portfolio information
+2020-12-14 14:34:44,089 Kiwoom initializing...
+2020-12-14 14:34:51,918 Kiwoom log in success
+2020-12-14 14:34:51,919 Account information
+2020-12-14 14:34:52,400 Deposit information
+2020-12-14 14:34:54,347 Portfolio information
+2020-12-14 14:40:38,487 Kiwoom initializing...
+2020-12-14 14:40:45,058 Kiwoom log in success
+2020-12-14 14:40:45,058 Account information
+2020-12-14 14:40:46,092 Deposit information
+2020-12-14 14:40:47,473 Portfolio information
+2020-12-14 14:41:22,303 Kiwoom initializing...
+2020-12-14 14:41:32,195 Kiwoom log in success
+2020-12-14 14:41:32,195 Account information
+2020-12-14 14:41:34,369 Deposit information
+2020-12-14 14:41:34,716 Portfolio information
+2020-12-14 14:42:22,986 Kiwoom initializing...
+2020-12-14 14:42:33,859 Kiwoom log in success
+2020-12-14 14:42:33,859 Account information
+2020-12-14 14:42:34,126 Deposit information
+2020-12-14 14:42:35,332 Portfolio information
+2020-12-14 14:43:43,239 Kiwoom initializing...
+2020-12-14 14:43:48,248 Kiwoom log in success
+2020-12-14 14:43:48,248 Account information
+2020-12-14 14:43:48,509 Deposit information
+2020-12-14 14:43:50,381 Portfolio information
+2020-12-14 14:43:59,480 Portfolio information
+2020-12-14 14:44:15,038 Kiwoom initializing...
+2020-12-14 14:44:21,204 Kiwoom log in success
+2020-12-14 14:44:21,204 Account information
+2020-12-14 14:44:22,155 Deposit information
+2020-12-14 14:44:22,728 Portfolio information
+2020-12-14 14:44:28,300 Portfolio information
+2020-12-14 14:45:27,233 Kiwoom initializing...
+2020-12-14 14:45:36,736 Kiwoom log in success
+2020-12-14 14:45:36,737 Account information
+2020-12-14 14:45:36,991 Deposit information
+2020-12-14 14:45:38,885 Portfolio information
+2020-12-14 14:45:44,002 Portfolio information
+2020-12-14 14:45:54,324 Portfolio information
+2020-12-14 14:50:49,588 Kiwoom initializing...
+2020-12-14 14:50:56,112 Kiwoom log in success
+2020-12-14 14:50:56,112 Account information
+2020-12-14 14:50:57,538 Deposit information
+2020-12-14 14:50:59,568 Portfolio information
+2020-12-14 14:51:05,949 Portfolio information
+2020-12-14 15:02:30,054 Kiwoom initializing...
+2020-12-14 15:02:35,425 Kiwoom log in success
+2020-12-14 15:02:35,426 Account information
+2020-12-14 15:02:35,682 Deposit information
+2020-12-14 15:02:35,718 Portfolio information
+2020-12-14 15:19:34,215 Portfolio information
+2020-12-14 15:19:43,957 Portfolio information
+2020-12-14 15:19:54,974 market operation state 2 152000 001000
+2020-12-14 15:20:54,975 market operation state 2 152100 000900
+2020-12-14 15:21:54,964 market operation state 2 152200 000800
+2020-12-14 15:22:54,977 market operation state 2 152300 000700
+2020-12-14 15:23:54,972 market operation state 2 152400 000600
+2020-12-14 15:24:54,961 market operation state 2 152500 000500
+2020-12-14 15:25:54,966 market operation state 2 152600 000400
+2020-12-14 15:26:54,975 market operation state 2 152700 000300
+2020-12-14 15:27:54,955 market operation state 2 152800 000200
+2020-12-14 15:28:54,956 market operation state 2 152900 000100
+2020-12-14 15:29:04,966 market operation state 2 152910 000050
+2020-12-14 15:29:14,961 market operation state 2 152920 000040
+2020-12-14 15:29:24,960 market operation state 2 152930 000030
+2020-12-14 15:29:34,961 market operation state 2 152940 000020
+2020-12-14 15:29:44,962 market operation state 2 152950 000010
+2020-12-14 15:29:54,963 market operation state 4 153000 000000
+2020-12-14 15:32:34,960 market operation state 8 888888 000000
+2020-12-14 15:34:55,346 market operation state s 153500 000000
+2020-12-14 15:34:55,347 market operation state s 153500 000000
+2020-12-14 15:34:55,347 market operation state s 153500 000000
+2020-12-14 15:34:55,348 market operation state s 153500 000000
+2020-12-14 15:34:55,348 market operation state s 153500 000000
+2020-12-14 15:34:55,348 market operation state s 153500 000000
+2020-12-14 15:34:55,349 market operation state s 153500 000000
+2020-12-14 15:34:55,349 market operation state s 153500 000000
+2020-12-14 15:34:55,349 market operation state s 153500 000000
+2020-12-14 15:34:55,451 market operation state s 153500 000000
+2020-12-14 15:34:55,452 market operation state s 153500 000000
+2020-12-14 15:34:55,452 market operation state s 153500 000000
+2020-12-14 15:34:55,452 market operation state s 153500 000000
+2020-12-14 15:34:55,452 market operation state s 153500 000000
+2020-12-14 15:34:55,453 market operation state s 153500 000000
+2020-12-14 15:34:55,453 market operation state s 153500 000000
+2020-12-14 15:34:55,453 market operation state s 153500 000000
+2020-12-14 15:39:55,039 market operation state a 154000 000000
+2020-12-14 15:44:55,528 market operation state e 154500 000000
+2020-12-14 15:44:55,741 market operation state e 154500 000000
+2020-12-14 15:44:55,742 market operation state e 154500 000000
+2020-12-14 15:44:55,833 market operation state e 154500 000000
+2020-12-14 15:44:55,940 market operation state e 154500 000000
+2020-12-14 15:44:55,941 market operation state e 154500 000000
+2020-12-14 15:44:56,030 market operation state e 154500 000000
+2020-12-14 15:44:56,031 market operation state e 154500 000000
+2020-12-14 15:44:56,137 market operation state e 154500 000000
+2020-12-14 15:44:56,244 market operation state e 154500 000000
+2020-12-14 15:44:56,245 market operation state e 154500 000000
+2020-12-14 15:44:56,337 market operation state e 154500 000000
+2020-12-14 15:44:56,536 market operation state e 154500 000000
+2020-12-14 15:44:56,736 market operation state e 154500 000000
+2020-12-14 15:44:56,935 market operation state e 154500 000000
+2020-12-14 15:44:57,133 market operation state e 154500 000000
+2020-12-14 15:44:57,239 market operation state e 154500 000000
+2020-12-14 15:59:55,003 market operation state b 160000 000000
+2020-12-14 15:59:55,003 market operation state c 160000 000000
+2020-12-14 16:21:06,797 Kiwoom initializing...
+2020-12-14 16:21:11,457 Kiwoom log in success
+2020-12-14 16:21:11,458 Account information
+2020-12-14 16:21:11,722 Deposit information
+2020-12-14 16:21:12,645 Portfolio information
+2020-12-14 16:22:23,845 Kiwoom initializing...
+2020-12-14 16:22:28,403 Kiwoom log in success
+2020-12-14 16:22:28,403 Account information
+2020-12-14 16:22:28,663 Deposit information
+2020-12-14 16:22:29,438 Portfolio information
+2020-12-14 16:22:33,153 Portfolio information
+2020-12-14 16:47:38,777 Kiwoom initializing...
+2020-12-14 16:47:43,325 Kiwoom log in success
+2020-12-14 16:47:43,326 Account information
+2020-12-14 16:47:43,593 Deposit information
+2020-12-14 16:47:44,511 Portfolio information
+2020-12-14 16:48:09,922 Kiwoom initializing...
+2020-12-14 16:48:14,570 Kiwoom initializing...
+2020-12-14 16:48:18,946 Kiwoom log in success
+2020-12-14 16:48:18,946 Account information
+2020-12-14 16:48:19,201 Deposit information
+2020-12-14 16:48:20,062 Portfolio information
+2020-12-14 16:49:35,345 Kiwoom initializing...
+2020-12-14 16:49:39,753 Kiwoom log in success
+2020-12-14 16:49:39,753 Account information
+2020-12-14 16:49:40,010 Deposit information
+2020-12-14 16:49:40,042 Portfolio information
+2020-12-14 16:49:43,942 Order history information
+2020-12-14 17:21:18,310 Kiwoom initializing...
+2020-12-14 17:21:27,319 Kiwoom log in success
+2020-12-14 17:21:27,320 Account information
+2020-12-14 17:21:27,586 Deposit information
+2020-12-14 17:21:28,569 Portfolio information
+2020-12-14 17:29:51,530 Order history information
+2020-12-14 17:33:46,914 Kiwoom initializing...
+2020-12-14 17:33:51,565 Kiwoom log in success
+2020-12-14 17:33:51,565 Account information
+2020-12-14 17:33:51,824 Deposit information
+2020-12-14 17:33:52,847 Portfolio information
+2020-12-14 17:35:06,118 Kiwoom initializing...
+2020-12-14 17:35:10,783 Kiwoom log in success
+2020-12-14 17:35:10,783 Account information
+2020-12-14 17:35:11,039 Deposit information
+2020-12-14 17:35:11,073 Portfolio information
+2020-12-14 17:47:54,023 Portfolio information
+2020-12-14 17:48:02,476 Order history information
+2020-12-14 17:53:54,546 Kiwoom initializing...
+2020-12-14 17:53:59,038 Kiwoom log in success
+2020-12-14 17:53:59,038 Account information
+2020-12-14 17:53:59,302 Deposit information
+2020-12-14 17:53:59,340 Portfolio information
+2020-12-14 17:59:54,760 market operation state d 180000 000000
+2020-12-14 18:01:14,650 market operation state 9 999999 000000
+2020-12-14 18:31:50,426 Kiwoom initializing...
+2020-12-14 18:31:55,212 Kiwoom log in success
+2020-12-14 18:31:55,212 Account information
+2020-12-14 18:31:55,467 Deposit information
+2020-12-14 18:31:55,564 Portfolio information
+2020-12-14 18:32:01,506 Order history information
+2020-12-14 18:37:30,070 Kiwoom initializing...
+2020-12-14 18:37:35,020 Kiwoom log in success
+2020-12-14 18:37:35,020 Account information
+2020-12-14 18:37:35,288 Deposit information
+2020-12-14 18:37:35,326 Portfolio information
+2020-12-14 18:37:38,007 Order history information
+2020-12-14 18:37:40,610 Order history information
+2020-12-14 18:37:45,534 Portfolio information
+2020-12-14 18:37:49,453 Portfolio information
+2020-12-14 20:46:23,586 Kiwoom initializing...
+2020-12-14 20:46:34,360 Kiwoom log in success
+2020-12-14 20:46:34,360 Account information
+2020-12-14 20:46:34,624 Deposit information
+2020-12-14 20:46:34,657 Portfolio information
+2020-12-14 20:46:45,727 Order history information
+2020-12-14 20:48:39,577 Kiwoom initializing...
+2020-12-14 20:48:44,034 Kiwoom log in success
+2020-12-14 20:48:44,035 Account information
+2020-12-14 20:48:44,302 Deposit information
+2020-12-14 20:48:44,338 Portfolio information
+2020-12-14 20:48:54,528 Order history information
+2020-12-14 20:49:00,405 Order history information
+2020-12-14 20:49:00,648 Order history information
+2020-12-14 20:49:00,900 Order history information
+2020-12-14 20:49:01,149 Order history information
+2020-12-14 20:49:01,398 Order history information
+2020-12-14 20:49:01,650 Order history information
+2020-12-14 20:49:02,946 Order history information
+2020-12-14 20:49:03,200 Order history information
+2020-12-14 20:49:03,449 Order history information
+2020-12-14 20:49:04,352 Order history information
+2020-12-14 20:49:04,570 now waiting 0.7913284301757812s... for request block interval
+2020-12-14 20:49:05,402 Order history information
+2020-12-14 20:49:15,677 Order history information
+2020-12-14 20:49:15,928 Order history information
+2020-12-14 20:49:16,185 Order history information
+2020-12-14 20:49:16,969 Order history information
+2020-12-14 20:49:17,213 Order history information
+2020-12-14 20:49:17,468 Order history information
+2020-12-14 20:49:17,723 Order history information
+2020-12-14 20:49:17,970 Order history information
+2020-12-14 20:49:18,904 Order history information
+2020-12-14 20:49:19,161 Order history information
+2020-12-14 20:49:19,375 now waiting 1.2679872512817383s... for request block interval
+2020-12-14 20:49:20,677 Order history information
+2020-12-14 20:49:44,178 Kiwoom initializing...
+2020-12-14 20:49:48,705 Kiwoom log in success
+2020-12-14 20:49:48,705 Account information
+2020-12-14 20:49:48,744 Deposit information
+2020-12-14 20:49:48,765 Portfolio information
+2020-12-14 20:49:52,900 Order history information
+2020-12-14 20:49:56,159 Order history information
+2020-12-14 20:49:57,504 Order history information
+2020-12-14 20:49:58,704 Order history information
+2020-12-14 20:49:59,724 Order history information
+2020-12-14 20:50:00,124 Order history information
+2020-12-14 20:50:00,268 Order history information
+2020-12-14 20:50:00,416 Order history information
+2020-12-14 20:50:00,532 Order history information
+2020-12-14 20:50:48,846 Kiwoom initializing...
+2020-12-14 20:50:53,466 Kiwoom log in success
+2020-12-14 20:50:53,467 Account information
+2020-12-14 20:50:53,507 Deposit information
+2020-12-14 20:50:53,529 Portfolio information
+2020-12-14 20:51:02,183 Order history information
+2020-12-14 20:51:03,929 Order history information
+2020-12-14 20:51:05,179 Order history information
+2020-12-14 20:51:08,046 Order history information
+2020-12-14 20:51:37,883 Kiwoom initializing...
+2020-12-14 20:51:42,465 Kiwoom log in success
+2020-12-14 20:51:42,465 Account information
+2020-12-14 20:51:42,502 Deposit information
+2020-12-14 20:51:42,523 Portfolio information
+2020-12-14 20:51:43,828 Order history information
+2020-12-14 20:51:45,452 Order history information
+2020-12-14 20:51:47,624 Order history information
+2020-12-14 20:51:49,115 Order history information
+2020-12-14 20:51:50,905 Order history information
+2020-12-14 20:51:52,617 Order history information
+2020-12-14 20:51:54,462 Order history information
+2020-12-14 20:51:56,205 Order history information
+2020-12-14 20:51:56,289 Order history information
+2020-12-14 20:51:57,878 Order history information
+2020-12-14 20:51:57,971 Order history information
+2020-12-14 20:51:58,607 Order history information
+2020-12-14 20:51:58,786 Order history information
+2020-12-14 20:51:58,880 Order history information
+2020-12-14 20:51:59,036 Order history information
+2020-12-14 20:51:59,128 Order history information
+2020-12-14 20:53:03,934 Kiwoom initializing...
+2020-12-14 20:53:08,531 Kiwoom log in success
+2020-12-14 20:53:08,531 Account information
+2020-12-14 20:53:08,569 Deposit information
+2020-12-14 20:53:08,600 Portfolio information
+2020-12-14 20:53:12,198 Order history information
+2020-12-14 20:53:13,792 Order history information
+2020-12-14 20:53:16,471 Order history information
+2020-12-14 20:53:17,479 Order history information
+2020-12-14 20:53:19,704 Order history information
+2020-12-14 20:53:20,718 Order history information
+2020-12-14 20:53:21,733 Order history information
+2020-12-14 20:53:22,735 Order history information
+2020-12-14 20:53:23,738 Order history information
+2020-12-14 20:54:34,598 Order history information
+2020-12-14 20:54:35,614 Order history information
+2020-12-14 20:54:38,102 Order history information
+2020-12-14 20:54:39,111 Order history information
+2020-12-14 20:54:40,128 Order history information
+2020-12-14 20:54:41,141 Order history information
+2020-12-14 20:54:42,149 Order history information
+2020-12-14 20:54:43,157 Order history information
+2020-12-14 20:54:44,183 Order history information
+2020-12-14 20:54:45,498 Order history information
+2020-12-14 20:54:46,504 Order history information
+2020-12-14 20:54:48,603 Order history information
+2020-12-14 20:54:49,615 Order history information
+2020-12-14 20:54:50,624 Order history information
+2020-12-14 20:54:51,652 Order history information
+2020-12-14 20:54:57,991 Order history information
+2020-12-14 20:54:59,017 Order history information
+2020-12-14 20:55:00,019 Order history information
+2020-12-14 20:55:01,029 Order history information
+2020-12-14 20:55:02,039 Order history information
+2020-12-14 20:55:03,047 Order history information
+2020-12-14 20:55:04,062 Order history information
+2020-12-14 20:55:05,072 Order history information
+2020-12-14 20:55:06,081 Order history information
+2020-12-14 20:55:07,093 Order history information
+2020-12-14 20:55:08,099 Order history information
+2020-12-14 20:55:09,111 Order history information
+2020-12-14 20:55:10,123 Order history information
+2020-12-14 20:55:11,129 Order history information
+2020-12-14 20:55:12,141 Order history information
+2020-12-14 20:55:13,153 Order history information
+2020-12-14 20:55:14,163 Order history information
+2020-12-14 20:55:15,176 Order history information
+2020-12-14 20:55:16,186 Order history information
+2020-12-14 20:55:17,193 Order history information
+2020-12-14 20:55:18,202 Order history information
+2020-12-14 20:55:19,751 Order history information
+2020-12-14 20:55:20,765 Order history information
+2020-12-14 20:55:21,768 Order history information
+2020-12-14 20:55:22,780 Order history information
+2020-12-14 20:55:23,789 Order history information
+2020-12-14 20:55:24,801 Order history information
+2020-12-14 20:56:09,897 Kiwoom initializing...
+2020-12-14 20:56:14,449 Kiwoom log in success
+2020-12-14 20:56:14,449 Account information
+2020-12-14 20:56:14,487 Deposit information
+2020-12-14 20:56:14,513 Portfolio information
+2020-12-14 20:56:22,943 Order history information
+2020-12-14 20:58:05,988 Kiwoom initializing...
+2020-12-14 20:58:10,486 Kiwoom log in success
+2020-12-14 20:58:10,487 Account information
+2020-12-14 20:58:10,514 Deposit information
+2020-12-14 20:58:10,548 Portfolio information
+2020-12-14 20:58:13,123 Order history information
+2020-12-14 20:58:42,492 Kiwoom initializing...
+2020-12-14 20:58:46,963 Kiwoom log in success
+2020-12-14 20:58:46,964 Account information
+2020-12-14 20:58:46,999 Deposit information
+2020-12-14 20:58:47,034 Portfolio information
+2020-12-14 20:58:52,685 Order history information
+2020-12-14 20:59:14,079 Kiwoom initializing...
+2020-12-14 20:59:18,629 Kiwoom log in success
+2020-12-14 20:59:18,630 Account information
+2020-12-14 20:59:18,670 Deposit information
+2020-12-14 20:59:18,702 Portfolio information
+2020-12-14 20:59:27,923 Order history information
+2020-12-14 20:59:45,156 Kiwoom initializing...
+2020-12-14 20:59:49,873 Kiwoom log in success
+2020-12-14 20:59:49,873 Account information
+2020-12-14 20:59:49,907 Deposit information
+2020-12-14 20:59:49,940 Portfolio information
+2020-12-14 21:01:01,237 Order history information
+2020-12-14 21:01:48,382 Kiwoom initializing...
+2020-12-14 21:01:53,044 Kiwoom log in success
+2020-12-14 21:01:53,045 Account information
+2020-12-14 21:01:53,072 Deposit information
+2020-12-14 21:01:53,104 Portfolio information
+2020-12-14 21:01:59,922 Order history information
+2020-12-14 21:02:01,896 Order history information
+2020-12-14 21:02:03,118 Order history information
+2020-12-14 21:02:04,132 Order history information
+2020-12-14 21:02:05,132 Order history information
+2020-12-14 21:02:06,143 Order history information
+2020-12-14 21:02:07,159 Order history information
+2020-12-14 21:02:08,169 Order history information
+2020-12-14 21:02:09,181 Order history information
+2020-12-14 21:02:10,185 Order history information
+2020-12-14 21:02:11,198 Order history information
+2020-12-14 21:02:12,215 Order history information
+2020-12-14 21:02:13,221 Order history information
+2020-12-14 21:02:14,233 Order history information
+2020-12-14 21:02:15,242 Order history information
+2020-12-14 21:02:16,250 Order history information
+2020-12-14 21:02:17,267 Order history information
+2020-12-14 21:02:24,639 Kiwoom initializing...
+2020-12-14 21:02:29,125 Kiwoom log in success
+2020-12-14 21:02:29,126 Account information
+2020-12-14 21:02:29,161 Deposit information
+2020-12-14 21:02:29,193 Portfolio information
+2020-12-14 21:02:31,912 Order history information
+2020-12-14 21:02:33,502 Order history information
+2020-12-14 21:02:34,509 Order history information
+2020-12-14 21:02:35,520 Order history information
+2020-12-14 21:02:54,562 Kiwoom initializing...
+2020-12-14 21:02:59,159 Kiwoom log in success
+2020-12-14 21:02:59,160 Account information
+2020-12-14 21:02:59,187 Deposit information
+2020-12-14 21:02:59,218 Portfolio information
+2020-12-14 21:03:02,174 Order history information
+2020-12-14 21:03:03,184 Order history information
+2020-12-14 21:03:04,195 Order history information
+2020-12-14 21:03:38,111 Order history information
+2020-12-14 21:03:39,124 Order history information
+2020-12-14 21:03:40,137 Order history information
+2020-12-14 21:03:41,155 Order history information

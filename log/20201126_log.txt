@@ -1,0 +1,266 @@
+2020-11-26 10:17:17,011 Kiwoom log in success
+2020-11-26 10:17:17,011 Account information acquired
+2020-11-26 10:17:17,034 Deposit information acquired
+2020-11-26 11:06:44,760 Kiwoom log in success
+2020-11-26 11:06:44,761 Account information acquired
+2020-11-26 11:06:47,569 Deposit information acquired
+2020-11-26 11:39:33,109 Kiwoom log in success
+2020-11-26 11:40:01,998 Kiwoom log in success
+2020-11-26 11:40:01,999 Account information acquired
+2020-11-26 11:40:02,025 Deposit information acquired
+2020-11-26 11:43:06,023 Kiwoom log in success
+2020-11-26 11:43:06,025 Account information acquired
+2020-11-26 11:43:06,910 Deposit information acquired
+2020-11-26 11:44:11,943 Kiwoom log in success
+2020-11-26 11:44:11,944 Account information acquired
+2020-11-26 11:44:12,991 Deposit information acquired
+2020-11-26 11:47:58,165 Kiwoom log in success
+2020-11-26 11:47:58,166 Account information acquired
+2020-11-26 11:47:59,085 Deposit information acquired
+2020-11-26 11:48:01,188 Portfolio information acquired
+2020-11-26 11:49:55,828 Kiwoom log in success
+2020-11-26 11:49:55,829 Account information acquired
+2020-11-26 11:49:56,795 Deposit information acquired
+2020-11-26 11:50:00,241 Portfolio information acquired
+2020-11-26 11:51:25,194 Kiwoom log in success
+2020-11-26 11:51:25,195 Account information acquired
+2020-11-26 11:51:26,237 Deposit information acquired
+2020-11-26 11:51:28,850 Portfolio information acquired
+2020-11-26 11:52:51,296 Kiwoom log in success
+2020-11-26 11:52:51,298 Account information acquired
+2020-11-26 11:52:52,196 Deposit information acquired
+2020-11-26 11:52:54,495 Portfolio information acquired
+2020-11-26 11:53:22,144 Kiwoom log in success
+2020-11-26 11:53:22,144 Account information acquired
+2020-11-26 11:53:22,785 Deposit information acquired
+2020-11-26 11:53:26,107 Portfolio information acquired
+2020-11-26 11:53:57,712 Kiwoom log in success
+2020-11-26 11:53:57,713 Account information acquired
+2020-11-26 11:53:58,688 Deposit information acquired
+2020-11-26 11:54:00,877 Portfolio information acquired
+2020-11-26 11:54:30,873 Kiwoom log in success
+2020-11-26 11:54:30,873 Account information acquired
+2020-11-26 11:54:32,308 Deposit information acquired
+2020-11-26 11:54:35,396 Portfolio information acquired
+2020-11-26 11:54:49,785 Kiwoom log in success
+2020-11-26 11:54:49,785 Account information acquired
+2020-11-26 11:54:50,608 Deposit information acquired
+2020-11-26 11:54:53,440 Portfolio information acquired
+2020-11-26 12:00:40,584 Kiwoom log in success
+2020-11-26 12:00:40,585 Account information acquired
+2020-11-26 12:00:40,639 Deposit information acquired
+2020-11-26 12:00:42,458 Portfolio information acquired
+2020-11-26 12:02:58,144 Kiwoom log in success
+2020-11-26 12:02:58,144 Account information acquired
+2020-11-26 12:02:59,064 Deposit information acquired
+2020-11-26 12:03:01,218 Portfolio information acquired
+2020-11-26 12:04:06,281 Kiwoom log in success
+2020-11-26 12:04:06,281 Account information acquired
+2020-11-26 12:04:07,192 Deposit information acquired
+2020-11-26 12:04:10,406 Portfolio information acquired
+2020-11-26 12:10:29,608 Kiwoom log in success
+2020-11-26 12:10:29,608 Account information acquired
+2020-11-26 12:10:30,541 Deposit information acquired
+2020-11-26 12:10:32,586 Portfolio information acquired
+2020-11-26 12:11:06,512 Kiwoom log in success
+2020-11-26 12:11:06,512 Account information acquired
+2020-11-26 12:11:07,348 Deposit information acquired
+2020-11-26 12:11:09,729 Portfolio information acquired
+2020-11-26 12:14:07,613 Kiwoom log in success
+2020-11-26 12:14:07,613 Account information acquired
+2020-11-26 12:14:08,536 Deposit information acquired
+2020-11-26 12:14:12,218 Portfolio information acquired
+2020-11-26 12:18:38,109 Kiwoom log in success
+2020-11-26 12:18:38,110 Account information acquired
+2020-11-26 12:18:39,135 Deposit information acquired
+2020-11-26 12:18:42,433 Portfolio information acquired
+2020-11-26 12:31:43,797 Kiwoom log in success
+2020-11-26 12:31:43,798 Account information acquired
+2020-11-26 12:31:44,844 Deposit information acquired
+2020-11-26 12:31:47,371 Portfolio information acquired
+2020-11-26 12:33:04,698 Kiwoom log in success
+2020-11-26 12:33:04,699 Account information acquired
+2020-11-26 12:33:05,660 Deposit information acquired
+2020-11-26 12:33:07,973 Portfolio information acquired
+2020-11-26 12:40:04,640 Kiwoom log in success
+2020-11-26 12:40:04,640 Account information acquired
+2020-11-26 12:40:05,548 Deposit information acquired
+2020-11-26 12:40:06,824 Portfolio information acquired
+2020-11-26 12:41:03,879 Kiwoom log in success
+2020-11-26 12:41:03,879 Account information acquired
+2020-11-26 12:41:04,965 Deposit information acquired
+2020-11-26 12:41:06,952 Portfolio information acquired
+2020-11-26 12:42:13,622 Kiwoom log in success
+2020-11-26 12:42:13,623 Account information acquired
+2020-11-26 12:42:14,602 Deposit information acquired
+2020-11-26 12:42:16,963 Portfolio information acquired
+2020-11-26 12:45:30,296 Kiwoom log in success
+2020-11-26 12:45:30,296 Account information acquired
+2020-11-26 12:45:30,326 Deposit information acquired
+2020-11-26 12:45:32,639 Portfolio information acquired
+2020-11-26 12:51:07,787 Kiwoom log in success
+2020-11-26 12:51:07,787 Account information acquired
+2020-11-26 12:51:08,808 Deposit information acquired
+2020-11-26 12:51:10,460 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 12:51:11,933 Portfolio information acquired
+2020-11-26 12:51:53,022 Kiwoom log in success
+2020-11-26 12:51:53,023 Account information acquired
+2020-11-26 12:51:53,978 Deposit information acquired
+2020-11-26 12:51:56,805 Portfolio information acquired
+2020-11-26 12:52:17,886 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 12:52:28,579 KODEX 인버스2Xstock information begins to be monitored 
+2020-11-26 12:52:35,306 KODEX 인버스2Xstock information monitoring is finished 
+2020-11-26 12:52:41,847 KODEX 레버리지stock information monitoring is finished 
+2020-11-26 12:52:51,778 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 12:54:18,638 Kiwoom log in success
+2020-11-26 12:54:18,639 Account information acquired
+2020-11-26 12:54:19,532 Deposit information acquired
+2020-11-26 12:54:23,188 Portfolio information acquired
+2020-11-26 12:54:25,643 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 12:58:57,094 Kiwoom log in success
+2020-11-26 12:58:57,095 Account information acquired
+2020-11-26 12:58:58,105 Deposit information acquired
+2020-11-26 12:59:00,610 Portfolio information acquired
+2020-11-26 12:59:31,650 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 12:59:49,096 Kiwoom log in success
+2020-11-26 12:59:49,097 Account information acquired
+2020-11-26 12:59:49,970 Deposit information acquired
+2020-11-26 12:59:52,744 Portfolio information acquired
+2020-11-26 12:59:54,140 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 13:00:58,115 Kiwoom log in success
+2020-11-26 13:00:58,117 Account information acquired
+2020-11-26 13:00:59,033 Deposit information acquired
+2020-11-26 13:01:01,777 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 13:01:01,954 Portfolio information acquired
+2020-11-26 13:01:10,203 Closing process initializing...
+2020-11-26 13:01:10,205 All screens are disconnected
+2020-11-26 13:01:37,909 Kiwoom log in success
+2020-11-26 13:01:37,910 Account information acquired
+2020-11-26 13:01:38,833 Deposit information acquired
+2020-11-26 13:01:41,448 Portfolio information acquired
+2020-11-26 13:01:49,093 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 13:01:55,933 Closing process initializing...
+2020-11-26 13:02:03,600 All screens are disconnected
+2020-11-26 13:03:06,195 Kiwoom log in success
+2020-11-26 13:03:06,196 Account information acquired
+2020-11-26 13:03:07,157 Deposit information acquired
+2020-11-26 13:03:08,627 Portfolio information acquired
+2020-11-26 13:03:12,574 Closing process initializing...
+2020-11-26 13:03:12,574 All screens are disconnected
+2020-11-26 13:04:36,054 Kiwoom log in success
+2020-11-26 13:04:36,055 Account information acquired
+2020-11-26 13:04:37,152 Deposit information acquired
+2020-11-26 13:04:38,108 Portfolio information acquired
+2020-11-26 13:04:44,114 Closing process initializing...
+2020-11-26 13:04:44,115 All screens are disconnected
+2020-11-26 13:04:58,403 Kiwoom log in success
+2020-11-26 13:04:58,404 Account information acquired
+2020-11-26 13:04:59,318 Deposit information acquired
+2020-11-26 13:11:22,487 Kiwoom log in success
+2020-11-26 13:11:22,488 Account information acquired
+2020-11-26 13:11:23,505 Deposit information acquired
+2020-11-26 13:11:26,354 Portfolio information acquired
+2020-11-26 13:11:42,299 Kiwoom log in success
+2020-11-26 13:11:42,300 Account information acquired
+2020-11-26 13:11:43,118 Deposit information acquired
+2020-11-26 13:11:44,832 Portfolio information acquired
+2020-11-26 13:13:56,409 Kiwoom log in success
+2020-11-26 13:13:56,410 Account information acquired
+2020-11-26 13:13:57,830 Deposit information acquired
+2020-11-26 13:14:01,302 Portfolio information acquired
+2020-11-26 13:14:40,497 Kiwoom log in success
+2020-11-26 13:14:40,498 Account information acquired
+2020-11-26 13:14:41,346 Deposit information acquired
+2020-11-26 13:14:44,161 Portfolio information acquired
+2020-11-26 13:14:45,285 running algorithm
+2020-11-26 13:14:51,740 KODEX 레버리지stock information begins to be monitored 
+2020-11-26 13:14:54,068 KODEX 인버스2Xstock information begins to be monitored 
+2020-11-26 13:56:44,336 KODEX 인버스2Xstock information monitoring is finished 
+2020-11-26 13:56:49,834 KODEX 레버리지stock information monitoring is finished 
+2020-11-26 15:19:55,746 market operation state 2 15:20:00 00:10:00
+2020-11-26 15:20:55,748 market operation state 2 15:21:00 00:09:00
+2020-11-26 15:21:55,642 market operation state 2 15:22:00 00:08:00
+2020-11-26 15:22:24,723 Kiwoom log in success
+2020-11-26 15:22:24,723 Account information acquired
+2020-11-26 15:22:25,612 Deposit information acquired
+2020-11-26 15:22:27,861 Portfolio information acquired
+2020-11-26 15:22:30,464 running algorithm
+2020-11-26 15:22:55,694 market operation state 2 15:23:00 00:07:00
+2020-11-26 15:23:59,256 Kiwoom log in success
+2020-11-26 15:23:59,257 Account information acquired
+2020-11-26 15:24:00,157 Deposit information acquired
+2020-11-26 15:24:02,423 Portfolio information acquired
+2020-11-26 15:24:04,562 running algorithm
+2020-11-26 15:24:55,711 market operation state 2 15:25:00 00:05:00
+2020-11-26 15:25:55,727 market operation state 2 15:26:00 00:04:00
+2020-11-26 15:26:55,708 market operation state 2 15:27:00 00:03:00
+2020-11-26 15:27:55,711 market operation state 2 15:28:00 00:02:00
+2020-11-26 15:28:55,711 market operation state 2 15:29:00 00:01:00
+2020-11-26 15:29:05,708 market operation state 2 15:29:10 00:00:50
+2020-11-26 15:29:15,709 market operation state 2 15:29:20 00:00:40
+2020-11-26 15:29:25,605 market operation state 2 15:29:30 00:00:30
+2020-11-26 15:29:35,706 market operation state 2 15:29:40 00:00:20
+2020-11-26 15:29:45,700 market operation state 2 15:29:50 00:00:10
+2020-11-26 15:29:55,715 market operation state 4 15:30:00 00:00:00
+2020-11-26 15:30:35,606 market operation state 8 88:88:88 00:00:00
+2020-11-26 15:34:56,000 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,000 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,000 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,001 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,105 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,106 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,106 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,106 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,107 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,107 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,107 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,108 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,108 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,108 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,109 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,109 market operation state s 15:35:00 00:00:00
+2020-11-26 15:34:56,196 market operation state s 15:35:00 00:00:00
+2020-11-26 15:36:27,552 running algorithm
+2020-11-26 15:39:56,296 market operation state a 15:40:00 00:00:00
+2020-11-26 15:44:56,080 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,186 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,278 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,278 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,384 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,384 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,488 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,579 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,579 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,686 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,776 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:56,777 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:57,080 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:57,291 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:57,488 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:57,682 market operation state e 15:45:00 00:00:00
+2020-11-26 15:44:57,683 market operation state e 15:45:00 00:00:00
+2020-11-26 15:59:56,257 market operation state b 16:00:00 00:00:00
+2020-11-26 15:59:56,258 market operation state c 16:00:00 00:00:00
+2020-11-26 16:16:38,546 Kiwoom log in success
+2020-11-26 16:16:38,548 Account information acquired
+2020-11-26 16:16:38,568 Deposit information acquired
+2020-11-26 16:16:39,955 Portfolio information acquired
+2020-11-26 16:16:46,505 running algorithm
+2020-11-26 17:43:48,154 running algorithm
+2020-11-26 17:59:56,048 market operation state d 18:00:00 00:00:00
+2020-11-26 18:03:35,345 market operation state 9 99:99:99 00:00:00
+2020-11-26 18:21:44,503 Kiwoom log in success
+2020-11-26 18:21:44,504 Account information acquired
+2020-11-26 18:21:44,532 Deposit information acquired
+2020-11-26 18:21:45,731 Portfolio information acquired
+2020-11-26 18:22:42,579 running algorithm
+2020-11-26 18:42:23,544 Kiwoom log in success
+2020-11-26 18:42:23,544 Account information acquired
+2020-11-26 18:42:23,567 Deposit information acquired
+2020-11-26 18:42:23,836 Portfolio information acquired
+2020-11-26 18:43:20,083 Kiwoom log in success
+2020-11-26 18:43:48,229 Kiwoom log in success
+2020-11-26 18:44:13,801 Kiwoom log in success
+2020-11-26 18:47:17,577 Kiwoom log in success
+2020-11-26 20:37:18,108 Closing process initializing...
+2020-11-26 20:37:18,109 All screens are disconnected

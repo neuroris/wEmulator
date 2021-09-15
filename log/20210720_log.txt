@@ -1,0 +1,117 @@
+2021-07-20 09:39:46,366 Kiwoom initializing...
+2021-07-20 09:40:27,481 Kiwoom log in success
+2021-07-20 09:40:27,482 Account information
+2021-07-20 09:40:27,999 Deposit information (Futures)
+2021-07-20 09:40:28,020 Portfolio information (Futures) (No item found)
+2021-07-20 09:42:41,345 [93mALGORITHM STARTED [97m
+2021-07-20 09:42:41,569 [96mALGORITHM (BUY) holding:0 price:0 amount:2 [97m
+2021-07-20 09:42:41,575 [96mALGORITHM (SELL) holding:0 price:0 amount:2 [97m
+2021-07-20 09:42:41,883 [95mSend order failed. Please check order variables[0m
+2021-07-20 09:42:41,883 [95m Order Variables 0 2 SELL LIMIT  [0m
+2021-07-20 09:42:41,896 [95mSend order failed. Please check order variables[0m
+2021-07-20 09:42:41,897 [95m Order Variables 0 2 SELL LIMIT  [0m
+2021-07-20 10:00:43,908 Kiwoom initializing...
+2021-07-20 10:00:49,336 Kiwoom log in success
+2021-07-20 10:00:49,337 Account information
+2021-07-20 10:00:49,854 Deposit information (Futures)
+2021-07-20 10:00:49,879 Portfolio information (Futures) (No item found)
+2021-07-20 10:05:30,753 F 202109 trading information begins to be monitored
+2021-07-20 10:05:30,753 Go Charting F 202109
+2021-07-20 10:05:35,249 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-20 10:06:31,840 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:15083, original:0
+2021-07-20 10:06:33,307 Balance information
+2021-07-20 11:39:36,274 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:15083, original:0
+2021-07-20 11:39:37,820 Balance information
+2021-07-20 11:40:51,695 Kiwoom initializing...
+2021-07-20 11:41:06,488 Kiwoom log in success
+2021-07-20 11:41:06,488 Account information
+2021-07-20 11:41:06,997 Deposit information (Futures)
+2021-07-20 11:41:07,021 Portfolio information (Futures)
+2021-07-20 11:41:15,061 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-20 11:41:15,167 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:2, executed_sum:0, open:2, price:0.0, number:25173, original:0
+2021-07-20 11:41:15,170 Balance information
+2021-07-20 11:41:21,362 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:2, executed_sum:2, open:0, price:0.0, number:25173, original:0
+2021-07-20 11:41:21,365 Balance information
+2021-07-20 11:41:30,678 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-07-20 11:41:45,261 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:25185, original:0
+2021-07-20 11:41:46,627 Balance information
+2021-07-20 11:43:21,045 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:25185, original:0
+2021-07-20 11:43:22,274 Balance information
+2021-07-20 11:44:47,755 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-20 11:44:47,955 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:25391, original:0
+2021-07-20 11:44:47,957 Balance information
+2021-07-20 11:44:56,153 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:25391, original:0
+2021-07-20 11:44:56,155 Balance information
+2021-07-20 13:11:20,614 Kiwoom initializing...
+2021-07-20 13:11:30,917 Kiwoom log in success
+2021-07-20 13:11:30,917 Account information
+2021-07-20 13:11:31,426 Deposit information (Futures)
+2021-07-20 13:11:31,485 Portfolio information (Futures) (No item found)
+2021-07-20 13:15:04,763 Kiwoom initializing...
+2021-07-20 13:15:10,055 Kiwoom log in success
+2021-07-20 13:15:10,055 Account information
+2021-07-20 13:15:10,571 Deposit information (Futures)
+2021-07-20 13:15:10,600 Portfolio information (Futures) (No item found)
+2021-07-20 13:16:50,694 Kiwoom initializing...
+2021-07-20 13:16:56,059 Kiwoom log in success
+2021-07-20 13:16:56,059 Account information
+2021-07-20 13:16:56,578 Deposit information (Futures)
+2021-07-20 13:16:56,608 Portfolio information (Futures) (No item found)
+2021-07-20 13:16:58,496 [93mALGORITHM STARTED [97m
+2021-07-20 13:17:00,680 [96mALGORITHM (BUY) holding:0 price:426.28698924731174 amount:2 [97m
+2021-07-20 13:17:40,214 Kiwoom initializing...
+2021-07-20 13:17:45,381 Kiwoom log in success
+2021-07-20 13:17:45,382 Account information
+2021-07-20 13:17:45,895 Deposit information (Futures)
+2021-07-20 13:17:45,928 Portfolio information (Futures) (No item found)
+2021-07-20 13:17:50,600 [93mALGORITHM STARTED [97m
+2021-07-20 13:18:26,383 [96mALGORITHM (BUY) holding:0 price:426.295752688172 amount:2 [97m
+2021-07-20 13:18:47,811 Kiwoom initializing...
+2021-07-20 13:18:52,925 Kiwoom log in success
+2021-07-20 13:18:52,926 Account information
+2021-07-20 13:18:53,443 Deposit information (Futures)
+2021-07-20 13:18:53,465 Portfolio information (Futures) (No item found)
+2021-07-20 13:19:56,846 F 202109 trading information begins to be monitored
+2021-07-20 13:19:56,846 Go Charting F 202109
+2021-07-20 13:20:14,009 [95mSend order failed. Please check order variables[0m
+2021-07-20 13:20:14,009 [95m Order Variables 427.12 1 BUY LIMIT  [0m
+2021-07-20 13:20:23,141 Send order (BUY) command committed successfully KOA_CREATE_FO_ORD
+2021-07-20 13:20:23,217 Order execution(+¸Å¼ö) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:427.1, number:33304, original:0
+2021-07-20 13:20:23,219 Balance information
+2021-07-20 13:20:23,612 Order execution(+¸Å¼ö) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:427.1, number:33304, original:0
+2021-07-20 13:20:23,615 Balance information
+2021-07-20 13:20:32,366 [95mSend order failed. Please check order variables[0m
+2021-07-20 13:20:32,366 [95m Order Variables 427.11 1 BUY LIMIT  [0m
+2021-07-20 13:53:43,644 OUT
+2021-07-20 14:53:02,950 Kiwoom initializing...
+2021-07-20 14:53:08,684 Kiwoom log in success
+2021-07-20 14:53:08,684 Account information
+2021-07-20 14:53:09,201 Deposit information (Futures)
+2021-07-20 14:53:09,240 Portfolio information (Futures)
+2021-07-20 14:53:12,792 Send order (SELL) command committed successfully KOA_CREATE_FO_ORD
+2021-07-20 14:53:12,853 Order execution(-¸Åµµ) F 202109(Á¢¼ö), order:1, executed_sum:0, open:1, price:0.0, number:43527, original:0
+2021-07-20 14:53:12,856 Balance information
+2021-07-20 14:53:13,948 Order execution(-¸Åµµ) F 202109(Ã¼°á), order:1, executed_sum:1, open:0, price:0.0, number:43527, original:0
+2021-07-20 14:53:13,950 Balance information
+2021-07-20 14:53:16,042 [93mALGORITHM STARTED [97m
+2021-07-20 14:53:21,777 [96mALGORITHM (BUY) holding:0 price:426.90000000000003 amount:2 [97m
+2021-07-20 14:54:02,287 Kiwoom initializing...
+2021-07-20 14:54:07,431 Kiwoom log in success
+2021-07-20 14:54:07,432 Account information
+2021-07-20 14:54:07,936 Deposit information (Futures)
+2021-07-20 14:54:07,966 Portfolio information (Futures) (No item found)
+2021-07-20 14:54:11,169 [93mALGORITHM STARTED [97m
+2021-07-20 14:57:06,061 Kiwoom initializing...
+2021-07-20 14:57:11,353 Kiwoom log in success
+2021-07-20 14:57:11,353 Account information
+2021-07-20 14:57:11,862 Deposit information (Futures)
+2021-07-20 14:57:11,896 Portfolio information (Futures) (No item found)
+2021-07-20 14:57:22,972 [93mALGORITHM STARTED [97m
+2021-07-20 14:57:30,520 [96mALGORITHM (BUY) holding:0 price:427.1 amount:2 [97m
+2021-07-20 14:58:06,271 Kiwoom initializing...
+2021-07-20 14:58:11,602 Kiwoom log in success
+2021-07-20 14:58:11,603 Account information
+2021-07-20 14:58:12,115 Deposit information (Futures)
+2021-07-20 14:58:12,141 Portfolio information (Futures) (No item found)
+2021-07-20 14:58:12,962 [93mALGORITHM STARTED [97m
+2021-07-20 14:58:38,118 [96mALGORITHM (BUY) holding:0 price:427.15 amount:2 [97m

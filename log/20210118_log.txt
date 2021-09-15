@@ -1,0 +1,347 @@
+2021-01-18 09:54:58,396 Kiwoom initializing...
+2021-01-18 09:55:36,236 Kiwoom log in success
+2021-01-18 09:55:36,237 Account information
+2021-01-18 09:55:36,748 Deposit information
+2021-01-18 09:55:37,268 Portfolio information
+2021-01-18 09:55:37,316 Order history information
+2021-01-18 09:56:01,433 Go Charting KODEX 레버리지
+2021-01-18 09:57:50,894 Kiwoom initializing...
+2021-01-18 09:57:56,753 Kiwoom initializing...
+2021-01-18 09:58:02,033 Kiwoom log in success
+2021-01-18 09:58:02,033 Account information
+2021-01-18 09:58:02,541 Deposit information
+2021-01-18 09:58:03,066 Portfolio information
+2021-01-18 09:58:03,117 Order history information
+2021-01-18 09:58:43,193 Kiwoom initializing...
+2021-01-18 09:58:47,694 Kiwoom log in success
+2021-01-18 09:58:47,694 Account information
+2021-01-18 09:58:48,209 Deposit information
+2021-01-18 09:58:48,722 Portfolio information
+2021-01-18 09:58:48,759 Order history information
+2021-01-18 09:58:50,459 Go Charting KODEX 레버리지
+2021-01-18 09:58:53,934 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 09:59:42,743 Kiwoom initializing...
+2021-01-18 09:59:48,067 Kiwoom log in success
+2021-01-18 09:59:48,067 Account information
+2021-01-18 09:59:48,570 Deposit information
+2021-01-18 09:59:49,083 Portfolio information
+2021-01-18 09:59:49,130 Order history information
+2021-01-18 10:00:04,342 Kiwoom initializing...
+2021-01-18 10:00:08,750 Kiwoom log in success
+2021-01-18 10:00:08,750 Account information
+2021-01-18 10:00:09,258 Deposit information
+2021-01-18 10:00:09,769 Portfolio information
+2021-01-18 10:00:09,812 Order history information
+2021-01-18 12:32:37,407 Go Charting KODEX 레버리지
+2021-01-18 12:32:38,939 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 12:34:25,553 Kiwoom initializing...
+2021-01-18 12:34:34,770 Kiwoom log in success
+2021-01-18 12:34:34,770 Account information
+2021-01-18 12:34:35,281 Deposit information
+2021-01-18 12:34:35,806 Portfolio information
+2021-01-18 12:34:35,845 Order history information
+2021-01-18 12:35:41,043 Go Charting KODEX 레버리지
+2021-01-18 12:35:47,626 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 12:48:08,503 Kiwoom initializing...
+2021-01-18 12:48:17,667 Kiwoom log in success
+2021-01-18 12:48:17,667 Account information
+2021-01-18 12:48:18,171 Deposit information
+2021-01-18 12:48:18,683 Portfolio information
+2021-01-18 12:48:18,724 Order history information
+2021-01-18 12:48:20,480 Go Charting KODEX 레버리지
+2021-01-18 12:48:23,540 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 12:51:05,955 Kiwoom initializing...
+2021-01-18 12:51:10,364 Kiwoom log in success
+2021-01-18 12:51:10,364 Account information
+2021-01-18 12:51:10,875 Deposit information
+2021-01-18 12:51:11,388 Portfolio information
+2021-01-18 12:51:11,430 Order history information
+2021-01-18 12:51:37,112 Go Charting KODEX 레버리지
+2021-01-18 12:51:38,555 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 12:51:46,564 Running algorithm started
+2021-01-18 12:57:09,366 Kiwoom initializing...
+2021-01-18 12:57:13,799 Kiwoom log in success
+2021-01-18 12:57:13,799 Account information
+2021-01-18 12:57:14,310 Deposit information
+2021-01-18 12:57:14,824 Portfolio information
+2021-01-18 12:57:14,870 Order history information
+2021-01-18 12:57:15,906 Go Charting KODEX 레버리지
+2021-01-18 12:57:17,970 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 12:57:22,448 Running algorithm started
+2021-01-18 12:59:49,836 Kiwoom initializing...
+2021-01-18 12:59:54,431 Kiwoom log in success
+2021-01-18 12:59:54,431 Account information
+2021-01-18 12:59:54,934 Deposit information
+2021-01-18 12:59:55,447 Portfolio information
+2021-01-18 12:59:55,492 Order history information
+2021-01-18 13:00:00,608 Go Charting KODEX 레버리지
+2021-01-18 13:00:02,089 Running algorithm started
+2021-01-18 13:00:30,790 Kiwoom initializing...
+2021-01-18 13:00:35,066 Kiwoom log in success
+2021-01-18 13:00:35,066 Account information
+2021-01-18 13:00:35,570 Deposit information
+2021-01-18 13:00:36,080 Portfolio information
+2021-01-18 13:00:36,120 Order history information
+2021-01-18 13:00:37,592 Go Charting KODEX 레버리지
+2021-01-18 13:00:39,125 Running algorithm started
+2021-01-18 13:01:11,176 Kiwoom initializing...
+2021-01-18 13:01:15,561 Kiwoom log in success
+2021-01-18 13:01:15,561 Account information
+2021-01-18 13:01:16,073 Deposit information
+2021-01-18 13:01:16,598 Portfolio information
+2021-01-18 13:01:16,638 Order history information
+2021-01-18 13:01:17,392 Go Charting KODEX 레버리지
+2021-01-18 13:01:18,480 Running algorithm started
+2021-01-18 13:02:46,355 Kiwoom initializing...
+2021-01-18 13:02:50,821 Kiwoom log in success
+2021-01-18 13:02:50,821 Account information
+2021-01-18 13:02:51,335 Deposit information
+2021-01-18 13:02:51,848 Portfolio information
+2021-01-18 13:02:51,896 Order history information
+2021-01-18 13:02:53,508 Go Charting KODEX 레버리지
+2021-01-18 13:03:01,901 Kiwoom initializing...
+2021-01-18 13:03:06,386 Kiwoom log in success
+2021-01-18 13:03:06,387 Account information
+2021-01-18 13:03:06,896 Deposit information
+2021-01-18 13:03:07,405 Portfolio information
+2021-01-18 13:03:07,437 Order history information
+2021-01-18 13:03:27,280 Go Charting KODEX 레버리지
+2021-01-18 13:03:30,357 Running algorithm started
+2021-01-18 13:04:21,703 Go Charting KODEX 200선물인버스2X
+2021-01-18 13:04:25,960 KODEX 200선물인버스2X trading information begins to be monitored
+2021-01-18 13:04:28,336 Running algorithm started
+2021-01-18 13:04:36,123 Go Charting KODEX 200선물인버스2X
+2021-01-18 13:04:55,016 Kiwoom initializing...
+2021-01-18 13:04:59,561 Kiwoom log in success
+2021-01-18 13:04:59,562 Account information
+2021-01-18 13:05:00,066 Deposit information
+2021-01-18 13:05:00,576 Portfolio information
+2021-01-18 13:05:00,619 Order history information
+2021-01-18 13:05:06,460 Go Charting KODEX 레버리지
+2021-01-18 13:05:11,850 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 13:05:17,910 Running algorithm started
+2021-01-18 13:07:34,273 Kiwoom initializing...
+2021-01-18 13:07:39,095 Kiwoom log in success
+2021-01-18 13:07:39,095 Account information
+2021-01-18 13:07:39,599 Deposit information
+2021-01-18 13:07:40,111 Portfolio information
+2021-01-18 13:07:40,148 Order history information
+2021-01-18 13:07:41,432 Go Charting KODEX 레버리지
+2021-01-18 13:07:46,162 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 13:07:50,108 Running algorithm started
+2021-01-18 15:01:39,118 Kiwoom initializing...
+2021-01-18 15:01:50,597 Kiwoom initializing...
+2021-01-18 15:01:56,531 Something is wrong during log-in
+2021-01-18 15:01:56,531 Login error -100
+2021-01-18 15:01:56,533 Account information
+2021-01-18 15:01:56,567 Something is wrong during log-in
+2021-01-18 15:01:56,567 Login error -106
+2021-01-18 15:01:56,598 Something is wrong during log-in
+2021-01-18 15:01:56,599 Login error -106
+2021-01-18 15:02:00,842 Kiwoom initializing...
+2021-01-18 15:02:06,282 Something is wrong during log-in
+2021-01-18 15:02:06,282 Login error -100
+2021-01-18 15:02:06,284 Account information
+2021-01-18 15:02:06,316 Something is wrong during log-in
+2021-01-18 15:02:06,316 Login error -106
+2021-01-18 15:02:06,336 Something is wrong during log-in
+2021-01-18 15:02:06,336 Login error -106
+2021-01-18 15:02:13,183 Kiwoom initializing...
+2021-01-18 15:02:20,464 Kiwoom initializing...
+2021-01-18 15:02:24,864 Kiwoom log in success
+2021-01-18 15:02:24,864 Account information
+2021-01-18 15:02:26,994 Order history information
+2021-01-18 15:02:50,370 Kiwoom initializing...
+2021-01-18 15:02:55,032 Kiwoom log in success
+2021-01-18 15:02:55,032 Account information
+2021-01-18 15:02:55,547 Deposit information
+2021-01-18 15:02:56,062 Portfolio information
+2021-01-18 15:02:56,100 Order history information
+2021-01-18 15:02:59,251 Running algorithm started
+2021-01-18 15:19:57,388 market operation state 2 152000 001000
+2021-01-18 15:20:57,377 market operation state 2 152100 000900
+2021-01-18 15:21:57,379 market operation state 2 152200 000800
+2021-01-18 15:22:57,273 market operation state 2 152300 000700
+2021-01-18 15:23:57,384 market operation state 2 152400 000600
+2021-01-18 15:24:57,378 market operation state 2 152500 000500
+2021-01-18 15:25:57,379 market operation state 2 152600 000400
+2021-01-18 15:26:57,366 market operation state 2 152700 000300
+2021-01-18 15:27:57,365 market operation state 2 152800 000200
+2021-01-18 15:28:57,364 market operation state 2 152900 000100
+2021-01-18 15:29:07,279 market operation state 2 152910 000050
+2021-01-18 15:29:17,369 market operation state 2 152920 000040
+2021-01-18 15:29:27,265 market operation state 2 152930 000030
+2021-01-18 15:29:37,375 market operation state 2 152940 000020
+2021-01-18 15:29:47,373 market operation state 2 152950 000010
+2021-01-18 15:29:57,366 market operation state 4 153000 000000
+2021-01-18 15:32:47,260 market operation state 8 888888 000000
+2021-01-18 15:34:58,166 market operation state s 153500 000000
+2021-01-18 15:34:58,167 market operation state s 153500 000000
+2021-01-18 15:34:58,167 market operation state s 153500 000000
+2021-01-18 15:34:58,167 market operation state s 153500 000000
+2021-01-18 15:34:58,168 market operation state s 153500 000000
+2021-01-18 15:34:58,258 market operation state s 153500 000000
+2021-01-18 15:34:58,259 market operation state s 153500 000000
+2021-01-18 15:34:58,259 market operation state s 153500 000000
+2021-01-18 15:34:58,259 market operation state s 153500 000000
+2021-01-18 15:34:58,260 market operation state s 153500 000000
+2021-01-18 15:34:58,260 market operation state s 153500 000000
+2021-01-18 15:34:58,260 market operation state s 153500 000000
+2021-01-18 15:34:58,260 market operation state s 153500 000000
+2021-01-18 15:34:58,261 market operation state s 153500 000000
+2021-01-18 15:34:58,364 market operation state s 153500 000000
+2021-01-18 15:34:58,364 market operation state s 153500 000000
+2021-01-18 15:34:58,365 market operation state s 153500 000000
+2021-01-18 15:39:58,046 market operation state a 154000 000000
+2021-01-18 15:43:25,784 Stop Charting
+2021-01-18 15:43:48,431 Go Charting KODEX 레버리지
+2021-01-18 15:44:58,444 market operation state e 154500 000000
+2021-01-18 15:44:58,550 market operation state e 154500 000000
+2021-01-18 15:44:58,642 market operation state e 154500 000000
+2021-01-18 15:44:58,642 market operation state e 154500 000000
+2021-01-18 15:44:58,747 market operation state e 154500 000000
+2021-01-18 15:44:58,837 market operation state e 154500 000000
+2021-01-18 15:44:58,838 market operation state e 154500 000000
+2021-01-18 15:44:58,944 market operation state e 154500 000000
+2021-01-18 15:44:58,945 market operation state e 154500 000000
+2021-01-18 15:44:59,048 market operation state e 154500 000000
+2021-01-18 15:44:59,138 market operation state e 154500 000000
+2021-01-18 15:44:59,139 market operation state e 154500 000000
+2021-01-18 15:44:59,442 market operation state e 154500 000000
+2021-01-18 15:44:59,742 market operation state e 154500 000000
+2021-01-18 15:44:59,954 market operation state e 154500 000000
+2021-01-18 15:45:00,152 market operation state e 154500 000000
+2021-01-18 15:45:00,243 market operation state e 154500 000000
+2021-01-18 15:56:52,869 Stop Charting
+2021-01-18 15:59:58,026 market operation state b 160000 000000
+2021-01-18 15:59:58,027 market operation state c 160000 000000
+2021-01-18 16:31:54,573 Kiwoom initializing...
+2021-01-18 16:32:03,312 Kiwoom log in success
+2021-01-18 16:32:03,312 Account information
+2021-01-18 16:32:03,822 Deposit information
+2021-01-18 16:32:04,337 Portfolio information
+2021-01-18 16:32:04,371 Order history information
+2021-01-18 16:32:06,342 Go Charting KODEX 레버리지
+2021-01-18 16:32:09,263 KODEX 레버리지 trading information begins to be monitored
+2021-01-18 16:32:14,122 KODEX 레버리지 stock information monitoring is finished
+2021-01-18 16:32:16,499 Stop Charting
+2021-01-18 16:32:35,560 Kiwoom initializing...
+2021-01-18 16:32:39,949 Kiwoom log in success
+2021-01-18 16:32:39,950 Account information
+2021-01-18 16:32:40,462 Deposit information
+2021-01-18 16:32:40,983 Portfolio information
+2021-01-18 16:32:41,026 Order history information
+2021-01-18 16:34:51,810 Kiwoom initializing...
+2021-01-18 16:34:56,320 Kiwoom log in success
+2021-01-18 16:34:56,320 Account information
+2021-01-18 16:34:56,826 Deposit information
+2021-01-18 16:34:57,342 Portfolio information
+2021-01-18 16:34:57,375 Order history information
+2021-01-18 16:35:27,009 Kiwoom initializing...
+2021-01-18 16:35:31,960 Kiwoom log in success
+2021-01-18 16:35:31,960 Account information
+2021-01-18 16:35:32,468 Deposit information
+2021-01-18 16:35:32,981 Portfolio information
+2021-01-18 16:35:33,028 Order history information
+2021-01-18 16:35:38,346 Running algorithm started
+2021-01-18 16:36:42,398 Stop Charting
+2021-01-18 17:43:54,302 Kiwoom initializing...
+2021-01-18 17:44:07,541 Kiwoom log in success
+2021-01-18 17:44:07,542 Account information
+2021-01-18 17:44:08,058 Deposit information
+2021-01-18 17:44:08,569 Portfolio information
+2021-01-18 17:44:08,616 Order history information
+2021-01-18 17:44:19,106 Running algorithm started
+2021-01-18 17:44:48,388 Running algorithm stopped
+2021-01-18 17:44:53,348 Stop Charting KODEX 레버리지
+2021-01-18 17:59:57,800 market operation state d 180000 000000
+2021-01-18 18:01:17,099 market operation state 9 999999 000000
+2021-01-18 19:47:39,807 Kiwoom initializing...
+2021-01-18 19:47:52,917 Kiwoom log in success
+2021-01-18 19:47:52,917 Account information
+2021-01-18 19:47:53,420 Deposit information
+2021-01-18 19:47:53,934 Portfolio information
+2021-01-18 19:47:53,976 Order history information
+2021-01-18 19:47:57,452 Running algorithm started
+2021-01-18 19:48:15,104 Kiwoom initializing...
+2021-01-18 19:48:19,571 Kiwoom log in success
+2021-01-18 19:48:19,571 Account information
+2021-01-18 19:48:20,086 Deposit information
+2021-01-18 19:48:20,610 Portfolio information
+2021-01-18 19:48:20,651 Order history information
+2021-01-18 19:48:21,696 Running algorithm started
+2021-01-18 19:51:49,346 Kiwoom initializing...
+2021-01-18 19:51:54,150 Kiwoom log in success
+2021-01-18 19:51:54,150 Account information
+2021-01-18 19:51:54,654 Deposit information
+2021-01-18 19:51:55,180 Portfolio information
+2021-01-18 19:51:55,222 Order history information
+2021-01-18 19:51:56,604 Running algorithm started
+2021-01-18 19:52:12,733 Kiwoom initializing...
+2021-01-18 19:52:17,208 Kiwoom log in success
+2021-01-18 19:52:17,208 Account information
+2021-01-18 19:52:17,721 Deposit information
+2021-01-18 19:52:18,247 Portfolio information
+2021-01-18 19:52:18,286 Order history information
+2021-01-18 19:52:21,908 Running algorithm started
+2021-01-18 19:52:37,715 Kiwoom initializing...
+2021-01-18 19:52:42,208 Kiwoom log in success
+2021-01-18 19:52:42,208 Account information
+2021-01-18 19:52:42,724 Deposit information
+2021-01-18 19:52:43,247 Portfolio information
+2021-01-18 19:52:43,288 Order history information
+2021-01-18 19:52:48,338 Running algorithm started
+2021-01-18 19:54:01,748 Kiwoom initializing...
+2021-01-18 19:54:06,182 Kiwoom log in success
+2021-01-18 19:54:06,182 Account information
+2021-01-18 19:54:06,688 Deposit information
+2021-01-18 19:54:07,204 Portfolio information
+2021-01-18 19:54:07,242 Order history information
+2021-01-18 19:54:08,465 Running algorithm started
+2021-01-18 19:55:01,900 Kiwoom initializing...
+2021-01-18 19:55:06,406 Kiwoom log in success
+2021-01-18 19:55:06,406 Account information
+2021-01-18 19:55:06,912 Deposit information
+2021-01-18 19:55:07,439 Portfolio information
+2021-01-18 19:55:07,476 Order history information
+2021-01-18 19:55:10,035 Running algorithm started
+2021-01-18 19:55:16,136 Stop Charting KODEX 레버리지
+2021-01-18 19:56:52,649 Kiwoom initializing...
+2021-01-18 19:56:57,142 Kiwoom log in success
+2021-01-18 19:56:57,142 Account information
+2021-01-18 19:56:57,660 Deposit information
+2021-01-18 19:56:58,182 Portfolio information
+2021-01-18 19:56:58,231 Order history information
+2021-01-18 19:56:59,132 Running algorithm started
+2021-01-18 19:57:27,083 Kiwoom initializing...
+2021-01-18 19:57:31,521 Kiwoom log in success
+2021-01-18 19:57:31,522 Account information
+2021-01-18 19:57:32,034 Deposit information
+2021-01-18 19:57:32,558 Portfolio information
+2021-01-18 19:57:32,597 Order history information
+2021-01-18 19:57:34,777 Running algorithm started
+2021-01-18 19:57:56,997 Kiwoom initializing...
+2021-01-18 19:58:01,458 Kiwoom log in success
+2021-01-18 19:58:01,459 Account information
+2021-01-18 19:58:01,968 Deposit information
+2021-01-18 19:58:02,478 Portfolio information
+2021-01-18 19:58:02,517 Order history information
+2021-01-18 19:58:14,509 Running algorithm started
+2021-01-18 20:01:31,708 Go Charting KODEX 레버리지
+2021-01-18 20:02:16,356 Kiwoom initializing...
+2021-01-18 20:02:20,729 Kiwoom log in success
+2021-01-18 20:02:20,729 Account information
+2021-01-18 20:02:21,249 Deposit information
+2021-01-18 20:02:21,773 Portfolio information
+2021-01-18 20:02:21,808 Order history information
+2021-01-18 20:02:34,286 Running algorithm started
+2021-01-18 20:07:18,263 Go Charting KODEX 레버리지
+2021-01-18 20:07:20,517 Stop Charting KODEX 레버리지
+2021-01-18 20:07:38,496 Kiwoom initializing...
+2021-01-18 20:07:47,703 Kiwoom log in success
+2021-01-18 20:07:47,704 Account information
+2021-01-18 20:07:48,216 Deposit information
+2021-01-18 20:07:48,740 Portfolio information
+2021-01-18 20:07:48,779 Order history information
+2021-01-18 20:07:51,054 Running algorithm started
+2021-01-18 20:07:56,939 Stop Charting KODEX 레버리지

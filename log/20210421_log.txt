@@ -1,0 +1,581 @@
+2021-04-21 09:42:47,496 Kiwoom initializing...
+2021-04-21 09:43:25,039 Kiwoom log in success
+2021-04-21 09:43:25,040 Account information
+2021-04-21 09:43:25,555 Deposit information
+2021-04-21 09:43:26,101 Order history information
+2021-04-21 09:43:27,828 Portfolio information
+2021-04-21 09:45:01,607 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-21 09:45:01,609 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 10:18:01,242 Kiwoom initializing...
+2021-04-21 10:18:31,519 Kiwoom initializing...
+2021-04-21 10:18:43,663 Kiwoom log in success
+2021-04-21 10:18:43,664 Account information
+2021-04-21 10:18:44,687 Deposit information
+2021-04-21 10:18:44,712 Order history information
+2021-04-21 10:18:45,425 Portfolio information
+2021-04-21 10:18:56,508 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 10:20:20,316 Kiwoom initializing...
+2021-04-21 10:20:25,836 Kiwoom log in success
+2021-04-21 10:20:25,836 Account information
+2021-04-21 10:20:26,861 Deposit information
+2021-04-21 10:20:26,891 Order history information
+2021-04-21 10:20:27,849 Portfolio information
+2021-04-21 10:20:30,005 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 10:51:22,709 Kiwoom initializing...
+2021-04-21 10:51:31,538 Kiwoom log in success
+2021-04-21 10:51:31,538 Account information
+2021-04-21 10:51:32,558 Deposit information
+2021-04-21 10:51:32,590 Order history information
+2021-04-21 10:51:33,376 Portfolio information
+2021-04-21 10:51:43,735 Kiwoom initializing...
+2021-04-21 10:51:49,425 Kiwoom log in success
+2021-04-21 10:51:49,425 Account information
+2021-04-21 10:51:49,930 Deposit information
+2021-04-21 10:51:50,464 Order history information
+2021-04-21 10:51:51,335 Portfolio information
+2021-04-21 10:51:52,148 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 11:02:51,430 Kiwoom initializing...
+2021-04-21 11:02:57,848 Kiwoom log in success
+2021-04-21 11:02:57,849 Account information
+2021-04-21 11:02:58,877 Deposit information
+2021-04-21 11:02:58,905 Order history information
+2021-04-21 11:02:59,863 Portfolio information
+2021-04-21 11:03:08,007 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 11:08:43,208 Kiwoom initializing...
+2021-04-21 11:08:49,985 Kiwoom log in success
+2021-04-21 11:08:49,985 Account information
+2021-04-21 11:08:51,018 Deposit information
+2021-04-21 11:08:51,041 Order history information
+2021-04-21 11:08:52,105 Portfolio information
+2021-04-21 11:09:07,551 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 11:11:14,163 Kiwoom initializing...
+2021-04-21 11:11:19,901 Kiwoom log in success
+2021-04-21 11:11:19,901 Account information
+2021-04-21 11:11:20,930 Deposit information
+2021-04-21 11:11:20,957 Order history information
+2021-04-21 11:11:22,018 Portfolio information
+2021-04-21 11:12:06,955 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 11:13:06,964 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:08:00  27890  27910  27875  27885   66997
+2021-04-21 11:09:00  27885  27900  27860  27860   41595
+2021-04-21 11:10:00  27860  27875  27840  27870   46895
+2021-04-21 11:11:00  27870  27890  27865  27885   21062
+2021-04-21 11:12:00  27880  27880  27870  27875    7162
+
+[133 rows x 5 columns]
+2021-04-21 11:14:06,958 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:09:00  27885  27900  27860  27860   41595
+2021-04-21 11:10:00  27860  27875  27840  27870   46895
+2021-04-21 11:11:00  27870  27890  27865  27885   21062
+2021-04-21 11:12:00  27880  27880  27870  27875    7162
+2021-04-21 11:13:00  27875  27875  27875  27875       0
+
+[134 rows x 5 columns]
+2021-04-21 11:14:17,303 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-21 11:15:06,958 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:11:00  27870  27890  27865  27885   21062
+2021-04-21 11:12:00  27880  27880  27870  27875    7162
+2021-04-21 11:13:00  27875  27875  27875  27875       0
+2021-04-21 11:14:00  27875  27875  27845  27865   12550
+2021-04-21 11:15:00  27860  27870  27860  27865    1900
+
+[136 rows x 5 columns]
+2021-04-21 11:16:06,951 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:12:00  27880  27880  27870  27875    7162
+2021-04-21 11:13:00  27875  27875  27875  27875       0
+2021-04-21 11:14:00  27875  27875  27845  27865   12550
+2021-04-21 11:15:00  27860  27870  27840  27860   61751
+2021-04-21 11:16:00  27860  27865  27845  27845   14949
+
+[137 rows x 5 columns]
+2021-04-21 11:16:22,599 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 11:17:22,595 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:13:00  27875  27875  27875  27875       0
+2021-04-21 11:14:00  27875  27875  27845  27865   12550
+2021-04-21 11:15:00  27860  27870  27840  27860   61751
+2021-04-21 11:16:00  27860  27865  27845  27855   31554
+2021-04-21 11:17:00  27860  27865  27850  27865    3227
+
+[275 rows x 5 columns]
+2021-04-21 11:18:22,597 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:14:00  27875  27875  27845  27865   12550
+2021-04-21 11:15:00  27860  27870  27840  27860   61751
+2021-04-21 11:16:00  27860  27865  27845  27855   31554
+2021-04-21 11:17:00  27860  27865  27820  27825   73874
+2021-04-21 11:18:00  27825  27830  27810  27820   65099
+
+[276 rows x 5 columns]
+2021-04-21 11:19:22,606 Timer
+                       Open   High    Low  Close  Volume
+2021-04-21 09:00:00  28530  28530  28415  28415  591624
+2021-04-21 09:01:00  28415  28425  28360  28375  511076
+2021-04-21 09:02:00  28375  28380  28355  28365  291381
+2021-04-21 09:03:00  28360  28380  28355  28375  256669
+2021-04-21 09:04:00  28370  28375  28315  28330  493864
+...                    ...    ...    ...    ...     ...
+2021-04-21 11:15:00  27860  27870  27840  27860   61751
+2021-04-21 11:16:00  27860  27865  27845  27855   31554
+2021-04-21 11:17:00  27860  27865  27820  27825   73874
+2021-04-21 11:18:00  27825  27845  27810  27835   81642
+2021-04-21 11:19:00  27840  27855  27840  27855   26492
+
+[277 rows x 5 columns]
+2021-04-21 12:06:56,811 Kiwoom initializing...
+2021-04-21 12:07:06,701 Kiwoom log in success
+2021-04-21 12:07:06,701 Account information
+2021-04-21 12:07:07,733 Deposit information
+2021-04-21 12:07:07,761 Order history information
+2021-04-21 12:07:08,681 Portfolio information
+2021-04-21 12:07:18,074 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:07:23,598 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:07:26,502 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:07:29,146 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:07:37,822 Kiwoom initializing...
+2021-04-21 12:07:43,591 Kiwoom log in success
+2021-04-21 12:07:43,592 Account information
+2021-04-21 12:07:44,102 Deposit information
+2021-04-21 12:07:44,645 Order history information
+2021-04-21 12:07:45,242 Portfolio information
+2021-04-21 12:08:49,970 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:08:51,481 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:09:01,386 Kiwoom initializing...
+2021-04-21 12:09:06,493 Kiwoom log in success
+2021-04-21 12:09:06,493 Account information
+2021-04-21 12:09:07,012 Deposit information
+2021-04-21 12:09:07,550 Order history information
+2021-04-21 12:09:08,416 Portfolio information
+2021-04-21 12:11:35,524 Kiwoom initializing...
+2021-04-21 12:11:39,771 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:11:47,132 Kiwoom initializing...
+2021-04-21 12:11:52,850 Kiwoom log in success
+2021-04-21 12:11:52,850 Account information
+2021-04-21 12:11:53,366 Deposit information
+2021-04-21 12:11:53,909 Order history information
+2021-04-21 12:11:54,768 Portfolio information
+2021-04-21 12:12:01,294 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:14:11,806 Kiwoom initializing...
+2021-04-21 12:14:16,821 Kiwoom log in success
+2021-04-21 12:14:16,821 Account information
+2021-04-21 12:14:17,335 Deposit information
+2021-04-21 12:14:17,872 Order history information
+2021-04-21 12:14:18,676 Portfolio information
+2021-04-21 12:14:24,950 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:14:37,273 Stop Charting
+2021-04-21 12:30:21,107 Kiwoom initializing...
+2021-04-21 12:30:45,321 Kiwoom initializing...
+2021-04-21 12:46:46,532 Kiwoom initializing...
+2021-04-21 12:46:53,143 Kiwoom log in success
+2021-04-21 12:46:53,144 Account information
+2021-04-21 12:46:53,657 Deposit information
+2021-04-21 12:46:54,193 Order history information
+2021-04-21 12:46:55,157 Portfolio information
+2021-04-21 12:51:30,297 Kiwoom initializing...
+2021-04-21 12:51:35,786 Kiwoom log in success
+2021-04-21 12:51:35,787 Account information
+2021-04-21 12:51:36,298 Deposit information
+2021-04-21 12:51:36,876 Order history information
+2021-04-21 12:51:37,572 Portfolio information
+2021-04-21 12:53:04,777 Kiwoom initializing...
+2021-04-21 12:53:10,714 Kiwoom log in success
+2021-04-21 12:53:10,714 Account information
+2021-04-21 12:53:11,222 Deposit information
+2021-04-21 12:53:11,753 Order history information
+2021-04-21 12:53:12,518 Portfolio information
+2021-04-21 12:54:34,412 Kiwoom initializing...
+2021-04-21 12:54:41,010 Kiwoom log in success
+2021-04-21 12:54:41,011 Account information
+2021-04-21 12:54:42,036 Deposit information
+2021-04-21 12:54:42,062 Order history information
+2021-04-21 12:54:43,183 Portfolio information
+2021-04-21 12:57:52,284 Kiwoom initializing...
+2021-04-21 12:57:57,684 Kiwoom log in success
+2021-04-21 12:57:57,685 Account information
+2021-04-21 12:57:58,204 Deposit information
+2021-04-21 12:57:58,737 Order history information
+2021-04-21 12:57:59,486 Portfolio information
+2021-04-21 12:58:59,401 Kiwoom initializing...
+2021-04-21 12:59:04,611 Kiwoom log in success
+2021-04-21 12:59:04,611 Account information
+2021-04-21 12:59:05,120 Deposit information
+2021-04-21 12:59:05,662 Order history information
+2021-04-21 12:59:06,701 Portfolio information
+2021-04-21 12:59:13,464 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 12:59:13,468 [93mALGORITHM STARTED [97m
+2021-04-21 12:59:13,722 [96mALGORITHM (BUY) holding:0 price:27720 amount:360 [97m
+2021-04-21 12:59:14,248 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 12:59:14,311 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:360, executed_sum:0, open:360, price:27720, number:117092, original:0
+2021-04-21 12:59:14,311 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:360 executed_each:0 open:360 number:117092 purchase:0 executed:0 holding:0 [97m
+2021-04-21 12:59:14,312 [94mALGORITHM (DEBUG) 12:59:14 Purchases 1 Sales 0 [97m
+2021-04-21 12:59:40,603 Kiwoom initializing...
+2021-04-21 12:59:46,411 Kiwoom log in success
+2021-04-21 12:59:46,411 Account information
+2021-04-21 12:59:47,438 Deposit information
+2021-04-21 12:59:47,475 Order history information
+2021-04-21 12:59:48,472 Portfolio information
+2021-04-21 13:00:37,420 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:360, executed_sum:1, open:359, price:27720, number:117092, original:0
+2021-04-21 13:00:37,424 Balance information
+2021-04-21 13:00:40,509 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:360, executed_sum:211, open:149, price:27720, number:117092, original:0
+2021-04-21 13:00:40,511 Balance information
+2021-04-21 13:01:01,813 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:360, executed_sum:360, open:0, price:27720, number:117092, original:0
+2021-04-21 13:01:01,815 Balance information
+2021-04-21 13:01:03,983 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 13:01:03,989 [93mALGORITHM STARTED [97m
+2021-04-21 13:01:04,807 [96mALGORITHM (BUY) holding:0 price:27720 amount:360 [97m
+2021-04-21 13:01:05,535 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 13:01:05,613 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:360, executed_sum:0, open:360, price:27720, number:117761, original:0
+2021-04-21 13:01:05,613 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:360 executed_each:0 open:360 number:117761 purchase:0 executed:0 holding:0 [97m
+2021-04-21 13:01:05,613 [94mALGORITHM (DEBUG) 13:01:05 Purchases 1 Sales 0 [97m
+2021-04-21 13:01:05,911 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:360, executed_sum:360, open:0, price:27720, number:117761, original:0
+2021-04-21 13:01:05,912 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:360 executed_each:360 open:0 number:117761 purchase:0 executed:27720 holding:360 [97m
+2021-04-21 13:01:05,912 [94mALGORITHM (DEBUG) 13:01:05 Purchases 0 Sales 0 [97m
+2021-04-21 13:01:05,914 Balance information
+2021-04-21 13:16:54,992 Kiwoom initializing...
+2021-04-21 13:17:04,552 Kiwoom log in success
+2021-04-21 13:17:04,552 Account information
+2021-04-21 13:17:05,573 Deposit information
+2021-04-21 13:17:05,606 Order history information
+2021-04-21 13:17:06,559 Portfolio information
+2021-04-21 13:17:11,107 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 13:17:11,110 [93mALGORITHM STARTED [97m
+2021-04-21 13:17:11,292 display chart
+2021-04-21 13:17:12,379 [96mALGORITHM (BUY) holding:0 price:27720 amount:360 [97m
+2021-04-21 13:17:12,472 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 13:17:12,566 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:360, executed_sum:0, open:360, price:27720, number:122248, original:0
+2021-04-21 13:17:12,567 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:360 executed_each:0 open:360 number:122248 purchase:0 executed:0 holding:0 [97m
+2021-04-21 13:17:12,567 [94mALGORITHM (DEBUG) 13:17:12 Purchases 1 Sales 0 [97m
+2021-04-21 13:17:50,568 Kiwoom initializing...
+2021-04-21 13:17:55,302 Kiwoom log in success
+2021-04-21 13:17:55,302 Account information
+2021-04-21 13:17:55,813 Deposit information
+2021-04-21 13:17:56,414 Order history information
+2021-04-21 13:17:56,639 Portfolio information
+2021-04-21 13:18:16,480 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 13:18:16,483 [93mALGORITHM STARTED [97m
+2021-04-21 13:18:16,671 display chart
+2021-04-21 13:18:17,305 [96mALGORITHM (BUY) holding:0 price:27720 amount:360 [97m
+2021-04-21 13:19:16,472 display chart
+2021-04-21 13:20:16,482 display chart
+2021-04-21 13:21:16,481 display chart
+2021-04-21 13:22:16,473 display chart
+2021-04-21 13:23:16,477 display chart
+2021-04-21 13:24:16,482 display chart
+2021-04-21 13:25:16,478 display chart
+2021-04-21 13:26:16,474 display chart
+2021-04-21 13:27:16,476 display chart
+2021-04-21 13:28:16,485 display chart
+2021-04-21 13:29:16,479 display chart
+2021-04-21 13:30:16,476 display chart
+2021-04-21 13:31:16,474 display chart
+2021-04-21 13:32:16,477 display chart
+2021-04-21 13:33:16,482 display chart
+2021-04-21 13:34:16,479 display chart
+2021-04-21 13:35:16,483 display chart
+2021-04-21 13:36:16,472 display chart
+2021-04-21 13:37:16,475 display chart
+2021-04-21 13:38:16,474 display chart
+2021-04-21 13:39:16,480 display chart
+2021-04-21 13:40:16,474 display chart
+2021-04-21 13:41:16,478 display chart
+2021-04-21 13:42:16,476 display chart
+2021-04-21 13:43:16,472 display chart
+2021-04-21 13:44:16,473 display chart
+2021-04-21 13:45:16,478 display chart
+2021-04-21 13:46:16,481 display chart
+2021-04-21 13:47:16,484 display chart
+2021-04-21 13:48:16,485 display chart
+2021-04-21 13:49:16,476 display chart
+2021-04-21 13:50:16,481 display chart
+2021-04-21 13:51:16,475 display chart
+2021-04-21 13:52:16,483 display chart
+2021-04-21 13:53:16,479 display chart
+2021-04-21 13:54:16,478 display chart
+2021-04-21 13:55:16,472 display chart
+2021-04-21 13:56:16,478 display chart
+2021-04-21 13:57:16,472 display chart
+2021-04-21 13:58:16,480 display chart
+2021-04-21 13:59:16,477 display chart
+2021-04-21 14:00:16,475 display chart
+2021-04-21 14:01:16,477 display chart
+2021-04-21 14:02:16,478 display chart
+2021-04-21 14:03:16,476 display chart
+2021-04-21 14:04:16,479 display chart
+2021-04-21 14:05:16,481 display chart
+2021-04-21 14:06:16,476 display chart
+2021-04-21 14:07:16,484 display chart
+2021-04-21 14:08:16,482 display chart
+2021-04-21 14:09:16,473 display chart
+2021-04-21 14:10:16,472 display chart
+2021-04-21 14:11:16,476 display chart
+2021-04-21 14:12:16,484 display chart
+2021-04-21 14:13:16,470 display chart
+2021-04-21 14:14:16,479 display chart
+2021-04-21 14:15:16,471 display chart
+2021-04-21 14:16:16,473 display chart
+2021-04-21 14:17:16,472 display chart
+2021-04-21 14:18:16,485 display chart
+2021-04-21 14:19:16,474 display chart
+2021-04-21 14:20:16,474 display chart
+2021-04-21 14:21:16,473 display chart
+2021-04-21 14:22:16,483 display chart
+2021-04-21 14:23:16,472 display chart
+2021-04-21 14:24:16,474 display chart
+2021-04-21 14:25:16,471 display chart
+2021-04-21 14:26:16,484 display chart
+2021-04-21 14:27:16,480 display chart
+2021-04-21 14:28:16,481 display chart
+2021-04-21 14:29:16,487 display chart
+2021-04-21 14:30:16,475 display chart
+2021-04-21 14:31:16,475 display chart
+2021-04-21 14:32:16,475 display chart
+2021-04-21 14:33:16,475 display chart
+2021-04-21 14:34:16,472 display chart
+2021-04-21 14:35:16,476 display chart
+2021-04-21 14:36:16,471 display chart
+2021-04-21 14:37:16,471 display chart
+2021-04-21 14:38:16,473 display chart
+2021-04-21 14:39:16,480 display chart
+2021-04-21 14:40:16,477 display chart
+2021-04-21 14:41:16,482 display chart
+2021-04-21 14:42:16,481 display chart
+2021-04-21 14:43:16,472 display chart
+2021-04-21 14:44:16,484 display chart
+2021-04-21 14:45:16,480 display chart
+2021-04-21 14:45:33,760 Kiwoom initializing...
+2021-04-21 14:45:43,319 Kiwoom log in success
+2021-04-21 14:45:43,319 Account information
+2021-04-21 14:45:43,836 Deposit information
+2021-04-21 14:45:44,379 Order history information
+2021-04-21 14:45:44,815 Portfolio information
+2021-04-21 14:45:58,495 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 14:45:58,498 [93mALGORITHM STARTED [97m
+2021-04-21 14:45:58,723 display chart
+2021-04-21 14:45:58,820 [96mALGORITHM (BUY) holding:0 price:27860 amount:358 [97m
+2021-04-21 14:45:58,910 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 14:45:58,926 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:358, executed_sum:0, open:358, price:27860, number:150404, original:0
+2021-04-21 14:45:58,927 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:358 executed_each:0 open:358 number:150404 purchase:0 executed:0 holding:0 [97m
+2021-04-21 14:45:58,927 [94mALGORITHM (DEBUG) 14:45:58 Purchases 1 Sales 0 [97m
+2021-04-21 14:46:43,721 Kiwoom initializing...
+2021-04-21 14:46:48,526 Kiwoom log in success
+2021-04-21 14:46:48,526 Account information
+2021-04-21 14:46:49,045 Deposit information
+2021-04-21 14:46:49,583 Order history information
+2021-04-21 14:46:50,271 Portfolio information
+2021-04-21 14:46:51,045 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 14:46:51,048 [93mALGORITHM STARTED [97m
+2021-04-21 14:46:51,601 [96mALGORITHM (BUY) holding:0 price:27860 amount:358 [97m
+2021-04-21 14:46:51,757 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 14:46:51,805 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:358, executed_sum:0, open:358, price:27860, number:150634, original:0
+2021-04-21 14:46:51,805 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:358 executed_each:0 open:358 number:150634 purchase:0 executed:0 holding:0 [97m
+2021-04-21 14:46:51,805 [94mALGORITHM (DEBUG) 14:46:51 Purchases 1 Sales 0 [97m
+2021-04-21 14:46:51,806 display chart
+2021-04-21 14:48:22,301 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:358, executed_sum:358, open:0, price:27860, number:150634, original:0
+2021-04-21 14:48:22,301 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:358 executed_each:358 open:0 number:150634 purchase:0 executed:27860 holding:358 [97m
+2021-04-21 14:48:22,302 [94mALGORITHM (DEBUG) 14:48:21 Purchases 0 Sales 0 [97m
+2021-04-21 14:48:22,302 display chart
+2021-04-21 14:48:22,306 Balance information
+2021-04-21 14:50:19,879 Kiwoom initializing...
+2021-04-21 14:50:25,157 Kiwoom log in success
+2021-04-21 14:50:25,157 Account information
+2021-04-21 14:50:25,669 Deposit information
+2021-04-21 14:50:26,210 Order history information
+2021-04-21 14:50:26,788 Portfolio information
+2021-04-21 14:50:33,079 [93mALGORITHM STARTED [97m
+2021-04-21 14:50:33,879 [96mALGORITHM (BUY) holding:0 price:27840 amount:359 [97m
+2021-04-21 14:50:34,127 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 14:50:34,175 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:359, executed_sum:0, open:359, price:27840, number:151595, original:0
+2021-04-21 14:50:34,175 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:359 executed_each:0 open:359 number:151595 purchase:0 executed:0 holding:0 [97m
+2021-04-21 14:50:34,176 [94mALGORITHM (DEBUG) 14:50:33 Purchases 1 Sales 0 [97m
+2021-04-21 14:50:34,176 display chart
+2021-04-21 14:50:34,379 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:359, executed_sum:359, open:0, price:27840, number:151595, original:0
+2021-04-21 14:50:34,379 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:359 executed_each:359 open:0 number:151595 purchase:0 executed:27840 holding:359 [97m
+2021-04-21 14:50:34,379 [94mALGORITHM (DEBUG) 14:50:33 Purchases 0 Sales 0 [97m
+2021-04-21 14:50:34,380 display chart
+2021-04-21 14:50:34,383 Balance information
+2021-04-21 14:51:37,100 Kiwoom initializing...
+2021-04-21 14:51:42,760 Kiwoom log in success
+2021-04-21 14:51:42,760 Account information
+2021-04-21 14:51:43,786 Deposit information
+2021-04-21 14:51:43,816 Order history information
+2021-04-21 14:51:44,877 Portfolio information
+2021-04-21 14:51:46,797 [93mALGORITHM STARTED [97m
+2021-04-21 14:51:48,097 [96mALGORITHM (BUY) holding:0 price:27840 amount:359 [97m
+2021-04-21 14:51:48,445 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 14:51:48,497 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:359, executed_sum:0, open:359, price:27840, number:152030, original:0
+2021-04-21 14:51:48,497 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Á¢¼ö order:359 executed_each:0 open:359 number:152030 purchase:0 executed:0 holding:0 [97m
+2021-04-21 14:51:48,497 [94mALGORITHM (DEBUG) 14:51:47 Purchases 1 Sales 0 [97m
+2021-04-21 14:51:48,498 display chart
+2021-04-21 14:51:52,805 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:359, executed_sum:4, open:355, price:27840, number:152030, original:0
+2021-04-21 14:51:52,805 [92mALGORITHM (EXECUTION) KODEX ·¹¹ö¸®Áö +¸Å¼ö Ã¼°á order:359 executed_each:4 open:355 number:152030 purchase:0 executed:27840 holding:4 [97m
+2021-04-21 14:51:52,806 [94mALGORITHM (DEBUG) 14:51:52 Purchases 1 Sales 0 [97m
+2021-04-21 14:51:52,806 display chart
+2021-04-21 14:51:52,810 Balance information
+2021-04-21 14:51:58,989 [93mALGORITHM STOPPED [97m
+2021-04-21 14:51:59,179 Send order (CANCEL BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-04-21 14:51:59,194 Order execution(¸Å¼öÃë¼Ò) KODEX ·¹¹ö¸®Áö(Á¢¼ö), order:355, executed_sum:0, open:355, price:0, number:152077, original:152030
+2021-04-21 14:51:59,199 Order execution(¸Å¼öÃë¼Ò) KODEX ·¹¹ö¸®Áö(È®ÀÎ), order:355, executed_sum:0, open:0, price:0, number:152077, original:152030
+2021-04-21 14:51:59,203 Order execution(+¸Å¼ö) KODEX ·¹¹ö¸®Áö(Ã¼°á), order:359, executed_sum:0, open:0, price:27840, number:152030, original:0
+2021-04-21 15:11:33,257 Kiwoom initializing...
+2021-04-21 15:11:43,179 Kiwoom log in success
+2021-04-21 15:11:43,180 Account information
+2021-04-21 15:11:43,689 Deposit information
+2021-04-21 15:11:44,246 Order history information
+2021-04-21 15:11:44,990 Portfolio information
+2021-04-21 15:12:01,124 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 15:13:23,054 Kiwoom initializing...
+2021-04-21 15:13:27,964 Kiwoom log in success
+2021-04-21 15:13:27,964 Account information
+2021-04-21 15:13:28,470 Deposit information
+2021-04-21 15:13:29,016 Order history information
+2021-04-21 15:13:29,632 Portfolio information
+2021-04-21 15:13:39,368 Order history information
+2021-04-21 15:19:58,672 market operation state 2 152000 001000
+2021-04-21 15:20:58,668 market operation state 2 152100 000900
+2021-04-21 15:21:58,666 market operation state 2 152200 000800
+2021-04-21 15:22:58,669 market operation state 2 152300 000700
+2021-04-21 15:23:58,664 market operation state 2 152400 000600
+2021-04-21 15:24:58,663 market operation state 2 152500 000500
+2021-04-21 15:25:58,664 market operation state 2 152600 000400
+2021-04-21 15:26:58,663 market operation state 2 152700 000300
+2021-04-21 15:27:58,653 market operation state 2 152800 000200
+2021-04-21 15:28:55,537 Kiwoom initializing...
+2021-04-21 15:29:05,206 Kiwoom log in success
+2021-04-21 15:29:05,206 Account information
+2021-04-21 15:29:05,720 Deposit information
+2021-04-21 15:29:06,258 Order history information
+2021-04-21 15:29:07,043 Portfolio information
+2021-04-21 15:29:08,623 market operation state 2 152910 000050
+2021-04-21 15:29:18,616 market operation state 2 152920 000040
+2021-04-21 15:29:28,615 market operation state 2 152930 000030
+2021-04-21 15:29:38,624 market operation state 2 152940 000020
+2021-04-21 15:29:48,620 market operation state 2 152950 000010
+2021-04-21 15:29:58,618 market operation state 4 153000 000000
+2021-04-21 15:30:38,614 market operation state 8 888888 000000
+2021-04-21 15:34:59,113 market operation state s 153500 000000
+2021-04-21 15:34:59,114 market operation state s 153500 000000
+2021-04-21 15:34:59,114 market operation state s 153500 000000
+2021-04-21 15:34:59,115 market operation state s 153500 000000
+2021-04-21 15:34:59,115 market operation state s 153500 000000
+2021-04-21 15:34:59,116 market operation state s 153500 000000
+2021-04-21 15:34:59,116 market operation state s 153500 000000
+2021-04-21 15:34:59,117 market operation state s 153500 000000
+2021-04-21 15:34:59,219 market operation state s 153500 000000
+2021-04-21 15:34:59,220 market operation state s 153500 000000
+2021-04-21 15:34:59,221 market operation state s 153500 000000
+2021-04-21 15:34:59,221 market operation state s 153500 000000
+2021-04-21 15:34:59,221 market operation state s 153500 000000
+2021-04-21 15:34:59,222 market operation state s 153500 000000
+2021-04-21 15:34:59,222 market operation state s 153500 000000
+2021-04-21 15:34:59,223 market operation state s 153500 000000
+2021-04-21 15:34:59,223 market operation state s 153500 000000
+2021-04-21 15:39:59,200 market operation state a 154000 000000
+2021-04-21 15:44:59,303 market operation state e 154500 000000
+2021-04-21 15:44:59,393 market operation state e 154500 000000
+2021-04-21 15:44:59,394 market operation state e 154500 000000
+2021-04-21 15:44:59,500 market operation state e 154500 000000
+2021-04-21 15:44:59,501 market operation state e 154500 000000
+2021-04-21 15:44:59,591 market operation state e 154500 000000
+2021-04-21 15:44:59,701 market operation state e 154500 000000
+2021-04-21 15:44:59,702 market operation state e 154500 000000
+2021-04-21 15:44:59,793 market operation state e 154500 000000
+2021-04-21 15:44:59,901 market operation state e 154500 000000
+2021-04-21 15:44:59,902 market operation state e 154500 000000
+2021-04-21 15:44:59,994 market operation state e 154500 000000
+2021-04-21 15:45:00,303 market operation state e 154500 000000
+2021-04-21 15:45:00,396 market operation state e 154500 000000
+2021-04-21 15:45:00,598 market operation state e 154500 000000
+2021-04-21 15:45:00,795 market operation state e 154500 000000
+2021-04-21 15:45:00,903 market operation state e 154500 000000
+2021-04-21 15:47:41,714 Kiwoom initializing...
+2021-04-21 15:47:46,785 Kiwoom log in success
+2021-04-21 15:47:46,786 Account information
+2021-04-21 15:47:47,304 Deposit information
+2021-04-21 15:47:47,828 Portfolio information
+2021-04-21 15:47:47,872 Order history information
+2021-04-21 15:48:06,826 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-21 15:48:06,826 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 15:48:20,141 Kiwoom initializing...
+2021-04-21 15:48:24,878 Kiwoom log in success
+2021-04-21 15:48:24,879 Account information
+2021-04-21 15:48:25,386 Deposit information
+2021-04-21 15:48:25,897 Portfolio information
+2021-04-21 15:48:25,950 Order history information
+2021-04-21 15:48:47,315 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-21 15:48:47,315 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 15:49:04,162 Kiwoom initializing...
+2021-04-21 15:49:08,811 Kiwoom log in success
+2021-04-21 15:49:08,811 Account information
+2021-04-21 15:49:09,326 Deposit information
+2021-04-21 15:49:09,848 Portfolio information
+2021-04-21 15:49:09,893 Order history information
+2021-04-21 15:50:45,790 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-21 15:50:45,791 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-21 15:59:59,193 market operation state b 160000 000000
+2021-04-21 15:59:59,193 market operation state c 160000 000000
+2021-04-21 16:01:51,272 Kiwoom initializing...
+2021-04-21 16:02:03,720 Kiwoom log in success
+2021-04-21 16:02:03,720 Account information
+2021-04-21 16:02:04,231 Deposit information
+2021-04-21 16:02:04,751 Portfolio information
+2021-04-21 16:02:04,806 Order history information
+2021-04-21 16:03:09,888 Kiwoom initializing...
+2021-04-21 16:04:27,593 Kiwoom initializing...
+2021-04-21 16:14:09,811 Kiwoom initializing...
+2021-04-21 18:12:03,685 Kiwoom initializing...
+2021-04-21 18:21:39,817 Kiwoom initializing...
+2021-04-21 18:27:52,327 Kiwoom initializing...
+2021-04-21 18:28:41,008 Kiwoom initializing...
+2021-04-21 18:31:48,400 Kiwoom initializing...
+2021-04-21 18:34:32,182 Kiwoom initializing...
+2021-04-21 18:37:04,750 Kiwoom initializing...
+2021-04-21 18:37:26,615 Kiwoom initializing...
+2021-04-21 18:39:17,160 Kiwoom initializing...
+2021-04-21 18:41:05,586 Kiwoom initializing...
+2021-04-21 18:44:16,708 Kiwoom initializing...
+2021-04-21 18:46:20,611 Kiwoom initializing...
+2021-04-21 18:55:39,083 Kiwoom initializing...
+2021-04-21 18:57:38,377 Kiwoom initializing...
+2021-04-21 18:58:04,547 Kiwoom initializing...
+2021-04-21 19:00:31,133 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-21 19:00:31,133 Go Charting KODEX ·¹¹ö¸®Áö

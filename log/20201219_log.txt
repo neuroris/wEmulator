@@ -1,0 +1,180 @@
+2020-12-19 09:52:59,811 Kiwoom initializing...
+2020-12-19 09:53:21,425 Kiwoom log in success
+2020-12-19 09:53:21,426 Account information
+2020-12-19 09:53:21,936 Deposit information
+2020-12-19 09:53:22,750 Portfolio information
+2020-12-19 10:28:57,900 Kiwoom initializing...
+2020-12-19 10:29:02,191 Kiwoom log in success
+2020-12-19 10:29:02,191 Account information
+2020-12-19 10:29:02,699 Deposit information
+2020-12-19 10:29:03,360 Portfolio information
+2020-12-19 10:30:19,079 Kiwoom initializing...
+2020-12-19 10:30:23,198 Kiwoom log in success
+2020-12-19 10:30:23,199 Account information
+2020-12-19 10:30:23,709 Deposit information
+2020-12-19 10:30:23,848 Portfolio information
+2020-12-19 10:30:57,820 Kiwoom initializing...
+2020-12-19 10:31:01,940 Kiwoom log in success
+2020-12-19 10:31:01,940 Account information
+2020-12-19 10:31:02,457 Deposit information
+2020-12-19 10:31:08,988 Portfolio information
+2020-12-19 10:31:56,812 Kiwoom initializing...
+2020-12-19 10:32:01,236 Kiwoom log in success
+2020-12-19 10:32:01,236 Account information
+2020-12-19 10:32:01,745 Deposit information
+2020-12-19 10:32:01,882 Portfolio information
+2020-12-19 10:32:53,637 Kiwoom initializing...
+2020-12-19 10:32:57,769 Kiwoom log in success
+2020-12-19 10:32:57,770 Account information
+2020-12-19 10:32:58,276 Deposit information
+2020-12-19 10:32:58,414 Portfolio information
+2020-12-19 10:52:01,818 Kiwoom initializing...
+2020-12-19 10:52:06,127 Kiwoom log in success
+2020-12-19 10:52:06,127 Account information
+2020-12-19 10:52:06,645 Deposit information
+2020-12-19 10:52:06,781 Portfolio information
+2020-12-19 10:55:18,151 Kiwoom initializing...
+2020-12-19 10:55:22,319 Kiwoom log in success
+2020-12-19 10:55:22,320 Account information
+2020-12-19 10:55:22,824 Deposit information
+2020-12-19 10:55:22,960 Portfolio information
+2020-12-19 11:17:57,898 Kiwoom initializing...
+2020-12-19 11:18:01,959 Kiwoom log in success
+2020-12-19 11:18:01,959 Account information
+2020-12-19 11:18:02,473 Deposit information
+2020-12-19 11:18:02,645 Portfolio information
+2020-12-19 11:21:22,511 Kiwoom initializing...
+2020-12-19 11:21:26,742 Kiwoom log in success
+2020-12-19 11:21:26,742 Account information
+2020-12-19 11:21:27,250 Deposit information
+2020-12-19 11:21:27,388 Portfolio information
+2020-12-19 11:25:56,138 Kiwoom initializing...
+2020-12-19 11:26:00,473 Kiwoom log in success
+2020-12-19 11:26:00,473 Account information
+2020-12-19 11:26:00,986 Deposit information
+2020-12-19 11:26:01,122 Portfolio information
+2020-12-19 11:26:51,229 Kiwoom initializing...
+2020-12-19 11:26:55,441 Kiwoom log in success
+2020-12-19 11:26:55,441 Account information
+2020-12-19 11:26:55,947 Deposit information
+2020-12-19 11:26:56,086 Portfolio information
+2020-12-19 11:34:18,468 Kiwoom initializing...
+2020-12-19 11:34:22,656 Kiwoom log in success
+2020-12-19 11:34:22,656 Account information
+2020-12-19 11:34:23,166 Deposit information
+2020-12-19 11:34:23,304 Portfolio information
+2020-12-19 11:34:43,278 Kiwoom initializing...
+2020-12-19 11:34:47,371 Kiwoom log in success
+2020-12-19 11:34:47,371 Account information
+2020-12-19 11:34:47,889 Deposit information
+2020-12-19 11:34:48,025 Portfolio information
+2020-12-19 11:35:35,787 Kiwoom initializing...
+2020-12-19 11:35:39,843 Kiwoom log in success
+2020-12-19 11:35:39,844 Account information
+2020-12-19 11:35:40,349 Deposit information
+2020-12-19 11:35:40,484 Portfolio information
+2020-12-19 12:35:41,245 Kiwoom initializing...
+2020-12-19 12:35:45,596 Kiwoom log in success
+2020-12-19 12:35:45,596 Account information
+2020-12-19 12:35:46,100 Deposit information
+2020-12-19 12:35:46,223 Portfolio information
+2020-12-19 12:36:01,354 Kiwoom initializing...
+2020-12-19 12:36:05,452 Kiwoom log in success
+2020-12-19 12:36:05,452 Account information
+2020-12-19 12:36:05,963 Deposit information
+2020-12-19 12:36:06,086 Portfolio information
+2020-12-19 12:37:05,239 Kiwoom initializing...
+2020-12-19 12:37:09,374 Kiwoom log in success
+2020-12-19 12:37:09,375 Account information
+2020-12-19 12:37:09,888 Deposit information
+2020-12-19 12:37:10,011 Portfolio information
+2020-12-19 12:37:22,647 Kiwoom initializing...
+2020-12-19 12:37:26,707 Kiwoom log in success
+2020-12-19 12:37:26,707 Account information
+2020-12-19 12:37:27,217 Deposit information
+2020-12-19 12:37:27,340 Portfolio information
+2020-12-19 12:38:53,605 Kiwoom initializing...
+2020-12-19 12:38:57,689 Kiwoom log in success
+2020-12-19 12:38:57,689 Account information
+2020-12-19 12:38:58,196 Deposit information
+2020-12-19 12:38:58,318 Portfolio information
+2020-12-19 12:40:07,246 Kiwoom initializing...
+2020-12-19 12:40:11,347 Kiwoom log in success
+2020-12-19 12:40:11,348 Account information
+2020-12-19 12:40:11,854 Deposit information
+2020-12-19 12:40:11,978 Portfolio information
+2020-12-19 12:40:30,135 Kiwoom initializing...
+2020-12-19 12:40:34,155 Kiwoom log in success
+2020-12-19 12:40:34,156 Account information
+2020-12-19 12:40:34,666 Deposit information
+2020-12-19 12:40:34,787 Portfolio information
+2020-12-19 12:41:11,626 Kiwoom initializing...
+2020-12-19 12:41:15,681 Kiwoom log in success
+2020-12-19 12:41:15,682 Account information
+2020-12-19 12:41:16,200 Deposit information
+2020-12-19 12:41:16,322 Portfolio information
+2020-12-19 12:41:33,736 Kiwoom initializing...
+2020-12-19 12:41:37,885 Kiwoom log in success
+2020-12-19 12:41:37,886 Account information
+2020-12-19 12:41:38,391 Deposit information
+2020-12-19 12:41:38,512 Portfolio information
+2020-12-19 12:41:43,907 Kiwoom initializing...
+2020-12-19 12:41:48,040 Kiwoom log in success
+2020-12-19 12:41:48,040 Account information
+2020-12-19 12:41:48,556 Deposit information
+2020-12-19 12:41:48,678 Portfolio information
+2020-12-19 12:41:52,983 Kiwoom initializing...
+2020-12-19 12:41:57,072 Kiwoom log in success
+2020-12-19 12:41:57,072 Account information
+2020-12-19 12:41:57,580 Deposit information
+2020-12-19 12:41:57,700 Portfolio information
+2020-12-19 12:42:59,712 Kiwoom initializing...
+2020-12-19 12:43:03,825 Kiwoom log in success
+2020-12-19 12:43:03,825 Account information
+2020-12-19 12:43:04,342 Deposit information
+2020-12-19 12:43:04,464 Portfolio information
+2020-12-19 12:43:51,541 Kiwoom initializing...
+2020-12-19 12:43:55,586 Kiwoom log in success
+2020-12-19 12:43:55,586 Account information
+2020-12-19 12:43:56,100 Deposit information
+2020-12-19 12:43:56,222 Portfolio information
+2020-12-19 12:44:54,387 Kiwoom initializing...
+2020-12-19 12:44:58,536 Kiwoom log in success
+2020-12-19 12:44:58,537 Account information
+2020-12-19 12:44:59,046 Deposit information
+2020-12-19 12:44:59,168 Portfolio information
+2020-12-19 12:57:52,968 Kiwoom initializing...
+2020-12-19 12:57:57,151 Kiwoom log in success
+2020-12-19 12:57:57,152 Account information
+2020-12-19 12:57:57,666 Deposit information
+2020-12-19 12:57:57,789 Portfolio information
+2020-12-19 12:58:16,513 Kiwoom initializing...
+2020-12-19 12:58:20,570 Kiwoom log in success
+2020-12-19 12:58:20,571 Account information
+2020-12-19 12:58:21,084 Deposit information
+2020-12-19 12:58:21,206 Portfolio information
+2020-12-19 12:58:40,319 Kiwoom initializing...
+2020-12-19 12:58:44,387 Kiwoom log in success
+2020-12-19 12:58:44,388 Account information
+2020-12-19 12:58:44,905 Deposit information
+2020-12-19 12:58:45,027 Portfolio information
+2020-12-19 12:58:55,431 Kiwoom initializing...
+2020-12-19 12:58:59,571 Kiwoom log in success
+2020-12-19 12:58:59,571 Account information
+2020-12-19 12:59:00,082 Deposit information
+2020-12-19 12:59:00,204 Portfolio information
+2020-12-19 13:01:36,942 Kiwoom initializing...
+2020-12-19 13:01:41,066 Kiwoom log in success
+2020-12-19 13:01:41,067 Account information
+2020-12-19 13:01:41,580 Deposit information
+2020-12-19 13:01:41,973 Portfolio information
+2020-12-19 13:05:47,168 Kiwoom initializing...
+2020-12-19 13:05:51,572 Kiwoom log in success
+2020-12-19 13:05:51,572 Account information
+2020-12-19 13:05:52,086 Deposit information
+2020-12-19 13:05:52,202 Portfolio information
+2020-12-19 14:14:18,229 Kiwoom initializing...
+2020-12-19 14:14:22,617 Kiwoom log in success
+2020-12-19 14:14:22,617 Account information
+2020-12-19 14:14:23,136 Deposit information
+2020-12-19 14:14:23,274 Portfolio information

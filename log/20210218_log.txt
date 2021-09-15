@@ -1,0 +1,317 @@
+2021-02-18 09:46:02,283 Kiwoom initializing...
+2021-02-18 09:46:26,334 Kiwoom initializing...
+2021-02-18 09:47:06,502 Kiwoom log in success
+2021-02-18 09:47:06,502 Account information
+2021-02-18 09:47:07,532 Deposit information
+2021-02-18 09:47:07,561 Order history information
+2021-02-18 09:47:09,025 Portfolio information
+2021-02-18 09:47:24,086 Algorithm started
+2021-02-18 09:47:24,986 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:47:25,080 Order execution(+매수) KODEX 레버리지(접수), order:361, executed:0, open:361, order number:68978, original number:0
+2021-02-18 09:47:57,492 Order execution(+매수) KODEX 레버리지(체결), order:361, executed:361, open:0, order number:68978, original number:0
+2021-02-18 09:47:57,499 Balance information
+2021-02-18 09:48:01,988 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:48:02,077 Order execution(-매도) KODEX 레버리지(접수), order:361, executed:0, open:361, order number:69368, original number:0
+2021-02-18 09:48:02,079 Balance information
+2021-02-18 09:48:02,382 Order execution(-매도) KODEX 레버리지(체결), order:361, executed:252, open:109, order number:69368, original number:0
+2021-02-18 09:48:02,384 Balance information
+2021-02-18 09:48:03,185 Order execution(-매도) KODEX 레버리지(체결), order:361, executed:361, open:0, order number:69368, original number:0
+2021-02-18 09:48:03,186 Balance information
+2021-02-18 09:48:04,825 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:48:04,956 Order execution(+매수) KODEX 레버리지(접수), order:362, executed:0, open:362, order number:69412, original number:0
+2021-02-18 09:50:02,319 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:50:02,382 Order execution(+매수정정) KODEX 레버리지(접수), order:362, executed:0, open:362, order number:70493, original number:69412
+2021-02-18 09:50:02,386 Order execution(+매수정정) KODEX 레버리지(확인), order:362, executed:0, open:362, order number:70493, original number:69412
+2021-02-18 09:50:02,388 Order execution(+매수) KODEX 레버리지(접수), order:362, executed:0, open:0, order number:69412, original number:0
+2021-02-18 09:50:13,774 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:50:13,921 Order execution(+매수정정) KODEX 레버리지(접수), order:362, executed:0, open:362, order number:70592, original number:70493
+2021-02-18 09:50:13,925 Order execution(+매수정정) KODEX 레버리지(확인), order:362, executed:0, open:362, order number:70592, original number:70493
+2021-02-18 09:50:13,928 Order execution(+매수정정) KODEX 레버리지(확인), order:362, executed:0, open:0, order number:70493, original number:69412
+2021-02-18 09:50:30,000 Order execution(+매수정정) KODEX 레버리지(체결), order:362, executed:14, open:348, order number:70592, original number:70493
+2021-02-18 09:50:30,002 Balance information
+2021-02-18 09:50:32,777 Order execution(+매수정정) KODEX 레버리지(체결), order:362, executed:136, open:226, order number:70592, original number:70493
+2021-02-18 09:50:32,779 Balance information
+2021-02-18 09:50:33,571 Order execution(+매수정정) KODEX 레버리지(체결), order:362, executed:362, open:0, order number:70592, original number:70493
+2021-02-18 09:50:33,573 Balance information
+2021-02-18 09:51:02,403 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:51:02,410 Order execution(-매도) KODEX 레버리지(접수), order:362, executed:0, open:362, order number:71192, original number:0
+2021-02-18 09:51:02,412 Balance information
+2021-02-18 09:51:02,681 Order execution(-매도) KODEX 레버리지(체결), order:362, executed:362, open:0, order number:71192, original number:0
+2021-02-18 09:51:02,682 Balance information
+2021-02-18 09:51:03,946 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:51:03,978 Order execution(+매수) KODEX 레버리지(접수), order:361, executed:0, open:361, order number:71213, original number:0
+2021-02-18 09:51:04,775 Order execution(+매수) KODEX 레버리지(체결), order:361, executed:361, open:0, order number:71213, original number:0
+2021-02-18 09:51:04,777 Balance information
+2021-02-18 09:51:09,217 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:51:09,273 Order execution(-매도) KODEX 레버리지(접수), order:361, executed:0, open:361, order number:71299, original number:0
+2021-02-18 09:51:09,274 Balance information
+2021-02-18 09:51:09,673 Order execution(-매도) KODEX 레버리지(체결), order:361, executed:101, open:260, order number:71299, original number:0
+2021-02-18 09:51:09,674 Balance information
+2021-02-18 09:51:10,013 Order execution(-매도) KODEX 레버리지(체결), order:361, executed:361, open:0, order number:71299, original number:0
+2021-02-18 09:51:10,015 Balance information
+2021-02-18 09:51:11,260 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:51:11,279 Order execution(+매수) KODEX 레버리지(접수), order:101, executed:0, open:101, order number:71320, original number:0
+2021-02-18 09:51:11,515 Order execution(+매수) KODEX 레버리지(체결), order:101, executed:101, open:0, order number:71320, original number:0
+2021-02-18 09:51:11,517 Balance information
+2021-02-18 09:51:12,817 Send order failed. Please check order variables
+2021-02-18 09:51:13,521 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 09:51:13,571 Order execution(+매수) KODEX 레버리지(접수), order:260, executed:0, open:260, order number:71358, original number:0
+2021-02-18 09:51:13,603 Algorithm stopped
+2021-02-18 09:51:13,783 Order execution(+매수) KODEX 레버리지(체결), order:260, executed:100, open:160, order number:71358, original number:0
+2021-02-18 09:51:13,784 Balance information
+2021-02-18 09:51:14,322 Send order failed. Please check order variables
+2021-02-18 09:51:14,490 Order execution(+매수) KODEX 레버리지(체결), order:260, executed:118, open:142, order number:71358, original number:0
+2021-02-18 09:51:14,492 Balance information
+2021-02-18 09:51:14,572 Order execution(+매수) KODEX 레버리지(체결), order:260, executed:128, open:132, order number:71358, original number:0
+2021-02-18 09:51:14,574 Balance information
+2021-02-18 09:51:15,077 Order execution(+매수) KODEX 레버리지(체결), order:260, executed:260, open:0, order number:71358, original number:0
+2021-02-18 09:51:15,079 Balance information
+2021-02-18 10:01:27,389 Kiwoom initializing...
+2021-02-18 10:01:38,747 Kiwoom log in success
+2021-02-18 10:01:38,747 Account information
+2021-02-18 10:01:39,774 Deposit information
+2021-02-18 10:01:39,809 Order history information
+2021-02-18 10:01:41,971 Portfolio information
+2021-02-18 10:03:56,562 Algorithm started
+2021-02-18 10:03:58,563 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:03:58,673 Order execution(+매수) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:79600, original number:0
+2021-02-18 10:04:12,035 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:04:12,069 Order execution(+매수정정) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:79731, original number:79600
+2021-02-18 10:04:12,072 Order execution(+매수정정) KODEX 레버리지(확인), order:364, executed:0, open:364, order number:79731, original number:79600
+2021-02-18 10:04:12,075 Order execution(+매수) KODEX 레버리지(접수), order:364, executed:0, open:0, order number:79600, original number:0
+2021-02-18 10:04:26,995 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:04:27,001 Order execution(+매수정정) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:79863, original number:79731
+2021-02-18 10:04:27,006 Order execution(+매수정정) KODEX 레버리지(확인), order:364, executed:0, open:364, order number:79863, original number:79731
+2021-02-18 10:04:27,010 Order execution(+매수정정) KODEX 레버리지(확인), order:364, executed:0, open:0, order number:79731, original number:79600
+2021-02-18 10:04:42,074 Order execution(+매수정정) KODEX 레버리지(체결), order:364, executed:300, open:64, order number:79863, original number:79731
+2021-02-18 10:04:42,075 Balance information
+2021-02-18 10:04:44,070 Order execution(+매수정정) KODEX 레버리지(체결), order:364, executed:310, open:54, order number:79863, original number:79731
+2021-02-18 10:04:44,071 Balance information
+2021-02-18 10:04:44,765 Order execution(+매수정정) KODEX 레버리지(체결), order:364, executed:364, open:0, order number:79863, original number:79731
+2021-02-18 10:04:44,766 Balance information
+2021-02-18 10:05:26,954 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:26,959 Order execution(-매도) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:80601, original number:0
+2021-02-18 10:05:26,961 Balance information
+2021-02-18 10:05:28,574 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:42, open:322, order number:80601, original number:0
+2021-02-18 10:05:28,663 Balance information
+2021-02-18 10:05:29,168 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:57, open:307, order number:80601, original number:0
+2021-02-18 10:05:29,169 Balance information
+2021-02-18 10:05:30,062 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:274, open:90, order number:80601, original number:0
+2021-02-18 10:05:30,064 Balance information
+2021-02-18 10:05:30,180 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:30,261 Order execution(+매수) KODEX 레버리지(접수), order:42, executed:0, open:42, order number:80628, original number:0
+2021-02-18 10:05:31,060 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:364, open:0, order number:80601, original number:0
+2021-02-18 10:05:31,061 Balance information
+2021-02-18 10:05:31,065 Order execution(+매수) KODEX 레버리지(체결), order:42, executed:42, open:0, order number:80628, original number:0
+2021-02-18 10:05:31,066 Balance information
+2021-02-18 10:05:32,161 Send order failed. Please check order variables
+2021-02-18 10:05:32,686 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:32,694 Order execution(+매수) KODEX 레버리지(접수), order:322, executed:0, open:322, order number:80659, original number:0
+2021-02-18 10:05:32,876 Order execution(+매수) KODEX 레버리지(체결), order:322, executed:50, open:272, order number:80659, original number:0
+2021-02-18 10:05:32,877 Balance information
+2021-02-18 10:05:33,275 Order execution(+매수) KODEX 레버리지(체결), order:322, executed:322, open:0, order number:80659, original number:0
+2021-02-18 10:05:33,276 Balance information
+2021-02-18 10:05:39,254 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:39,404 Order execution(-매도) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:80774, original number:0
+2021-02-18 10:05:39,405 Balance information
+2021-02-18 10:05:39,772 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:11, open:353, order number:80774, original number:0
+2021-02-18 10:05:39,773 Balance information
+2021-02-18 10:05:40,262 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:30, open:334, order number:80774, original number:0
+2021-02-18 10:05:40,263 Balance information
+2021-02-18 10:05:40,964 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:60, open:304, order number:80774, original number:0
+2021-02-18 10:05:40,965 Balance information
+2021-02-18 10:05:41,071 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:180, open:184, order number:80774, original number:0
+2021-02-18 10:05:41,072 Balance information
+2021-02-18 10:05:41,194 Order execution(-매도) KODEX 레버리지(체결), order:364, executed:364, open:0, order number:80774, original number:0
+2021-02-18 10:05:41,195 Balance information
+2021-02-18 10:05:41,762 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:41,872 Order execution(+매수) KODEX 레버리지(접수), order:180, executed:0, open:180, order number:80810, original number:0
+2021-02-18 10:05:41,963 Order execution(+매수) KODEX 레버리지(체결), order:180, executed:11, open:169, order number:80810, original number:0
+2021-02-18 10:05:41,964 Balance information
+2021-02-18 10:05:41,970 Order execution(+매수) KODEX 레버리지(체결), order:180, executed:180, open:0, order number:80810, original number:0
+2021-02-18 10:05:41,971 Balance information
+2021-02-18 10:05:42,960 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:43,071 Order execution(+매수) KODEX 레버리지(접수), order:184, executed:0, open:184, order number:80822, original number:0
+2021-02-18 10:05:43,574 Order execution(+매수) KODEX 레버리지(체결), order:184, executed:11, open:173, order number:80822, original number:0
+2021-02-18 10:05:43,575 Balance information
+2021-02-18 10:05:44,171 Order execution(+매수) KODEX 레버리지(체결), order:184, executed:184, open:0, order number:80822, original number:0
+2021-02-18 10:05:44,172 Balance information
+2021-02-18 10:05:47,465 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:05:47,563 Order execution(-매도) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:80877, original number:0
+2021-02-18 10:05:47,565 Balance information
+2021-02-18 10:06:02,677 Algorithm stopped
+2021-02-18 10:06:03,938 Send order (CANCEL SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:06:03,973 Order execution(매도취소) KODEX 레버리지(접수), order:364, executed:0, open:364, order number:81073, original number:80877
+2021-02-18 10:06:03,978 Order execution(매도취소) KODEX 레버리지(확인), order:364, executed:0, open:0, order number:81073, original number:80877
+2021-02-18 10:06:03,983 Order execution(-매도) KODEX 레버리지(접수), order:364, executed:0, open:0, order number:80877, original number:0
+2021-02-18 10:06:03,986 Balance information
+2021-02-18 10:06:05,104 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 10:06:05,168 Order execution(+매수) KODEX 레버리지(접수), order:274, executed:0, open:274, order number:81091, original number:0
+2021-02-18 10:06:07,164 Order execution(+매수) KODEX 레버리지(체결), order:274, executed:274, open:0, order number:81091, original number:0
+2021-02-18 10:06:07,165 Balance information
+2021-02-18 10:06:14,512 Algorithm stopped
+2021-02-18 14:28:59,791 Kiwoom initializing...
+2021-02-18 14:29:13,167 Kiwoom log in success
+2021-02-18 14:29:13,167 Account information
+2021-02-18 14:29:14,204 Deposit information
+2021-02-18 14:29:14,241 Order history information
+2021-02-18 14:29:15,859 Portfolio information
+2021-02-18 14:31:32,368 Algorithm started
+2021-02-18 14:31:33,450 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:31:33,528 Order execution(+매수) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:193454, original number:0
+2021-02-18 14:33:43,026 Order execution(+매수) KODEX 레버리지(체결), order:369, executed:369, open:0, order number:193454, original number:0
+2021-02-18 14:33:43,028 Balance information
+2021-02-18 14:34:02,099 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:34:02,118 Order execution(-매도) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:194251, original number:0
+2021-02-18 14:34:02,119 Balance information
+2021-02-18 14:34:05,025 Order execution(-매도) KODEX 레버리지(체결), order:369, executed:369, open:0, order number:194251, original number:0
+2021-02-18 14:34:05,026 Balance information
+2021-02-18 14:34:05,801 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:34:05,820 Order execution(+매수) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:194271, original number:0
+2021-02-18 14:34:33,113 Order execution(+매수) KODEX 레버리지(체결), order:369, executed:245, open:124, order number:194271, original number:0
+2021-02-18 14:34:33,114 Balance information
+2021-02-18 14:34:35,127 Order execution(+매수) KODEX 레버리지(체결), order:369, executed:369, open:0, order number:194271, original number:0
+2021-02-18 14:34:35,129 Balance information
+2021-02-18 14:34:59,007 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:34:59,013 Order execution(-매도) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:194563, original number:0
+2021-02-18 14:34:59,015 Balance information
+2021-02-18 14:34:59,929 Order execution(-매도) KODEX 레버리지(체결), order:369, executed:369, open:0, order number:194563, original number:0
+2021-02-18 14:34:59,930 Balance information
+2021-02-18 14:35:00,961 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:35:00,970 Order execution(+매수) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:194582, original number:0
+2021-02-18 14:36:34,219 Order execution(+매수) KODEX 레버리지(체결), order:369, executed:369, open:0, order number:194582, original number:0
+2021-02-18 14:36:34,220 Balance information
+2021-02-18 14:36:59,600 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:36:59,620 Order execution(-매도) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:195391, original number:0
+2021-02-18 14:36:59,621 Balance information
+2021-02-18 14:37:29,266 Send order (CANCEL SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:37:29,319 Order execution(매도취소) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:195549, original number:195391
+2021-02-18 14:37:29,328 Order execution(매도취소) KODEX 레버리지(확인), order:369, executed:0, open:0, order number:195549, original number:195391
+2021-02-18 14:37:29,333 Order execution(-매도) KODEX 레버리지(접수), order:369, executed:0, open:0, order number:195391, original number:0
+2021-02-18 14:37:29,337 Balance information
+2021-02-18 14:37:29,841 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:37:29,967 Order execution(-매도) KODEX 레버리지(접수), order:369, executed:0, open:369, order number:195553, original number:0
+2021-02-18 14:37:29,979 Balance information
+2021-02-18 14:37:30,140 Order execution(-매도) KODEX 레버리지(체결), order:369, executed:369, open:0, order number:195553, original number:0
+2021-02-18 14:37:30,142 Balance information
+2021-02-18 14:37:31,207 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:37:31,322 Order execution(+매수) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:195560, original number:0
+2021-02-18 14:37:31,904 Order execution(+매수) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:195560, original number:0
+2021-02-18 14:37:31,905 Balance information
+2021-02-18 14:37:50,991 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:37:51,008 Order execution(-매도) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:195663, original number:0
+2021-02-18 14:37:51,009 Balance information
+2021-02-18 14:39:23,618 Send order (CANCEL SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:39:23,717 Order execution(매도취소) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:196166, original number:195663
+2021-02-18 14:39:23,724 Order execution(매도취소) KODEX 레버리지(확인), order:370, executed:0, open:0, order number:196166, original number:195663
+2021-02-18 14:39:23,730 Order execution(-매도) KODEX 레버리지(접수), order:370, executed:0, open:0, order number:195663, original number:0
+2021-02-18 14:39:23,733 Balance information
+2021-02-18 14:39:25,005 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:39:25,016 Order execution(-매도) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:196181, original number:0
+2021-02-18 14:39:25,114 Balance information
+2021-02-18 14:39:25,219 Order execution(-매도) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:196181, original number:0
+2021-02-18 14:39:25,221 Balance information
+2021-02-18 14:39:26,411 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:39:26,525 Order execution(+매수) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:196197, original number:0
+2021-02-18 14:39:26,878 Order execution(+매수) KODEX 레버리지(체결), order:370, executed:3, open:367, order number:196197, original number:0
+2021-02-18 14:39:26,880 Balance information
+2021-02-18 14:39:27,131 Order execution(+매수) KODEX 레버리지(체결), order:370, executed:47, open:323, order number:196197, original number:0
+2021-02-18 14:39:27,133 Balance information
+2021-02-18 14:39:27,666 Order execution(+매수) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:196197, original number:0
+2021-02-18 14:39:27,668 Balance information
+2021-02-18 14:40:27,122 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:40:27,218 Order execution(-매도) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:196660, original number:0
+2021-02-18 14:40:27,219 Balance information
+2021-02-18 14:40:28,113 Order execution(-매도) KODEX 레버리지(체결), order:370, executed:5, open:365, order number:196660, original number:0
+2021-02-18 14:40:28,114 Balance information
+2021-02-18 14:40:29,320 Order execution(-매도) KODEX 레버리지(체결), order:370, executed:10, open:360, order number:196660, original number:0
+2021-02-18 14:40:29,322 Balance information
+2021-02-18 14:40:30,509 Order execution(-매도) KODEX 레버리지(체결), order:370, executed:12, open:358, order number:196660, original number:0
+2021-02-18 14:40:30,511 Balance information
+2021-02-18 14:40:31,214 Order execution(-매도) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:196660, original number:0
+2021-02-18 14:40:31,215 Balance information
+2021-02-18 14:40:32,040 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:40:32,108 Order execution(+매수) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:196699, original number:0
+2021-02-18 14:43:32,897 Send order (CORRECT BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:43:32,907 Order execution(+매수정정) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:197884, original number:196699
+2021-02-18 14:43:33,011 Order execution(+매수정정) KODEX 레버리지(확인), order:370, executed:0, open:370, order number:197884, original number:196699
+2021-02-18 14:43:33,018 Order execution(+매수) KODEX 레버리지(접수), order:370, executed:0, open:0, order number:196699, original number:0
+2021-02-18 14:44:47,598 Order execution(+매수정정) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:197884, original number:196699
+2021-02-18 14:44:47,607 Balance information
+2021-02-18 14:44:56,903 Send order (SELL) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:44:57,003 Order execution(-매도) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:198403, original number:0
+2021-02-18 14:44:57,004 Balance information
+2021-02-18 14:45:03,765 Order execution(-매도) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:198403, original number:0
+2021-02-18 14:45:03,767 Balance information
+2021-02-18 14:45:04,545 Send order (BUY) command committed successfully KOA_NORMAL_BUY_KP_ORD
+2021-02-18 14:45:04,615 Order execution(+매수) KODEX 레버리지(접수), order:370, executed:0, open:370, order number:198442, original number:0
+2021-02-18 14:46:09,800 Order execution(+매수) KODEX 레버리지(체결), order:370, executed:370, open:0, order number:198442, original number:0
+2021-02-18 14:46:09,908 Balance information
+2021-02-18 15:19:58,957 market operation state 2 152000 001000
+2021-02-18 15:20:58,836 market operation state 2 152100 000900
+2021-02-18 15:21:58,847 market operation state 2 152200 000800
+2021-02-18 15:22:58,837 market operation state 2 152300 000700
+2021-02-18 15:23:58,844 market operation state 2 152400 000600
+2021-02-18 15:24:58,846 market operation state 2 152500 000500
+2021-02-18 15:25:58,848 market operation state 2 152600 000400
+2021-02-18 15:26:58,828 market operation state 2 152700 000300
+2021-02-18 15:27:58,841 market operation state 2 152800 000200
+2021-02-18 15:28:58,831 market operation state 2 152900 000100
+2021-02-18 15:29:08,829 market operation state 2 152910 000050
+2021-02-18 15:29:18,832 market operation state 2 152920 000040
+2021-02-18 15:29:28,839 market operation state 2 152930 000030
+2021-02-18 15:29:38,827 market operation state 2 152940 000020
+2021-02-18 15:29:48,831 market operation state 2 152950 000010
+2021-02-18 15:29:58,826 market operation state 4 153000 000000
+2021-02-18 15:32:48,825 market operation state 8 888888 000000
+2021-02-18 15:34:58,920 market operation state s 153500 000000
+2021-02-18 15:34:58,921 market operation state s 153500 000000
+2021-02-18 15:34:58,921 market operation state s 153500 000000
+2021-02-18 15:34:58,921 market operation state s 153500 000000
+2021-02-18 15:34:59,027 market operation state s 153500 000000
+2021-02-18 15:34:59,027 market operation state s 153500 000000
+2021-02-18 15:34:59,028 market operation state s 153500 000000
+2021-02-18 15:34:59,028 market operation state s 153500 000000
+2021-02-18 15:34:59,028 market operation state s 153500 000000
+2021-02-18 15:34:59,029 market operation state s 153500 000000
+2021-02-18 15:34:59,029 market operation state s 153500 000000
+2021-02-18 15:34:59,029 market operation state s 153500 000000
+2021-02-18 15:34:59,030 market operation state s 153500 000000
+2021-02-18 15:34:59,030 market operation state s 153500 000000
+2021-02-18 15:34:59,030 market operation state s 153500 000000
+2021-02-18 15:34:59,031 market operation state s 153500 000000
+2021-02-18 15:34:59,134 market operation state s 153500 000000
+2021-02-18 15:39:59,313 market operation state a 154000 000000
+2021-02-18 15:44:59,114 market operation state e 154500 000000
+2021-02-18 15:44:59,205 market operation state e 154500 000000
+2021-02-18 15:44:59,205 market operation state e 154500 000000
+2021-02-18 15:44:59,309 market operation state e 154500 000000
+2021-02-18 15:44:59,310 market operation state e 154500 000000
+2021-02-18 15:44:59,403 market operation state e 154500 000000
+2021-02-18 15:44:59,512 market operation state e 154500 000000
+2021-02-18 15:44:59,512 market operation state e 154500 000000
+2021-02-18 15:44:59,604 market operation state e 154500 000000
+2021-02-18 15:44:59,714 market operation state e 154500 000000
+2021-02-18 15:44:59,714 market operation state e 154500 000000
+2021-02-18 15:44:59,806 market operation state e 154500 000000
+2021-02-18 15:45:00,100 market operation state e 154500 000000
+2021-02-18 15:45:00,311 market operation state e 154500 000000
+2021-02-18 15:45:00,511 market operation state e 154500 000000
+2021-02-18 15:45:00,818 market operation state e 154500 000000
+2021-02-18 15:45:00,818 market operation state e 154500 000000
+2021-02-18 15:59:59,287 market operation state b 160000 000000
+2021-02-18 15:59:59,288 market operation state c 160000 000000
+2021-02-18 17:59:59,106 market operation state d 180000 000000
+2021-02-18 18:03:18,594 market operation state 9 999999 000000
+2021-02-18 21:01:59,164 Kiwoom initializing...
+2021-02-18 21:02:12,153 Kiwoom log in success
+2021-02-18 21:02:14,199 Account information
+2021-02-18 21:02:14,703 Deposit information
+2021-02-18 21:02:15,220 Portfolio information
+2021-02-18 21:02:15,278 Order history information
+2021-02-18 21:02:50,082 Kiwoom initializing...
+2021-02-18 21:02:54,521 Kiwoom log in success
+2021-02-18 21:02:54,521 Account information
+2021-02-18 21:02:55,040 Deposit information
+2021-02-18 21:02:55,563 Portfolio information
+2021-02-18 21:02:55,627 Order history information

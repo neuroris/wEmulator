@@ -1,0 +1,473 @@
+2021-04-19 09:39:52,737 Kiwoom initializing...
+2021-04-19 09:40:31,958 Kiwoom log in success
+2021-04-19 09:40:31,958 Account information
+2021-04-19 09:40:32,989 Deposit information
+2021-04-19 09:40:33,018 Order history information
+2021-04-19 09:40:34,023 Portfolio information
+2021-04-19 09:43:40,464 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 09:43:42,360 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 10:17:18,889 Kiwoom initializing...
+2021-04-19 10:17:29,500 Kiwoom log in success
+2021-04-19 10:17:29,500 Account information
+2021-04-19 10:17:30,008 Deposit information
+2021-04-19 10:17:30,547 Order history information
+2021-04-19 10:17:30,719 Portfolio information
+2021-04-19 10:17:37,946 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 10:17:40,956 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 10:33:15,985 Kiwoom initializing...
+2021-04-19 10:33:25,794 Kiwoom log in success
+2021-04-19 10:33:25,795 Account information
+2021-04-19 10:33:26,810 Deposit information
+2021-04-19 10:33:26,838 Order history information
+2021-04-19 10:33:28,062 Portfolio information
+2021-04-19 11:01:29,017 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:03:36,722 Kiwoom initializing...
+2021-04-19 11:03:43,472 Kiwoom log in success
+2021-04-19 11:03:43,472 Account information
+2021-04-19 11:03:44,498 Deposit information
+2021-04-19 11:03:44,518 Order history information
+2021-04-19 11:03:45,668 Portfolio information
+2021-04-19 11:29:22,411 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:29:26,609 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 11:30:08,902 Kiwoom initializing...
+2021-04-19 11:30:18,129 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:30:18,572 Kiwoom log in success
+2021-04-19 11:30:18,572 Account information
+2021-04-19 11:30:19,126 Deposit information
+2021-04-19 11:30:19,667 Order history information
+2021-04-19 11:30:20,914 Portfolio information
+2021-04-19 11:30:22,801 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:30:30,794 Kiwoom initializing...
+2021-04-19 11:30:37,747 Kiwoom log in success
+2021-04-19 11:30:37,747 Account information
+2021-04-19 11:30:38,258 Deposit information
+2021-04-19 11:30:38,802 Order history information
+2021-04-19 11:30:39,726 Portfolio information
+2021-04-19 11:30:50,215 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:31:11,146 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 11:31:35,158 Kiwoom initializing...
+2021-04-19 11:31:40,736 Kiwoom log in success
+2021-04-19 11:31:40,737 Account information
+2021-04-19 11:31:41,773 Deposit information
+2021-04-19 11:31:41,801 Order history information
+2021-04-19 11:31:42,882 Portfolio information
+2021-04-19 11:31:48,935 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:31:51,916 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 11:32:13,605 Stop Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:34:39,411 Kiwoom initializing...
+2021-04-19 11:34:45,668 Kiwoom log in success
+2021-04-19 11:34:45,669 Account information
+2021-04-19 11:34:46,183 Deposit information
+2021-04-19 11:34:46,723 Order history information
+2021-04-19 11:34:47,587 Portfolio information
+2021-04-19 11:34:52,672 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:34:57,259 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 11:35:24,620 Kiwoom initializing...
+2021-04-19 11:35:30,853 Kiwoom log in success
+2021-04-19 11:35:30,853 Account information
+2021-04-19 11:35:31,869 Deposit information
+2021-04-19 11:35:31,899 Order history information
+2021-04-19 11:35:32,712 Portfolio information
+2021-04-19 11:35:37,709 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:35:51,356 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 11:36:29,805 Kiwoom initializing...
+2021-04-19 11:36:37,956 Kiwoom log in success
+2021-04-19 11:36:37,957 Account information
+2021-04-19 11:36:38,986 Deposit information
+2021-04-19 11:36:39,010 Order history information
+2021-04-19 11:36:40,068 Portfolio information
+2021-04-19 11:36:42,982 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 11:36:45,676 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 12:59:33,336 Kiwoom initializing...
+2021-04-19 12:59:43,822 Kiwoom log in success
+2021-04-19 12:59:43,823 Account information
+2021-04-19 12:59:44,341 Deposit information
+2021-04-19 12:59:44,880 Order history information
+2021-04-19 12:59:46,073 Portfolio information
+2021-04-19 12:59:52,221 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 12:59:58,673 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 13:00:45,026 Kiwoom initializing...
+2021-04-19 13:00:50,997 Kiwoom log in success
+2021-04-19 13:00:50,997 Account information
+2021-04-19 13:00:51,513 Deposit information
+2021-04-19 13:00:52,058 Order history information
+2021-04-19 13:00:52,566 Portfolio information
+2021-04-19 13:01:01,288 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 13:01:27,766 Kiwoom initializing...
+2021-04-19 13:01:34,039 Kiwoom log in success
+2021-04-19 13:01:34,039 Account information
+2021-04-19 13:01:34,554 Deposit information
+2021-04-19 13:01:35,105 Order history information
+2021-04-19 13:01:35,130 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 13:01:35,791 Portfolio information
+2021-04-19 13:01:37,705 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 13:02:02,449 Kiwoom initializing...
+2021-04-19 13:02:07,830 Kiwoom log in success
+2021-04-19 13:02:07,830 Account information
+2021-04-19 13:02:08,333 Deposit information
+2021-04-19 13:02:08,872 Order history information
+2021-04-19 13:02:09,827 Portfolio information
+2021-04-19 13:02:15,294 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 13:02:17,394 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 13:07:16,544 Kiwoom initializing...
+2021-04-19 13:07:22,649 Kiwoom log in success
+2021-04-19 13:07:22,649 Account information
+2021-04-19 13:07:23,165 Deposit information
+2021-04-19 13:07:23,704 Order history information
+2021-04-19 13:07:24,577 Portfolio information
+2021-04-19 13:07:34,856 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 13:07:36,848 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 13:08:05,464 Kiwoom initializing...
+2021-04-19 13:08:11,365 Kiwoom log in success
+2021-04-19 13:08:11,368 Account information
+2021-04-19 13:08:11,874 Deposit information
+2021-04-19 13:08:12,414 Order history information
+2021-04-19 13:08:13,501 Portfolio information
+2021-04-19 13:08:22,824 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 13:08:24,275 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 13:16:01,344 Kiwoom initializing...
+2021-04-19 13:16:11,417 Kiwoom log in success
+2021-04-19 13:16:11,418 Account information
+2021-04-19 13:16:11,924 Deposit information
+2021-04-19 13:16:12,473 Order history information
+2021-04-19 13:16:13,148 Portfolio information
+2021-04-19 13:16:14,402 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 13:16:16,673 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:07:41,551 Kiwoom initializing...
+2021-04-19 14:07:47,027 Kiwoom log in success
+2021-04-19 14:07:47,027 Account information
+2021-04-19 14:07:47,544 Deposit information
+2021-04-19 14:07:48,087 Order history information
+2021-04-19 14:07:48,706 Portfolio information
+2021-04-19 14:09:15,162 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:09:16,866 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:09:25,230 Kiwoom initializing...
+2021-04-19 14:09:31,885 Kiwoom log in success
+2021-04-19 14:09:31,885 Account information
+2021-04-19 14:09:32,399 Deposit information
+2021-04-19 14:09:32,943 Order history information
+2021-04-19 14:09:33,574 Portfolio information
+2021-04-19 14:09:35,721 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:09:51,426 Kiwoom initializing...
+2021-04-19 14:10:03,152 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:10:04,995 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:10:21,261 Kiwoom initializing...
+2021-04-19 14:10:27,515 Kiwoom log in success
+2021-04-19 14:10:27,515 Account information
+2021-04-19 14:10:28,544 Deposit information
+2021-04-19 14:10:28,579 Order history information
+2021-04-19 14:10:29,672 Portfolio information
+2021-04-19 14:10:31,871 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:10:34,056 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:11:01,644 Kiwoom initializing...
+2021-04-19 14:11:07,127 Kiwoom log in success
+2021-04-19 14:11:07,127 Account information
+2021-04-19 14:11:07,638 Deposit information
+2021-04-19 14:11:08,193 Order history information
+2021-04-19 14:11:09,052 Portfolio information
+2021-04-19 14:11:13,129 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:11:15,135 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:12:42,638 Kiwoom initializing...
+2021-04-19 14:12:48,349 Kiwoom log in success
+2021-04-19 14:12:48,350 Account information
+2021-04-19 14:12:48,867 Deposit information
+2021-04-19 14:12:49,421 Order history information
+2021-04-19 14:12:50,051 Portfolio information
+2021-04-19 14:12:58,789 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:12:59,997 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:14:29,247 Kiwoom initializing...
+2021-04-19 14:14:35,856 Kiwoom log in success
+2021-04-19 14:14:35,856 Account information
+2021-04-19 14:14:36,375 Deposit information
+2021-04-19 14:14:36,923 Order history information
+2021-04-19 14:14:37,911 Portfolio information
+2021-04-19 14:15:01,594 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:15:02,957 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:17:50,055 Kiwoom initializing...
+2021-04-19 14:17:54,599 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:18:06,071 Kiwoom initializing...
+2021-04-19 14:18:12,010 Kiwoom log in success
+2021-04-19 14:18:12,010 Account information
+2021-04-19 14:18:12,529 Deposit information
+2021-04-19 14:18:13,070 Order history information
+2021-04-19 14:18:14,067 Portfolio information
+2021-04-19 14:18:15,727 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:18:18,194 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:20:05,259 Kiwoom initializing...
+2021-04-19 14:20:10,589 Kiwoom log in success
+2021-04-19 14:20:10,589 Account information
+2021-04-19 14:20:11,098 Deposit information
+2021-04-19 14:20:11,642 Order history information
+2021-04-19 14:20:12,451 Portfolio information
+2021-04-19 14:20:17,856 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:20:19,089 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:21:10,710 Kiwoom initializing...
+2021-04-19 14:21:16,203 Kiwoom log in success
+2021-04-19 14:21:16,204 Account information
+2021-04-19 14:21:16,724 Deposit information
+2021-04-19 14:21:17,272 Order history information
+2021-04-19 14:21:18,490 Portfolio information
+2021-04-19 14:21:58,586 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:22:00,842 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:44:31,311 Kiwoom initializing...
+2021-04-19 14:44:37,456 Kiwoom log in success
+2021-04-19 14:44:37,456 Account information
+2021-04-19 14:44:37,975 Deposit information
+2021-04-19 14:44:38,527 Order history information
+2021-04-19 14:44:39,307 Portfolio information
+2021-04-19 14:44:45,242 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:44:49,855 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:46:39,825 Kiwoom initializing...
+2021-04-19 14:46:45,428 Kiwoom log in success
+2021-04-19 14:46:45,429 Account information
+2021-04-19 14:46:45,947 Deposit information
+2021-04-19 14:46:46,482 Order history information
+2021-04-19 14:46:47,071 Portfolio information
+2021-04-19 14:46:48,902 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:46:48,912 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:48:34,137 Kiwoom initializing...
+2021-04-19 14:48:41,334 Kiwoom log in success
+2021-04-19 14:48:41,334 Account information
+2021-04-19 14:48:41,850 Deposit information
+2021-04-19 14:48:42,389 Order history information
+2021-04-19 14:48:43,205 Portfolio information
+2021-04-19 14:48:49,807 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:48:49,816 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:54:34,866 Kiwoom initializing...
+2021-04-19 14:54:41,424 Kiwoom log in success
+2021-04-19 14:54:41,424 Account information
+2021-04-19 14:54:41,942 Deposit information
+2021-04-19 14:54:42,485 Order history information
+2021-04-19 14:54:43,188 Portfolio information
+2021-04-19 14:54:58,198 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:54:58,207 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:55:13,618 Kiwoom initializing...
+2021-04-19 14:55:19,401 Kiwoom log in success
+2021-04-19 14:55:19,401 Account information
+2021-04-19 14:55:19,908 Deposit information
+2021-04-19 14:55:20,452 Order history information
+2021-04-19 14:55:21,135 Portfolio information
+2021-04-19 14:55:24,732 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:55:24,741 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:55:39,303 Kiwoom initializing...
+2021-04-19 14:55:44,850 Kiwoom log in success
+2021-04-19 14:55:44,850 Account information
+2021-04-19 14:55:45,363 Deposit information
+2021-04-19 14:55:45,915 Order history information
+2021-04-19 14:55:46,239 Portfolio information
+2021-04-19 14:56:08,414 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 14:56:08,421 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 14:59:44,283 Kiwoom initializing...
+2021-04-19 14:59:51,987 Kiwoom log in success
+2021-04-19 14:59:51,987 Account information
+2021-04-19 14:59:53,013 Deposit information
+2021-04-19 14:59:53,051 Order history information
+2021-04-19 14:59:53,762 Portfolio information
+2021-04-19 15:00:01,087 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:00:01,096 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:00:27,289 Kiwoom initializing...
+2021-04-19 15:00:34,494 Kiwoom log in success
+2021-04-19 15:00:34,495 Account information
+2021-04-19 15:00:35,005 Deposit information
+2021-04-19 15:00:36,227 Order history information
+2021-04-19 15:00:36,337 Portfolio information
+2021-04-19 15:00:41,453 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:00:41,461 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:05:09,399 Kiwoom initializing...
+2021-04-19 15:05:15,272 Kiwoom log in success
+2021-04-19 15:05:15,272 Account information
+2021-04-19 15:05:15,780 Deposit information
+2021-04-19 15:05:16,319 Order history information
+2021-04-19 15:05:16,668 Portfolio information
+2021-04-19 15:05:21,777 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:05:21,785 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:05:53,764 Kiwoom initializing...
+2021-04-19 15:06:00,715 Kiwoom log in success
+2021-04-19 15:06:00,716 Account information
+2021-04-19 15:06:01,224 Deposit information
+2021-04-19 15:06:01,767 Order history information
+2021-04-19 15:06:02,942 Portfolio information
+2021-04-19 15:06:05,224 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:06:05,234 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:08:15,800 Kiwoom initializing...
+2021-04-19 15:08:21,626 Kiwoom log in success
+2021-04-19 15:08:21,627 Account information
+2021-04-19 15:08:22,133 Deposit information
+2021-04-19 15:08:22,672 Order history information
+2021-04-19 15:08:23,417 Portfolio information
+2021-04-19 15:08:25,021 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:08:25,029 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:09:27,796 Kiwoom initializing...
+2021-04-19 15:09:34,955 Kiwoom log in success
+2021-04-19 15:09:34,955 Account information
+2021-04-19 15:09:35,978 Deposit information
+2021-04-19 15:09:36,003 Order history information
+2021-04-19 15:09:37,194 Portfolio information
+2021-04-19 15:09:43,134 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:09:43,143 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:09:55,610 Kiwoom initializing...
+2021-04-19 15:10:02,610 Kiwoom log in success
+2021-04-19 15:10:02,610 Account information
+2021-04-19 15:10:03,119 Deposit information
+2021-04-19 15:10:03,668 Order history information
+2021-04-19 15:10:04,867 Portfolio information
+2021-04-19 15:10:06,262 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:10:06,270 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:11:06,488 Kiwoom initializing...
+2021-04-19 15:11:13,044 Kiwoom log in success
+2021-04-19 15:11:13,044 Account information
+2021-04-19 15:11:13,556 Deposit information
+2021-04-19 15:11:14,109 Order history information
+2021-04-19 15:11:15,083 Portfolio information
+2021-04-19 15:11:16,477 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:11:16,486 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:11:42,177 Kiwoom initializing...
+2021-04-19 15:11:47,870 Kiwoom log in success
+2021-04-19 15:11:47,870 Account information
+2021-04-19 15:11:48,900 Deposit information
+2021-04-19 15:11:48,931 Order history information
+2021-04-19 15:11:50,082 Portfolio information
+2021-04-19 15:11:53,980 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:11:53,987 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:12:04,255 Stop Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:19:57,163 market operation state 2 152000 001000
+2021-04-19 15:20:57,161 market operation state 2 152100 000900
+2021-04-19 15:21:57,150 market operation state 2 152200 000800
+2021-04-19 15:22:57,157 market operation state 2 152300 000700
+2021-04-19 15:23:57,142 market operation state 2 152400 000600
+2021-04-19 15:24:57,151 market operation state 2 152500 000500
+2021-04-19 15:25:57,141 market operation state 2 152600 000400
+2021-04-19 15:26:57,140 market operation state 2 152700 000300
+2021-04-19 15:27:57,157 market operation state 2 152800 000200
+2021-04-19 15:28:57,150 market operation state 2 152900 000100
+2021-04-19 15:29:07,137 market operation state 2 152910 000050
+2021-04-19 15:29:17,144 market operation state 2 152920 000040
+2021-04-19 15:29:27,146 market operation state 2 152930 000030
+2021-04-19 15:29:37,133 market operation state 2 152940 000020
+2021-04-19 15:29:47,147 market operation state 2 152950 000010
+2021-04-19 15:29:57,148 market operation state 4 153000 000000
+2021-04-19 15:32:27,130 market operation state 8 888888 000000
+2021-04-19 15:34:57,137 market operation state s 153500 000000
+2021-04-19 15:34:57,137 market operation state s 153500 000000
+2021-04-19 15:34:57,137 market operation state s 153500 000000
+2021-04-19 15:34:57,138 market operation state s 153500 000000
+2021-04-19 15:34:57,138 market operation state s 153500 000000
+2021-04-19 15:34:57,228 market operation state s 153500 000000
+2021-04-19 15:34:57,229 market operation state s 153500 000000
+2021-04-19 15:34:57,229 market operation state s 153500 000000
+2021-04-19 15:34:57,230 market operation state s 153500 000000
+2021-04-19 15:34:57,230 market operation state s 153500 000000
+2021-04-19 15:34:57,332 market operation state s 153500 000000
+2021-04-19 15:34:57,333 market operation state s 153500 000000
+2021-04-19 15:34:57,333 market operation state s 153500 000000
+2021-04-19 15:34:57,438 market operation state s 153500 000000
+2021-04-19 15:34:57,439 market operation state s 153500 000000
+2021-04-19 15:34:57,439 market operation state s 153500 000000
+2021-04-19 15:34:57,439 market operation state s 153500 000000
+2021-04-19 15:39:57,523 market operation state a 154000 000000
+2021-04-19 15:40:09,964 Kiwoom initializing...
+2021-04-19 15:40:15,104 Kiwoom log in success
+2021-04-19 15:40:15,104 Account information
+2021-04-19 15:40:15,611 Deposit information
+2021-04-19 15:40:16,126 Portfolio information
+2021-04-19 15:40:16,170 Order history information
+2021-04-19 15:40:20,401 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:40:20,409 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:41:03,622 Kiwoom initializing...
+2021-04-19 15:41:08,544 Kiwoom log in success
+2021-04-19 15:41:08,544 Account information
+2021-04-19 15:41:09,054 Deposit information
+2021-04-19 15:41:09,575 Portfolio information
+2021-04-19 15:41:09,611 Order history information
+2021-04-19 15:41:29,615 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:41:29,625 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:44:57,287 market operation state e 154500 000000
+2021-04-19 15:44:57,381 market operation state e 154500 000000
+2021-04-19 15:44:57,382 market operation state e 154500 000000
+2021-04-19 15:44:57,485 market operation state e 154500 000000
+2021-04-19 15:44:57,486 market operation state e 154500 000000
+2021-04-19 15:44:57,580 market operation state e 154500 000000
+2021-04-19 15:44:57,580 market operation state e 154500 000000
+2021-04-19 15:44:57,672 market operation state e 154500 000000
+2021-04-19 15:44:57,673 market operation state e 154500 000000
+2021-04-19 15:44:57,780 market operation state e 154500 000000
+2021-04-19 15:44:57,781 market operation state e 154500 000000
+2021-04-19 15:44:57,873 market operation state e 154500 000000
+2021-04-19 15:44:58,180 market operation state e 154500 000000
+2021-04-19 15:44:58,381 market operation state e 154500 000000
+2021-04-19 15:44:58,487 market operation state e 154500 000000
+2021-04-19 15:44:58,780 market operation state e 154500 000000
+2021-04-19 15:44:58,780 market operation state e 154500 000000
+2021-04-19 15:46:12,554 Kiwoom initializing...
+2021-04-19 15:46:17,831 Kiwoom log in success
+2021-04-19 15:46:17,832 Account information
+2021-04-19 15:46:18,348 Deposit information
+2021-04-19 15:46:18,869 Portfolio information
+2021-04-19 15:46:18,900 Order history information
+2021-04-19 15:46:26,575 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 15:46:26,583 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 15:59:57,479 market operation state b 160000 000000
+2021-04-19 15:59:57,480 market operation state c 160000 000000
+2021-04-19 17:31:50,996 Kiwoom initializing...
+2021-04-19 17:32:09,110 Kiwoom log in success
+2021-04-19 17:32:09,111 Account information
+2021-04-19 17:32:09,645 Deposit information
+2021-04-19 17:32:10,149 Portfolio information
+2021-04-19 17:32:10,193 Order history information
+2021-04-19 17:32:19,488 Kiwoom initializing...
+2021-04-19 17:32:24,366 Kiwoom log in success
+2021-04-19 17:32:24,366 Account information
+2021-04-19 17:32:24,888 Deposit information
+2021-04-19 17:32:25,406 Portfolio information
+2021-04-19 17:32:25,461 Order history information
+2021-04-19 17:32:29,520 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 17:32:29,528 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 17:37:25,817 Kiwoom initializing...
+2021-04-19 17:37:30,981 Kiwoom log in success
+2021-04-19 17:37:30,981 Account information
+2021-04-19 17:37:31,496 Deposit information
+2021-04-19 17:37:32,011 Portfolio information
+2021-04-19 17:37:32,044 Order history information
+2021-04-19 17:37:39,649 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 17:37:39,658 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 17:48:02,264 Kiwoom initializing...
+2021-04-19 17:48:10,225 Kiwoom log in success
+2021-04-19 17:48:10,225 Account information
+2021-04-19 17:48:11,265 Order history information
+2021-04-19 17:48:20,615 Kiwoom initializing...
+2021-04-19 17:48:25,615 Kiwoom log in success
+2021-04-19 17:48:25,616 Account information
+2021-04-19 17:48:26,130 Deposit information
+2021-04-19 17:48:26,641 Portfolio information
+2021-04-19 17:48:26,680 Order history information
+2021-04-19 17:48:31,066 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 17:48:31,075 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 17:59:57,357 market operation state d 180000 000000
+2021-04-19 18:01:16,867 market operation state 9 999999 000000
+2021-04-19 18:23:42,292 Kiwoom initializing...
+2021-04-19 18:23:48,089 Kiwoom log in success
+2021-04-19 18:23:48,090 Account information
+2021-04-19 18:23:48,599 Deposit information
+2021-04-19 18:23:49,132 Portfolio information
+2021-04-19 18:23:49,197 Order history information
+2021-04-19 18:24:07,799 [93mALGORITHM STARTED [97m
+2021-04-19 18:27:20,622 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 18:27:25,196 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 18:27:26,679 [93mALGORITHM STOPPED [97m
+2021-04-19 18:27:28,040 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 18:27:36,531 Kiwoom initializing...
+2021-04-19 18:27:41,577 Kiwoom log in success
+2021-04-19 18:27:41,577 Account information
+2021-04-19 18:27:42,096 Deposit information
+2021-04-19 18:27:42,609 Portfolio information
+2021-04-19 18:27:42,640 Order history information
+2021-04-19 18:27:51,506 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 18:27:51,514 Go Charting KODEX ·¹¹ö¸®Áö
+2021-04-19 18:29:35,145 Kiwoom initializing...
+2021-04-19 18:29:40,304 Kiwoom log in success
+2021-04-19 18:29:40,304 Account information
+2021-04-19 18:29:40,816 Deposit information
+2021-04-19 18:29:41,325 Portfolio information
+2021-04-19 18:29:41,369 Order history information
+2021-04-19 18:29:52,873 KODEX ·¹¹ö¸®Áö trading information begins to be monitored
+2021-04-19 18:29:52,881 Go Charting KODEX ·¹¹ö¸®Áö
