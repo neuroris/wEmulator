@@ -5,15 +5,16 @@ import pandas
 from matplotlib import ticker
 from mplfinance.original_flavor import candlestick2_ohlc
 from datetime import datetime
-from traderbase import TraderBase
+from emulatorbase import EmulatorBase
 from kiwoom import Kiwoom
+from wookutil import TransactionEvent
 from wookalgorithm.futures.algorithm6 import FMAlgorithm6
 from wookitem import Item, FuturesItem
 from deprecated.wookdata_deprecated import *
-import math
+import math, time
 
 
-class Trader(TraderBase):
+class Emulator(EmulatorBase):
     def __init__(self, log, key):
         self.broker = Kiwoom(self, log, key)
         # self.broker = Bankis(self, log, key)
@@ -40,20 +41,31 @@ class Trader(TraderBase):
 
         # Test setup
         self.cbb_item_name.setCurrentIndex(3)
+        self.on_add_item()
+        self.broker.get_stock_prices()
+        self.transaction_event = TransactionEvent(self.broker.update_monitoring_items, self.broker.prices)
 
     def test1(self):
         self.debug('test1 button clicked')
 
-        self.broker.get_stock_prices()
+        self.transaction_event.set_interval(0.5)
+        self.transaction_event.start()
 
+        # count = 0
+        # for index in range(len(self.broker.prices)):
+        #     self.transaction_event.start()
+        #     # self.broker.update_monitoring_items()
+        #     time.sleep(2)
+        #     print(count)
+        #     count += 1
 
     def test2(self):
         self.debug('test2 button clicked')
 
-        # self.algorithm.resume_trading()
+        self.transaction_event.stop()
 
-        now = datetime.now().replace(second=0, microsecond=0)
-        self.algorithm.trend_start = now
+        # now = datetime.now().replace(second=0, microsecond=0)
+        # self.algorithm.trend_start = now
 
     def connect_broker(self):
         # if self.cb_auto_login.isChecked():
@@ -332,7 +344,9 @@ class Trader(TraderBase):
         if item_code != self.chart_item_code:
             return
 
-        current_time = datetime.now().replace(second=0, microsecond=0)
+        # current_time = datetime.now().replace(second=0, microsecond=0)
+        current_time_str = str(self.broker.prices.Time[self.broker.index])
+        current_time = datetime.strptime(current_time_str, '%Y%m%d%H%M%S')
         if not len(self.chart):
             price_data = [price, price, price, price, volume]
             self.chart.loc[current_time] = price_data
@@ -676,7 +690,7 @@ class Trader(TraderBase):
         self.status_bar.showMessage(message)
 
     def closeEvent(self, event):
-        self.broker.log('Closing process initializing...')
+        # self.broker.log('Closing process initializing...')
         self.broker.close_process()
         self.broker.clear()
         self.broker.deleteLater()

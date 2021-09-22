@@ -108,7 +108,8 @@ class Kiwoom(KiwoomBase):
 
     def demand_monitoring_items_info(self, item):
         self.monitoring_items[item.item_code] = item
-        self.set_real_reg(item.item_code, item.item_code, FID.TRANSACTION_TIME, '1')
+        self.item_code = item.item_code
+        # self.set_real_reg(item.item_code, item.item_code, FID.TRANSACTION_TIME, '1')
 
     def order(self, item_code, price, amount, order_position, order_type, order_number=''):
         if order_type == 'MARKET':
@@ -333,32 +334,6 @@ class Kiwoom(KiwoomBase):
             self.info('Order history information')
             self.init_screen(sScrNo)
 
-    def get_stock_price_min_deprecated(self, sTrCode, sRecordName, sScrNo, sPrevNext):
-        number_of_item = self.get_repeat_count(sTrCode, sRecordName)
-        today = int(datetime.today().strftime('%Y%m%d'))
-        item_code = self.get_comm_data(sTrCode, sRecordName, 0, ITEM_CODE)
-        for count in range(number_of_item):
-            get_comm_data = self.new_get_comm_data(sTrCode, sRecordName, count)
-            transaction_time = str(get_comm_data(TRANSACTION_TIME))
-            current_date = int(transaction_time[:8])
-
-            if current_date < today:
-                self.chart_prices.reverse()
-                self.trader.process_past_chart_prices(str(item_code), self.chart_prices)
-                self.init_screen(sScrNo)
-                return
-
-            open_price = int(abs(get_comm_data(OPEN_PRICE)))
-            high_price = int(abs(get_comm_data(HIGH_PRICE)))
-            low_price = int(abs(get_comm_data(LOW_PRICE)))
-            current_price = int(abs(get_comm_data(CURRENT_PRICE)))
-            volume = int(abs(get_comm_data(VOLUME)))
-            data = [transaction_time, open_price, high_price, low_price, current_price, volume]
-            self.chart_prices.append(data)
-
-        if sPrevNext == '2':
-            self.request_stock_price_min(item_code, sPrevNext)
-
     def get_stock_price_min(self, sTrCode, sRecordName, sScrNo, sPrevNext):
         number_of_item = self.get_repeat_count(sTrCode, sRecordName)
         today = int(datetime.today().strftime('%Y%m%d'))
@@ -426,48 +401,30 @@ class Kiwoom(KiwoomBase):
         remaining_time = self.get_comm_real_data(sCode, FID.MARKET_OPERATION_REMAINING_TIME, time=True)
         self.info('market operation state', operation_state, present_time, remaining_time)
 
-    def update_monitoring_items_deprecated(self, item_code):
-        item = self.monitoring_items[item_code]
-        get_comm_real_data = self.new_get_comm_real_data(item_code)
-
-        item.transaction_time = get_comm_real_data(FID.TRANSACTION_TIME)
-        item.current_price = abs(get_comm_real_data(FID.CURRENT_PRICE))
-        item.price_increase_amount = get_comm_real_data(FID.PRICE_INCREASE_AMOUNT)
-        item.ask_price = get_comm_real_data(FID.ASK_PRICE)
-        item.bid_price = get_comm_real_data(FID.BID_PRICE)
-        item.volume = abs(get_comm_real_data(FID.VOLUME))
-        item.accumulated_volume = get_comm_real_data(FID.ACCUMULATED_VOLUME)
-        item.high_price = get_comm_real_data(FID.HIGH_PRICE)
-        item.low_price = get_comm_real_data(FID.LOW_PRICE)
-        item.open_price = get_comm_real_data(FID.OPEN_PRICE)
-        self.trader.display_monitoring_items()
-
-        if self.trader.algorithm.is_running:
-            self.trader.algorithm.market_status(item)
-        elif self.is_running_chart:
-            self.trader.update_chart_prices(item.current_price, item.volume, item_code)
-
-        if item_code in self.portfolio:
-            portfolio_item = self.portfolio[item_code]
-            if portfolio_item.current_price != item.current_price:
-                if item_code[:3] == FUTURES_CODE:
-                    self.update_futures_portfolio_info(item)
-                else:
-                    self.update_portfolio_info(item)
-
-    def update_monitoring_items(self, item_code):
+    def update_monitoring_items(self, item_code=None):
+        item_code = item_code if item_code else self.item_code
         item = self.monitoring_items[item_code]
 
-        # item.transaction_time = self.prices.time
-        item.current_price = abs(get_comm_real_data(FID.CURRENT_PRICE))
-        item.price_increase_amount = get_comm_real_data(FID.PRICE_INCREASE_AMOUNT)
-        item.ask_price = get_comm_real_data(FID.ASK_PRICE)
-        item.bid_price = get_comm_real_data(FID.BID_PRICE)
-        item.volume = abs(get_comm_real_data(FID.VOLUME))
-        item.accumulated_volume = get_comm_real_data(FID.ACCUMULATED_VOLUME)
-        item.high_price = get_comm_real_data(FID.HIGH_PRICE)
-        item.low_price = get_comm_real_data(FID.LOW_PRICE)
-        item.open_price = get_comm_real_data(FID.OPEN_PRICE)
+        item.transaction_time = str(self.prices.Time[self.index])[8:]
+        item.current_price = self.prices.Close[self.index]
+        item.volume = self.prices.Volume[self.index]
+        item.high_price = self.prices.High[self.index]
+        item.low_price = self.prices.Low[self.index]
+        item.open_price = self.prices.Open[self.index]
+        item.accumulated_volume += item.volume
+
+        self.index += 1
+
+        # item.current_price = abs(get_comm_real_data(FID.CURRENT_PRICE))
+        # item.price_increase_amount = get_comm_real_data(FID.PRICE_INCREASE_AMOUNT)
+        # item.ask_price = get_comm_real_data(FID.ASK_PRICE)
+        # item.bid_price = get_comm_real_data(FID.BID_PRICE)
+        # item.volume = abs(get_comm_real_data(FID.VOLUME))
+        # item.accumulated_volume = get_comm_real_data(FID.ACCUMULATED_VOLUME)
+        # item.high_price = get_comm_real_data(FID.HIGH_PRICE)
+        # item.low_price = get_comm_real_data(FID.LOW_PRICE)
+        # item.open_price = get_comm_real_data(FID.OPEN_PRICE)
+
         self.trader.display_monitoring_items()
 
         if self.trader.algorithm.is_running:
@@ -772,7 +729,6 @@ class Kiwoom(KiwoomBase):
     def get_stock_prices(self):
         file_name = './20210813.csv'
         self.prices = pandas.read_csv(file_name)
-
         print(self.prices)
 
     def init_screen(self, sScrNo):

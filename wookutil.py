@@ -142,6 +142,32 @@ class ChartDrawer(QThread):
     def run(self):
         self.display_chart()
 
+class TransactionEvent(QThread):
+    def __init__(self, update_monitoring_items, prices):
+        super().__init__()
+        self.update_monitoring_items = update_monitoring_items
+        self.prices = prices
+        self.interval = 1
+        self.goes_on = True
+
+    def set(self, update_monitoring_items):
+        self.update_monitoring_items = update_monitoring_items
+
+    def set_interval(self, interval):
+        self.interval = interval
+
+    def stop(self):
+        self.goes_on = False
+
+    def run(self):
+        self.goes_on = True
+        count = 0
+        while self.goes_on:
+            self.update_monitoring_items()
+            time.sleep(self.interval)
+            print(count)
+            count += 1
+
 class wmath:
     def __init__(self):
         pass

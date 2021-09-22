@@ -97,6 +97,7 @@ class KiwoomBase(QAxWidget, WookLog, WookUtil):
         # For emulation
         self.prices = None
         self.index = 0
+        self.item_code = ''
 
     def dynamic_call(self, function_name, *args):
         function_spec = '('

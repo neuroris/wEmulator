@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QApplication, QMessageBox
 import argparse
 import logging
 import sys, time
-from trader import Trader
+from emulator import Emulator
 
 if __name__ == '__main__':
     log_folder = 'D:/Project/wTrader/log/'
@@ -29,5 +29,5 @@ if __name__ == '__main__':
     log.setLevel(log_level)
 
     app = QApplication(sys.argv)
-    trader = Trader(log, key)
+    trader = Emulator(log, key)
     app.exec()
