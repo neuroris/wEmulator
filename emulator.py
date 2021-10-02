@@ -24,8 +24,8 @@ class Emulator(EmulatorBase):
         super().__init__(log)
 
         # Initial work
-        # self.connect_broker()
-        # self.get_account_list()
+        self.connect_broker()
+        self.get_account_list()
 
         # Initial Values
         self.sb_capital.setValue(250000000)
@@ -41,14 +41,14 @@ class Emulator(EmulatorBase):
 
         # Test setup
         self.cbb_item_name.setCurrentIndex(3)
-        self.on_add_item()
+        # self.on_add_item()
         self.broker.get_stock_prices()
         self.transaction_event = TransactionEvent(self.broker.update_monitoring_items, self.broker.prices)
 
     def test1(self):
         self.debug('test1 button clicked')
 
-        self.transaction_event.set_interval(0.5)
+        self.transaction_event.set_interval(0.05)
         self.transaction_event.start()
 
         # count = 0
@@ -164,6 +164,10 @@ class Emulator(EmulatorBase):
         self.sb_price.setValue(item.current_price)
 
     def go(self):
+        self.debug('go test')
+
+        return
+
         if self.algorithm.is_running:
             self.debug('Algorithm is already running')
             return
@@ -177,6 +181,11 @@ class Emulator(EmulatorBase):
         self.log_info('Algorithm started')
 
     def stop(self):
+        self.debug('stop test')
+
+
+        return
+
         self.algorithm.stop()
         self.log_info('Algorithm stopped')
 
@@ -347,6 +356,8 @@ class Emulator(EmulatorBase):
         # current_time = datetime.now().replace(second=0, microsecond=0)
         current_time_str = str(self.broker.prices.Time[self.broker.index])
         current_time = datetime.strptime(current_time_str, '%Y%m%d%H%M%S')
+        current_time = current_time.replace(second=0, microsecond=0)
+
         if not len(self.chart):
             price_data = [price, price, price, price, volume]
             self.chart.loc[current_time] = price_data

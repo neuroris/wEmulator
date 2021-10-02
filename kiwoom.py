@@ -5,7 +5,7 @@ import time, math, copy
 from kiwoombase import KiwoomBase
 from wookauto import LoginPasswordThread, AccountPasswordThread
 from wookitem import Item, BalanceItem, FuturesItem, Order
-from deprecated.wookdata_deprecated import *
+from wookdata import *
 
 class Kiwoom(KiwoomBase):
     def __init__(self, trader, log, key):
@@ -407,6 +407,8 @@ class Kiwoom(KiwoomBase):
 
         item.transaction_time = str(self.prices.Time[self.index])[8:]
         item.current_price = self.prices.Close[self.index]
+        item.ask_price = item.current_price + 0.05
+        item.bid_price = item.current_price - 0.05
         item.volume = self.prices.Volume[self.index]
         item.high_price = self.prices.High[self.index]
         item.low_price = self.prices.Low[self.index]
@@ -414,16 +416,6 @@ class Kiwoom(KiwoomBase):
         item.accumulated_volume += item.volume
 
         self.index += 1
-
-        # item.current_price = abs(get_comm_real_data(FID.CURRENT_PRICE))
-        # item.price_increase_amount = get_comm_real_data(FID.PRICE_INCREASE_AMOUNT)
-        # item.ask_price = get_comm_real_data(FID.ASK_PRICE)
-        # item.bid_price = get_comm_real_data(FID.BID_PRICE)
-        # item.volume = abs(get_comm_real_data(FID.VOLUME))
-        # item.accumulated_volume = get_comm_real_data(FID.ACCUMULATED_VOLUME)
-        # item.high_price = get_comm_real_data(FID.HIGH_PRICE)
-        # item.low_price = get_comm_real_data(FID.LOW_PRICE)
-        # item.open_price = get_comm_real_data(FID.OPEN_PRICE)
 
         self.trader.display_monitoring_items()
 
@@ -448,25 +440,6 @@ class Kiwoom(KiwoomBase):
         else:
             self.orderable_money -= orderable_increment
         self.trader.update_deposit_info()
-
-    # def update_portfolio_sum(self):
-    #     portfolio_sum = self.portfolio['000000']
-    #     portfolio_sum.purchase_sum = 0
-    #     portfolio_sum.evaluation_sum = 0
-    #     portfolio_sum.total_fee = 0
-    #     portfolio_sum.tax = 0
-    #     portfolio_sum.profit = 0
-    #
-    #     for item in self.portfolio.values():
-    #         if item.item_code == '000000':
-    #             continue
-    #         portfolio_sum.purchase_sum += item.purchase_sum
-    #         portfolio_sum.evaluation_sum += item.evaluation_sum
-    #         portfolio_sum.total_fee += item.total_fee
-    #         portfolio_sum.tax += item.tax
-    #         portfolio_sum.profit += item.profit
-    #
-    #     portfolio_sum.profit_rate = round(portfolio_sum.profit / portfolio_sum.purchase_sum * 100, 2)
 
     def update_portfolio_info(self, updated_item):
         item = self.portfolio[updated_item.item_code]
@@ -684,7 +657,7 @@ class Kiwoom(KiwoomBase):
 
     def cancel(self, order, amount=None):
         order_position = 'CANCEL BUY'
-        if order.order_position == SELL:
+        if order.order_position in SELL_EQUIVALENT:
             order_position = 'CANCEL SELL'
         order_type = 'LIMIT'
         if amount is None:
@@ -729,7 +702,6 @@ class Kiwoom(KiwoomBase):
     def get_stock_prices(self):
         file_name = './20210813.csv'
         self.prices = pandas.read_csv(file_name)
-        print(self.prices)
 
     def init_screen(self, sScrNo):
         self.dynamic_call('DisconnectRealData', sScrNo)
